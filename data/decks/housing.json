@@ -1,0 +1,341 @@
+{
+  "id": "housing",
+  "order": 63,
+  "level": "B1",
+  "icon": "key",
+  "title": {
+    "cs": "Bydlení a nájem",
+    "en": "Housing & Renting",
+    "uk": "Житло та оренда",
+    "ru": "Жильё и аренда",
+    "pl": "Mieszkanie i wynajem"
+  },
+  "description": {
+    "en": "Renting a flat, bills and neighbors.",
+    "uk": "Оренда квартири, рахунки та сусіди.",
+    "ru": "Аренда квартиры, счета и соседи.",
+    "pl": "Wynajem mieszkania, rachunki i sąsiedzi."
+  },
+  "words": [
+    {
+      "id": "housing",
+      "cs": "bydlení",
+      "en": "housing",
+      "uk": "житло",
+      "ru": "жильё",
+      "pl": "mieszkalnictwo"
+    },
+    {
+      "id": "renting",
+      "cs": "nájem",
+      "en": "renting",
+      "uk": "оренда",
+      "ru": "аренда",
+      "pl": "najem"
+    },
+    {
+      "id": "rent-payment",
+      "cs": "nájemné",
+      "en": "rent (payment)",
+      "uk": "орендна плата",
+      "ru": "арендная плата",
+      "pl": "czynsz"
+    },
+    {
+      "id": "rent-out",
+      "cs": "pronajmout",
+      "en": "to rent out",
+      "uk": "здати в оренду",
+      "ru": "сдать в аренду",
+      "pl": "wynająć"
+    },
+    {
+      "id": "landlord",
+      "cs": "pronajímatel",
+      "en": "landlord",
+      "uk": "орендодавець",
+      "ru": "арендодатель",
+      "pl": "wynajmujący"
+    },
+    {
+      "id": "tenant",
+      "cs": "nájemník",
+      "en": "tenant",
+      "uk": "орендар",
+      "ru": "арендатор",
+      "pl": "najemca"
+    },
+    {
+      "id": "lease",
+      "cs": "nájemní smlouva",
+      "en": "lease",
+      "uk": "договір оренди",
+      "ru": "договор аренды",
+      "pl": "umowa najmu"
+    },
+    {
+      "id": "security-deposit",
+      "cs": "kauce",
+      "en": "security deposit",
+      "uk": "застава",
+      "ru": "залог",
+      "pl": "kaucja"
+    },
+    {
+      "id": "real-estate-agency",
+      "cs": "realitní kancelář",
+      "en": "real estate agency",
+      "uk": "агентство нерухомості",
+      "ru": "агентство недвижимости",
+      "pl": "biuro nieruchomości"
+    },
+    {
+      "id": "real-estate-agent",
+      "cs": "realitní makléř",
+      "en": "real estate agent",
+      "uk": "ріелтор",
+      "ru": "риелтор",
+      "pl": "pośrednik nieruchomości"
+    },
+    {
+      "id": "apartment-viewing",
+      "cs": "prohlídka bytu",
+      "en": "apartment viewing",
+      "uk": "огляд квартири",
+      "ru": "осмотр квартиры",
+      "pl": "oglądanie mieszkania"
+    },
+    {
+      "id": "studio-apartment",
+      "cs": "garsonka",
+      "en": "studio apartment",
+      "uk": "квартира-студія",
+      "ru": "квартира-студия",
+      "pl": "kawalerka"
+    },
+    {
+      "id": "2-rooms-kitchenette",
+      "cs": "2+kk",
+      "en": "2 rooms + kitchenette",
+      "uk": "двокімнатна квартира",
+      "ru": "двухкомнатная квартира",
+      "pl": "mieszkanie dwupokojowe"
+    },
+    {
+      "id": "roommate",
+      "cs": "spolubydlící",
+      "en": "roommate",
+      "uk": "співмешканець",
+      "ru": "сосед по квартире",
+      "pl": "współlokator"
+    },
+    {
+      "id": "furnished",
+      "cs": "vybavený",
+      "en": "furnished",
+      "uk": "мебльований",
+      "ru": "меблированный",
+      "pl": "umeblowany"
+    },
+    {
+      "id": "unfurnished",
+      "cs": "nevybavený",
+      "en": "unfurnished",
+      "uk": "без меблів",
+      "ru": "без мебели",
+      "pl": "nieumeblowany"
+    },
+    {
+      "id": "utilities",
+      "cs": "energie",
+      "en": "utilities",
+      "uk": "комунальні послуги",
+      "ru": "коммунальные услуги",
+      "pl": "media"
+    },
+    {
+      "id": "electricity",
+      "cs": "elektřina",
+      "en": "electricity",
+      "uk": "електрика",
+      "ru": "электричество",
+      "pl": "prąd"
+    },
+    {
+      "id": "gas",
+      "cs": "plyn",
+      "en": "gas",
+      "uk": "газ",
+      "ru": "газ",
+      "pl": "gaz"
+    },
+    {
+      "id": "hot-water",
+      "cs": "teplá voda",
+      "en": "hot water",
+      "uk": "гаряча вода",
+      "ru": "горячая вода",
+      "pl": "ciepła woda"
+    },
+    {
+      "id": "utility-advance-payments",
+      "cs": "zálohy na energie",
+      "en": "utility advance payments",
+      "uk": "аванс за комунальні",
+      "ru": "аванс за коммунальные",
+      "pl": "zaliczki na media"
+    },
+    {
+      "id": "annual-bill-statement",
+      "cs": "vyúčtování",
+      "en": "annual bill statement",
+      "uk": "розрахунок",
+      "ru": "перерасчёт",
+      "pl": "rozliczenie"
+    },
+    {
+      "id": "electricity-meter",
+      "cs": "elektroměr",
+      "en": "electricity meter",
+      "uk": "електролічильник",
+      "ru": "электросчётчик",
+      "pl": "licznik prądu"
+    },
+    {
+      "id": "water-meter",
+      "cs": "vodoměr",
+      "en": "water meter",
+      "uk": "водолічильник",
+      "ru": "водосчётчик",
+      "pl": "wodomierz"
+    },
+    {
+      "id": "caretaker",
+      "cs": "domovník",
+      "en": "caretaker",
+      "uk": "двірник",
+      "ru": "дворник",
+      "pl": "dozorca"
+    },
+    {
+      "id": "building-manager",
+      "cs": "správce domu",
+      "en": "building manager",
+      "uk": "керуючий будинком",
+      "ru": "управляющий домом",
+      "pl": "zarządca budynku"
+    },
+    {
+      "id": "house-rules",
+      "cs": "domovní řád",
+      "en": "house rules",
+      "uk": "правила будинку",
+      "ru": "правила дома",
+      "pl": "regulamin budynku"
+    },
+    {
+      "id": "quiet-hours",
+      "cs": "noční klid",
+      "en": "quiet hours",
+      "uk": "нічна тиша",
+      "ru": "ночная тишина",
+      "pl": "cisza nocna"
+    },
+    {
+      "id": "mailbox",
+      "cs": "schránka",
+      "en": "mailbox",
+      "uk": "поштова скринька",
+      "ru": "почтовый ящик",
+      "pl": "skrzynka pocztowa"
+    },
+    {
+      "id": "notice-board",
+      "cs": "nástěnka",
+      "en": "notice board",
+      "uk": "дошка оголошень",
+      "ru": "доска объявлений",
+      "pl": "tablica ogłoszeń"
+    },
+    {
+      "id": "owner",
+      "cs": "vlastník",
+      "en": "owner",
+      "uk": "власник",
+      "ru": "владелец",
+      "pl": "właściciel"
+    },
+    {
+      "id": "mortgage",
+      "cs": "hypotéka",
+      "en": "mortgage",
+      "uk": "іпотека",
+      "ru": "ипотека",
+      "pl": "kredyt hipoteczny"
+    },
+    {
+      "id": "renovation",
+      "cs": "rekonstrukce",
+      "en": "renovation",
+      "uk": "ремонт",
+      "ru": "ремонт",
+      "pl": "remont"
+    },
+    {
+      "id": "moving-house",
+      "cs": "stěhování",
+      "en": "moving (house)",
+      "uk": "переїзд",
+      "ru": "переезд",
+      "pl": "przeprowadzka"
+    },
+    {
+      "id": "moving-company",
+      "cs": "stěhovací firma",
+      "en": "moving company",
+      "uk": "компанія з перевезень",
+      "ru": "компания по переездам",
+      "pl": "firma przeprowadzkowa"
+    },
+    {
+      "id": "sublet",
+      "cs": "podnájem",
+      "en": "sublet",
+      "uk": "суборенда",
+      "ru": "субаренда",
+      "pl": "podnajem"
+    },
+    {
+      "id": "lease-termination",
+      "cs": "výpověď z nájmu",
+      "en": "lease termination",
+      "uk": "розірвання оренди",
+      "ru": "расторжение аренды",
+      "pl": "wypowiedzenie najmu"
+    },
+    {
+      "id": "damp",
+      "cs": "vlhkost",
+      "en": "damp",
+      "uk": "вологість",
+      "ru": "сырость",
+      "pl": "wilgoć"
+    },
+    {
+      "id": "mold",
+      "cs": "plíseň",
+      "en": "mold",
+      "uk": "пліснява",
+      "ru": "плесень",
+      "pl": "pleśń"
+    },
+    {
+      "id": "lock",
+      "cs": "zámek",
+      "en": "lock",
+      "uk": "замок",
+      "ru": "замок",
+      "pl": "zamek"
+    }
+  ]
+}

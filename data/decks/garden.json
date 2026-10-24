@@ -1,0 +1,397 @@
+{
+  "id": "garden",
+  "order": 47,
+  "level": "A2",
+  "icon": "flower",
+  "title": {
+    "cs": "Rostliny a zahrada",
+    "en": "Plants & Garden",
+    "uk": "Рослини та сад",
+    "ru": "Растения и сад",
+    "pl": "Rośliny i ogród"
+  },
+  "description": {
+    "en": "Flowers, trees and working in the garden.",
+    "uk": "Квіти, дерева та робота в саду.",
+    "ru": "Цветы, деревья и работа в саду.",
+    "pl": "Kwiaty, drzewa i praca w ogrodzie."
+  },
+  "words": [
+    {
+      "id": "plant",
+      "cs": "rostlina",
+      "en": "plant",
+      "uk": "рослина",
+      "ru": "растение",
+      "pl": "roślina"
+    },
+    {
+      "id": "rose",
+      "cs": "růže",
+      "en": "rose",
+      "uk": "троянда",
+      "ru": "роза",
+      "pl": "róża"
+    },
+    {
+      "id": "tulip",
+      "cs": "tulipán",
+      "en": "tulip",
+      "uk": "тюльпан",
+      "ru": "тюльпан",
+      "pl": "tulipan"
+    },
+    {
+      "id": "sunflower",
+      "cs": "slunečnice",
+      "en": "sunflower",
+      "uk": "соняшник",
+      "ru": "подсолнух",
+      "pl": "słonecznik"
+    },
+    {
+      "id": "daisy",
+      "cs": "sedmikráska",
+      "en": "daisy",
+      "uk": "маргаритка",
+      "ru": "маргаритка",
+      "pl": "stokrotka"
+    },
+    {
+      "id": "dandelion",
+      "cs": "pampeliška",
+      "en": "dandelion",
+      "uk": "кульбаба",
+      "ru": "одуванчик",
+      "pl": "mniszek"
+    },
+    {
+      "id": "lily-of-the-valley",
+      "cs": "konvalinka",
+      "en": "lily of the valley",
+      "uk": "конвалія",
+      "ru": "ландыш",
+      "pl": "konwalia"
+    },
+    {
+      "id": "violet",
+      "cs": "fialka",
+      "en": "violet",
+      "uk": "фіалка",
+      "ru": "фиалка",
+      "pl": "fiołek"
+    },
+    {
+      "id": "lily",
+      "cs": "lilie",
+      "en": "lily",
+      "uk": "лілія",
+      "ru": "лилия",
+      "pl": "lilia"
+    },
+    {
+      "id": "poppy",
+      "cs": "mák",
+      "en": "poppy",
+      "uk": "мак",
+      "ru": "мак",
+      "pl": "mak"
+    },
+    {
+      "id": "ox-eye-daisy",
+      "cs": "kopretina",
+      "en": "ox-eye daisy",
+      "uk": "ромашка",
+      "ru": "ромашка",
+      "pl": "margerytka"
+    },
+    {
+      "id": "orchid",
+      "cs": "orchidej",
+      "en": "orchid",
+      "uk": "орхідея",
+      "ru": "орхидея",
+      "pl": "storczyk"
+    },
+    {
+      "id": "cactus",
+      "cs": "kaktus",
+      "en": "cactus",
+      "uk": "кактус",
+      "ru": "кактус",
+      "pl": "kaktus"
+    },
+    {
+      "id": "bush",
+      "cs": "keř",
+      "en": "bush",
+      "uk": "кущ",
+      "ru": "куст",
+      "pl": "krzew"
+    },
+    {
+      "id": "oak",
+      "cs": "dub",
+      "en": "oak",
+      "uk": "дуб",
+      "ru": "дуб",
+      "pl": "dąb"
+    },
+    {
+      "id": "birch",
+      "cs": "bříza",
+      "en": "birch",
+      "uk": "береза",
+      "ru": "берёза",
+      "pl": "brzoza"
+    },
+    {
+      "id": "fir",
+      "cs": "jedle",
+      "en": "fir",
+      "uk": "ялиця",
+      "ru": "пихта",
+      "pl": "jodła"
+    },
+    {
+      "id": "spruce",
+      "cs": "smrk",
+      "en": "spruce",
+      "uk": "ялина",
+      "ru": "ель",
+      "pl": "świerk"
+    },
+    {
+      "id": "pine",
+      "cs": "borovice",
+      "en": "pine",
+      "uk": "сосна",
+      "ru": "сосна",
+      "pl": "sosna"
+    },
+    {
+      "id": "linden",
+      "cs": "lípa",
+      "en": "linden",
+      "uk": "липа",
+      "ru": "липа",
+      "pl": "lipa"
+    },
+    {
+      "id": "beech",
+      "cs": "buk",
+      "en": "beech",
+      "uk": "бук",
+      "ru": "бук",
+      "pl": "buk"
+    },
+    {
+      "id": "maple",
+      "cs": "javor",
+      "en": "maple",
+      "uk": "клен",
+      "ru": "клён",
+      "pl": "klon"
+    },
+    {
+      "id": "willow",
+      "cs": "vrba",
+      "en": "willow",
+      "uk": "верба",
+      "ru": "ива",
+      "pl": "wierzba"
+    },
+    {
+      "id": "apple-tree",
+      "cs": "jabloň",
+      "en": "apple tree",
+      "uk": "яблуня",
+      "ru": "яблоня",
+      "pl": "jabłoń"
+    },
+    {
+      "id": "branch",
+      "cs": "větev",
+      "en": "branch",
+      "uk": "гілка",
+      "ru": "ветка",
+      "pl": "gałąź"
+    },
+    {
+      "id": "root",
+      "cs": "kořen",
+      "en": "root",
+      "uk": "корінь",
+      "ru": "корень",
+      "pl": "korzeń"
+    },
+    {
+      "id": "trunk",
+      "cs": "kmen",
+      "en": "trunk",
+      "uk": "стовбур",
+      "ru": "ствол",
+      "pl": "pień"
+    },
+    {
+      "id": "seed",
+      "cs": "semínko",
+      "en": "seed",
+      "uk": "насіння",
+      "ru": "семя",
+      "pl": "nasiono"
+    },
+    {
+      "id": "thorn",
+      "cs": "trn",
+      "en": "thorn",
+      "uk": "колючка",
+      "ru": "шип",
+      "pl": "cierń"
+    },
+    {
+      "id": "flower-bed",
+      "cs": "záhon",
+      "en": "flower bed",
+      "uk": "клумба",
+      "ru": "клумба",
+      "pl": "rabata"
+    },
+    {
+      "id": "greenhouse",
+      "cs": "skleník",
+      "en": "greenhouse",
+      "uk": "теплиця",
+      "ru": "теплица",
+      "pl": "szklarnia"
+    },
+    {
+      "id": "lawn",
+      "cs": "trávník",
+      "en": "lawn",
+      "uk": "газон",
+      "ru": "газон",
+      "pl": "trawnik"
+    },
+    {
+      "id": "lawn-mower",
+      "cs": "sekačka",
+      "en": "lawn mower",
+      "uk": "газонокосарка",
+      "ru": "газонокосилка",
+      "pl": "kosiarka"
+    },
+    {
+      "id": "rake",
+      "cs": "hrábě",
+      "en": "rake",
+      "uk": "граблі",
+      "ru": "грабли",
+      "pl": "grabie"
+    },
+    {
+      "id": "shovel",
+      "cs": "lopata",
+      "en": "shovel",
+      "uk": "лопата",
+      "ru": "лопата",
+      "pl": "łopata"
+    },
+    {
+      "id": "hoe",
+      "cs": "motyka",
+      "en": "hoe",
+      "uk": "сапа",
+      "ru": "тяпка",
+      "pl": "motyka"
+    },
+    {
+      "id": "watering-can",
+      "cs": "konev",
+      "en": "watering can",
+      "uk": "лійка",
+      "ru": "лейка",
+      "pl": "konewka"
+    },
+    {
+      "id": "hose",
+      "cs": "hadice",
+      "en": "hose",
+      "uk": "шланг",
+      "ru": "шланг",
+      "pl": "wąż ogrodowy"
+    },
+    {
+      "id": "wheelbarrow",
+      "cs": "kolečko",
+      "en": "wheelbarrow",
+      "uk": "тачка",
+      "ru": "тачка",
+      "pl": "taczka"
+    },
+    {
+      "id": "fertilizer",
+      "cs": "hnojivo",
+      "en": "fertilizer",
+      "uk": "добриво",
+      "ru": "удобрение",
+      "pl": "nawóz"
+    },
+    {
+      "id": "weeds",
+      "cs": "plevel",
+      "en": "weeds",
+      "uk": "бур’ян",
+      "ru": "сорняк",
+      "pl": "chwast"
+    },
+    {
+      "id": "plant-2",
+      "cs": "sázet",
+      "en": "to plant",
+      "uk": "садити",
+      "ru": "сажать",
+      "pl": "sadzić"
+    },
+    {
+      "id": "bloom",
+      "cs": "kvést",
+      "en": "to bloom",
+      "uk": "цвісти",
+      "ru": "цвести",
+      "pl": "kwitnąć"
+    },
+    {
+      "id": "grow",
+      "cs": "růst",
+      "en": "to grow",
+      "uk": "рости",
+      "ru": "расти",
+      "pl": "rosnąć"
+    },
+    {
+      "id": "harvest",
+      "cs": "sklízet",
+      "en": "to harvest",
+      "uk": "збирати врожай",
+      "ru": "собирать урожай",
+      "pl": "zbierać plony"
+    },
+    {
+      "id": "harvest-2",
+      "cs": "úroda",
+      "en": "harvest",
+      "uk": "врожай",
+      "ru": "урожай",
+      "pl": "plony"
+    },
+    {
+      "id": "wilt",
+      "cs": "vadnout",
+      "en": "to wilt",
+      "uk": "в’янути",
+      "ru": "вянуть",
+      "pl": "więdnąć"
+    }
+  ]
+}

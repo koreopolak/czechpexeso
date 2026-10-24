@@ -1,0 +1,469 @@
+{
+  "id": "countries",
+  "order": 52,
+  "level": "A2",
+  "icon": "globe",
+  "title": {
+    "cs": "Země a jazyky",
+    "en": "Countries & Languages",
+    "uk": "Країни та мови",
+    "ru": "Страны и языки",
+    "pl": "Kraje i języki"
+  },
+  "description": {
+    "en": "Countries, languages and directions on the map.",
+    "uk": "Країни, мови та сторони світу.",
+    "ru": "Страны, языки и стороны света.",
+    "pl": "Kraje, języki i strony świata."
+  },
+  "words": [
+    {
+      "id": "world",
+      "cs": "svět",
+      "en": "world",
+      "uk": "світ",
+      "ru": "мир",
+      "pl": "świat"
+    },
+    {
+      "id": "country",
+      "cs": "země",
+      "en": "country",
+      "uk": "країна",
+      "ru": "страна",
+      "pl": "kraj"
+    },
+    {
+      "id": "continent",
+      "cs": "kontinent",
+      "en": "continent",
+      "uk": "континент",
+      "ru": "континент",
+      "pl": "kontynent"
+    },
+    {
+      "id": "europe",
+      "cs": "Evropa",
+      "en": "Europe",
+      "uk": "Європа",
+      "ru": "Европа",
+      "pl": "Europa"
+    },
+    {
+      "id": "asia",
+      "cs": "Asie",
+      "en": "Asia",
+      "uk": "Азія",
+      "ru": "Азия",
+      "pl": "Azja"
+    },
+    {
+      "id": "africa",
+      "cs": "Afrika",
+      "en": "Africa",
+      "uk": "Африка",
+      "ru": "Африка",
+      "pl": "Afryka"
+    },
+    {
+      "id": "america",
+      "cs": "Amerika",
+      "en": "America",
+      "uk": "Америка",
+      "ru": "Америка",
+      "pl": "Ameryka"
+    },
+    {
+      "id": "australia",
+      "cs": "Austrálie",
+      "en": "Australia",
+      "uk": "Австралія",
+      "ru": "Австралия",
+      "pl": "Australia"
+    },
+    {
+      "id": "czechia",
+      "cs": "Česko",
+      "en": "Czechia",
+      "uk": "Чехія",
+      "ru": "Чехия",
+      "pl": "Czechy"
+    },
+    {
+      "id": "slovakia",
+      "cs": "Slovensko",
+      "en": "Slovakia",
+      "uk": "Словаччина",
+      "ru": "Словакия",
+      "pl": "Słowacja"
+    },
+    {
+      "id": "poland",
+      "cs": "Polsko",
+      "en": "Poland",
+      "uk": "Польща",
+      "ru": "Польша",
+      "pl": "Polska"
+    },
+    {
+      "id": "ukraine",
+      "cs": "Ukrajina",
+      "en": "Ukraine",
+      "uk": "Україна",
+      "ru": "Украина",
+      "pl": "Ukraina"
+    },
+    {
+      "id": "russia",
+      "cs": "Rusko",
+      "en": "Russia",
+      "uk": "Росія",
+      "ru": "Россия",
+      "pl": "Rosja"
+    },
+    {
+      "id": "germany",
+      "cs": "Německo",
+      "en": "Germany",
+      "uk": "Німеччина",
+      "ru": "Германия",
+      "pl": "Niemcy"
+    },
+    {
+      "id": "austria",
+      "cs": "Rakousko",
+      "en": "Austria",
+      "uk": "Австрія",
+      "ru": "Австрия",
+      "pl": "Austria"
+    },
+    {
+      "id": "hungary",
+      "cs": "Maďarsko",
+      "en": "Hungary",
+      "uk": "Угорщина",
+      "ru": "Венгрия",
+      "pl": "Węgry"
+    },
+    {
+      "id": "france",
+      "cs": "Francie",
+      "en": "France",
+      "uk": "Франція",
+      "ru": "Франция",
+      "pl": "Francja"
+    },
+    {
+      "id": "italy",
+      "cs": "Itálie",
+      "en": "Italy",
+      "uk": "Італія",
+      "ru": "Италия",
+      "pl": "Włochy"
+    },
+    {
+      "id": "spain",
+      "cs": "Španělsko",
+      "en": "Spain",
+      "uk": "Іспанія",
+      "ru": "Испания",
+      "pl": "Hiszpania"
+    },
+    {
+      "id": "great-britain",
+      "cs": "Velká Británie",
+      "en": "Great Britain",
+      "uk": "Велика Британія",
+      "ru": "Великобритания",
+      "pl": "Wielka Brytania"
+    },
+    {
+      "id": "united-states",
+      "cs": "Spojené státy",
+      "en": "United States",
+      "uk": "Сполучені Штати",
+      "ru": "Соединённые Штаты",
+      "pl": "Stany Zjednoczone"
+    },
+    {
+      "id": "china",
+      "cs": "Čína",
+      "en": "China",
+      "uk": "Китай",
+      "ru": "Китай",
+      "pl": "Chiny"
+    },
+    {
+      "id": "japan",
+      "cs": "Japonsko",
+      "en": "Japan",
+      "uk": "Японія",
+      "ru": "Япония",
+      "pl": "Japonia"
+    },
+    {
+      "id": "greece",
+      "cs": "Řecko",
+      "en": "Greece",
+      "uk": "Греція",
+      "ru": "Греция",
+      "pl": "Grecja"
+    },
+    {
+      "id": "croatia",
+      "cs": "Chorvatsko",
+      "en": "Croatia",
+      "uk": "Хорватія",
+      "ru": "Хорватия",
+      "pl": "Chorwacja"
+    },
+    {
+      "id": "turkey-country",
+      "cs": "Turecko",
+      "en": "Turkey (country)",
+      "uk": "Туреччина",
+      "ru": "Турция",
+      "pl": "Turcja"
+    },
+    {
+      "id": "canada",
+      "cs": "Kanada",
+      "en": "Canada",
+      "uk": "Канада",
+      "ru": "Канада",
+      "pl": "Kanada"
+    },
+    {
+      "id": "india",
+      "cs": "Indie",
+      "en": "India",
+      "uk": "Індія",
+      "ru": "Индия",
+      "pl": "Indie"
+    },
+    {
+      "id": "prague",
+      "cs": "Praha",
+      "en": "Prague",
+      "uk": "Прага",
+      "ru": "Прага",
+      "pl": "Praga"
+    },
+    {
+      "id": "brno",
+      "cs": "Brno",
+      "en": "Brno",
+      "uk": "Брно",
+      "ru": "Брно",
+      "pl": "Brno"
+    },
+    {
+      "id": "capital-city",
+      "cs": "hlavní město",
+      "en": "capital city",
+      "uk": "столиця",
+      "ru": "столица",
+      "pl": "stolica"
+    },
+    {
+      "id": "language",
+      "cs": "jazyk",
+      "en": "language",
+      "uk": "мова",
+      "ru": "язык",
+      "pl": "język"
+    },
+    {
+      "id": "german-language",
+      "cs": "němčina",
+      "en": "German (language)",
+      "uk": "німецька мова",
+      "ru": "немецкий язык",
+      "pl": "język niemiecki"
+    },
+    {
+      "id": "polish-language",
+      "cs": "polština",
+      "en": "Polish (language)",
+      "uk": "польська мова",
+      "ru": "польский язык",
+      "pl": "język polski"
+    },
+    {
+      "id": "ukrainian-language",
+      "cs": "ukrajinština",
+      "en": "Ukrainian (language)",
+      "uk": "українська мова",
+      "ru": "украинский язык",
+      "pl": "język ukraiński"
+    },
+    {
+      "id": "russian-language",
+      "cs": "ruština",
+      "en": "Russian (language)",
+      "uk": "російська мова",
+      "ru": "русский язык",
+      "pl": "język rosyjski"
+    },
+    {
+      "id": "slovak-language",
+      "cs": "slovenština",
+      "en": "Slovak (language)",
+      "uk": "словацька мова",
+      "ru": "словацкий язык",
+      "pl": "język słowacki"
+    },
+    {
+      "id": "french-language",
+      "cs": "francouzština",
+      "en": "French (language)",
+      "uk": "французька мова",
+      "ru": "французский язык",
+      "pl": "język francuski"
+    },
+    {
+      "id": "spanish-language",
+      "cs": "španělština",
+      "en": "Spanish (language)",
+      "uk": "іспанська мова",
+      "ru": "испанский язык",
+      "pl": "język hiszpański"
+    },
+    {
+      "id": "czech-man",
+      "cs": "Čech",
+      "en": "Czech man",
+      "uk": "чех",
+      "ru": "чех",
+      "pl": "Czech"
+    },
+    {
+      "id": "czech-woman",
+      "cs": "Češka",
+      "en": "Czech woman",
+      "uk": "чешка",
+      "ru": "чешка",
+      "pl": "Czeszka"
+    },
+    {
+      "id": "ukrainian-person",
+      "cs": "Ukrajinec",
+      "en": "Ukrainian (person)",
+      "uk": "українець",
+      "ru": "украинец",
+      "pl": "Ukrainiec"
+    },
+    {
+      "id": "pole",
+      "cs": "Polák",
+      "en": "Pole",
+      "uk": "поляк",
+      "ru": "поляк",
+      "pl": "Polak"
+    },
+    {
+      "id": "russian-person",
+      "cs": "Rus",
+      "en": "Russian (person)",
+      "uk": "росіянин",
+      "ru": "русский",
+      "pl": "Rosjanin"
+    },
+    {
+      "id": "german-person",
+      "cs": "Němec",
+      "en": "German (person)",
+      "uk": "німець",
+      "ru": "немец",
+      "pl": "Niemiec"
+    },
+    {
+      "id": "north",
+      "cs": "sever",
+      "en": "north",
+      "uk": "північ",
+      "ru": "север",
+      "pl": "północ"
+    },
+    {
+      "id": "south",
+      "cs": "jih",
+      "en": "south",
+      "uk": "південь",
+      "ru": "юг",
+      "pl": "południe"
+    },
+    {
+      "id": "east",
+      "cs": "východ",
+      "en": "east",
+      "uk": "схід",
+      "ru": "восток",
+      "pl": "wschód"
+    },
+    {
+      "id": "west",
+      "cs": "západ",
+      "en": "west",
+      "uk": "захід",
+      "ru": "запад",
+      "pl": "zachód"
+    },
+    {
+      "id": "world-map",
+      "cs": "mapa světa",
+      "en": "world map",
+      "uk": "карта світу",
+      "ru": "карта мира",
+      "pl": "mapa świata"
+    },
+    {
+      "id": "nationality",
+      "cs": "národnost",
+      "en": "nationality",
+      "uk": "національність",
+      "ru": "национальность",
+      "pl": "narodowość"
+    },
+    {
+      "id": "citizen",
+      "cs": "občan",
+      "en": "citizen",
+      "uk": "громадянин",
+      "ru": "гражданин",
+      "pl": "obywatel"
+    },
+    {
+      "id": "homeland",
+      "cs": "domovina",
+      "en": "homeland",
+      "uk": "батьківщина",
+      "ru": "родина",
+      "pl": "ojczyzna"
+    },
+    {
+      "id": "abroad",
+      "cs": "cizina",
+      "en": "abroad",
+      "uk": "закордон",
+      "ru": "заграница",
+      "pl": "zagranica"
+    },
+    {
+      "id": "foreign",
+      "cs": "zahraniční",
+      "en": "foreign",
+      "uk": "закордонний",
+      "ru": "зарубежный",
+      "pl": "zagraniczny"
+    },
+    {
+      "id": "european-union",
+      "cs": "Evropská unie",
+      "en": "European Union",
+      "uk": "Європейський Союз",
+      "ru": "Европейский союз",
+      "pl": "Unia Europejska"
+    }
+  ]
+}

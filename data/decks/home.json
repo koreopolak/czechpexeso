@@ -184,6 +184,230 @@
       "uk": "підлога",
       "ru": "пол",
       "pl": "podłoga"
+    },
+    {
+      "id": "living-room",
+      "cs": "obývací pokoj",
+      "en": "living room",
+      "uk": "вітальня",
+      "ru": "гостиная",
+      "pl": "salon"
+    },
+    {
+      "id": "children-s-room",
+      "cs": "dětský pokoj",
+      "en": "children's room",
+      "uk": "дитяча кімната",
+      "ru": "детская",
+      "pl": "pokój dziecięcy"
+    },
+    {
+      "id": "dining-room",
+      "cs": "jídelna",
+      "en": "dining room",
+      "uk": "їдальня",
+      "ru": "столовая",
+      "pl": "jadalnia"
+    },
+    {
+      "id": "hallway",
+      "cs": "předsíň",
+      "en": "hallway",
+      "uk": "передпокій",
+      "ru": "прихожая",
+      "pl": "przedpokój"
+    },
+    {
+      "id": "toilet",
+      "cs": "záchod",
+      "en": "toilet",
+      "uk": "туалет",
+      "ru": "туалет",
+      "pl": "toaleta"
+    },
+    {
+      "id": "balcony",
+      "cs": "balkon",
+      "en": "balcony",
+      "uk": "балкон",
+      "ru": "балкон",
+      "pl": "balkon"
+    },
+    {
+      "id": "cellar",
+      "cs": "sklep",
+      "en": "cellar",
+      "uk": "підвал",
+      "ru": "подвал",
+      "pl": "piwnica"
+    },
+    {
+      "id": "attic",
+      "cs": "půda",
+      "en": "attic",
+      "uk": "горище",
+      "ru": "чердак",
+      "pl": "strych"
+    },
+    {
+      "id": "garage",
+      "cs": "garáž",
+      "en": "garage",
+      "uk": "гараж",
+      "ru": "гараж",
+      "pl": "garaż"
+    },
+    {
+      "id": "wall",
+      "cs": "zeď",
+      "en": "wall",
+      "uk": "стіна",
+      "ru": "стена",
+      "pl": "ściana"
+    },
+    {
+      "id": "ceiling",
+      "cs": "strop",
+      "en": "ceiling",
+      "uk": "стеля",
+      "ru": "потолок",
+      "pl": "sufit"
+    },
+    {
+      "id": "chimney",
+      "cs": "komín",
+      "en": "chimney",
+      "uk": "димар",
+      "ru": "дымоход",
+      "pl": "komin"
+    },
+    {
+      "id": "fence",
+      "cs": "plot",
+      "en": "fence",
+      "uk": "паркан",
+      "ru": "забор",
+      "pl": "płot"
+    },
+    {
+      "id": "gate",
+      "cs": "brána",
+      "en": "gate",
+      "uk": "брама",
+      "ru": "ворота",
+      "pl": "brama"
+    },
+    {
+      "id": "doorbell",
+      "cs": "zvonek",
+      "en": "doorbell",
+      "uk": "дверний дзвінок",
+      "ru": "дверной звонок",
+      "pl": "dzwonek do drzwi"
+    },
+    {
+      "id": "elevator",
+      "cs": "výtah",
+      "en": "elevator",
+      "uk": "ліфт",
+      "ru": "лифт",
+      "pl": "winda"
+    },
+    {
+      "id": "floor-story",
+      "cs": "patro",
+      "en": "floor (story)",
+      "uk": "поверх",
+      "ru": "этаж",
+      "pl": "piętro"
+    },
+    {
+      "id": "ground-floor",
+      "cs": "přízemí",
+      "en": "ground floor",
+      "uk": "перший поверх",
+      "ru": "первый этаж",
+      "pl": "parter"
+    },
+    {
+      "id": "terrace",
+      "cs": "terasa",
+      "en": "terrace",
+      "uk": "тераса",
+      "ru": "терраса",
+      "pl": "taras"
+    },
+    {
+      "id": "yard",
+      "cs": "dvůr",
+      "en": "yard",
+      "uk": "двір",
+      "ru": "двор",
+      "pl": "podwórko"
+    },
+    {
+      "id": "front-door",
+      "cs": "vchodové dveře",
+      "en": "front door",
+      "uk": "вхідні двері",
+      "ru": "входная дверь",
+      "pl": "drzwi wejściowe"
+    },
+    {
+      "id": "light-switch",
+      "cs": "vypínač",
+      "en": "light switch",
+      "uk": "вимикач",
+      "ru": "выключатель",
+      "pl": "włącznik"
+    },
+    {
+      "id": "socket",
+      "cs": "zásuvka",
+      "en": "socket",
+      "uk": "розетка",
+      "ru": "розетка",
+      "pl": "gniazdko"
+    },
+    {
+      "id": "heating",
+      "cs": "topení",
+      "en": "heating",
+      "uk": "опалення",
+      "ru": "отопление",
+      "pl": "ogrzewanie"
+    },
+    {
+      "id": "radiator",
+      "cs": "radiátor",
+      "en": "radiator",
+      "uk": "радіатор",
+      "ru": "батарея",
+      "pl": "kaloryfer"
+    },
+    {
+      "id": "corridor",
+      "cs": "chodba",
+      "en": "corridor",
+      "uk": "коридор",
+      "ru": "коридор",
+      "pl": "korytarz"
+    },
+    {
+      "id": "family-house",
+      "cs": "rodinný dům",
+      "en": "family house",
+      "uk": "приватний будинок",
+      "ru": "частный дом",
+      "pl": "dom jednorodzinny"
+    },
+    {
+      "id": "apartment-block",
+      "cs": "panelák",
+      "en": "apartment block",
+      "uk": "панельний будинок",
+      "ru": "панельный дом",
+      "pl": "blok"
     }
   ]
 }

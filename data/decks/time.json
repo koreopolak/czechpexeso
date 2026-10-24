@@ -1,0 +1,469 @@
+{
+  "id": "time",
+  "order": 4,
+  "level": "A1",
+  "icon": "clock",
+  "title": {
+    "cs": "Čas a kalendář",
+    "en": "Time & Calendar",
+    "uk": "Час і календар",
+    "ru": "Время и календарь",
+    "pl": "Czas i kalendarz"
+  },
+  "description": {
+    "en": "Days, months and telling time.",
+    "uk": "Дні, місяці та час.",
+    "ru": "Дни, месяцы и время.",
+    "pl": "Dni, miesiące i czas."
+  },
+  "words": [
+    {
+      "id": "monday",
+      "cs": "pondělí",
+      "en": "Monday",
+      "uk": "понеділок",
+      "ru": "понедельник",
+      "pl": "poniedziałek"
+    },
+    {
+      "id": "tuesday",
+      "cs": "úterý",
+      "en": "Tuesday",
+      "uk": "вівторок",
+      "ru": "вторник",
+      "pl": "wtorek"
+    },
+    {
+      "id": "wednesday",
+      "cs": "středa",
+      "en": "Wednesday",
+      "uk": "середа",
+      "ru": "среда",
+      "pl": "środa"
+    },
+    {
+      "id": "thursday",
+      "cs": "čtvrtek",
+      "en": "Thursday",
+      "uk": "четвер",
+      "ru": "четверг",
+      "pl": "czwartek"
+    },
+    {
+      "id": "friday",
+      "cs": "pátek",
+      "en": "Friday",
+      "uk": "п’ятниця",
+      "ru": "пятница",
+      "pl": "piątek"
+    },
+    {
+      "id": "saturday",
+      "cs": "sobota",
+      "en": "Saturday",
+      "uk": "субота",
+      "ru": "суббота",
+      "pl": "sobota"
+    },
+    {
+      "id": "sunday",
+      "cs": "neděle",
+      "en": "Sunday",
+      "uk": "неділя",
+      "ru": "воскресенье",
+      "pl": "niedziela"
+    },
+    {
+      "id": "january",
+      "cs": "leden",
+      "en": "January",
+      "uk": "січень",
+      "ru": "январь",
+      "pl": "styczeń"
+    },
+    {
+      "id": "february",
+      "cs": "únor",
+      "en": "February",
+      "uk": "лютий",
+      "ru": "февраль",
+      "pl": "luty"
+    },
+    {
+      "id": "march",
+      "cs": "březen",
+      "en": "March",
+      "uk": "березень",
+      "ru": "март",
+      "pl": "marzec"
+    },
+    {
+      "id": "april",
+      "cs": "duben",
+      "en": "April",
+      "uk": "квітень",
+      "ru": "апрель",
+      "pl": "kwiecień"
+    },
+    {
+      "id": "may",
+      "cs": "květen",
+      "en": "May",
+      "uk": "травень",
+      "ru": "май",
+      "pl": "maj"
+    },
+    {
+      "id": "june",
+      "cs": "červen",
+      "en": "June",
+      "uk": "червень",
+      "ru": "июнь",
+      "pl": "czerwiec"
+    },
+    {
+      "id": "july",
+      "cs": "červenec",
+      "en": "July",
+      "uk": "липень",
+      "ru": "июль",
+      "pl": "lipiec"
+    },
+    {
+      "id": "august",
+      "cs": "srpen",
+      "en": "August",
+      "uk": "серпень",
+      "ru": "август",
+      "pl": "sierpień"
+    },
+    {
+      "id": "september",
+      "cs": "září",
+      "en": "September",
+      "uk": "вересень",
+      "ru": "сентябрь",
+      "pl": "wrzesień"
+    },
+    {
+      "id": "october",
+      "cs": "říjen",
+      "en": "October",
+      "uk": "жовтень",
+      "ru": "октябрь",
+      "pl": "październik"
+    },
+    {
+      "id": "november",
+      "cs": "listopad",
+      "en": "November",
+      "uk": "листопад",
+      "ru": "ноябрь",
+      "pl": "listopad"
+    },
+    {
+      "id": "december",
+      "cs": "prosinec",
+      "en": "December",
+      "uk": "грудень",
+      "ru": "декабрь",
+      "pl": "grudzień"
+    },
+    {
+      "id": "time",
+      "cs": "čas",
+      "en": "time",
+      "uk": "час",
+      "ru": "время",
+      "pl": "czas"
+    },
+    {
+      "id": "hour",
+      "cs": "hodina",
+      "en": "hour",
+      "uk": "година",
+      "ru": "час",
+      "pl": "godzina"
+    },
+    {
+      "id": "minute",
+      "cs": "minuta",
+      "en": "minute",
+      "uk": "хвилина",
+      "ru": "минута",
+      "pl": "minuta"
+    },
+    {
+      "id": "second",
+      "cs": "sekunda",
+      "en": "second",
+      "uk": "секунда",
+      "ru": "секунда",
+      "pl": "sekunda"
+    },
+    {
+      "id": "day",
+      "cs": "den",
+      "en": "day",
+      "uk": "день",
+      "ru": "день",
+      "pl": "dzień"
+    },
+    {
+      "id": "week",
+      "cs": "týden",
+      "en": "week",
+      "uk": "тиждень",
+      "ru": "неделя",
+      "pl": "tydzień"
+    },
+    {
+      "id": "month",
+      "cs": "měsíc",
+      "en": "month",
+      "uk": "місяць",
+      "ru": "месяц",
+      "pl": "miesiąc"
+    },
+    {
+      "id": "year",
+      "cs": "rok",
+      "en": "year",
+      "uk": "рік",
+      "ru": "год",
+      "pl": "rok"
+    },
+    {
+      "id": "weekend",
+      "cs": "víkend",
+      "en": "weekend",
+      "uk": "вихідні",
+      "ru": "выходные",
+      "pl": "weekend"
+    },
+    {
+      "id": "today",
+      "cs": "dnes",
+      "en": "today",
+      "uk": "сьогодні",
+      "ru": "сегодня",
+      "pl": "dzisiaj"
+    },
+    {
+      "id": "yesterday",
+      "cs": "včera",
+      "en": "yesterday",
+      "uk": "вчора",
+      "ru": "вчера",
+      "pl": "wczoraj"
+    },
+    {
+      "id": "tomorrow",
+      "cs": "zítra",
+      "en": "tomorrow",
+      "uk": "завтра",
+      "ru": "завтра",
+      "pl": "jutro"
+    },
+    {
+      "id": "the-day-before-yesterday",
+      "cs": "předevčírem",
+      "en": "the day before yesterday",
+      "uk": "позавчора",
+      "ru": "позавчера",
+      "pl": "przedwczoraj"
+    },
+    {
+      "id": "the-day-after-tomorrow",
+      "cs": "pozítří",
+      "en": "the day after tomorrow",
+      "uk": "післязавтра",
+      "ru": "послезавтра",
+      "pl": "pojutrze"
+    },
+    {
+      "id": "morning",
+      "cs": "ráno",
+      "en": "morning",
+      "uk": "ранок",
+      "ru": "утро",
+      "pl": "poranek"
+    },
+    {
+      "id": "late-morning",
+      "cs": "dopoledne",
+      "en": "late morning",
+      "uk": "перша половина дня",
+      "ru": "первая половина дня",
+      "pl": "przedpołudnie"
+    },
+    {
+      "id": "noon",
+      "cs": "poledne",
+      "en": "noon",
+      "uk": "полудень",
+      "ru": "полдень",
+      "pl": "południe"
+    },
+    {
+      "id": "afternoon",
+      "cs": "odpoledne",
+      "en": "afternoon",
+      "uk": "друга половина дня",
+      "ru": "вторая половина дня",
+      "pl": "popołudnie"
+    },
+    {
+      "id": "evening",
+      "cs": "večer",
+      "en": "evening",
+      "uk": "вечір",
+      "ru": "вечер",
+      "pl": "wieczór"
+    },
+    {
+      "id": "night",
+      "cs": "noc",
+      "en": "night",
+      "uk": "ніч",
+      "ru": "ночь",
+      "pl": "noc"
+    },
+    {
+      "id": "midnight",
+      "cs": "půlnoc",
+      "en": "midnight",
+      "uk": "північ",
+      "ru": "полночь",
+      "pl": "północ"
+    },
+    {
+      "id": "calendar",
+      "cs": "kalendář",
+      "en": "calendar",
+      "uk": "календар",
+      "ru": "календарь",
+      "pl": "kalendarz"
+    },
+    {
+      "id": "date",
+      "cs": "datum",
+      "en": "date",
+      "uk": "дата",
+      "ru": "дата",
+      "pl": "data"
+    },
+    {
+      "id": "clock",
+      "cs": "hodiny",
+      "en": "clock",
+      "uk": "годинник",
+      "ru": "часы",
+      "pl": "zegar"
+    },
+    {
+      "id": "alarm-clock",
+      "cs": "budík",
+      "en": "alarm clock",
+      "uk": "будильник",
+      "ru": "будильник",
+      "pl": "budzik"
+    },
+    {
+      "id": "now",
+      "cs": "teď",
+      "en": "now",
+      "uk": "зараз",
+      "ru": "сейчас",
+      "pl": "teraz"
+    },
+    {
+      "id": "soon",
+      "cs": "brzy",
+      "en": "soon",
+      "uk": "скоро",
+      "ru": "скоро",
+      "pl": "wkrótce"
+    },
+    {
+      "id": "late",
+      "cs": "pozdě",
+      "en": "late",
+      "uk": "пізно",
+      "ru": "поздно",
+      "pl": "późno"
+    },
+    {
+      "id": "on-time",
+      "cs": "včas",
+      "en": "on time",
+      "uk": "вчасно",
+      "ru": "вовремя",
+      "pl": "na czas"
+    },
+    {
+      "id": "century",
+      "cs": "století",
+      "en": "century",
+      "uk": "століття",
+      "ru": "век",
+      "pl": "wiek"
+    },
+    {
+      "id": "decade",
+      "cs": "desetiletí",
+      "en": "decade",
+      "uk": "десятиліття",
+      "ru": "десятилетие",
+      "pl": "dekada"
+    },
+    {
+      "id": "quarter-of-an-hour",
+      "cs": "čtvrt hodiny",
+      "en": "quarter of an hour",
+      "uk": "чверть години",
+      "ru": "четверть часа",
+      "pl": "kwadrans"
+    },
+    {
+      "id": "half-an-hour",
+      "cs": "půl hodiny",
+      "en": "half an hour",
+      "uk": "пів години",
+      "ru": "полчаса",
+      "pl": "pół godziny"
+    },
+    {
+      "id": "past",
+      "cs": "minulost",
+      "en": "past",
+      "uk": "минуле",
+      "ru": "прошлое",
+      "pl": "przeszłość"
+    },
+    {
+      "id": "future",
+      "cs": "budoucnost",
+      "en": "future",
+      "uk": "майбутнє",
+      "ru": "будущее",
+      "pl": "przyszłość"
+    },
+    {
+      "id": "present",
+      "cs": "přítomnost",
+      "en": "present",
+      "uk": "теперішнє",
+      "ru": "настоящее",
+      "pl": "teraźniejszość"
+    },
+    {
+      "id": "every-day",
+      "cs": "každý den",
+      "en": "every day",
+      "uk": "щодня",
+      "ru": "каждый день",
+      "pl": "codziennie"
+    }
+  ]
+}

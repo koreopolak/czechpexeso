@@ -1,0 +1,437 @@
+{
+  "id": "personality",
+  "order": 34,
+  "level": "A2",
+  "icon": "user",
+  "title": {
+    "cs": "Povaha a vzhled",
+    "en": "Character & Looks",
+    "uk": "Характер і зовнішність",
+    "ru": "Характер и внешность",
+    "pl": "Charakter i wygląd"
+  },
+  "description": {
+    "en": "Describe people: character and appearance.",
+    "uk": "Опишіть людей: характер і зовнішність.",
+    "ru": "Описание людей: характер и внешность.",
+    "pl": "Opisz ludzi: charakter i wygląd."
+  },
+  "words": [
+    {
+      "id": "nice",
+      "cs": "milý",
+      "en": "nice",
+      "uk": "милий",
+      "ru": "милый",
+      "pl": "miły"
+    },
+    {
+      "id": "kind",
+      "cs": "laskavý",
+      "en": "kind",
+      "uk": "добрий",
+      "ru": "добрый",
+      "pl": "życzliwy"
+    },
+    {
+      "id": "friendly",
+      "cs": "přátelský",
+      "en": "friendly",
+      "uk": "дружній",
+      "ru": "дружелюбный",
+      "pl": "przyjazny"
+    },
+    {
+      "id": "polite",
+      "cs": "zdvořilý",
+      "en": "polite",
+      "uk": "ввічливий",
+      "ru": "вежливый",
+      "pl": "uprzejmy"
+    },
+    {
+      "id": "rude",
+      "cs": "nezdvořilý",
+      "en": "rude",
+      "uk": "неввічливий",
+      "ru": "невежливый",
+      "pl": "nieuprzejmy"
+    },
+    {
+      "id": "sincere",
+      "cs": "upřímný",
+      "en": "sincere",
+      "uk": "щирий",
+      "ru": "искренний",
+      "pl": "szczery"
+    },
+    {
+      "id": "honest",
+      "cs": "poctivý",
+      "en": "honest",
+      "uk": "чесний",
+      "ru": "честный",
+      "pl": "uczciwy"
+    },
+    {
+      "id": "lazy",
+      "cs": "líný",
+      "en": "lazy",
+      "uk": "лінивий",
+      "ru": "ленивый",
+      "pl": "leniwy"
+    },
+    {
+      "id": "hardworking",
+      "cs": "pracovitý",
+      "en": "hardworking",
+      "uk": "працьовитий",
+      "ru": "трудолюбивый",
+      "pl": "pracowity"
+    },
+    {
+      "id": "smart",
+      "cs": "chytrý",
+      "en": "smart",
+      "uk": "розумний",
+      "ru": "умный",
+      "pl": "bystry"
+    },
+    {
+      "id": "stupid",
+      "cs": "hloupý",
+      "en": "stupid",
+      "uk": "дурний",
+      "ru": "глупый",
+      "pl": "głupi"
+    },
+    {
+      "id": "wise",
+      "cs": "moudrý",
+      "en": "wise",
+      "uk": "мудрий",
+      "ru": "мудрый",
+      "pl": "mądry"
+    },
+    {
+      "id": "funny",
+      "cs": "vtipný",
+      "en": "funny",
+      "uk": "дотепний",
+      "ru": "остроумный",
+      "pl": "zabawny"
+    },
+    {
+      "id": "serious",
+      "cs": "vážný",
+      "en": "serious",
+      "uk": "серйозний",
+      "ru": "серьёзный",
+      "pl": "poważny"
+    },
+    {
+      "id": "patient",
+      "cs": "trpělivý",
+      "en": "patient",
+      "uk": "терплячий",
+      "ru": "терпеливый",
+      "pl": "cierpliwy"
+    },
+    {
+      "id": "impatient",
+      "cs": "netrpělivý",
+      "en": "impatient",
+      "uk": "нетерплячий",
+      "ru": "нетерпеливый",
+      "pl": "niecierpliwy"
+    },
+    {
+      "id": "shy",
+      "cs": "stydlivý",
+      "en": "shy",
+      "uk": "сором’язливий",
+      "ru": "застенчивый",
+      "pl": "nieśmiały"
+    },
+    {
+      "id": "brave",
+      "cs": "odvážný",
+      "en": "brave",
+      "uk": "сміливий",
+      "ru": "смелый",
+      "pl": "odważny"
+    },
+    {
+      "id": "cowardly",
+      "cs": "zbabělý",
+      "en": "cowardly",
+      "uk": "боягузливий",
+      "ru": "трусливый",
+      "pl": "tchórzliwy"
+    },
+    {
+      "id": "selfish",
+      "cs": "sobecký",
+      "en": "selfish",
+      "uk": "егоїстичний",
+      "ru": "эгоистичный",
+      "pl": "samolubny"
+    },
+    {
+      "id": "generous",
+      "cs": "štědrý",
+      "en": "generous",
+      "uk": "щедрий",
+      "ru": "щедрый",
+      "pl": "szczodry"
+    },
+    {
+      "id": "stingy",
+      "cs": "lakomý",
+      "en": "stingy",
+      "uk": "скупий",
+      "ru": "скупой",
+      "pl": "skąpy"
+    },
+    {
+      "id": "reliable",
+      "cs": "spolehlivý",
+      "en": "reliable",
+      "uk": "надійний",
+      "ru": "надёжный",
+      "pl": "niezawodny"
+    },
+    {
+      "id": "responsible",
+      "cs": "zodpovědný",
+      "en": "responsible",
+      "uk": "відповідальний",
+      "ru": "ответственный",
+      "pl": "odpowiedzialny"
+    },
+    {
+      "id": "creative",
+      "cs": "tvořivý",
+      "en": "creative",
+      "uk": "творчий",
+      "ru": "творческий",
+      "pl": "twórczy"
+    },
+    {
+      "id": "curious",
+      "cs": "zvědavý",
+      "en": "curious",
+      "uk": "допитливий",
+      "ru": "любопытный",
+      "pl": "ciekawski"
+    },
+    {
+      "id": "ambitious",
+      "cs": "ambiciózní",
+      "en": "ambitious",
+      "uk": "амбітний",
+      "ru": "амбициозный",
+      "pl": "ambitny"
+    },
+    {
+      "id": "modest",
+      "cs": "skromný",
+      "en": "modest",
+      "uk": "скромний",
+      "ru": "скромный",
+      "pl": "skromny"
+    },
+    {
+      "id": "arrogant",
+      "cs": "arogantní",
+      "en": "arrogant",
+      "uk": "зарозумілий",
+      "ru": "высокомерный",
+      "pl": "arogancki"
+    },
+    {
+      "id": "optimistic",
+      "cs": "optimistický",
+      "en": "optimistic",
+      "uk": "оптимістичний",
+      "ru": "оптимистичный",
+      "pl": "optymistyczny"
+    },
+    {
+      "id": "pessimistic",
+      "cs": "pesimistický",
+      "en": "pessimistic",
+      "uk": "песимістичний",
+      "ru": "пессимистичный",
+      "pl": "pesymistyczny"
+    },
+    {
+      "id": "sociable",
+      "cs": "společenský",
+      "en": "sociable",
+      "uk": "товариський",
+      "ru": "общительный",
+      "pl": "towarzyski"
+    },
+    {
+      "id": "well-behaved",
+      "cs": "hodný",
+      "en": "well-behaved",
+      "uk": "слухняний",
+      "ru": "послушный",
+      "pl": "grzeczny"
+    },
+    {
+      "id": "naughty",
+      "cs": "zlobivý",
+      "en": "naughty",
+      "uk": "неслухняний",
+      "ru": "непослушный",
+      "pl": "niegrzeczny"
+    },
+    {
+      "id": "appearance",
+      "cs": "vzhled",
+      "en": "appearance",
+      "uk": "зовнішність",
+      "ru": "внешность",
+      "pl": "wygląd"
+    },
+    {
+      "id": "character",
+      "cs": "povaha",
+      "en": "character",
+      "uk": "характер",
+      "ru": "характер",
+      "pl": "charakter"
+    },
+    {
+      "id": "slim",
+      "cs": "štíhlý",
+      "en": "slim",
+      "uk": "стрункий",
+      "ru": "стройный",
+      "pl": "szczupły"
+    },
+    {
+      "id": "chubby",
+      "cs": "při těle",
+      "en": "chubby",
+      "uk": "повненький",
+      "ru": "полноватый",
+      "pl": "puszysty"
+    },
+    {
+      "id": "muscular",
+      "cs": "svalnatý",
+      "en": "muscular",
+      "uk": "м’язистий",
+      "ru": "мускулистый",
+      "pl": "umięśniony"
+    },
+    {
+      "id": "beautiful",
+      "cs": "krásný",
+      "en": "beautiful",
+      "uk": "красивий",
+      "ru": "красивый",
+      "pl": "piękny"
+    },
+    {
+      "id": "skinny",
+      "cs": "hubený",
+      "en": "skinny",
+      "uk": "худий",
+      "ru": "худой",
+      "pl": "chudy"
+    },
+    {
+      "id": "blond",
+      "cs": "blond",
+      "en": "blond",
+      "uk": "білявий",
+      "ru": "светловолосый",
+      "pl": "blond"
+    },
+    {
+      "id": "dark-haired",
+      "cs": "tmavovlasý",
+      "en": "dark-haired",
+      "uk": "темноволосий",
+      "ru": "темноволосый",
+      "pl": "ciemnowłosy"
+    },
+    {
+      "id": "red-haired",
+      "cs": "zrzavý",
+      "en": "red-haired",
+      "uk": "рудий",
+      "ru": "рыжий",
+      "pl": "rudy"
+    },
+    {
+      "id": "bald",
+      "cs": "plešatý",
+      "en": "bald",
+      "uk": "лисий",
+      "ru": "лысый",
+      "pl": "łysy"
+    },
+    {
+      "id": "curly",
+      "cs": "kudrnatý",
+      "en": "curly",
+      "uk": "кучерявий",
+      "ru": "кудрявый",
+      "pl": "kręcony"
+    },
+    {
+      "id": "straight-hair",
+      "cs": "rovné vlasy",
+      "en": "straight hair",
+      "uk": "пряме волосся",
+      "ru": "прямые волосы",
+      "pl": "proste włosy"
+    },
+    {
+      "id": "bearded",
+      "cs": "vousatý",
+      "en": "bearded",
+      "uk": "бородатий",
+      "ru": "бородатый",
+      "pl": "brodaty"
+    },
+    {
+      "id": "freckles",
+      "cs": "pihy",
+      "en": "freckles",
+      "uk": "веснянки",
+      "ru": "веснушки",
+      "pl": "piegi"
+    },
+    {
+      "id": "wrinkles",
+      "cs": "vrásky",
+      "en": "wrinkles",
+      "uk": "зморшки",
+      "ru": "морщины",
+      "pl": "zmarszczki"
+    },
+    {
+      "id": "elegant",
+      "cs": "elegantní",
+      "en": "elegant",
+      "uk": "елегантний",
+      "ru": "элегантный",
+      "pl": "elegancki"
+    },
+    {
+      "id": "likable",
+      "cs": "sympatický",
+      "en": "likable",
+      "uk": "симпатичний",
+      "ru": "симпатичный",
+      "pl": "sympatyczny"
+    }
+  ]
+}

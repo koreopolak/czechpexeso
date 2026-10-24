@@ -1,6 +1,6 @@
 {
   "id": "verbs",
-  "order": 7,
+  "order": 14,
   "level": "A1",
   "icon": "spark",
   "title": {
@@ -208,6 +208,334 @@
       "uk": "розуміти",
       "ru": "понимать",
       "pl": "rozumieć"
+    },
+    {
+      "id": "have-to",
+      "cs": "muset",
+      "en": "to have to",
+      "uk": "мусити",
+      "ru": "быть должным",
+      "pl": "musieć"
+    },
+    {
+      "id": "know-how",
+      "cs": "umět",
+      "en": "to know how",
+      "uk": "уміти",
+      "ru": "уметь",
+      "pl": "umieć"
+    },
+    {
+      "id": "say",
+      "cs": "říct",
+      "en": "to say",
+      "uk": "сказати",
+      "ru": "сказать",
+      "pl": "powiedzieć"
+    },
+    {
+      "id": "ask",
+      "cs": "ptát se",
+      "en": "to ask",
+      "uk": "питати",
+      "ru": "спрашивать",
+      "pl": "pytać"
+    },
+    {
+      "id": "answer",
+      "cs": "odpovídat",
+      "en": "to answer",
+      "uk": "відповідати",
+      "ru": "отвечать",
+      "pl": "odpowiadać"
+    },
+    {
+      "id": "look",
+      "cs": "dívat se",
+      "en": "to look",
+      "uk": "дивитися",
+      "ru": "смотреть",
+      "pl": "patrzeć"
+    },
+    {
+      "id": "listen",
+      "cs": "poslouchat",
+      "en": "to listen",
+      "uk": "слухати",
+      "ru": "слушать",
+      "pl": "słuchać"
+    },
+    {
+      "id": "think",
+      "cs": "myslet",
+      "en": "to think",
+      "uk": "думати",
+      "ru": "думать",
+      "pl": "myśleć"
+    },
+    {
+      "id": "wait",
+      "cs": "čekat",
+      "en": "to wait",
+      "uk": "чекати",
+      "ru": "ждать",
+      "pl": "czekać"
+    },
+    {
+      "id": "look-for",
+      "cs": "hledat",
+      "en": "to look for",
+      "uk": "шукати",
+      "ru": "искать",
+      "pl": "szukać"
+    },
+    {
+      "id": "find",
+      "cs": "najít",
+      "en": "to find",
+      "uk": "знайти",
+      "ru": "найти",
+      "pl": "znaleźć"
+    },
+    {
+      "id": "buy",
+      "cs": "koupit",
+      "en": "to buy",
+      "uk": "купити",
+      "ru": "купить",
+      "pl": "kupić"
+    },
+    {
+      "id": "sell",
+      "cs": "prodat",
+      "en": "to sell",
+      "uk": "продати",
+      "ru": "продать",
+      "pl": "sprzedać"
+    },
+    {
+      "id": "pay",
+      "cs": "platit",
+      "en": "to pay",
+      "uk": "платити",
+      "ru": "платить",
+      "pl": "płacić"
+    },
+    {
+      "id": "open",
+      "cs": "otevřít",
+      "en": "to open",
+      "uk": "відкрити",
+      "ru": "открыть",
+      "pl": "otworzyć"
+    },
+    {
+      "id": "close",
+      "cs": "zavřít",
+      "en": "to close",
+      "uk": "закрити",
+      "ru": "закрыть",
+      "pl": "zamknąć"
+    },
+    {
+      "id": "begin",
+      "cs": "začít",
+      "en": "to begin",
+      "uk": "почати",
+      "ru": "начать",
+      "pl": "zacząć"
+    },
+    {
+      "id": "finish",
+      "cs": "skončit",
+      "en": "to finish",
+      "uk": "закінчити",
+      "ru": "закончить",
+      "pl": "skończyć"
+    },
+    {
+      "id": "help",
+      "cs": "pomáhat",
+      "en": "to help",
+      "uk": "допомагати",
+      "ru": "помогать",
+      "pl": "pomagać"
+    },
+    {
+      "id": "need",
+      "cs": "potřebovat",
+      "en": "to need",
+      "uk": "потребувати",
+      "ru": "нуждаться",
+      "pl": "potrzebować"
+    },
+    {
+      "id": "like",
+      "cs": "mít rád",
+      "en": "to like",
+      "uk": "подобатися",
+      "ru": "нравиться",
+      "pl": "lubić"
+    },
+    {
+      "id": "cook",
+      "cs": "vařit",
+      "en": "to cook",
+      "uk": "готувати",
+      "ru": "готовить",
+      "pl": "gotować"
+    },
+    {
+      "id": "wash",
+      "cs": "umýt",
+      "en": "to wash",
+      "uk": "помити",
+      "ru": "помыть",
+      "pl": "umyć"
+    },
+    {
+      "id": "sit",
+      "cs": "sedět",
+      "en": "to sit",
+      "uk": "сидіти",
+      "ru": "сидеть",
+      "pl": "siedzieć"
+    },
+    {
+      "id": "stand",
+      "cs": "stát",
+      "en": "to stand",
+      "uk": "стояти",
+      "ru": "стоять",
+      "pl": "stać"
+    },
+    {
+      "id": "lie-down",
+      "cs": "ležet",
+      "en": "to lie (down)",
+      "uk": "лежати",
+      "ru": "лежать",
+      "pl": "leżeć"
+    },
+    {
+      "id": "get",
+      "cs": "dostat",
+      "en": "to get",
+      "uk": "отримати",
+      "ru": "получить",
+      "pl": "dostać"
+    },
+    {
+      "id": "bring",
+      "cs": "přinést",
+      "en": "to bring",
+      "uk": "принести",
+      "ru": "принести",
+      "pl": "przynieść"
+    },
+    {
+      "id": "carry",
+      "cs": "nést",
+      "en": "to carry",
+      "uk": "нести",
+      "ru": "нести",
+      "pl": "nieść"
+    },
+    {
+      "id": "call",
+      "cs": "zavolat",
+      "en": "to call",
+      "uk": "зателефонувати",
+      "ru": "позвонить",
+      "pl": "zadzwonić"
+    },
+    {
+      "id": "forget",
+      "cs": "zapomenout",
+      "en": "to forget",
+      "uk": "забути",
+      "ru": "забыть",
+      "pl": "zapomnieć"
+    },
+    {
+      "id": "remember",
+      "cs": "pamatovat si",
+      "en": "to remember",
+      "uk": "пам’ятати",
+      "ru": "помнить",
+      "pl": "pamiętać"
+    },
+    {
+      "id": "teach",
+      "cs": "učit",
+      "en": "to teach",
+      "uk": "навчати",
+      "ru": "учить",
+      "pl": "uczyć"
+    },
+    {
+      "id": "study",
+      "cs": "studovat",
+      "en": "to study",
+      "uk": "навчатися",
+      "ru": "изучать",
+      "pl": "studiować"
+    },
+    {
+      "id": "laugh",
+      "cs": "smát se",
+      "en": "to laugh",
+      "uk": "сміятися",
+      "ru": "смеяться",
+      "pl": "śmiać się"
+    },
+    {
+      "id": "cry",
+      "cs": "plakat",
+      "en": "to cry",
+      "uk": "плакати",
+      "ru": "плакать",
+      "pl": "płakać"
+    },
+    {
+      "id": "sing",
+      "cs": "zpívat",
+      "en": "to sing",
+      "uk": "співати",
+      "ru": "петь",
+      "pl": "śpiewać"
+    },
+    {
+      "id": "dance",
+      "cs": "tančit",
+      "en": "to dance",
+      "uk": "танцювати",
+      "ru": "танцевать",
+      "pl": "tańczyć"
+    },
+    {
+      "id": "draw",
+      "cs": "kreslit",
+      "en": "to draw",
+      "uk": "малювати",
+      "ru": "рисовать",
+      "pl": "rysować"
+    },
+    {
+      "id": "travel",
+      "cs": "cestovat",
+      "en": "to travel",
+      "uk": "подорожувати",
+      "ru": "путешествовать",
+      "pl": "podróżować"
+    },
+    {
+      "id": "try",
+      "cs": "zkusit",
+      "en": "to try",
+      "uk": "спробувати",
+      "ru": "попробовать",
+      "pl": "spróbować"
     }
   ]
 }

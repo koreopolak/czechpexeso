@@ -1,0 +1,437 @@
+{
+  "id": "music-art",
+  "order": 64,
+  "level": "B1",
+  "icon": "music",
+  "title": {
+    "cs": "Hudba a umění",
+    "en": "Music & Art",
+    "uk": "Музика та мистецтво",
+    "ru": "Музыка и искусство",
+    "pl": "Muzyka i sztuka"
+  },
+  "description": {
+    "en": "Instruments, art and culture.",
+    "uk": "Інструменти, мистецтво та культура.",
+    "ru": "Инструменты, искусство и культура.",
+    "pl": "Instrumenty, sztuka i kultura."
+  },
+  "words": [
+    {
+      "id": "music",
+      "cs": "hudba",
+      "en": "music",
+      "uk": "музика",
+      "ru": "музыка",
+      "pl": "muzyka"
+    },
+    {
+      "id": "song",
+      "cs": "píseň",
+      "en": "song",
+      "uk": "пісня",
+      "ru": "песня",
+      "pl": "piosenka"
+    },
+    {
+      "id": "melody",
+      "cs": "melodie",
+      "en": "melody",
+      "uk": "мелодія",
+      "ru": "мелодия",
+      "pl": "melodia"
+    },
+    {
+      "id": "rhythm",
+      "cs": "rytmus",
+      "en": "rhythm",
+      "uk": "ритм",
+      "ru": "ритм",
+      "pl": "rytm"
+    },
+    {
+      "id": "instrument",
+      "cs": "nástroj",
+      "en": "instrument",
+      "uk": "інструмент",
+      "ru": "инструмент",
+      "pl": "instrument"
+    },
+    {
+      "id": "guitar",
+      "cs": "kytara",
+      "en": "guitar",
+      "uk": "гітара",
+      "ru": "гитара",
+      "pl": "gitara"
+    },
+    {
+      "id": "piano",
+      "cs": "klavír",
+      "en": "piano",
+      "uk": "фортепіано",
+      "ru": "фортепиано",
+      "pl": "fortepian"
+    },
+    {
+      "id": "violin",
+      "cs": "housle",
+      "en": "violin",
+      "uk": "скрипка",
+      "ru": "скрипка",
+      "pl": "skrzypce"
+    },
+    {
+      "id": "drum",
+      "cs": "buben",
+      "en": "drum",
+      "uk": "барабан",
+      "ru": "барабан",
+      "pl": "bęben"
+    },
+    {
+      "id": "flute",
+      "cs": "flétna",
+      "en": "flute",
+      "uk": "флейта",
+      "ru": "флейта",
+      "pl": "flet"
+    },
+    {
+      "id": "trumpet",
+      "cs": "trubka",
+      "en": "trumpet",
+      "uk": "труба",
+      "ru": "труба",
+      "pl": "trąbka"
+    },
+    {
+      "id": "accordion",
+      "cs": "harmonika",
+      "en": "accordion",
+      "uk": "акордеон",
+      "ru": "аккордеон",
+      "pl": "akordeon"
+    },
+    {
+      "id": "cello",
+      "cs": "violoncello",
+      "en": "cello",
+      "uk": "віолончель",
+      "ru": "виолончель",
+      "pl": "wiolonczela"
+    },
+    {
+      "id": "band",
+      "cs": "kapela",
+      "en": "band",
+      "uk": "гурт",
+      "ru": "группа",
+      "pl": "zespół"
+    },
+    {
+      "id": "orchestra",
+      "cs": "orchestr",
+      "en": "orchestra",
+      "uk": "оркестр",
+      "ru": "оркестр",
+      "pl": "orkiestra"
+    },
+    {
+      "id": "choir",
+      "cs": "sbor",
+      "en": "choir",
+      "uk": "хор",
+      "ru": "хор",
+      "pl": "chór"
+    },
+    {
+      "id": "conductor",
+      "cs": "dirigent",
+      "en": "conductor",
+      "uk": "диригент",
+      "ru": "дирижёр",
+      "pl": "dyrygent"
+    },
+    {
+      "id": "composer",
+      "cs": "skladatel",
+      "en": "composer",
+      "uk": "композитор",
+      "ru": "композитор",
+      "pl": "kompozytor"
+    },
+    {
+      "id": "concert",
+      "cs": "koncert",
+      "en": "concert",
+      "uk": "концерт",
+      "ru": "концерт",
+      "pl": "koncert"
+    },
+    {
+      "id": "opera",
+      "cs": "opera",
+      "en": "opera",
+      "uk": "опера",
+      "ru": "опера",
+      "pl": "opera"
+    },
+    {
+      "id": "ballet",
+      "cs": "balet",
+      "en": "ballet",
+      "uk": "балет",
+      "ru": "балет",
+      "pl": "balet"
+    },
+    {
+      "id": "musical",
+      "cs": "muzikál",
+      "en": "musical",
+      "uk": "мюзикл",
+      "ru": "мюзикл",
+      "pl": "musical"
+    },
+    {
+      "id": "album",
+      "cs": "album",
+      "en": "album",
+      "uk": "альбом",
+      "ru": "альбом",
+      "pl": "album"
+    },
+    {
+      "id": "lyrics",
+      "cs": "text písně",
+      "en": "lyrics",
+      "uk": "текст пісні",
+      "ru": "текст песни",
+      "pl": "tekst piosenki"
+    },
+    {
+      "id": "note-music",
+      "cs": "nota",
+      "en": "note (music)",
+      "uk": "нота",
+      "ru": "нота",
+      "pl": "nuta"
+    },
+    {
+      "id": "art",
+      "cs": "umění",
+      "en": "art",
+      "uk": "мистецтво",
+      "ru": "искусство",
+      "pl": "sztuka"
+    },
+    {
+      "id": "artist",
+      "cs": "umělec",
+      "en": "artist",
+      "uk": "митець",
+      "ru": "художник",
+      "pl": "artysta"
+    },
+    {
+      "id": "gallery",
+      "cs": "galerie",
+      "en": "gallery",
+      "uk": "галерея",
+      "ru": "галерея",
+      "pl": "galeria"
+    },
+    {
+      "id": "exhibition",
+      "cs": "výstava",
+      "en": "exhibition",
+      "uk": "виставка",
+      "ru": "выставка",
+      "pl": "wystawa"
+    },
+    {
+      "id": "sculptor",
+      "cs": "sochař",
+      "en": "sculptor",
+      "uk": "скульптор",
+      "ru": "скульптор",
+      "pl": "rzeźbiarz"
+    },
+    {
+      "id": "painting-art",
+      "cs": "malba",
+      "en": "painting (art)",
+      "uk": "живопис",
+      "ru": "живопись",
+      "pl": "malarstwo"
+    },
+    {
+      "id": "drawing",
+      "cs": "kresba",
+      "en": "drawing",
+      "uk": "малюнок",
+      "ru": "рисунок",
+      "pl": "rysunek"
+    },
+    {
+      "id": "portrait",
+      "cs": "portrét",
+      "en": "portrait",
+      "uk": "портрет",
+      "ru": "портрет",
+      "pl": "portret"
+    },
+    {
+      "id": "photograph",
+      "cs": "fotografie",
+      "en": "photograph",
+      "uk": "фотографія",
+      "ru": "фотография",
+      "pl": "fotografia"
+    },
+    {
+      "id": "canvas",
+      "cs": "plátno",
+      "en": "canvas",
+      "uk": "полотно",
+      "ru": "холст",
+      "pl": "płótno"
+    },
+    {
+      "id": "architecture",
+      "cs": "architektura",
+      "en": "architecture",
+      "uk": "архітектура",
+      "ru": "архитектура",
+      "pl": "architektura"
+    },
+    {
+      "id": "literature",
+      "cs": "literatura",
+      "en": "literature",
+      "uk": "література",
+      "ru": "литература",
+      "pl": "literatura"
+    },
+    {
+      "id": "novel",
+      "cs": "román",
+      "en": "novel",
+      "uk": "роман",
+      "ru": "роман",
+      "pl": "powieść"
+    },
+    {
+      "id": "poem",
+      "cs": "báseň",
+      "en": "poem",
+      "uk": "вірш",
+      "ru": "стихотворение",
+      "pl": "wiersz"
+    },
+    {
+      "id": "poet",
+      "cs": "básník",
+      "en": "poet",
+      "uk": "поет",
+      "ru": "поэт",
+      "pl": "poeta"
+    },
+    {
+      "id": "fairy-tale",
+      "cs": "pohádka",
+      "en": "fairy tale",
+      "uk": "казка",
+      "ru": "сказка",
+      "pl": "bajka"
+    },
+    {
+      "id": "story",
+      "cs": "příběh",
+      "en": "story",
+      "uk": "історія",
+      "ru": "история",
+      "pl": "historia"
+    },
+    {
+      "id": "author",
+      "cs": "autor",
+      "en": "author",
+      "uk": "автор",
+      "ru": "автор",
+      "pl": "autor"
+    },
+    {
+      "id": "play-theater",
+      "cs": "divadelní hra",
+      "en": "play (theater)",
+      "uk": "п’єса",
+      "ru": "пьеса",
+      "pl": "sztuka teatralna"
+    },
+    {
+      "id": "stage",
+      "cs": "jeviště",
+      "en": "stage",
+      "uk": "сцена",
+      "ru": "сцена",
+      "pl": "scena"
+    },
+    {
+      "id": "audience",
+      "cs": "publikum",
+      "en": "audience",
+      "uk": "публіка",
+      "ru": "публика",
+      "pl": "publiczność"
+    },
+    {
+      "id": "applause",
+      "cs": "potlesk",
+      "en": "applause",
+      "uk": "оплески",
+      "ru": "аплодисменты",
+      "pl": "oklaski"
+    },
+    {
+      "id": "ticket-event",
+      "cs": "vstupenka",
+      "en": "ticket (event)",
+      "uk": "квиток",
+      "ru": "билет",
+      "pl": "bilet"
+    },
+    {
+      "id": "culture",
+      "cs": "kultura",
+      "en": "culture",
+      "uk": "культура",
+      "ru": "культура",
+      "pl": "kultura"
+    },
+    {
+      "id": "play-the-guitar",
+      "cs": "hrát na kytaru",
+      "en": "to play the guitar",
+      "uk": "грати на гітарі",
+      "ru": "играть на гитаре",
+      "pl": "grać na gitarze"
+    },
+    {
+      "id": "compose-music",
+      "cs": "skládat hudbu",
+      "en": "to compose music",
+      "uk": "писати музику",
+      "ru": "сочинять музыку",
+      "pl": "komponować muzykę"
+    },
+    {
+      "id": "clap",
+      "cs": "tleskat",
+      "en": "to clap",
+      "uk": "плескати в долоні",
+      "ru": "хлопать",
+      "pl": "klaskać"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "id": "greetings",
+  "order": 1,
+  "level": "A1",
+  "icon": "smile",
+  "title": {
+    "cs": "Pozdravy a fráze",
+    "en": "Greetings & Phrases",
+    "uk": "Привітання та фрази",
+    "ru": "Приветствия и фразы",
+    "pl": "Powitania i zwroty"
+  },
+  "description": {
+    "en": "Everyday phrases for meeting people.",
+    "uk": "Повсякденні фрази для знайомства та спілкування.",
+    "ru": "Повседневные фразы для знакомства и общения.",
+    "pl": "Codzienne zwroty na powitanie i rozmowę."
+  },
+  "words": [
+    {
+      "id": "hi",
+      "cs": "ahoj",
+      "en": "hi",
+      "uk": "привіт",
+      "ru": "привет",
+      "pl": "cześć"
+    },
+    {
+      "id": "hello-good-day",
+      "cs": "dobrý den",
+      "en": "hello (good day)",
+      "uk": "добрий день",
+      "ru": "добрый день",
+      "pl": "dzień dobry"
+    },
+    {
+      "id": "good-evening",
+      "cs": "dobrý večer",
+      "en": "good evening",
+      "uk": "добрий вечір",
+      "ru": "добрый вечер",
+      "pl": "dobry wieczór"
+    },
+    {
+      "id": "good-night",
+      "cs": "dobrou noc",
+      "en": "good night",
+      "uk": "на добраніч",
+      "ru": "спокойной ночи",
+      "pl": "dobranoc"
+    },
+    {
+      "id": "goodbye",
+      "cs": "na shledanou",
+      "en": "goodbye",
+      "uk": "до побачення",
+      "ru": "до свидания",
+      "pl": "do widzenia"
+    },
+    {
+      "id": "bye",
+      "cs": "čau",
+      "en": "bye",
+      "uk": "бувай",
+      "ru": "пока",
+      "pl": "pa"
+    },
+    {
+      "id": "see-you-later",
+      "cs": "zatím",
+      "en": "see you later",
+      "uk": "до зустрічі",
+      "ru": "до встречи",
+      "pl": "na razie"
+    },
+    {
+      "id": "see-you",
+      "cs": "uvidíme se",
+      "en": "see you",
+      "uk": "побачимося",
+      "ru": "увидимся",
+      "pl": "do zobaczenia"
+    },
+    {
+      "id": "thank-you",
+      "cs": "děkuji",
+      "en": "thank you",
+      "uk": "дякую",
+      "ru": "спасибо",
+      "pl": "dziękuję"
+    },
+    {
+      "id": "please",
+      "cs": "prosím",
+      "en": "please",
+      "uk": "будь ласка",
+      "ru": "пожалуйста",
+      "pl": "proszę"
+    },
+    {
+      "id": "you-re-welcome",
+      "cs": "nemáte zač",
+      "en": "you're welcome",
+      "uk": "нема за що",
+      "ru": "не за что",
+      "pl": "nie ma za co"
+    },
+    {
+      "id": "excuse-me",
+      "cs": "promiňte",
+      "en": "excuse me",
+      "uk": "вибачте",
+      "ru": "извините",
+      "pl": "przepraszam"
+    },
+    {
+      "id": "i-m-sorry",
+      "cs": "omlouvám se",
+      "en": "I'm sorry",
+      "uk": "перепрошую",
+      "ru": "прошу прощения",
+      "pl": "bardzo przepraszam"
+    },
+    {
+      "id": "yes",
+      "cs": "ano",
+      "en": "yes",
+      "uk": "так",
+      "ru": "да",
+      "pl": "tak"
+    },
+    {
+      "id": "no",
+      "cs": "ne",
+      "en": "no",
+      "uk": "ні",
+      "ru": "нет",
+      "pl": "nie"
+    },
+    {
+      "id": "ok",
+      "cs": "dobře",
+      "en": "OK",
+      "uk": "добре",
+      "ru": "хорошо",
+      "pl": "dobrze"
+    },
+    {
+      "id": "how-are-you",
+      "cs": "jak se máš?",
+      "en": "how are you?",
+      "uk": "як справи?",
+      "ru": "как дела?",
+      "pl": "jak się masz?"
+    },
+    {
+      "id": "i-m-fine",
+      "cs": "mám se dobře",
+      "en": "I'm fine",
+      "uk": "у мене все добре",
+      "ru": "у меня всё хорошо",
+      "pl": "mam się dobrze"
+    },
+    {
+      "id": "nice-to-meet-you",
+      "cs": "těší mě",
+      "en": "nice to meet you",
+      "uk": "приємно познайомитися",
+      "ru": "приятно познакомиться",
+      "pl": "miło mi"
+    },
+    {
+      "id": "my-name-is",
+      "cs": "jmenuji se",
+      "en": "my name is",
+      "uk": "мене звати",
+      "ru": "меня зовут",
+      "pl": "nazywam się"
+    },
+    {
+      "id": "what-s-your-name",
+      "cs": "jak se jmenuješ?",
+      "en": "what's your name?",
+      "uk": "як тебе звати?",
+      "ru": "как тебя зовут?",
+      "pl": "jak się nazywasz?"
+    },
+    {
+      "id": "welcome",
+      "cs": "vítejte",
+      "en": "welcome",
+      "uk": "ласкаво просимо",
+      "ru": "добро пожаловать",
+      "pl": "witamy"
+    },
+    {
+      "id": "cheers",
+      "cs": "na zdraví",
+      "en": "cheers!",
+      "uk": "будьмо!",
+      "ru": "за здоровье!",
+      "pl": "na zdrowie!"
+    },
+    {
+      "id": "enjoy-your-meal",
+      "cs": "dobrou chuť",
+      "en": "enjoy your meal",
+      "uk": "смачного",
+      "ru": "приятного аппетита",
+      "pl": "smacznego"
+    },
+    {
+      "id": "i-don-t-understand",
+      "cs": "nerozumím",
+      "en": "I don't understand",
+      "uk": "не розумію",
+      "ru": "не понимаю",
+      "pl": "nie rozumiem"
+    },
+    {
+      "id": "i-don-t-know",
+      "cs": "nevím",
+      "en": "I don't know",
+      "uk": "не знаю",
+      "ru": "не знаю",
+      "pl": "nie wiem"
+    },
+    {
+      "id": "do-you-speak-english",
+      "cs": "mluvíte anglicky?",
+      "en": "do you speak English?",
+      "uk": "ви говорите англійською?",
+      "ru": "вы говорите по-английски?",
+      "pl": "czy mówi pan po angielsku?"
+    },
+    {
+      "id": "how-do-you-say",
+      "cs": "jak se řekne...?",
+      "en": "how do you say...?",
+      "uk": "як сказати...?",
+      "ru": "как сказать...?",
+      "pl": "jak się mówi...?"
+    },
+    {
+      "id": "can-you-repeat-that",
+      "cs": "můžete to zopakovat?",
+      "en": "can you repeat that?",
+      "uk": "можете повторити?",
+      "ru": "можете повторить?",
+      "pl": "może pan powtórzyć?"
+    },
+    {
+      "id": "speak-more-slowly",
+      "cs": "mluvte pomaleji",
+      "en": "speak more slowly",
+      "uk": "говоріть повільніше",
+      "ru": "говорите медленнее",
+      "pl": "proszę mówić wolniej"
+    },
+    {
+      "id": "where-is",
+      "cs": "kde je...?",
+      "en": "where is...?",
+      "uk": "де...?",
+      "ru": "где...?",
+      "pl": "gdzie jest...?"
+    },
+    {
+      "id": "help",
+      "cs": "pomoc!",
+      "en": "help!",
+      "uk": "допоможіть!",
+      "ru": "помогите!",
+      "pl": "pomocy!"
+    },
+    {
+      "id": "all-the-best",
+      "cs": "všechno nejlepší",
+      "en": "all the best",
+      "uk": "всього найкращого",
+      "ru": "всего наилучшего",
+      "pl": "wszystkiego najlepszego"
+    },
+    {
+      "id": "good-luck",
+      "cs": "hodně štěstí",
+      "en": "good luck",
+      "uk": "удачі",
+      "ru": "удачи",
+      "pl": "powodzenia"
+    },
+    {
+      "id": "of-course",
+      "cs": "samozřejmě",
+      "en": "of course",
+      "uk": "звичайно",
+      "ru": "конечно",
+      "pl": "oczywiście"
+    },
+    {
+      "id": "maybe",
+      "cs": "možná",
+      "en": "maybe",
+      "uk": "можливо",
+      "ru": "может быть",
+      "pl": "może"
+    },
+    {
+      "id": "unfortunately",
+      "cs": "bohužel",
+      "en": "unfortunately",
+      "uk": "на жаль",
+      "ru": "к сожалению",
+      "pl": "niestety"
+    },
+    {
+      "id": "excellent",
+      "cs": "výborně",
+      "en": "excellent!",
+      "uk": "чудово",
+      "ru": "отлично",
+      "pl": "świetnie"
+    },
+    {
+      "id": "congratulations",
+      "cs": "gratuluji",
+      "en": "congratulations",
+      "uk": "вітаю",
+      "ru": "поздравляю",
+      "pl": "gratuluję"
+    },
+    {
+      "id": "mrs",
+      "cs": "paní",
+      "en": "Mrs.",
+      "uk": "пані",
+      "ru": "госпожа",
+      "pl": "pani"
+    },
+    {
+      "id": "mr",
+      "cs": "pan",
+      "en": "Mr.",
+      "uk": "пан",
+      "ru": "господин",
+      "pl": "pan"
+    }
+  ]
+}

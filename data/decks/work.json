@@ -1,0 +1,445 @@
+{
+  "id": "work",
+  "order": 60,
+  "level": "B1",
+  "icon": "chart",
+  "title": {
+    "cs": "Práce a kancelář",
+    "en": "Work & Office",
+    "uk": "Робота та офіс",
+    "ru": "Работа и офис",
+    "pl": "Praca i biuro"
+  },
+  "description": {
+    "en": "Jobs, contracts and life at the office.",
+    "uk": "Робота, договори та офісне життя.",
+    "ru": "Работа, договоры и офисная жизнь.",
+    "pl": "Praca, umowy i życie w biurze."
+  },
+  "words": [
+    {
+      "id": "work",
+      "cs": "práce",
+      "en": "work",
+      "uk": "робота",
+      "ru": "работа",
+      "pl": "praca"
+    },
+    {
+      "id": "employment",
+      "cs": "zaměstnání",
+      "en": "employment",
+      "uk": "працевлаштування",
+      "ru": "трудоустройство",
+      "pl": "zatrudnienie"
+    },
+    {
+      "id": "office",
+      "cs": "kancelář",
+      "en": "office",
+      "uk": "офіс",
+      "ru": "офис",
+      "pl": "biuro"
+    },
+    {
+      "id": "company",
+      "cs": "firma",
+      "en": "company",
+      "uk": "компанія",
+      "ru": "компания",
+      "pl": "firma"
+    },
+    {
+      "id": "employer",
+      "cs": "zaměstnavatel",
+      "en": "employer",
+      "uk": "роботодавець",
+      "ru": "работодатель",
+      "pl": "pracodawca"
+    },
+    {
+      "id": "employee",
+      "cs": "zaměstnanec",
+      "en": "employee",
+      "uk": "працівник",
+      "ru": "сотрудник",
+      "pl": "pracownik"
+    },
+    {
+      "id": "colleague",
+      "cs": "kolega",
+      "en": "colleague",
+      "uk": "колега",
+      "ru": "коллега",
+      "pl": "kolega"
+    },
+    {
+      "id": "boss",
+      "cs": "šéf",
+      "en": "boss",
+      "uk": "начальник",
+      "ru": "начальник",
+      "pl": "szef"
+    },
+    {
+      "id": "team-leader",
+      "cs": "vedoucí",
+      "en": "team leader",
+      "uk": "керівник",
+      "ru": "руководитель",
+      "pl": "kierownik"
+    },
+    {
+      "id": "meeting",
+      "cs": "porada",
+      "en": "meeting",
+      "uk": "нарада",
+      "ru": "совещание",
+      "pl": "zebranie"
+    },
+    {
+      "id": "appointment",
+      "cs": "schůzka",
+      "en": "appointment",
+      "uk": "зустріч",
+      "ru": "встреча",
+      "pl": "spotkanie"
+    },
+    {
+      "id": "contract",
+      "cs": "smlouva",
+      "en": "contract",
+      "uk": "договір",
+      "ru": "договор",
+      "pl": "umowa"
+    },
+    {
+      "id": "salary",
+      "cs": "plat",
+      "en": "salary",
+      "uk": "заробітна плата",
+      "ru": "оклад",
+      "pl": "pensja"
+    },
+    {
+      "id": "overtime",
+      "cs": "přesčas",
+      "en": "overtime",
+      "uk": "понаднормова робота",
+      "ru": "сверхурочная работа",
+      "pl": "nadgodziny"
+    },
+    {
+      "id": "working-hours",
+      "cs": "pracovní doba",
+      "en": "working hours",
+      "uk": "робочий час",
+      "ru": "рабочее время",
+      "pl": "godziny pracy"
+    },
+    {
+      "id": "shift",
+      "cs": "směna",
+      "en": "shift",
+      "uk": "зміна",
+      "ru": "смена",
+      "pl": "zmiana"
+    },
+    {
+      "id": "night-shift",
+      "cs": "noční směna",
+      "en": "night shift",
+      "uk": "нічна зміна",
+      "ru": "ночная смена",
+      "pl": "nocna zmiana"
+    },
+    {
+      "id": "cv-resume",
+      "cs": "životopis",
+      "en": "CV / résumé",
+      "uk": "резюме",
+      "ru": "резюме",
+      "pl": "CV"
+    },
+    {
+      "id": "job-interview",
+      "cs": "pohovor",
+      "en": "job interview",
+      "uk": "співбесіда",
+      "ru": "собеседование",
+      "pl": "rozmowa kwalifikacyjna"
+    },
+    {
+      "id": "job-ad",
+      "cs": "inzerát",
+      "en": "job ad",
+      "uk": "оголошення",
+      "ru": "объявление",
+      "pl": "ogłoszenie"
+    },
+    {
+      "id": "applicant",
+      "cs": "uchazeč",
+      "en": "applicant",
+      "uk": "кандидат",
+      "ru": "кандидат",
+      "pl": "kandydat"
+    },
+    {
+      "id": "experience",
+      "cs": "zkušenost",
+      "en": "experience",
+      "uk": "досвід",
+      "ru": "опыт",
+      "pl": "doświadczenie"
+    },
+    {
+      "id": "skill",
+      "cs": "dovednost",
+      "en": "skill",
+      "uk": "навичка",
+      "ru": "навык",
+      "pl": "umiejętność"
+    },
+    {
+      "id": "qualification",
+      "cs": "kvalifikace",
+      "en": "qualification",
+      "uk": "кваліфікація",
+      "ru": "квалификация",
+      "pl": "kwalifikacje"
+    },
+    {
+      "id": "career",
+      "cs": "kariéra",
+      "en": "career",
+      "uk": "кар’єра",
+      "ru": "карьера",
+      "pl": "kariera"
+    },
+    {
+      "id": "promotion",
+      "cs": "povýšení",
+      "en": "promotion",
+      "uk": "підвищення",
+      "ru": "повышение",
+      "pl": "awans"
+    },
+    {
+      "id": "notice-resignation",
+      "cs": "výpověď",
+      "en": "notice (resignation)",
+      "uk": "звільнення",
+      "ru": "увольнение",
+      "pl": "wypowiedzenie"
+    },
+    {
+      "id": "retire",
+      "cs": "odejít do důchodu",
+      "en": "to retire",
+      "uk": "вийти на пенсію",
+      "ru": "выйти на пенсию",
+      "pl": "przejść na emeryturę"
+    },
+    {
+      "id": "probation-period",
+      "cs": "zkušební doba",
+      "en": "probation period",
+      "uk": "випробувальний термін",
+      "ru": "испытательный срок",
+      "pl": "okres próbny"
+    },
+    {
+      "id": "part-time",
+      "cs": "částečný úvazek",
+      "en": "part-time",
+      "uk": "неповний робочий день",
+      "ru": "неполный рабочий день",
+      "pl": "część etatu"
+    },
+    {
+      "id": "full-time",
+      "cs": "plný úvazek",
+      "en": "full-time",
+      "uk": "повний робочий день",
+      "ru": "полный рабочий день",
+      "pl": "pełny etat"
+    },
+    {
+      "id": "temp-job",
+      "cs": "brigáda",
+      "en": "temp job",
+      "uk": "підробіток",
+      "ru": "подработка",
+      "pl": "praca dorywcza"
+    },
+    {
+      "id": "self-employment",
+      "cs": "živnost",
+      "en": "self-employment",
+      "uk": "підприємницька діяльність",
+      "ru": "предпринимательство",
+      "pl": "działalność gospodarcza"
+    },
+    {
+      "id": "project",
+      "cs": "projekt",
+      "en": "project",
+      "uk": "проєкт",
+      "ru": "проект",
+      "pl": "projekt"
+    },
+    {
+      "id": "deadline",
+      "cs": "termín",
+      "en": "deadline",
+      "uk": "дедлайн",
+      "ru": "дедлайн",
+      "pl": "termin"
+    },
+    {
+      "id": "presentation",
+      "cs": "prezentace",
+      "en": "presentation",
+      "uk": "презентація",
+      "ru": "презентация",
+      "pl": "prezentacja"
+    },
+    {
+      "id": "report",
+      "cs": "zpráva",
+      "en": "report",
+      "uk": "звіт",
+      "ru": "отчёт",
+      "pl": "raport"
+    },
+    {
+      "id": "email",
+      "cs": "e-mail",
+      "en": "email",
+      "uk": "електронний лист",
+      "ru": "электронное письмо",
+      "pl": "e-mail"
+    },
+    {
+      "id": "copier",
+      "cs": "kopírka",
+      "en": "copier",
+      "uk": "копіювальний апарат",
+      "ru": "ксерокс",
+      "pl": "kserokopiarka"
+    },
+    {
+      "id": "business-card",
+      "cs": "vizitka",
+      "en": "business card",
+      "uk": "візитка",
+      "ru": "визитка",
+      "pl": "wizytówka"
+    },
+    {
+      "id": "business-trip",
+      "cs": "obchodní cesta",
+      "en": "business trip",
+      "uk": "відрядження",
+      "ru": "командировка",
+      "pl": "delegacja"
+    },
+    {
+      "id": "conference",
+      "cs": "konference",
+      "en": "conference",
+      "uk": "конференція",
+      "ru": "конференция",
+      "pl": "konferencja"
+    },
+    {
+      "id": "trade-union",
+      "cs": "odbory",
+      "en": "trade union",
+      "uk": "профспілка",
+      "ru": "профсоюз",
+      "pl": "związek zawodowy"
+    },
+    {
+      "id": "strike",
+      "cs": "stávka",
+      "en": "strike",
+      "uk": "страйк",
+      "ru": "забастовка",
+      "pl": "strajk"
+    },
+    {
+      "id": "profit",
+      "cs": "zisk",
+      "en": "profit",
+      "uk": "прибуток",
+      "ru": "прибыль",
+      "pl": "zysk"
+    },
+    {
+      "id": "loss",
+      "cs": "ztráta",
+      "en": "loss",
+      "uk": "збиток",
+      "ru": "убыток",
+      "pl": "strata"
+    },
+    {
+      "id": "budget",
+      "cs": "rozpočet",
+      "en": "budget",
+      "uk": "бюджет",
+      "ru": "бюджет",
+      "pl": "budżet"
+    },
+    {
+      "id": "job-market",
+      "cs": "trh práce",
+      "en": "job market",
+      "uk": "ринок праці",
+      "ru": "рынок труда",
+      "pl": "rynek pracy"
+    },
+    {
+      "id": "unemployment",
+      "cs": "nezaměstnanost",
+      "en": "unemployment",
+      "uk": "безробіття",
+      "ru": "безработица",
+      "pl": "bezrobocie"
+    },
+    {
+      "id": "hire",
+      "cs": "zaměstnat",
+      "en": "to hire",
+      "uk": "найняти",
+      "ru": "нанять",
+      "pl": "zatrudnić"
+    },
+    {
+      "id": "run-a-business",
+      "cs": "podnikat",
+      "en": "to run a business",
+      "uk": "займатися бізнесом",
+      "ru": "заниматься бизнесом",
+      "pl": "prowadzić firmę"
+    },
+    {
+      "id": "earn",
+      "cs": "vydělávat",
+      "en": "to earn",
+      "uk": "заробляти",
+      "ru": "зарабатывать",
+      "pl": "zarabiać"
+    },
+    {
+      "id": "cooperate",
+      "cs": "spolupracovat",
+      "en": "to cooperate",
+      "uk": "співпрацювати",
+      "ru": "сотрудничать",
+      "pl": "współpracować"
+    }
+  ]
+}

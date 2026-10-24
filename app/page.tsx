@@ -8,6 +8,9 @@ import { getPrefs, getT } from "@/lib/i18n/server";
 import { getPlanPrices } from "@/lib/stripe";
 import { LANG_CODES, LANG_NAMES, SOURCE_LANGS, type SourceLang } from "@/lib/types";
 
+/** How many deck chips the landing page shows before "+N more". */
+const SHOWN_DECKS = 16;
+
 /** A static mini board for the hero: a few cards face up, one pair found. */
 function HeroBoard({ lang }: { lang: SourceLang }) {
   const animals = getDeck("animals")!.words;
@@ -196,7 +199,7 @@ export default async function HomePage() {
         </h2>
         <p className="mt-3 text-lg text-muted">{t("home.decksText", { total: TOTAL_DECK_COUNT })}</p>
         <ul className="mt-8 flex flex-wrap gap-2.5">
-          {decks.map((d) => (
+          {decks.slice(0, SHOWN_DECKS).map((d) => (
             <li key={d.id}>
               <Link
                 href={`/play/${d.id}`}
@@ -210,6 +213,14 @@ export default async function HomePage() {
               </Link>
             </li>
           ))}
+          {decks.length > SHOWN_DECKS && (
+            <li>
+              <Link href="/play" className="flex items-center gap-2 rounded-full bg-invert py-2 pl-4 pr-3 font-semibold text-invert-fg">
+                {t("home.moreDecks", { n: decks.length - SHOWN_DECKS })}
+                <Icon name="arrow-right" size={16} />
+              </Link>
+            </li>
+          )}
         </ul>
       </section>
 

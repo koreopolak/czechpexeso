@@ -1,6 +1,6 @@
 {
   "id": "body",
-  "order": 10,
+  "order": 6,
   "level": "A1",
   "icon": "hand",
   "title": {
@@ -176,6 +176,246 @@
       "uk": "лікоть",
       "ru": "локоть",
       "pl": "łokieć"
+    },
+    {
+      "id": "forehead",
+      "cs": "čelo",
+      "en": "forehead",
+      "uk": "лоб",
+      "ru": "лоб",
+      "pl": "czoło"
+    },
+    {
+      "id": "cheek",
+      "cs": "tvář",
+      "en": "cheek",
+      "uk": "щока",
+      "ru": "щека",
+      "pl": "policzek"
+    },
+    {
+      "id": "chin",
+      "cs": "brada",
+      "en": "chin",
+      "uk": "підборіддя",
+      "ru": "подбородок",
+      "pl": "broda"
+    },
+    {
+      "id": "lips",
+      "cs": "rty",
+      "en": "lips",
+      "uk": "губи",
+      "ru": "губы",
+      "pl": "wargi"
+    },
+    {
+      "id": "eyebrow",
+      "cs": "obočí",
+      "en": "eyebrow",
+      "uk": "брова",
+      "ru": "бровь",
+      "pl": "brew"
+    },
+    {
+      "id": "eyelash",
+      "cs": "řasa",
+      "en": "eyelash",
+      "uk": "вія",
+      "ru": "ресница",
+      "pl": "rzęsa"
+    },
+    {
+      "id": "beard",
+      "cs": "vousy",
+      "en": "beard",
+      "uk": "борода",
+      "ru": "борода",
+      "pl": "zarost"
+    },
+    {
+      "id": "mustache",
+      "cs": "knír",
+      "en": "mustache",
+      "uk": "вуса",
+      "ru": "усы",
+      "pl": "wąsy"
+    },
+    {
+      "id": "palm-of-the-hand",
+      "cs": "dlaň",
+      "en": "palm (of the hand)",
+      "uk": "долоня",
+      "ru": "ладонь",
+      "pl": "dłoń"
+    },
+    {
+      "id": "fist",
+      "cs": "pěst",
+      "en": "fist",
+      "uk": "кулак",
+      "ru": "кулак",
+      "pl": "pięść"
+    },
+    {
+      "id": "nail",
+      "cs": "nehet",
+      "en": "nail",
+      "uk": "ніготь",
+      "ru": "ноготь",
+      "pl": "paznokieć"
+    },
+    {
+      "id": "wrist",
+      "cs": "zápěstí",
+      "en": "wrist",
+      "uk": "зап’ястя",
+      "ru": "запястье",
+      "pl": "nadgarstek"
+    },
+    {
+      "id": "chest",
+      "cs": "hrudník",
+      "en": "chest",
+      "uk": "груди",
+      "ru": "грудь",
+      "pl": "klatka piersiowa"
+    },
+    {
+      "id": "skin",
+      "cs": "kůže",
+      "en": "skin",
+      "uk": "шкіра",
+      "ru": "кожа",
+      "pl": "skóra"
+    },
+    {
+      "id": "bone",
+      "cs": "kost",
+      "en": "bone",
+      "uk": "кістка",
+      "ru": "кость",
+      "pl": "kość"
+    },
+    {
+      "id": "muscle",
+      "cs": "sval",
+      "en": "muscle",
+      "uk": "м’яз",
+      "ru": "мышца",
+      "pl": "mięsień"
+    },
+    {
+      "id": "blood",
+      "cs": "krev",
+      "en": "blood",
+      "uk": "кров",
+      "ru": "кровь",
+      "pl": "krew"
+    },
+    {
+      "id": "brain",
+      "cs": "mozek",
+      "en": "brain",
+      "uk": "мозок",
+      "ru": "мозг",
+      "pl": "mózg"
+    },
+    {
+      "id": "lungs",
+      "cs": "plíce",
+      "en": "lungs",
+      "uk": "легені",
+      "ru": "лёгкие",
+      "pl": "płuca"
+    },
+    {
+      "id": "stomach",
+      "cs": "žaludek",
+      "en": "stomach",
+      "uk": "шлунок",
+      "ru": "желудок",
+      "pl": "żołądek"
+    },
+    {
+      "id": "liver",
+      "cs": "játra",
+      "en": "liver",
+      "uk": "печінка",
+      "ru": "печень",
+      "pl": "wątroba"
+    },
+    {
+      "id": "kidneys",
+      "cs": "ledviny",
+      "en": "kidneys",
+      "uk": "нирки",
+      "ru": "почки",
+      "pl": "nerki"
+    },
+    {
+      "id": "ankle",
+      "cs": "kotník",
+      "en": "ankle",
+      "uk": "щиколотка",
+      "ru": "лодыжка",
+      "pl": "kostka"
+    },
+    {
+      "id": "heel",
+      "cs": "pata",
+      "en": "heel",
+      "uk": "п’ята",
+      "ru": "пятка",
+      "pl": "pięta"
+    },
+    {
+      "id": "sole-of-the-foot",
+      "cs": "chodidlo",
+      "en": "sole (of the foot)",
+      "uk": "стопа",
+      "ru": "ступня",
+      "pl": "stopa"
+    },
+    {
+      "id": "thigh",
+      "cs": "stehno",
+      "en": "thigh",
+      "uk": "стегно",
+      "ru": "бедро",
+      "pl": "udo"
+    },
+    {
+      "id": "spine",
+      "cs": "páteř",
+      "en": "spine",
+      "uk": "хребет",
+      "ru": "позвоночник",
+      "pl": "kręgosłup"
+    },
+    {
+      "id": "throat",
+      "cs": "hrdlo",
+      "en": "throat",
+      "uk": "горло",
+      "ru": "горло",
+      "pl": "gardło"
+    },
+    {
+      "id": "belly-button",
+      "cs": "pupek",
+      "en": "belly button",
+      "uk": "пупок",
+      "ru": "пупок",
+      "pl": "pępek"
+    },
+    {
+      "id": "toe",
+      "cs": "prst na noze",
+      "en": "toe",
+      "uk": "палець ноги",
+      "ru": "палец ноги",
+      "pl": "palec u nogi"
     }
   ]
 }

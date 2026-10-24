@@ -1,0 +1,381 @@
+{
+  "id": "materials",
+  "order": 50,
+  "level": "A2",
+  "icon": "cube",
+  "title": {
+    "cs": "Materiály a tvary",
+    "en": "Materials & Shapes",
+    "uk": "Матеріали та форми",
+    "ru": "Материалы и формы",
+    "pl": "Materiały i kształty"
+  },
+  "description": {
+    "en": "What things are made of, and their shapes.",
+    "uk": "З чого зроблені речі та їхні форми.",
+    "ru": "Из чего сделаны вещи и их формы.",
+    "pl": "Z czego są zrobione rzeczy i ich kształty."
+  },
+  "words": [
+    {
+      "id": "material",
+      "cs": "materiál",
+      "en": "material",
+      "uk": "матеріал",
+      "ru": "материал",
+      "pl": "materiał"
+    },
+    {
+      "id": "wood",
+      "cs": "dřevo",
+      "en": "wood",
+      "uk": "деревина",
+      "ru": "древесина",
+      "pl": "drewno"
+    },
+    {
+      "id": "metal",
+      "cs": "kov",
+      "en": "metal",
+      "uk": "метал",
+      "ru": "металл",
+      "pl": "metal"
+    },
+    {
+      "id": "iron-metal",
+      "cs": "železo",
+      "en": "iron (metal)",
+      "uk": "залізо",
+      "ru": "железо",
+      "pl": "żelazo"
+    },
+    {
+      "id": "steel",
+      "cs": "ocel",
+      "en": "steel",
+      "uk": "сталь",
+      "ru": "сталь",
+      "pl": "stal"
+    },
+    {
+      "id": "gold",
+      "cs": "zlato",
+      "en": "gold",
+      "uk": "золото",
+      "ru": "золото",
+      "pl": "złoto"
+    },
+    {
+      "id": "silver-metal",
+      "cs": "stříbro",
+      "en": "silver (metal)",
+      "uk": "срібло",
+      "ru": "серебро",
+      "pl": "srebro"
+    },
+    {
+      "id": "copper",
+      "cs": "měď",
+      "en": "copper",
+      "uk": "мідь",
+      "ru": "медь",
+      "pl": "miedź"
+    },
+    {
+      "id": "aluminum",
+      "cs": "hliník",
+      "en": "aluminum",
+      "uk": "алюміній",
+      "ru": "алюминий",
+      "pl": "aluminium"
+    },
+    {
+      "id": "glass-material",
+      "cs": "sklo",
+      "en": "glass (material)",
+      "uk": "скло",
+      "ru": "стекло",
+      "pl": "szkło"
+    },
+    {
+      "id": "plastic",
+      "cs": "plast",
+      "en": "plastic",
+      "uk": "пластик",
+      "ru": "пластик",
+      "pl": "plastik"
+    },
+    {
+      "id": "paper",
+      "cs": "papír",
+      "en": "paper",
+      "uk": "папір",
+      "ru": "бумага",
+      "pl": "papier"
+    },
+    {
+      "id": "cardboard",
+      "cs": "karton",
+      "en": "cardboard",
+      "uk": "картон",
+      "ru": "картон",
+      "pl": "karton"
+    },
+    {
+      "id": "fabric",
+      "cs": "látka",
+      "en": "fabric",
+      "uk": "тканина",
+      "ru": "ткань",
+      "pl": "tkanina"
+    },
+    {
+      "id": "cotton",
+      "cs": "bavlna",
+      "en": "cotton",
+      "uk": "бавовна",
+      "ru": "хлопок",
+      "pl": "bawełna"
+    },
+    {
+      "id": "wool",
+      "cs": "vlna",
+      "en": "wool",
+      "uk": "вовна",
+      "ru": "шерсть",
+      "pl": "wełna"
+    },
+    {
+      "id": "silk",
+      "cs": "hedvábí",
+      "en": "silk",
+      "uk": "шовк",
+      "ru": "шёлк",
+      "pl": "jedwab"
+    },
+    {
+      "id": "leather",
+      "cs": "kůže",
+      "en": "leather",
+      "uk": "шкіра",
+      "ru": "кожа",
+      "pl": "skóra"
+    },
+    {
+      "id": "rubber",
+      "cs": "guma",
+      "en": "rubber",
+      "uk": "гума",
+      "ru": "резина",
+      "pl": "guma"
+    },
+    {
+      "id": "concrete",
+      "cs": "beton",
+      "en": "concrete",
+      "uk": "бетон",
+      "ru": "бетон",
+      "pl": "beton"
+    },
+    {
+      "id": "brick",
+      "cs": "cihla",
+      "en": "brick",
+      "uk": "цегла",
+      "ru": "кирпич",
+      "pl": "cegła"
+    },
+    {
+      "id": "marble",
+      "cs": "mramor",
+      "en": "marble",
+      "uk": "мармур",
+      "ru": "мрамор",
+      "pl": "marmur"
+    },
+    {
+      "id": "porcelain",
+      "cs": "porcelán",
+      "en": "porcelain",
+      "uk": "порцеляна",
+      "ru": "фарфор",
+      "pl": "porcelana"
+    },
+    {
+      "id": "ceramics",
+      "cs": "keramika",
+      "en": "ceramics",
+      "uk": "кераміка",
+      "ru": "керамика",
+      "pl": "ceramika"
+    },
+    {
+      "id": "wax",
+      "cs": "vosk",
+      "en": "wax",
+      "uk": "віск",
+      "ru": "воск",
+      "pl": "wosk"
+    },
+    {
+      "id": "coal",
+      "cs": "uhlí",
+      "en": "coal",
+      "uk": "вугілля",
+      "ru": "уголь",
+      "pl": "węgiel"
+    },
+    {
+      "id": "shape",
+      "cs": "tvar",
+      "en": "shape",
+      "uk": "форма",
+      "ru": "форма",
+      "pl": "kształt"
+    },
+    {
+      "id": "circle",
+      "cs": "kruh",
+      "en": "circle",
+      "uk": "коло",
+      "ru": "круг",
+      "pl": "koło"
+    },
+    {
+      "id": "square",
+      "cs": "čtverec",
+      "en": "square",
+      "uk": "квадрат",
+      "ru": "квадрат",
+      "pl": "kwadrat"
+    },
+    {
+      "id": "triangle",
+      "cs": "trojúhelník",
+      "en": "triangle",
+      "uk": "трикутник",
+      "ru": "треугольник",
+      "pl": "trójkąt"
+    },
+    {
+      "id": "rectangle",
+      "cs": "obdélník",
+      "en": "rectangle",
+      "uk": "прямокутник",
+      "ru": "прямоугольник",
+      "pl": "prostokąt"
+    },
+    {
+      "id": "sphere",
+      "cs": "koule",
+      "en": "sphere",
+      "uk": "куля",
+      "ru": "шар",
+      "pl": "kula"
+    },
+    {
+      "id": "cube",
+      "cs": "krychle",
+      "en": "cube",
+      "uk": "куб",
+      "ru": "куб",
+      "pl": "sześcian"
+    },
+    {
+      "id": "cylinder",
+      "cs": "válec",
+      "en": "cylinder",
+      "uk": "циліндр",
+      "ru": "цилиндр",
+      "pl": "walec"
+    },
+    {
+      "id": "pyramid",
+      "cs": "jehlan",
+      "en": "pyramid",
+      "uk": "піраміда",
+      "ru": "пирамида",
+      "pl": "ostrosłup"
+    },
+    {
+      "id": "cone",
+      "cs": "kužel",
+      "en": "cone",
+      "uk": "конус",
+      "ru": "конус",
+      "pl": "stożek"
+    },
+    {
+      "id": "line",
+      "cs": "čára",
+      "en": "line",
+      "uk": "лінія",
+      "ru": "линия",
+      "pl": "linia"
+    },
+    {
+      "id": "point",
+      "cs": "bod",
+      "en": "point",
+      "uk": "точка",
+      "ru": "точка",
+      "pl": "punkt"
+    },
+    {
+      "id": "angle",
+      "cs": "úhel",
+      "en": "angle",
+      "uk": "кут",
+      "ru": "угол",
+      "pl": "kąt"
+    },
+    {
+      "id": "arrow",
+      "cs": "šipka",
+      "en": "arrow",
+      "uk": "стрілка",
+      "ru": "стрелка",
+      "pl": "strzałka"
+    },
+    {
+      "id": "spiral",
+      "cs": "spirála",
+      "en": "spiral",
+      "uk": "спіраль",
+      "ru": "спираль",
+      "pl": "spirala"
+    },
+    {
+      "id": "pattern",
+      "cs": "vzor",
+      "en": "pattern",
+      "uk": "візерунок",
+      "ru": "узор",
+      "pl": "wzór"
+    },
+    {
+      "id": "surface",
+      "cs": "povrch",
+      "en": "surface",
+      "uk": "поверхня",
+      "ru": "поверхность",
+      "pl": "powierzchnia"
+    },
+    {
+      "id": "edge",
+      "cs": "okraj",
+      "en": "edge",
+      "uk": "край",
+      "ru": "край",
+      "pl": "krawędź"
+    },
+    {
+      "id": "center",
+      "cs": "střed",
+      "en": "center",
+      "uk": "центр",
+      "ru": "центр",
+      "pl": "środek"
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "id": "adjectives-more",
+  "order": 73,
+  "level": "B1",
+  "icon": "check",
+  "title": {
+    "cs": "Další přídavná jména",
+    "en": "More Adjectives",
+    "uk": "Ще прикметники",
+    "ru": "Ещё прилагательные",
+    "pl": "Więcej przymiotników"
+  },
+  "description": {
+    "en": "Adjectives for opinions, people and situations.",
+    "uk": "Прикметники для думок, людей і ситуацій.",
+    "ru": "Прилагательные для мнений, людей и ситуаций.",
+    "pl": "Przymiotniki do opinii, ludzi i sytuacji."
+  },
+  "words": [
+    {
+      "id": "necessary",
+      "cs": "nutný",
+      "en": "necessary",
+      "uk": "необхідний",
+      "ru": "необходимый",
+      "pl": "konieczny"
+    },
+    {
+      "id": "needed",
+      "cs": "potřebný",
+      "en": "needed",
+      "uk": "потрібний",
+      "ru": "нужный",
+      "pl": "potrzebny"
+    },
+    {
+      "id": "suitable",
+      "cs": "vhodný",
+      "en": "suitable",
+      "uk": "придатний",
+      "ru": "подходящий",
+      "pl": "odpowiedni"
+    },
+    {
+      "id": "unsuitable",
+      "cs": "nevhodný",
+      "en": "unsuitable",
+      "uk": "непридатний",
+      "ru": "неподходящий",
+      "pl": "nieodpowiedni"
+    },
+    {
+      "id": "available",
+      "cs": "dostupný",
+      "en": "available",
+      "uk": "доступний",
+      "ru": "доступный",
+      "pl": "dostępny"
+    },
+    {
+      "id": "occupied",
+      "cs": "obsazený",
+      "en": "occupied",
+      "uk": "зайнятий",
+      "ru": "занятый",
+      "pl": "zajęty"
+    },
+    {
+      "id": "optional",
+      "cs": "volitelný",
+      "en": "optional",
+      "uk": "необов’язковий",
+      "ru": "необязательный",
+      "pl": "opcjonalny"
+    },
+    {
+      "id": "compulsory",
+      "cs": "povinný",
+      "en": "compulsory",
+      "uk": "обов’язковий",
+      "ru": "обязательный",
+      "pl": "obowiązkowy"
+    },
+    {
+      "id": "precise",
+      "cs": "přesný",
+      "en": "precise",
+      "uk": "точний",
+      "ru": "точный",
+      "pl": "dokładny"
+    },
+    {
+      "id": "approximate",
+      "cs": "přibližný",
+      "en": "approximate",
+      "uk": "приблизний",
+      "ru": "приблизительный",
+      "pl": "przybliżony"
+    },
+    {
+      "id": "specific",
+      "cs": "konkrétní",
+      "en": "specific",
+      "uk": "конкретний",
+      "ru": "конкретный",
+      "pl": "konkretny"
+    },
+    {
+      "id": "general",
+      "cs": "obecný",
+      "en": "general",
+      "uk": "загальний",
+      "ru": "общий",
+      "pl": "ogólny"
+    },
+    {
+      "id": "special",
+      "cs": "speciální",
+      "en": "special",
+      "uk": "спеціальний",
+      "ru": "специальный",
+      "pl": "specjalny"
+    },
+    {
+      "id": "exceptional",
+      "cs": "výjimečný",
+      "en": "exceptional",
+      "uk": "винятковий",
+      "ru": "исключительный",
+      "pl": "wyjątkowy"
+    },
+    {
+      "id": "typical",
+      "cs": "typický",
+      "en": "typical",
+      "uk": "типовий",
+      "ru": "типичный",
+      "pl": "typowy"
+    },
+    {
+      "id": "normal",
+      "cs": "normální",
+      "en": "normal",
+      "uk": "нормальний",
+      "ru": "нормальный",
+      "pl": "normalny"
+    },
+    {
+      "id": "weird",
+      "cs": "divný",
+      "en": "weird",
+      "uk": "дивний",
+      "ru": "странный",
+      "pl": "dziwaczny"
+    },
+    {
+      "id": "successful",
+      "cs": "úspěšný",
+      "en": "successful",
+      "uk": "успішний",
+      "ru": "успешный",
+      "pl": "udany"
+    },
+    {
+      "id": "unsuccessful",
+      "cs": "neúspěšný",
+      "en": "unsuccessful",
+      "uk": "невдалий",
+      "ru": "неудачный",
+      "pl": "nieudany"
+    },
+    {
+      "id": "famous",
+      "cs": "slavný",
+      "en": "famous",
+      "uk": "знаменитий",
+      "ru": "знаменитый",
+      "pl": "sławny"
+    },
+    {
+      "id": "well-known",
+      "cs": "známý",
+      "en": "well-known",
+      "uk": "відомий",
+      "ru": "известный",
+      "pl": "znany"
+    },
+    {
+      "id": "unknown",
+      "cs": "neznámý",
+      "en": "unknown",
+      "uk": "невідомий",
+      "ru": "неизвестный",
+      "pl": "nieznany"
+    },
+    {
+      "id": "popular",
+      "cs": "populární",
+      "en": "popular",
+      "uk": "популярний",
+      "ru": "популярный",
+      "pl": "popularny"
+    },
+    {
+      "id": "favorite",
+      "cs": "oblíbený",
+      "en": "favorite",
+      "uk": "улюблений",
+      "ru": "любимый",
+      "pl": "ulubiony"
+    },
+    {
+      "id": "own",
+      "cs": "vlastní",
+      "en": "own",
+      "uk": "власний",
+      "ru": "собственный",
+      "pl": "własny"
+    },
+    {
+      "id": "shared",
+      "cs": "společný",
+      "en": "shared",
+      "uk": "спільний",
+      "ru": "совместный",
+      "pl": "wspólny"
+    },
+    {
+      "id": "personal",
+      "cs": "osobní",
+      "en": "personal",
+      "uk": "особистий",
+      "ru": "личный",
+      "pl": "osobisty"
+    },
+    {
+      "id": "official",
+      "cs": "úřední",
+      "en": "official",
+      "uk": "офіційний",
+      "ru": "официальный",
+      "pl": "urzędowy"
+    },
+    {
+      "id": "informal",
+      "cs": "neformální",
+      "en": "informal",
+      "uk": "неформальний",
+      "ru": "неформальный",
+      "pl": "nieformalny"
+    },
+    {
+      "id": "formal",
+      "cs": "formální",
+      "en": "formal",
+      "uk": "формальний",
+      "ru": "формальный",
+      "pl": "formalny"
+    },
+    {
+      "id": "legal",
+      "cs": "legální",
+      "en": "legal",
+      "uk": "законний",
+      "ru": "законный",
+      "pl": "legalny"
+    },
+    {
+      "id": "illegal",
+      "cs": "nelegální",
+      "en": "illegal",
+      "uk": "незаконний",
+      "ru": "незаконный",
+      "pl": "nielegalny"
+    },
+    {
+      "id": "fair",
+      "cs": "spravedlivý",
+      "en": "fair",
+      "uk": "справедливий",
+      "ru": "справедливый",
+      "pl": "sprawiedliwy"
+    },
+    {
+      "id": "unfair",
+      "cs": "nespravedlivý",
+      "en": "unfair",
+      "uk": "несправедливий",
+      "ru": "несправедливый",
+      "pl": "niesprawiedliwy"
+    },
+    {
+      "id": "independent",
+      "cs": "nezávislý",
+      "en": "independent",
+      "uk": "незалежний",
+      "ru": "независимый",
+      "pl": "niezależny"
+    },
+    {
+      "id": "dependent",
+      "cs": "závislý",
+      "en": "dependent",
+      "uk": "залежний",
+      "ru": "зависимый",
+      "pl": "zależny"
+    },
+    {
+      "id": "active",
+      "cs": "aktivní",
+      "en": "active",
+      "uk": "активний",
+      "ru": "активный",
+      "pl": "aktywny"
+    },
+    {
+      "id": "passive",
+      "cs": "pasivní",
+      "en": "passive",
+      "uk": "пасивний",
+      "ru": "пассивный",
+      "pl": "pasywny"
+    },
+    {
+      "id": "positive",
+      "cs": "pozitivní",
+      "en": "positive",
+      "uk": "позитивний",
+      "ru": "позитивный",
+      "pl": "pozytywny"
+    },
+    {
+      "id": "negative",
+      "cs": "negativní",
+      "en": "negative",
+      "uk": "негативний",
+      "ru": "негативный",
+      "pl": "negatywny"
+    },
+    {
+      "id": "practical",
+      "cs": "praktický",
+      "en": "practical",
+      "uk": "практичний",
+      "ru": "практичный",
+      "pl": "praktyczny"
+    },
+    {
+      "id": "theoretical",
+      "cs": "teoretický",
+      "en": "theoretical",
+      "uk": "теоретичний",
+      "ru": "теоретический",
+      "pl": "teoretyczny"
+    },
+    {
+      "id": "logical",
+      "cs": "logický",
+      "en": "logical",
+      "uk": "логічний",
+      "ru": "логичный",
+      "pl": "logiczny"
+    },
+    {
+      "id": "sensible",
+      "cs": "rozumný",
+      "en": "sensible",
+      "uk": "розсудливий",
+      "ru": "разумный",
+      "pl": "rozsądny"
+    },
+    {
+      "id": "crazy",
+      "cs": "šílený",
+      "en": "crazy",
+      "uk": "божевільний",
+      "ru": "сумасшедший",
+      "pl": "szalony"
+    },
+    {
+      "id": "sensitive",
+      "cs": "citlivý",
+      "en": "sensitive",
+      "uk": "чутливий",
+      "ru": "чувствительный",
+      "pl": "wrażliwy"
+    },
+    {
+      "id": "tolerant",
+      "cs": "tolerantní",
+      "en": "tolerant",
+      "uk": "толерантний",
+      "ru": "толерантный",
+      "pl": "tolerancyjny"
+    },
+    {
+      "id": "strict",
+      "cs": "přísný",
+      "en": "strict",
+      "uk": "суворий",
+      "ru": "строгий",
+      "pl": "surowy"
+    },
+    {
+      "id": "mild",
+      "cs": "mírný",
+      "en": "mild",
+      "uk": "м’який",
+      "ru": "мягкий",
+      "pl": "łagodny"
+    },
+    {
+      "id": "cruel",
+      "cs": "krutý",
+      "en": "cruel",
+      "uk": "жорстокий",
+      "ru": "жестокий",
+      "pl": "okrutny"
+    },
+    {
+      "id": "tender",
+      "cs": "něžný",
+      "en": "tender",
+      "uk": "ніжний",
+      "ru": "нежный",
+      "pl": "czuły"
+    },
+    {
+      "id": "passionate",
+      "cs": "vášnivý",
+      "en": "passionate",
+      "uk": "пристрасний",
+      "ru": "страстный",
+      "pl": "namiętny"
+    },
+    {
+      "id": "tired",
+      "cs": "unavený",
+      "en": "tired",
+      "uk": "втомлений",
+      "ru": "усталый",
+      "pl": "zmęczony"
+    },
+    {
+      "id": "sleepy",
+      "cs": "ospalý",
+      "en": "sleepy",
+      "uk": "сонний",
+      "ru": "сонный",
+      "pl": "śpiący"
+    },
+    {
+      "id": "hungry",
+      "cs": "hladový",
+      "en": "hungry",
+      "uk": "голодний",
+      "ru": "голодный",
+      "pl": "głodny"
+    },
+    {
+      "id": "thirsty",
+      "cs": "žíznivý",
+      "en": "thirsty",
+      "uk": "спраглий",
+      "ru": "жаждущий",
+      "pl": "spragniony"
+    },
+    {
+      "id": "drunk",
+      "cs": "opilý",
+      "en": "drunk",
+      "uk": "п’яний",
+      "ru": "пьяный",
+      "pl": "pijany"
+    },
+    {
+      "id": "sober",
+      "cs": "střízlivý",
+      "en": "sober",
+      "uk": "тверезий",
+      "ru": "трезвый",
+      "pl": "trzeźwy"
+    },
+    {
+      "id": "adult",
+      "cs": "dospělý",
+      "en": "adult",
+      "uk": "дорослий",
+      "ru": "взрослый",
+      "pl": "dorosły"
+    },
+    {
+      "id": "underage",
+      "cs": "nezletilý",
+      "en": "underage",
+      "uk": "неповнолітній",
+      "ru": "несовершеннолетний",
+      "pl": "nieletni"
+    },
+    {
+      "id": "elderly",
+      "cs": "starší",
+      "en": "elderly",
+      "uk": "літній",
+      "ru": "пожилой",
+      "pl": "starszy"
+    },
+    {
+      "id": "younger",
+      "cs": "mladší",
+      "en": "younger",
+      "uk": "молодший",
+      "ru": "младший",
+      "pl": "młodszy"
+    },
+    {
+      "id": "former",
+      "cs": "dřívější",
+      "en": "former",
+      "uk": "колишній",
+      "ru": "бывший",
+      "pl": "dawny"
+    },
+    {
+      "id": "future-adjective",
+      "cs": "budoucí",
+      "en": "future (adjective)",
+      "uk": "майбутній",
+      "ru": "будущий",
+      "pl": "przyszły"
+    },
+    {
+      "id": "current",
+      "cs": "současný",
+      "en": "current",
+      "uk": "сучасний",
+      "ru": "современный",
+      "pl": "obecny"
+    },
+    {
+      "id": "following",
+      "cs": "následující",
+      "en": "following",
+      "uk": "наступний",
+      "ru": "следующий",
+      "pl": "następny"
+    },
+    {
+      "id": "previous",
+      "cs": "předchozí",
+      "en": "previous",
+      "uk": "попередній",
+      "ru": "предыдущий",
+      "pl": "poprzedni"
+    },
+    {
+      "id": "daily",
+      "cs": "denní",
+      "en": "daily",
+      "uk": "щоденний",
+      "ru": "ежедневный",
+      "pl": "codzienny"
+    },
+    {
+      "id": "weekly",
+      "cs": "týdenní",
+      "en": "weekly",
+      "uk": "щотижневий",
+      "ru": "еженедельный",
+      "pl": "cotygodniowy"
+    },
+    {
+      "id": "monthly",
+      "cs": "měsíční",
+      "en": "monthly",
+      "uk": "щомісячний",
+      "ru": "ежемесячный",
+      "pl": "comiesięczny"
+    },
+    {
+      "id": "annual",
+      "cs": "roční",
+      "en": "annual",
+      "uk": "щорічний",
+      "ru": "ежегодный",
+      "pl": "coroczny"
+    }
+  ]
+}

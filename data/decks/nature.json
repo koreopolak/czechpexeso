@@ -1,6 +1,6 @@
 {
   "id": "nature",
-  "order": 9,
+  "order": 17,
   "level": "A1",
   "icon": "leaf",
   "title": {
@@ -192,6 +192,222 @@
       "uk": "земля",
       "ru": "земля",
       "pl": "ziemia"
+    },
+    {
+      "id": "valley",
+      "cs": "údolí",
+      "en": "valley",
+      "uk": "долина",
+      "ru": "долина",
+      "pl": "dolina"
+    },
+    {
+      "id": "hill",
+      "cs": "kopec",
+      "en": "hill",
+      "uk": "пагорб",
+      "ru": "холм",
+      "pl": "wzgórze"
+    },
+    {
+      "id": "cliff",
+      "cs": "skála",
+      "en": "cliff",
+      "uk": "скеля",
+      "ru": "скала",
+      "pl": "skała"
+    },
+    {
+      "id": "cave",
+      "cs": "jeskyně",
+      "en": "cave",
+      "uk": "печера",
+      "ru": "пещера",
+      "pl": "jaskinia"
+    },
+    {
+      "id": "volcano",
+      "cs": "sopka",
+      "en": "volcano",
+      "uk": "вулкан",
+      "ru": "вулкан",
+      "pl": "wulkan"
+    },
+    {
+      "id": "desert",
+      "cs": "poušť",
+      "en": "desert",
+      "uk": "пустеля",
+      "ru": "пустыня",
+      "pl": "pustynia"
+    },
+    {
+      "id": "jungle",
+      "cs": "džungle",
+      "en": "jungle",
+      "uk": "джунглі",
+      "ru": "джунгли",
+      "pl": "dżungla"
+    },
+    {
+      "id": "stream",
+      "cs": "potok",
+      "en": "stream",
+      "uk": "струмок",
+      "ru": "ручей",
+      "pl": "strumień"
+    },
+    {
+      "id": "waterfall",
+      "cs": "vodopád",
+      "en": "waterfall",
+      "uk": "водоспад",
+      "ru": "водопад",
+      "pl": "wodospad"
+    },
+    {
+      "id": "beach",
+      "cs": "pláž",
+      "en": "beach",
+      "uk": "пляж",
+      "ru": "пляж",
+      "pl": "plaża"
+    },
+    {
+      "id": "shore",
+      "cs": "břeh",
+      "en": "shore",
+      "uk": "берег",
+      "ru": "берег",
+      "pl": "brzeg"
+    },
+    {
+      "id": "wave",
+      "cs": "vlna",
+      "en": "wave",
+      "uk": "хвиля",
+      "ru": "волна",
+      "pl": "fala"
+    },
+    {
+      "id": "ocean",
+      "cs": "oceán",
+      "en": "ocean",
+      "uk": "океан",
+      "ru": "океан",
+      "pl": "ocean"
+    },
+    {
+      "id": "bay",
+      "cs": "záliv",
+      "en": "bay",
+      "uk": "затока",
+      "ru": "залив",
+      "pl": "zatoka"
+    },
+    {
+      "id": "pond",
+      "cs": "rybník",
+      "en": "pond",
+      "uk": "ставок",
+      "ru": "пруд",
+      "pl": "staw"
+    },
+    {
+      "id": "swamp",
+      "cs": "bažina",
+      "en": "swamp",
+      "uk": "болото",
+      "ru": "болото",
+      "pl": "bagno"
+    },
+    {
+      "id": "sand",
+      "cs": "písek",
+      "en": "sand",
+      "uk": "пісок",
+      "ru": "песок",
+      "pl": "piasek"
+    },
+    {
+      "id": "soil",
+      "cs": "hlína",
+      "en": "soil",
+      "uk": "ґрунт",
+      "ru": "почва",
+      "pl": "gleba"
+    },
+    {
+      "id": "nature",
+      "cs": "příroda",
+      "en": "nature",
+      "uk": "природа",
+      "ru": "природа",
+      "pl": "przyroda"
+    },
+    {
+      "id": "landscape",
+      "cs": "krajina",
+      "en": "landscape",
+      "uk": "краєвид",
+      "ru": "пейзаж",
+      "pl": "krajobraz"
+    },
+    {
+      "id": "summit",
+      "cs": "vrchol",
+      "en": "summit",
+      "uk": "вершина",
+      "ru": "вершина",
+      "pl": "szczyt"
+    },
+    {
+      "id": "primeval-forest",
+      "cs": "prales",
+      "en": "primeval forest",
+      "uk": "праліс",
+      "ru": "девственный лес",
+      "pl": "puszcza"
+    },
+    {
+      "id": "plain",
+      "cs": "rovina",
+      "en": "plain",
+      "uk": "рівнина",
+      "ru": "равнина",
+      "pl": "równina"
+    },
+    {
+      "id": "sunrise",
+      "cs": "východ slunce",
+      "en": "sunrise",
+      "uk": "схід сонця",
+      "ru": "восход солнца",
+      "pl": "wschód słońca"
+    },
+    {
+      "id": "sunset",
+      "cs": "západ slunce",
+      "en": "sunset",
+      "uk": "захід сонця",
+      "ru": "закат",
+      "pl": "zachód słońca"
+    },
+    {
+      "id": "horizon",
+      "cs": "horizont",
+      "en": "horizon",
+      "uk": "горизонт",
+      "ru": "горизонт",
+      "pl": "horyzont"
+    },
+    {
+      "id": "peninsula",
+      "cs": "poloostrov",
+      "en": "peninsula",
+      "uk": "півострів",
+      "ru": "полуостров",
+      "pl": "półwysep"
     }
   ]
 }

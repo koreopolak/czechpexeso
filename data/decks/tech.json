@@ -1,0 +1,461 @@
+{
+  "id": "tech",
+  "order": 61,
+  "level": "B1",
+  "icon": "laptop",
+  "title": {
+    "cs": "Technika a internet",
+    "en": "Technology & Internet",
+    "uk": "Технології та інтернет",
+    "ru": "Технологии и интернет",
+    "pl": "Technologia i internet"
+  },
+  "description": {
+    "en": "Computers, phones and life online.",
+    "uk": "Комп’ютери, телефони та життя онлайн.",
+    "ru": "Компьютеры, телефоны и жизнь онлайн.",
+    "pl": "Komputery, telefony i życie online."
+  },
+  "words": [
+    {
+      "id": "computer",
+      "cs": "počítač",
+      "en": "computer",
+      "uk": "комп’ютер",
+      "ru": "компьютер",
+      "pl": "komputer"
+    },
+    {
+      "id": "laptop",
+      "cs": "notebook",
+      "en": "laptop",
+      "uk": "ноутбук",
+      "ru": "ноутбук",
+      "pl": "laptop"
+    },
+    {
+      "id": "tablet",
+      "cs": "tablet",
+      "en": "tablet",
+      "uk": "планшет",
+      "ru": "планшет",
+      "pl": "tablet"
+    },
+    {
+      "id": "mobile-phone",
+      "cs": "mobil",
+      "en": "mobile phone",
+      "uk": "мобільний телефон",
+      "ru": "мобильный телефон",
+      "pl": "komórka"
+    },
+    {
+      "id": "smartphone",
+      "cs": "chytrý telefon",
+      "en": "smartphone",
+      "uk": "смартфон",
+      "ru": "смартфон",
+      "pl": "smartfon"
+    },
+    {
+      "id": "charger",
+      "cs": "nabíječka",
+      "en": "charger",
+      "uk": "зарядний пристрій",
+      "ru": "зарядное устройство",
+      "pl": "ładowarka"
+    },
+    {
+      "id": "battery",
+      "cs": "baterie",
+      "en": "battery",
+      "uk": "батарея",
+      "ru": "аккумулятор",
+      "pl": "bateria"
+    },
+    {
+      "id": "screen",
+      "cs": "obrazovka",
+      "en": "screen",
+      "uk": "екран",
+      "ru": "экран",
+      "pl": "ekran"
+    },
+    {
+      "id": "keyboard",
+      "cs": "klávesnice",
+      "en": "keyboard",
+      "uk": "клавіатура",
+      "ru": "клавиатура",
+      "pl": "klawiatura"
+    },
+    {
+      "id": "computer-mouse",
+      "cs": "myš",
+      "en": "computer mouse",
+      "uk": "комп’ютерна миша",
+      "ru": "компьютерная мышь",
+      "pl": "myszka komputerowa"
+    },
+    {
+      "id": "printer",
+      "cs": "tiskárna",
+      "en": "printer",
+      "uk": "принтер",
+      "ru": "принтер",
+      "pl": "drukarka"
+    },
+    {
+      "id": "speaker",
+      "cs": "reproduktor",
+      "en": "speaker",
+      "uk": "колонка",
+      "ru": "колонка",
+      "pl": "głośnik"
+    },
+    {
+      "id": "headphones",
+      "cs": "sluchátka",
+      "en": "headphones",
+      "uk": "навушники",
+      "ru": "наушники",
+      "pl": "słuchawki"
+    },
+    {
+      "id": "cable",
+      "cs": "kabel",
+      "en": "cable",
+      "uk": "кабель",
+      "ru": "кабель",
+      "pl": "kabel"
+    },
+    {
+      "id": "internet",
+      "cs": "internet",
+      "en": "internet",
+      "uk": "інтернет",
+      "ru": "интернет",
+      "pl": "internet"
+    },
+    {
+      "id": "connection",
+      "cs": "připojení",
+      "en": "connection",
+      "uk": "підключення",
+      "ru": "подключение",
+      "pl": "połączenie"
+    },
+    {
+      "id": "network",
+      "cs": "síť",
+      "en": "network",
+      "uk": "мережа",
+      "ru": "сеть",
+      "pl": "sieć"
+    },
+    {
+      "id": "website",
+      "cs": "webová stránka",
+      "en": "website",
+      "uk": "вебсайт",
+      "ru": "веб-сайт",
+      "pl": "strona internetowa"
+    },
+    {
+      "id": "app",
+      "cs": "aplikace",
+      "en": "app",
+      "uk": "застосунок",
+      "ru": "приложение",
+      "pl": "aplikacja"
+    },
+    {
+      "id": "program",
+      "cs": "program",
+      "en": "program",
+      "uk": "програма",
+      "ru": "программа",
+      "pl": "program"
+    },
+    {
+      "id": "file",
+      "cs": "soubor",
+      "en": "file",
+      "uk": "файл",
+      "ru": "файл",
+      "pl": "plik"
+    },
+    {
+      "id": "folder",
+      "cs": "složka",
+      "en": "folder",
+      "uk": "папка",
+      "ru": "папка",
+      "pl": "folder"
+    },
+    {
+      "id": "password",
+      "cs": "heslo",
+      "en": "password",
+      "uk": "пароль",
+      "ru": "пароль",
+      "pl": "hasło"
+    },
+    {
+      "id": "username",
+      "cs": "uživatelské jméno",
+      "en": "username",
+      "uk": "ім’я користувача",
+      "ru": "имя пользователя",
+      "pl": "nazwa użytkownika"
+    },
+    {
+      "id": "account",
+      "cs": "účet",
+      "en": "account",
+      "uk": "обліковий запис",
+      "ru": "учётная запись",
+      "pl": "konto"
+    },
+    {
+      "id": "log-in",
+      "cs": "přihlásit se",
+      "en": "to log in",
+      "uk": "увійти в систему",
+      "ru": "войти в систему",
+      "pl": "zalogować się"
+    },
+    {
+      "id": "log-out",
+      "cs": "odhlásit se",
+      "en": "to log out",
+      "uk": "вийти з системи",
+      "ru": "выйти из системы",
+      "pl": "wylogować się"
+    },
+    {
+      "id": "download",
+      "cs": "stáhnout",
+      "en": "to download",
+      "uk": "завантажити",
+      "ru": "скачать",
+      "pl": "pobrać"
+    },
+    {
+      "id": "upload",
+      "cs": "nahrát",
+      "en": "to upload",
+      "uk": "вивантажити",
+      "ru": "загрузить",
+      "pl": "wgrać"
+    },
+    {
+      "id": "save",
+      "cs": "uložit",
+      "en": "to save",
+      "uk": "зберегти",
+      "ru": "сохранить",
+      "pl": "zapisać"
+    },
+    {
+      "id": "delete",
+      "cs": "smazat",
+      "en": "to delete",
+      "uk": "видалити",
+      "ru": "удалить",
+      "pl": "usunąć"
+    },
+    {
+      "id": "click",
+      "cs": "kliknout",
+      "en": "to click",
+      "uk": "клацнути",
+      "ru": "кликнуть",
+      "pl": "kliknąć"
+    },
+    {
+      "id": "share",
+      "cs": "sdílet",
+      "en": "to share",
+      "uk": "поділитися",
+      "ru": "поделиться",
+      "pl": "udostępnić"
+    },
+    {
+      "id": "install",
+      "cs": "nainstalovat",
+      "en": "to install",
+      "uk": "встановити",
+      "ru": "установить",
+      "pl": "zainstalować"
+    },
+    {
+      "id": "update",
+      "cs": "aktualizace",
+      "en": "update",
+      "uk": "оновлення",
+      "ru": "обновление",
+      "pl": "aktualizacja"
+    },
+    {
+      "id": "social-media",
+      "cs": "sociální sítě",
+      "en": "social media",
+      "uk": "соціальні мережі",
+      "ru": "социальные сети",
+      "pl": "media społecznościowe"
+    },
+    {
+      "id": "post",
+      "cs": "příspěvek",
+      "en": "post",
+      "uk": "допис",
+      "ru": "пост",
+      "pl": "post"
+    },
+    {
+      "id": "like",
+      "cs": "lajk",
+      "en": "like",
+      "uk": "лайк",
+      "ru": "лайк",
+      "pl": "polubienie"
+    },
+    {
+      "id": "video-call",
+      "cs": "videohovor",
+      "en": "video call",
+      "uk": "відеодзвінок",
+      "ru": "видеозвонок",
+      "pl": "rozmowa wideo"
+    },
+    {
+      "id": "link",
+      "cs": "odkaz",
+      "en": "link",
+      "uk": "посилання",
+      "ru": "ссылка",
+      "pl": "link"
+    },
+    {
+      "id": "browser",
+      "cs": "prohlížeč",
+      "en": "browser",
+      "uk": "браузер",
+      "ru": "браузер",
+      "pl": "przeglądarka"
+    },
+    {
+      "id": "search-engine",
+      "cs": "vyhledávač",
+      "en": "search engine",
+      "uk": "пошукова система",
+      "ru": "поисковая система",
+      "pl": "wyszukiwarka"
+    },
+    {
+      "id": "virus",
+      "cs": "virus",
+      "en": "virus",
+      "uk": "вірус",
+      "ru": "вирус",
+      "pl": "wirus"
+    },
+    {
+      "id": "data",
+      "cs": "data",
+      "en": "data",
+      "uk": "дані",
+      "ru": "данные",
+      "pl": "dane"
+    },
+    {
+      "id": "cloud-storage",
+      "cs": "cloud",
+      "en": "cloud (storage)",
+      "uk": "хмарне сховище",
+      "ru": "облачное хранилище",
+      "pl": "chmura"
+    },
+    {
+      "id": "digital",
+      "cs": "digitální",
+      "en": "digital",
+      "uk": "цифровий",
+      "ru": "цифровой",
+      "pl": "cyfrowy"
+    },
+    {
+      "id": "online",
+      "cs": "online",
+      "en": "online",
+      "uk": "онлайн",
+      "ru": "онлайн",
+      "pl": "online"
+    },
+    {
+      "id": "robot",
+      "cs": "robot",
+      "en": "robot",
+      "uk": "робот",
+      "ru": "робот",
+      "pl": "robot"
+    },
+    {
+      "id": "artificial-intelligence",
+      "cs": "umělá inteligence",
+      "en": "artificial intelligence",
+      "uk": "штучний інтелект",
+      "ru": "искусственный интеллект",
+      "pl": "sztuczna inteligencja"
+    },
+    {
+      "id": "display",
+      "cs": "displej",
+      "en": "display",
+      "uk": "дисплей",
+      "ru": "дисплей",
+      "pl": "wyświetlacz"
+    },
+    {
+      "id": "usb-stick",
+      "cs": "USB disk",
+      "en": "USB stick",
+      "uk": "флешка",
+      "ru": "флешка",
+      "pl": "pendrive"
+    },
+    {
+      "id": "technology",
+      "cs": "technologie",
+      "en": "technology",
+      "uk": "технологія",
+      "ru": "технология",
+      "pl": "technologia"
+    },
+    {
+      "id": "electronics",
+      "cs": "elektronika",
+      "en": "electronics",
+      "uk": "електроніка",
+      "ru": "электроника",
+      "pl": "elektronika"
+    },
+    {
+      "id": "restart",
+      "cs": "restartovat",
+      "en": "to restart",
+      "uk": "перезапустити",
+      "ru": "перезапустить",
+      "pl": "zrestartować"
+    },
+    {
+      "id": "print",
+      "cs": "tisknout",
+      "en": "to print",
+      "uk": "друкувати",
+      "ru": "печатать",
+      "pl": "drukować"
+    }
+  ]
+}

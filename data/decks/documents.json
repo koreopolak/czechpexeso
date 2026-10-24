@@ -1,0 +1,421 @@
+{
+  "id": "documents",
+  "order": 62,
+  "level": "B1",
+  "icon": "document",
+  "title": {
+    "cs": "Úřady a doklady",
+    "en": "Offices & Documents",
+    "uk": "Установи та документи",
+    "ru": "Учреждения и документы",
+    "pl": "Urzędy i dokumenty"
+  },
+  "description": {
+    "en": "Paperwork, permits and dealing with officials.",
+    "uk": "Документи, дозволи та спілкування з установами.",
+    "ru": "Документы, разрешения и общение с учреждениями.",
+    "pl": "Papiery, zezwolenia i sprawy urzędowe."
+  },
+  "words": [
+    {
+      "id": "public-office",
+      "cs": "úřad",
+      "en": "public office",
+      "uk": "установа",
+      "ru": "учреждение",
+      "pl": "urząd"
+    },
+    {
+      "id": "document",
+      "cs": "doklad",
+      "en": "document",
+      "uk": "документ",
+      "ru": "документ",
+      "pl": "dokument"
+    },
+    {
+      "id": "id-card",
+      "cs": "občanský průkaz",
+      "en": "ID card",
+      "uk": "посвідчення особи",
+      "ru": "удостоверение личности",
+      "pl": "dowód osobisty"
+    },
+    {
+      "id": "driving-license",
+      "cs": "řidičský průkaz",
+      "en": "driving license",
+      "uk": "посвідчення водія",
+      "ru": "водительские права",
+      "pl": "prawo jazdy"
+    },
+    {
+      "id": "birth-certificate",
+      "cs": "rodný list",
+      "en": "birth certificate",
+      "uk": "свідоцтво про народження",
+      "ru": "свидетельство о рождении",
+      "pl": "akt urodzenia"
+    },
+    {
+      "id": "marriage-certificate",
+      "cs": "oddací list",
+      "en": "marriage certificate",
+      "uk": "свідоцтво про шлюб",
+      "ru": "свидетельство о браке",
+      "pl": "akt małżeństwa"
+    },
+    {
+      "id": "form",
+      "cs": "formulář",
+      "en": "form",
+      "uk": "бланк",
+      "ru": "бланк",
+      "pl": "formularz"
+    },
+    {
+      "id": "application",
+      "cs": "žádost",
+      "en": "application",
+      "uk": "заява",
+      "ru": "заявление",
+      "pl": "wniosek"
+    },
+    {
+      "id": "signature",
+      "cs": "podpis",
+      "en": "signature",
+      "uk": "підпис",
+      "ru": "подпись",
+      "pl": "podpis"
+    },
+    {
+      "id": "official-stamp",
+      "cs": "razítko",
+      "en": "official stamp",
+      "uk": "печатка",
+      "ru": "печать",
+      "pl": "pieczątka"
+    },
+    {
+      "id": "copy",
+      "cs": "kopie",
+      "en": "copy",
+      "uk": "копія",
+      "ru": "копия",
+      "pl": "kopia"
+    },
+    {
+      "id": "original",
+      "cs": "originál",
+      "en": "original",
+      "uk": "оригінал",
+      "ru": "оригинал",
+      "pl": "oryginał"
+    },
+    {
+      "id": "certification",
+      "cs": "ověření",
+      "en": "certification",
+      "uk": "засвідчення",
+      "ru": "заверение",
+      "pl": "poświadczenie"
+    },
+    {
+      "id": "translation",
+      "cs": "překlad",
+      "en": "translation",
+      "uk": "переклад",
+      "ru": "перевод",
+      "pl": "tłumaczenie"
+    },
+    {
+      "id": "residence-permit",
+      "cs": "povolení k pobytu",
+      "en": "residence permit",
+      "uk": "дозвіл на проживання",
+      "ru": "вид на жительство",
+      "pl": "zezwolenie na pobyt"
+    },
+    {
+      "id": "work-permit",
+      "cs": "pracovní povolení",
+      "en": "work permit",
+      "uk": "дозвіл на роботу",
+      "ru": "разрешение на работу",
+      "pl": "pozwolenie na pracę"
+    },
+    {
+      "id": "temporary-protection",
+      "cs": "dočasná ochrana",
+      "en": "temporary protection",
+      "uk": "тимчасовий захист",
+      "ru": "временная защита",
+      "pl": "ochrona czasowa"
+    },
+    {
+      "id": "asylum",
+      "cs": "azyl",
+      "en": "asylum",
+      "uk": "притулок",
+      "ru": "убежище",
+      "pl": "azyl"
+    },
+    {
+      "id": "foreign-police",
+      "cs": "cizinecká policie",
+      "en": "foreign police",
+      "uk": "поліція у справах іноземців",
+      "ru": "миграционная полиция",
+      "pl": "policja cudzoziemska"
+    },
+    {
+      "id": "ministry-of-the-interior",
+      "cs": "ministerstvo vnitra",
+      "en": "Ministry of the Interior",
+      "uk": "Міністерство внутрішніх справ",
+      "ru": "Министерство внутренних дел",
+      "pl": "Ministerstwo Spraw Wewnętrznych"
+    },
+    {
+      "id": "health-insurance",
+      "cs": "zdravotní pojištění",
+      "en": "health insurance",
+      "uk": "медичне страхування",
+      "ru": "медицинская страховка",
+      "pl": "ubezpieczenie zdrowotne"
+    },
+    {
+      "id": "insurance",
+      "cs": "pojištění",
+      "en": "insurance",
+      "uk": "страхування",
+      "ru": "страхование",
+      "pl": "ubezpieczenie"
+    },
+    {
+      "id": "insurance-company",
+      "cs": "pojišťovna",
+      "en": "insurance company",
+      "uk": "страхова компанія",
+      "ru": "страховая компания",
+      "pl": "ubezpieczyciel"
+    },
+    {
+      "id": "social-benefits",
+      "cs": "sociální dávky",
+      "en": "social benefits",
+      "uk": "соціальні виплати",
+      "ru": "социальные пособия",
+      "pl": "świadczenia socjalne"
+    },
+    {
+      "id": "labor-office",
+      "cs": "úřad práce",
+      "en": "labor office",
+      "uk": "центр зайнятості",
+      "ru": "центр занятости",
+      "pl": "urząd pracy"
+    },
+    {
+      "id": "tax-office",
+      "cs": "finanční úřad",
+      "en": "tax office",
+      "uk": "податкова",
+      "ru": "налоговая",
+      "pl": "urząd skarbowy"
+    },
+    {
+      "id": "tax-return",
+      "cs": "daňové přiznání",
+      "en": "tax return",
+      "uk": "податкова декларація",
+      "ru": "налоговая декларация",
+      "pl": "zeznanie podatkowe"
+    },
+    {
+      "id": "personal-id-number",
+      "cs": "rodné číslo",
+      "en": "personal ID number",
+      "uk": "персональний номер",
+      "ru": "персональный номер",
+      "pl": "numer identyfikacyjny"
+    },
+    {
+      "id": "address",
+      "cs": "adresa",
+      "en": "address",
+      "uk": "адреса",
+      "ru": "адрес",
+      "pl": "adres"
+    },
+    {
+      "id": "permanent-residence",
+      "cs": "trvalé bydliště",
+      "en": "permanent residence",
+      "uk": "постійне місце проживання",
+      "ru": "постоянное место жительства",
+      "pl": "stałe miejsce zamieszkania"
+    },
+    {
+      "id": "temporary-residence",
+      "cs": "přechodné bydliště",
+      "en": "temporary residence",
+      "uk": "тимчасове місце проживання",
+      "ru": "временное место жительства",
+      "pl": "tymczasowe miejsce zamieszkania"
+    },
+    {
+      "id": "date-of-birth",
+      "cs": "datum narození",
+      "en": "date of birth",
+      "uk": "дата народження",
+      "ru": "дата рождения",
+      "pl": "data urodzenia"
+    },
+    {
+      "id": "place-of-birth",
+      "cs": "místo narození",
+      "en": "place of birth",
+      "uk": "місце народження",
+      "ru": "место рождения",
+      "pl": "miejsce urodzenia"
+    },
+    {
+      "id": "surname",
+      "cs": "příjmení",
+      "en": "surname",
+      "uk": "прізвище",
+      "ru": "фамилия",
+      "pl": "nazwisko"
+    },
+    {
+      "id": "first-name",
+      "cs": "jméno",
+      "en": "first name",
+      "uk": "ім’я",
+      "ru": "имя",
+      "pl": "imię"
+    },
+    {
+      "id": "marital-status",
+      "cs": "rodinný stav",
+      "en": "marital status",
+      "uk": "сімейний стан",
+      "ru": "семейное положение",
+      "pl": "stan cywilny"
+    },
+    {
+      "id": "single-not-married",
+      "cs": "svobodný",
+      "en": "single (not married)",
+      "uk": "неодружений",
+      "ru": "холостой",
+      "pl": "stanu wolnego"
+    },
+    {
+      "id": "married-man",
+      "cs": "ženatý",
+      "en": "married (man)",
+      "uk": "одружений",
+      "ru": "женатый",
+      "pl": "żonaty"
+    },
+    {
+      "id": "married-woman",
+      "cs": "vdaná",
+      "en": "married (woman)",
+      "uk": "заміжня",
+      "ru": "замужем",
+      "pl": "zamężna"
+    },
+    {
+      "id": "official-deadline",
+      "cs": "lhůta",
+      "en": "official deadline",
+      "uk": "термін",
+      "ru": "срок",
+      "pl": "termin"
+    },
+    {
+      "id": "administrative-fee",
+      "cs": "správní poplatek",
+      "en": "administrative fee",
+      "uk": "адміністративний збір",
+      "ru": "административная пошлина",
+      "pl": "opłata administracyjna"
+    },
+    {
+      "id": "make-an-appointment",
+      "cs": "objednat se",
+      "en": "to make an appointment",
+      "uk": "записатися на прийом",
+      "ru": "записаться на приём",
+      "pl": "umówić się"
+    },
+    {
+      "id": "fill-in",
+      "cs": "vyplnit",
+      "en": "to fill in",
+      "uk": "заповнити",
+      "ru": "заполнить",
+      "pl": "wypełnić"
+    },
+    {
+      "id": "apply",
+      "cs": "podat žádost",
+      "en": "to apply",
+      "uk": "подати заяву",
+      "ru": "подать заявление",
+      "pl": "złożyć wniosek"
+    },
+    {
+      "id": "extend",
+      "cs": "prodloužit",
+      "en": "to extend",
+      "uk": "продовжити",
+      "ru": "продлить",
+      "pl": "przedłużyć"
+    },
+    {
+      "id": "valid",
+      "cs": "platný",
+      "en": "valid",
+      "uk": "дійсний",
+      "ru": "действительный",
+      "pl": "ważny"
+    },
+    {
+      "id": "invalid",
+      "cs": "neplatný",
+      "en": "invalid",
+      "uk": "недійсний",
+      "ru": "недействительный",
+      "pl": "nieważny"
+    },
+    {
+      "id": "notary",
+      "cs": "notář",
+      "en": "notary",
+      "uk": "нотаріус",
+      "ru": "нотариус",
+      "pl": "notariusz"
+    },
+    {
+      "id": "office-hours",
+      "cs": "úřední hodiny",
+      "en": "office hours",
+      "uk": "години прийому",
+      "ru": "часы приёма",
+      "pl": "godziny urzędowania"
+    },
+    {
+      "id": "data-box-e-government",
+      "cs": "datová schránka",
+      "en": "data box (e-government)",
+      "uk": "електронна скринька",
+      "ru": "электронный ящик",
+      "pl": "skrzynka elektroniczna"
+    }
+  ]
+}

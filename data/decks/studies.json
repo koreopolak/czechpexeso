@@ -1,0 +1,381 @@
+{
+  "id": "studies",
+  "order": 71,
+  "level": "B1",
+  "icon": "book",
+  "title": {
+    "cs": "Studium a univerzita",
+    "en": "Studies & University",
+    "uk": "Навчання та університет",
+    "ru": "Учёба и университет",
+    "pl": "Studia i uniwersytet"
+  },
+  "description": {
+    "en": "University life, courses and exams.",
+    "uk": "Студентське життя, курси та іспити.",
+    "ru": "Студенческая жизнь, курсы и экзамены.",
+    "pl": "Życie studenckie, kursy i egzaminy."
+  },
+  "words": [
+    {
+      "id": "university",
+      "cs": "univerzita",
+      "en": "university",
+      "uk": "університет",
+      "ru": "университет",
+      "pl": "uniwersytet"
+    },
+    {
+      "id": "college",
+      "cs": "vysoká škola",
+      "en": "college",
+      "uk": "вищий навчальний заклад",
+      "ru": "высшее учебное заведение",
+      "pl": "szkoła wyższa"
+    },
+    {
+      "id": "faculty",
+      "cs": "fakulta",
+      "en": "faculty",
+      "uk": "факультет",
+      "ru": "факультет",
+      "pl": "wydział"
+    },
+    {
+      "id": "field-of-study",
+      "cs": "obor",
+      "en": "field of study",
+      "uk": "спеціальність",
+      "ru": "специальность",
+      "pl": "kierunek studiów"
+    },
+    {
+      "id": "lecture",
+      "cs": "přednáška",
+      "en": "lecture",
+      "uk": "лекція",
+      "ru": "лекция",
+      "pl": "wykład"
+    },
+    {
+      "id": "seminar",
+      "cs": "seminář",
+      "en": "seminar",
+      "uk": "семінар",
+      "ru": "семинар",
+      "pl": "seminarium"
+    },
+    {
+      "id": "professor",
+      "cs": "profesor",
+      "en": "professor",
+      "uk": "професор",
+      "ru": "профессор",
+      "pl": "profesor"
+    },
+    {
+      "id": "associate-professor",
+      "cs": "docent",
+      "en": "associate professor",
+      "uk": "доцент",
+      "ru": "доцент",
+      "pl": "docent"
+    },
+    {
+      "id": "lecturer",
+      "cs": "vyučující",
+      "en": "lecturer",
+      "uk": "викладач",
+      "ru": "преподаватель",
+      "pl": "wykładowca"
+    },
+    {
+      "id": "semester",
+      "cs": "semestr",
+      "en": "semester",
+      "uk": "семестр",
+      "ru": "семестр",
+      "pl": "semestr"
+    },
+    {
+      "id": "entrance-exam",
+      "cs": "přijímací zkouška",
+      "en": "entrance exam",
+      "uk": "вступний іспит",
+      "ru": "вступительный экзамен",
+      "pl": "egzamin wstępny"
+    },
+    {
+      "id": "application-to-study",
+      "cs": "přihláška",
+      "en": "application (to study)",
+      "uk": "заява на вступ",
+      "ru": "заявление на поступление",
+      "pl": "podanie na studia"
+    },
+    {
+      "id": "enrollment",
+      "cs": "zápis",
+      "en": "enrollment",
+      "uk": "зарахування",
+      "ru": "зачисление",
+      "pl": "zapis"
+    },
+    {
+      "id": "scholarship",
+      "cs": "stipendium",
+      "en": "scholarship",
+      "uk": "стипендія",
+      "ru": "стипендия",
+      "pl": "stypendium"
+    },
+    {
+      "id": "dormitory",
+      "cs": "kolej",
+      "en": "dormitory",
+      "uk": "гуртожиток",
+      "ru": "общежитие",
+      "pl": "akademik"
+    },
+    {
+      "id": "university-cafeteria",
+      "cs": "menza",
+      "en": "university cafeteria",
+      "uk": "студентська їдальня",
+      "ru": "студенческая столовая",
+      "pl": "stołówka studencka"
+    },
+    {
+      "id": "bachelor-s-degree",
+      "cs": "bakalář",
+      "en": "bachelor's degree",
+      "uk": "бакалавр",
+      "ru": "бакалавр",
+      "pl": "licencjat"
+    },
+    {
+      "id": "master-s-degree",
+      "cs": "magistr",
+      "en": "master's degree",
+      "uk": "магістр",
+      "ru": "магистр",
+      "pl": "magister"
+    },
+    {
+      "id": "doctorate",
+      "cs": "doktorát",
+      "en": "doctorate",
+      "uk": "докторський ступінь",
+      "ru": "докторская степень",
+      "pl": "doktorat"
+    },
+    {
+      "id": "diploma",
+      "cs": "diplom",
+      "en": "diploma",
+      "uk": "диплом",
+      "ru": "диплом",
+      "pl": "dyplom"
+    },
+    {
+      "id": "thesis",
+      "cs": "diplomová práce",
+      "en": "thesis",
+      "uk": "дипломна робота",
+      "ru": "дипломная работа",
+      "pl": "praca dyplomowa"
+    },
+    {
+      "id": "graduation-ceremony",
+      "cs": "promoce",
+      "en": "graduation ceremony",
+      "uk": "випускна церемонія",
+      "ru": "выпускная церемония",
+      "pl": "uroczystość wręczenia dyplomów"
+    },
+    {
+      "id": "graduate",
+      "cs": "absolvent",
+      "en": "graduate",
+      "uk": "випускник",
+      "ru": "выпускник",
+      "pl": "absolwent"
+    },
+    {
+      "id": "course",
+      "cs": "kurz",
+      "en": "course",
+      "uk": "курс",
+      "ru": "курс",
+      "pl": "kurs"
+    },
+    {
+      "id": "credit",
+      "cs": "kredit",
+      "en": "credit",
+      "uk": "кредит",
+      "ru": "кредит",
+      "pl": "punkt ECTS"
+    },
+    {
+      "id": "course-credit-pass",
+      "cs": "zápočet",
+      "en": "course credit (pass)",
+      "uk": "залік",
+      "ru": "зачёт",
+      "pl": "zaliczenie"
+    },
+    {
+      "id": "notes",
+      "cs": "poznámky",
+      "en": "notes",
+      "uk": "нотатки",
+      "ru": "конспект",
+      "pl": "notatki"
+    },
+    {
+      "id": "essay",
+      "cs": "esej",
+      "en": "essay",
+      "uk": "есе",
+      "ru": "эссе",
+      "pl": "esej"
+    },
+    {
+      "id": "presentation-school",
+      "cs": "referát",
+      "en": "presentation (school)",
+      "uk": "доповідь",
+      "ru": "доклад",
+      "pl": "referat"
+    },
+    {
+      "id": "citation",
+      "cs": "citace",
+      "en": "citation",
+      "uk": "цитата",
+      "ru": "цитата",
+      "pl": "cytat"
+    },
+    {
+      "id": "bibliography",
+      "cs": "bibliografie",
+      "en": "bibliography",
+      "uk": "бібліографія",
+      "ru": "библиография",
+      "pl": "bibliografia"
+    },
+    {
+      "id": "plagiarism",
+      "cs": "plagiát",
+      "en": "plagiarism",
+      "uk": "плагіат",
+      "ru": "плагиат",
+      "pl": "plagiat"
+    },
+    {
+      "id": "exam-results",
+      "cs": "výsledky zkoušek",
+      "en": "exam results",
+      "uk": "результати іспитів",
+      "ru": "результаты экзаменов",
+      "pl": "wyniki egzaminów"
+    },
+    {
+      "id": "exam-period",
+      "cs": "zkouškové období",
+      "en": "exam period",
+      "uk": "сесія",
+      "ru": "сессия",
+      "pl": "sesja"
+    },
+    {
+      "id": "resit",
+      "cs": "opravný termín",
+      "en": "resit",
+      "uk": "перескладання",
+      "ru": "пересдача",
+      "pl": "poprawka"
+    },
+    {
+      "id": "academic-performance",
+      "cs": "prospěch",
+      "en": "academic performance",
+      "uk": "успішність",
+      "ru": "успеваемость",
+      "pl": "wyniki w nauce"
+    },
+    {
+      "id": "education",
+      "cs": "vzdělání",
+      "en": "education",
+      "uk": "освіта",
+      "ru": "образование",
+      "pl": "wykształcenie"
+    },
+    {
+      "id": "language-course",
+      "cs": "jazykový kurz",
+      "en": "language course",
+      "uk": "мовні курси",
+      "ru": "языковые курсы",
+      "pl": "kurs językowy"
+    },
+    {
+      "id": "lifelong-learning",
+      "cs": "celoživotní vzdělávání",
+      "en": "lifelong learning",
+      "uk": "навчання протягом життя",
+      "ru": "обучение в течение жизни",
+      "pl": "kształcenie ustawiczne"
+    },
+    {
+      "id": "exchange-program",
+      "cs": "výměnný pobyt",
+      "en": "exchange program",
+      "uk": "програма обміну",
+      "ru": "программа обмена",
+      "pl": "wymiana studencka"
+    },
+    {
+      "id": "school-leaving-exam",
+      "cs": "maturita",
+      "en": "school-leaving exam",
+      "uk": "випускний іспит",
+      "ru": "выпускной экзамен",
+      "pl": "matura"
+    },
+    {
+      "id": "certificate",
+      "cs": "certifikát",
+      "en": "certificate",
+      "uk": "сертифікат",
+      "ru": "сертификат",
+      "pl": "certyfikat"
+    },
+    {
+      "id": "recognition-of-a-diploma",
+      "cs": "nostrifikace",
+      "en": "recognition of a diploma",
+      "uk": "визнання диплома",
+      "ru": "признание диплома",
+      "pl": "nostryfikacja"
+    },
+    {
+      "id": "hand-in",
+      "cs": "odevzdat",
+      "en": "to hand in",
+      "uk": "здати",
+      "ru": "сдать",
+      "pl": "oddać"
+    },
+    {
+      "id": "repeat-a-year",
+      "cs": "opakovat ročník",
+      "en": "to repeat a year",
+      "uk": "залишитися на другий рік",
+      "ru": "остаться на второй год",
+      "pl": "powtarzać rok"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": "weather",
+  "order": 18,
+  "level": "A1",
+  "icon": "cloud",
+  "title": {
+    "cs": "Počasí a roční období",
+    "en": "Weather & Seasons",
+    "uk": "Погода та пори року",
+    "ru": "Погода и времена года",
+    "pl": "Pogoda i pory roku"
+  },
+  "description": {
+    "en": "Weather, temperature and the four seasons.",
+    "uk": "Погода, температура та пори року.",
+    "ru": "Погода, температура и времена года.",
+    "pl": "Pogoda, temperatura i pory roku."
+  },
+  "words": [
+    {
+      "id": "weather",
+      "cs": "počasí",
+      "en": "weather",
+      "uk": "погода",
+      "ru": "погода",
+      "pl": "pogoda"
+    },
+    {
+      "id": "spring",
+      "cs": "jaro",
+      "en": "spring",
+      "uk": "весна",
+      "ru": "весна",
+      "pl": "wiosna"
+    },
+    {
+      "id": "summer",
+      "cs": "léto",
+      "en": "summer",
+      "uk": "літо",
+      "ru": "лето",
+      "pl": "lato"
+    },
+    {
+      "id": "autumn",
+      "cs": "podzim",
+      "en": "autumn",
+      "uk": "осінь",
+      "ru": "осень",
+      "pl": "jesień"
+    },
+    {
+      "id": "winter",
+      "cs": "zima",
+      "en": "winter",
+      "uk": "зима",
+      "ru": "зима",
+      "pl": "zima"
+    },
+    {
+      "id": "warm",
+      "cs": "teplo",
+      "en": "warm",
+      "uk": "тепло",
+      "ru": "тепло",
+      "pl": "ciepło"
+    },
+    {
+      "id": "hot",
+      "cs": "horko",
+      "en": "hot",
+      "uk": "спекотно",
+      "ru": "жарко",
+      "pl": "gorąco"
+    },
+    {
+      "id": "cold",
+      "cs": "chladno",
+      "en": "cold",
+      "uk": "холодно",
+      "ru": "холодно",
+      "pl": "zimno"
+    },
+    {
+      "id": "frost",
+      "cs": "mráz",
+      "en": "frost",
+      "uk": "мороз",
+      "ru": "мороз",
+      "pl": "mróz"
+    },
+    {
+      "id": "ice",
+      "cs": "led",
+      "en": "ice",
+      "uk": "лід",
+      "ru": "лёд",
+      "pl": "lód"
+    },
+    {
+      "id": "fog",
+      "cs": "mlha",
+      "en": "fog",
+      "uk": "туман",
+      "ru": "туман",
+      "pl": "mgła"
+    },
+    {
+      "id": "thunderstorm",
+      "cs": "bouřka",
+      "en": "thunderstorm",
+      "uk": "гроза",
+      "ru": "гроза",
+      "pl": "burza"
+    },
+    {
+      "id": "lightning",
+      "cs": "blesk",
+      "en": "lightning",
+      "uk": "блискавка",
+      "ru": "молния",
+      "pl": "błyskawica"
+    },
+    {
+      "id": "thunder",
+      "cs": "hrom",
+      "en": "thunder",
+      "uk": "грім",
+      "ru": "гром",
+      "pl": "grzmot"
+    },
+    {
+      "id": "gale",
+      "cs": "vichřice",
+      "en": "gale",
+      "uk": "буревій",
+      "ru": "буря",
+      "pl": "wichura"
+    },
+    {
+      "id": "hurricane",
+      "cs": "hurikán",
+      "en": "hurricane",
+      "uk": "ураган",
+      "ru": "ураган",
+      "pl": "huragan"
+    },
+    {
+      "id": "hail",
+      "cs": "krupobití",
+      "en": "hail",
+      "uk": "град",
+      "ru": "град",
+      "pl": "grad"
+    },
+    {
+      "id": "rain-shower",
+      "cs": "přeháňka",
+      "en": "rain shower",
+      "uk": "злива",
+      "ru": "ливень",
+      "pl": "przelotny deszcz"
+    },
+    {
+      "id": "sunny",
+      "cs": "slunečno",
+      "en": "sunny",
+      "uk": "сонячно",
+      "ru": "солнечно",
+      "pl": "słonecznie"
+    },
+    {
+      "id": "overcast",
+      "cs": "zataženo",
+      "en": "overcast",
+      "uk": "хмарно",
+      "ru": "пасмурно",
+      "pl": "pochmurno"
+    },
+    {
+      "id": "partly-cloudy",
+      "cs": "oblačno",
+      "en": "partly cloudy",
+      "uk": "мінлива хмарність",
+      "ru": "облачно",
+      "pl": "częściowo pochmurno"
+    },
+    {
+      "id": "windy",
+      "cs": "větrno",
+      "en": "windy",
+      "uk": "вітряно",
+      "ru": "ветрено",
+      "pl": "wietrznie"
+    },
+    {
+      "id": "rainy",
+      "cs": "deštivo",
+      "en": "rainy",
+      "uk": "дощово",
+      "ru": "дождливо",
+      "pl": "deszczowo"
+    },
+    {
+      "id": "it-s-snowing",
+      "cs": "sněží",
+      "en": "it's snowing",
+      "uk": "іде сніг",
+      "ru": "идёт снег",
+      "pl": "pada śnieg"
+    },
+    {
+      "id": "it-s-raining",
+      "cs": "prší",
+      "en": "it's raining",
+      "uk": "іде дощ",
+      "ru": "идёт дождь",
+      "pl": "pada deszcz"
+    },
+    {
+      "id": "temperature",
+      "cs": "teplota",
+      "en": "temperature",
+      "uk": "температура",
+      "ru": "температура",
+      "pl": "temperatura"
+    },
+    {
+      "id": "degree",
+      "cs": "stupeň",
+      "en": "degree",
+      "uk": "градус",
+      "ru": "градус",
+      "pl": "stopień"
+    },
+    {
+      "id": "weather-forecast",
+      "cs": "předpověď počasí",
+      "en": "weather forecast",
+      "uk": "прогноз погоди",
+      "ru": "прогноз погоды",
+      "pl": "prognoza pogody"
+    },
+    {
+      "id": "humid",
+      "cs": "vlhko",
+      "en": "humid",
+      "uk": "волого",
+      "ru": "влажно",
+      "pl": "wilgotno"
+    },
+    {
+      "id": "dry",
+      "cs": "sucho",
+      "en": "dry",
+      "uk": "сухо",
+      "ru": "сухо",
+      "pl": "sucho"
+    },
+    {
+      "id": "puddle",
+      "cs": "kaluž",
+      "en": "puddle",
+      "uk": "калюжа",
+      "ru": "лужа",
+      "pl": "kałuża"
+    },
+    {
+      "id": "snowman",
+      "cs": "sněhulák",
+      "en": "snowman",
+      "uk": "сніговик",
+      "ru": "снеговик",
+      "pl": "bałwan"
+    },
+    {
+      "id": "snowflake",
+      "cs": "vločka",
+      "en": "snowflake",
+      "uk": "сніжинка",
+      "ru": "снежинка",
+      "pl": "płatek śniegu"
+    },
+    {
+      "id": "icicle",
+      "cs": "rampouch",
+      "en": "icicle",
+      "uk": "бурулька",
+      "ru": "сосулька",
+      "pl": "sopel"
+    },
+    {
+      "id": "hoarfrost",
+      "cs": "jinovatka",
+      "en": "hoarfrost",
+      "uk": "іній",
+      "ru": "иней",
+      "pl": "szron"
+    },
+    {
+      "id": "heat",
+      "cs": "vedro",
+      "en": "heat",
+      "uk": "спека",
+      "ru": "жара",
+      "pl": "upał"
+    },
+    {
+      "id": "climate",
+      "cs": "klima",
+      "en": "climate",
+      "uk": "клімат",
+      "ru": "климат",
+      "pl": "klimat"
+    },
+    {
+      "id": "frozen",
+      "cs": "zamrzlý",
+      "en": "frozen",
+      "uk": "замерзлий",
+      "ru": "замёрзший",
+      "pl": "zamarznięty"
+    },
+    {
+      "id": "thaw",
+      "cs": "tání",
+      "en": "thaw",
+      "uk": "відлига",
+      "ru": "оттепель",
+      "pl": "odwilż"
+    }
+  ]
+}

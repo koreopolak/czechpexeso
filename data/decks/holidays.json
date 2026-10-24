@@ -1,0 +1,357 @@
+{
+  "id": "holidays",
+  "order": 49,
+  "level": "A2",
+  "icon": "gift",
+  "title": {
+    "cs": "Svátky a oslavy",
+    "en": "Holidays & Celebrations",
+    "uk": "Свята та урочистості",
+    "ru": "Праздники и торжества",
+    "pl": "Święta i uroczystości"
+  },
+  "description": {
+    "en": "Christmas, birthdays and Czech traditions.",
+    "uk": "Різдво, дні народження та чеські традиції.",
+    "ru": "Рождество, дни рождения и чешские традиции.",
+    "pl": "Boże Narodzenie, urodziny i czeskie tradycje."
+  },
+  "words": [
+    {
+      "id": "holiday",
+      "cs": "svátek",
+      "en": "holiday",
+      "uk": "свято",
+      "ru": "праздник",
+      "pl": "święto"
+    },
+    {
+      "id": "name-day",
+      "cs": "jmeniny",
+      "en": "name day",
+      "uk": "іменини",
+      "ru": "именины",
+      "pl": "imieniny"
+    },
+    {
+      "id": "birthday",
+      "cs": "narozeniny",
+      "en": "birthday",
+      "uk": "день народження",
+      "ru": "день рождения",
+      "pl": "urodziny"
+    },
+    {
+      "id": "christmas",
+      "cs": "Vánoce",
+      "en": "Christmas",
+      "uk": "Різдво",
+      "ru": "Рождество",
+      "pl": "Boże Narodzenie"
+    },
+    {
+      "id": "christmas-eve",
+      "cs": "Štědrý den",
+      "en": "Christmas Eve",
+      "uk": "Святвечір",
+      "ru": "Сочельник",
+      "pl": "Wigilia"
+    },
+    {
+      "id": "easter",
+      "cs": "Velikonoce",
+      "en": "Easter",
+      "uk": "Великдень",
+      "ru": "Пасха",
+      "pl": "Wielkanoc"
+    },
+    {
+      "id": "new-year-s-eve",
+      "cs": "Silvestr",
+      "en": "New Year's Eve",
+      "uk": "переддень Нового року",
+      "ru": "канун Нового года",
+      "pl": "sylwester"
+    },
+    {
+      "id": "new-year-s-day",
+      "cs": "Nový rok",
+      "en": "New Year's Day",
+      "uk": "Новий рік",
+      "ru": "Новый год",
+      "pl": "Nowy Rok"
+    },
+    {
+      "id": "celebration",
+      "cs": "oslava",
+      "en": "celebration",
+      "uk": "святкування",
+      "ru": "празднование",
+      "pl": "uroczystość"
+    },
+    {
+      "id": "party",
+      "cs": "večírek",
+      "en": "party",
+      "uk": "вечірка",
+      "ru": "вечеринка",
+      "pl": "impreza"
+    },
+    {
+      "id": "gift",
+      "cs": "dárek",
+      "en": "gift",
+      "uk": "подарунок",
+      "ru": "подарок",
+      "pl": "prezent"
+    },
+    {
+      "id": "wishes",
+      "cs": "přání",
+      "en": "wishes",
+      "uk": "побажання",
+      "ru": "пожелание",
+      "pl": "życzenia"
+    },
+    {
+      "id": "birthday-cake",
+      "cs": "narozeninový dort",
+      "en": "birthday cake",
+      "uk": "святковий торт",
+      "ru": "праздничный торт",
+      "pl": "tort urodzinowy"
+    },
+    {
+      "id": "balloon",
+      "cs": "balónek",
+      "en": "balloon",
+      "uk": "повітряна кулька",
+      "ru": "воздушный шарик",
+      "pl": "balon"
+    },
+    {
+      "id": "fireworks",
+      "cs": "ohňostroj",
+      "en": "fireworks",
+      "uk": "феєрверк",
+      "ru": "фейерверк",
+      "pl": "fajerwerki"
+    },
+    {
+      "id": "christmas-tree",
+      "cs": "vánoční stromeček",
+      "en": "Christmas tree",
+      "uk": "ялинка",
+      "ru": "ёлка",
+      "pl": "choinka"
+    },
+    {
+      "id": "decoration",
+      "cs": "ozdoba",
+      "en": "decoration",
+      "uk": "прикраса",
+      "ru": "украшение",
+      "pl": "ozdoba"
+    },
+    {
+      "id": "christmas-cookies",
+      "cs": "cukroví",
+      "en": "Christmas cookies",
+      "uk": "різдвяне печиво",
+      "ru": "рождественское печенье",
+      "pl": "ciasteczka świąteczne"
+    },
+    {
+      "id": "carp",
+      "cs": "kapr",
+      "en": "carp",
+      "uk": "короп",
+      "ru": "карп",
+      "pl": "karp"
+    },
+    {
+      "id": "potato-salad",
+      "cs": "bramborový salát",
+      "en": "potato salad",
+      "uk": "картопляний салат",
+      "ru": "картофельный салат",
+      "pl": "sałatka ziemniaczana"
+    },
+    {
+      "id": "baby-jesus-brings-gifts",
+      "cs": "Ježíšek",
+      "en": "Baby Jesus (brings gifts)",
+      "uk": "маленький Ісус",
+      "ru": "младенец Иисус",
+      "pl": "Dzieciątko"
+    },
+    {
+      "id": "st-nicholas",
+      "cs": "Mikuláš",
+      "en": "St. Nicholas",
+      "uk": "Святий Миколай",
+      "ru": "Святой Николай",
+      "pl": "Mikołaj"
+    },
+    {
+      "id": "devil",
+      "cs": "čert",
+      "en": "devil",
+      "uk": "чорт",
+      "ru": "чёрт",
+      "pl": "diabeł"
+    },
+    {
+      "id": "angel",
+      "cs": "anděl",
+      "en": "angel",
+      "uk": "ангел",
+      "ru": "ангел",
+      "pl": "anioł"
+    },
+    {
+      "id": "painted-easter-egg",
+      "cs": "kraslice",
+      "en": "painted Easter egg",
+      "uk": "писанка",
+      "ru": "писанка",
+      "pl": "pisanka"
+    },
+    {
+      "id": "easter-willow-whip",
+      "cs": "pomlázka",
+      "en": "Easter willow whip",
+      "uk": "великодня різка",
+      "ru": "пасхальная плётка",
+      "pl": "wielkanocna rózga"
+    },
+    {
+      "id": "easter-lamb",
+      "cs": "beránek",
+      "en": "Easter lamb",
+      "uk": "великодній баранчик",
+      "ru": "пасхальный барашек",
+      "pl": "baranek wielkanocny"
+    },
+    {
+      "id": "easter-bunny",
+      "cs": "zajíček",
+      "en": "Easter bunny",
+      "uk": "великодній зайчик",
+      "ru": "пасхальный кролик",
+      "pl": "zajączek wielkanocny"
+    },
+    {
+      "id": "carnival",
+      "cs": "masopust",
+      "en": "carnival",
+      "uk": "масниця",
+      "ru": "масленица",
+      "pl": "karnawał"
+    },
+    {
+      "id": "witches-night",
+      "cs": "čarodějnice",
+      "en": "Witches' Night",
+      "uk": "ніч відьом",
+      "ru": "ночь ведьм",
+      "pl": "noc czarownic"
+    },
+    {
+      "id": "mother-s-day",
+      "cs": "Den matek",
+      "en": "Mother's Day",
+      "uk": "День матері",
+      "ru": "День матери",
+      "pl": "Dzień Matki"
+    },
+    {
+      "id": "valentine-s-day",
+      "cs": "Valentýn",
+      "en": "Valentine's Day",
+      "uk": "День святого Валентина",
+      "ru": "День святого Валентина",
+      "pl": "walentynki"
+    },
+    {
+      "id": "anniversary",
+      "cs": "výročí",
+      "en": "anniversary",
+      "uk": "річниця",
+      "ru": "годовщина",
+      "pl": "rocznica"
+    },
+    {
+      "id": "tradition",
+      "cs": "tradice",
+      "en": "tradition",
+      "uk": "традиція",
+      "ru": "традиция",
+      "pl": "tradycja"
+    },
+    {
+      "id": "custom",
+      "cs": "zvyk",
+      "en": "custom",
+      "uk": "звичай",
+      "ru": "обычай",
+      "pl": "zwyczaj"
+    },
+    {
+      "id": "invitation",
+      "cs": "pozvánka",
+      "en": "invitation",
+      "uk": "запрошення",
+      "ru": "приглашение",
+      "pl": "zaproszenie"
+    },
+    {
+      "id": "guest",
+      "cs": "host",
+      "en": "guest",
+      "uk": "гість",
+      "ru": "гость",
+      "pl": "gość"
+    },
+    {
+      "id": "toast-drink",
+      "cs": "přípitek",
+      "en": "toast (drink)",
+      "uk": "тост",
+      "ru": "тост",
+      "pl": "toast"
+    },
+    {
+      "id": "wrap-a-gift",
+      "cs": "zabalit dárek",
+      "en": "to wrap a gift",
+      "uk": "загорнути подарунок",
+      "ru": "завернуть подарок",
+      "pl": "zapakować prezent"
+    },
+    {
+      "id": "unwrap",
+      "cs": "rozbalit",
+      "en": "to unwrap",
+      "uk": "розпакувати",
+      "ru": "распаковать",
+      "pl": "rozpakować"
+    },
+    {
+      "id": "costume-party",
+      "cs": "maškarní bál",
+      "en": "costume party",
+      "uk": "костюмована вечірка",
+      "ru": "маскарад",
+      "pl": "bal przebierańców"
+    },
+    {
+      "id": "public-holiday",
+      "cs": "státní svátek",
+      "en": "public holiday",
+      "uk": "державне свято",
+      "ru": "государственный праздник",
+      "pl": "święto państwowe"
+    }
+  ]
+}

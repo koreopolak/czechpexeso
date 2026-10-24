@@ -1,0 +1,309 @@
+{
+  "id": "fruit",
+  "order": 8,
+  "level": "A1",
+  "icon": "apple",
+  "title": {
+    "cs": "Ovoce a ořechy",
+    "en": "Fruit & Nuts",
+    "uk": "Фрукти та горіхи",
+    "ru": "Фрукты и орехи",
+    "pl": "Owoce i orzechy"
+  },
+  "description": {
+    "en": "Fruit, berries and nuts.",
+    "uk": "Фрукти, ягоди та горіхи.",
+    "ru": "Фрукты, ягоды и орехи.",
+    "pl": "Owoce, jagody i orzechy."
+  },
+  "words": [
+    {
+      "id": "banana",
+      "cs": "banán",
+      "en": "banana",
+      "uk": "банан",
+      "ru": "банан",
+      "pl": "banan"
+    },
+    {
+      "id": "orange-fruit",
+      "cs": "pomeranč",
+      "en": "orange (fruit)",
+      "uk": "апельсин",
+      "ru": "апельсин",
+      "pl": "pomarańcza"
+    },
+    {
+      "id": "lemon",
+      "cs": "citron",
+      "en": "lemon",
+      "uk": "лимон",
+      "ru": "лимон",
+      "pl": "cytryna"
+    },
+    {
+      "id": "tangerine",
+      "cs": "mandarinka",
+      "en": "tangerine",
+      "uk": "мандарин",
+      "ru": "мандарин",
+      "pl": "mandarynka"
+    },
+    {
+      "id": "grapefruit",
+      "cs": "grapefruit",
+      "en": "grapefruit",
+      "uk": "грейпфрут",
+      "ru": "грейпфрут",
+      "pl": "grejpfrut"
+    },
+    {
+      "id": "grapes",
+      "cs": "hroznové víno",
+      "en": "grapes",
+      "uk": "виноград",
+      "ru": "виноград",
+      "pl": "winogrona"
+    },
+    {
+      "id": "strawberry",
+      "cs": "jahoda",
+      "en": "strawberry",
+      "uk": "полуниця",
+      "ru": "клубника",
+      "pl": "truskawka"
+    },
+    {
+      "id": "raspberry",
+      "cs": "malina",
+      "en": "raspberry",
+      "uk": "малина",
+      "ru": "малина",
+      "pl": "malina"
+    },
+    {
+      "id": "blueberry",
+      "cs": "borůvka",
+      "en": "blueberry",
+      "uk": "чорниця",
+      "ru": "черника",
+      "pl": "borówka"
+    },
+    {
+      "id": "blackberry",
+      "cs": "ostružina",
+      "en": "blackberry",
+      "uk": "ожина",
+      "ru": "ежевика",
+      "pl": "jeżyna"
+    },
+    {
+      "id": "currant",
+      "cs": "rybíz",
+      "en": "currant",
+      "uk": "смородина",
+      "ru": "смородина",
+      "pl": "porzeczka"
+    },
+    {
+      "id": "cherry",
+      "cs": "třešeň",
+      "en": "cherry",
+      "uk": "черешня",
+      "ru": "черешня",
+      "pl": "czereśnia"
+    },
+    {
+      "id": "sour-cherry",
+      "cs": "višeň",
+      "en": "sour cherry",
+      "uk": "вишня",
+      "ru": "вишня",
+      "pl": "wiśnia"
+    },
+    {
+      "id": "plum",
+      "cs": "švestka",
+      "en": "plum",
+      "uk": "слива",
+      "ru": "слива",
+      "pl": "śliwka"
+    },
+    {
+      "id": "apricot",
+      "cs": "meruňka",
+      "en": "apricot",
+      "uk": "абрикос",
+      "ru": "абрикос",
+      "pl": "morela"
+    },
+    {
+      "id": "peach",
+      "cs": "broskev",
+      "en": "peach",
+      "uk": "персик",
+      "ru": "персик",
+      "pl": "brzoskwinia"
+    },
+    {
+      "id": "watermelon",
+      "cs": "meloun",
+      "en": "watermelon",
+      "uk": "кавун",
+      "ru": "арбуз",
+      "pl": "arbuz"
+    },
+    {
+      "id": "melon",
+      "cs": "cukrový meloun",
+      "en": "melon",
+      "uk": "диня",
+      "ru": "дыня",
+      "pl": "melon"
+    },
+    {
+      "id": "pineapple",
+      "cs": "ananas",
+      "en": "pineapple",
+      "uk": "ананас",
+      "ru": "ананас",
+      "pl": "ananas"
+    },
+    {
+      "id": "kiwi",
+      "cs": "kiwi",
+      "en": "kiwi",
+      "uk": "ківі",
+      "ru": "киви",
+      "pl": "kiwi"
+    },
+    {
+      "id": "mango",
+      "cs": "mango",
+      "en": "mango",
+      "uk": "манго",
+      "ru": "манго",
+      "pl": "mango"
+    },
+    {
+      "id": "avocado",
+      "cs": "avokádo",
+      "en": "avocado",
+      "uk": "авокадо",
+      "ru": "авокадо",
+      "pl": "awokado"
+    },
+    {
+      "id": "coconut",
+      "cs": "kokos",
+      "en": "coconut",
+      "uk": "кокос",
+      "ru": "кокос",
+      "pl": "kokos"
+    },
+    {
+      "id": "fig",
+      "cs": "fík",
+      "en": "fig",
+      "uk": "інжир",
+      "ru": "инжир",
+      "pl": "figa"
+    },
+    {
+      "id": "date-fruit",
+      "cs": "datle",
+      "en": "date (fruit)",
+      "uk": "фінік",
+      "ru": "финик",
+      "pl": "daktyl"
+    },
+    {
+      "id": "pomegranate",
+      "cs": "granátové jablko",
+      "en": "pomegranate",
+      "uk": "гранат",
+      "ru": "гранат",
+      "pl": "granat"
+    },
+    {
+      "id": "gooseberry",
+      "cs": "angrešt",
+      "en": "gooseberry",
+      "uk": "аґрус",
+      "ru": "крыжовник",
+      "pl": "agrest"
+    },
+    {
+      "id": "cranberry",
+      "cs": "brusinka",
+      "en": "cranberry",
+      "uk": "журавлина",
+      "ru": "клюква",
+      "pl": "żurawina"
+    },
+    {
+      "id": "raisins",
+      "cs": "rozinky",
+      "en": "raisins",
+      "uk": "родзинки",
+      "ru": "изюм",
+      "pl": "rodzynki"
+    },
+    {
+      "id": "nut",
+      "cs": "ořech",
+      "en": "nut",
+      "uk": "горіх",
+      "ru": "орех",
+      "pl": "orzech"
+    },
+    {
+      "id": "walnut",
+      "cs": "vlašský ořech",
+      "en": "walnut",
+      "uk": "волоський горіх",
+      "ru": "грецкий орех",
+      "pl": "orzech włoski"
+    },
+    {
+      "id": "hazelnut",
+      "cs": "lískový oříšek",
+      "en": "hazelnut",
+      "uk": "лісовий горіх",
+      "ru": "лесной орех",
+      "pl": "orzech laskowy"
+    },
+    {
+      "id": "almond",
+      "cs": "mandle",
+      "en": "almond",
+      "uk": "мигдаль",
+      "ru": "миндаль",
+      "pl": "migdał"
+    },
+    {
+      "id": "peanuts",
+      "cs": "arašídy",
+      "en": "peanuts",
+      "uk": "арахіс",
+      "ru": "арахис",
+      "pl": "orzeszki ziemne"
+    },
+    {
+      "id": "chestnut",
+      "cs": "kaštan",
+      "en": "chestnut",
+      "uk": "каштан",
+      "ru": "каштан",
+      "pl": "kasztan"
+    },
+    {
+      "id": "berry",
+      "cs": "bobule",
+      "en": "berry",
+      "uk": "ягода",
+      "ru": "ягода",
+      "pl": "jagoda"
+    }
+  ]
+}

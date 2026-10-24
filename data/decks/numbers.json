@@ -176,6 +176,254 @@
       "uk": "тисяча",
       "ru": "тысяча",
       "pl": "tysiąc"
+    },
+    {
+      "id": "zero",
+      "cs": "nula",
+      "en": "zero",
+      "uk": "нуль",
+      "ru": "ноль",
+      "pl": "zero"
+    },
+    {
+      "id": "sixteen",
+      "cs": "šestnáct",
+      "en": "sixteen",
+      "uk": "шістнадцять",
+      "ru": "шестнадцать",
+      "pl": "szesnaście"
+    },
+    {
+      "id": "seventeen",
+      "cs": "sedmnáct",
+      "en": "seventeen",
+      "uk": "сімнадцять",
+      "ru": "семнадцать",
+      "pl": "siedemnaście"
+    },
+    {
+      "id": "eighteen",
+      "cs": "osmnáct",
+      "en": "eighteen",
+      "uk": "вісімнадцять",
+      "ru": "восемнадцать",
+      "pl": "osiemnaście"
+    },
+    {
+      "id": "nineteen",
+      "cs": "devatenáct",
+      "en": "nineteen",
+      "uk": "дев’ятнадцять",
+      "ru": "девятнадцать",
+      "pl": "dziewiętnaście"
+    },
+    {
+      "id": "forty",
+      "cs": "čtyřicet",
+      "en": "forty",
+      "uk": "сорок",
+      "ru": "сорок",
+      "pl": "czterdzieści"
+    },
+    {
+      "id": "sixty",
+      "cs": "šedesát",
+      "en": "sixty",
+      "uk": "шістдесят",
+      "ru": "шестьдесят",
+      "pl": "sześćdziesiąt"
+    },
+    {
+      "id": "seventy",
+      "cs": "sedmdesát",
+      "en": "seventy",
+      "uk": "сімдесят",
+      "ru": "семьдесят",
+      "pl": "siedemdziesiąt"
+    },
+    {
+      "id": "eighty",
+      "cs": "osmdesát",
+      "en": "eighty",
+      "uk": "вісімдесят",
+      "ru": "восемьдесят",
+      "pl": "osiemdziesiąt"
+    },
+    {
+      "id": "ninety",
+      "cs": "devadesát",
+      "en": "ninety",
+      "uk": "дев’яносто",
+      "ru": "девяносто",
+      "pl": "dziewięćdziesiąt"
+    },
+    {
+      "id": "two-hundred",
+      "cs": "dvě stě",
+      "en": "two hundred",
+      "uk": "двісті",
+      "ru": "двести",
+      "pl": "dwieście"
+    },
+    {
+      "id": "five-hundred",
+      "cs": "pět set",
+      "en": "five hundred",
+      "uk": "п’ятсот",
+      "ru": "пятьсот",
+      "pl": "pięćset"
+    },
+    {
+      "id": "million",
+      "cs": "milion",
+      "en": "million",
+      "uk": "мільйон",
+      "ru": "миллион",
+      "pl": "milion"
+    },
+    {
+      "id": "billion",
+      "cs": "miliarda",
+      "en": "billion",
+      "uk": "мільярд",
+      "ru": "миллиард",
+      "pl": "miliard"
+    },
+    {
+      "id": "first",
+      "cs": "první",
+      "en": "first",
+      "uk": "перший",
+      "ru": "первый",
+      "pl": "pierwszy"
+    },
+    {
+      "id": "second-2nd",
+      "cs": "druhý",
+      "en": "second (2nd)",
+      "uk": "другий",
+      "ru": "второй",
+      "pl": "drugi"
+    },
+    {
+      "id": "third",
+      "cs": "třetí",
+      "en": "third",
+      "uk": "третій",
+      "ru": "третий",
+      "pl": "trzeci"
+    },
+    {
+      "id": "fourth",
+      "cs": "čtvrtý",
+      "en": "fourth",
+      "uk": "четвертий",
+      "ru": "четвёртый",
+      "pl": "czwarty"
+    },
+    {
+      "id": "fifth",
+      "cs": "pátý",
+      "en": "fifth",
+      "uk": "п’ятий",
+      "ru": "пятый",
+      "pl": "piąty"
+    },
+    {
+      "id": "sixth",
+      "cs": "šestý",
+      "en": "sixth",
+      "uk": "шостий",
+      "ru": "шестой",
+      "pl": "szósty"
+    },
+    {
+      "id": "seventh",
+      "cs": "sedmý",
+      "en": "seventh",
+      "uk": "сьомий",
+      "ru": "седьмой",
+      "pl": "siódmy"
+    },
+    {
+      "id": "eighth",
+      "cs": "osmý",
+      "en": "eighth",
+      "uk": "восьмий",
+      "ru": "восьмой",
+      "pl": "ósmy"
+    },
+    {
+      "id": "ninth",
+      "cs": "devátý",
+      "en": "ninth",
+      "uk": "дев’ятий",
+      "ru": "девятый",
+      "pl": "dziewiąty"
+    },
+    {
+      "id": "tenth",
+      "cs": "desátý",
+      "en": "tenth",
+      "uk": "десятий",
+      "ru": "десятый",
+      "pl": "dziesiąty"
+    },
+    {
+      "id": "last",
+      "cs": "poslední",
+      "en": "last",
+      "uk": "останній",
+      "ru": "последний",
+      "pl": "ostatni"
+    },
+    {
+      "id": "half",
+      "cs": "polovina",
+      "en": "half",
+      "uk": "половина",
+      "ru": "половина",
+      "pl": "połowa"
+    },
+    {
+      "id": "quarter",
+      "cs": "čtvrtina",
+      "en": "quarter",
+      "uk": "чверть",
+      "ru": "четверть",
+      "pl": "ćwierć"
+    },
+    {
+      "id": "one-third",
+      "cs": "třetina",
+      "en": "one third",
+      "uk": "третина",
+      "ru": "треть",
+      "pl": "jedna trzecia"
+    },
+    {
+      "id": "number",
+      "cs": "číslo",
+      "en": "number",
+      "uk": "число",
+      "ru": "число",
+      "pl": "liczba"
+    },
+    {
+      "id": "amount",
+      "cs": "počet",
+      "en": "amount",
+      "uk": "кількість",
+      "ru": "количество",
+      "pl": "ilość"
+    },
+    {
+      "id": "dozen",
+      "cs": "tucet",
+      "en": "dozen",
+      "uk": "дюжина",
+      "ru": "дюжина",
+      "pl": "tuzin"
     }
   ]
 }

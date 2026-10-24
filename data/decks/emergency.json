@@ -1,0 +1,381 @@
+{
+  "id": "emergency",
+  "order": 70,
+  "level": "B1",
+  "icon": "siren",
+  "title": {
+    "cs": "Nouze a bezpečnost",
+    "en": "Emergencies & Safety",
+    "uk": "Надзвичайні ситуації та безпека",
+    "ru": "Чрезвычайные ситуации и безопасность",
+    "pl": "Nagłe wypadki i bezpieczeństwo"
+  },
+  "description": {
+    "en": "Emergency calls, accidents and staying safe.",
+    "uk": "Екстрені виклики, нещасні випадки та безпека.",
+    "ru": "Экстренные вызовы, несчастные случаи и безопасность.",
+    "pl": "Telefony alarmowe, wypadki i bezpieczeństwo."
+  },
+  "words": [
+    {
+      "id": "emergency-call",
+      "cs": "nouzové volání",
+      "en": "emergency call",
+      "uk": "екстрений виклик",
+      "ru": "экстренный вызов",
+      "pl": "połączenie alarmowe"
+    },
+    {
+      "id": "emergency-number-112",
+      "cs": "tísňová linka 112",
+      "en": "emergency number 112",
+      "uk": "номер екстреної допомоги 112",
+      "ru": "номер экстренной службы 112",
+      "pl": "numer alarmowy 112"
+    },
+    {
+      "id": "ambulance",
+      "cs": "záchranka",
+      "en": "ambulance",
+      "uk": "швидка допомога",
+      "ru": "скорая помощь",
+      "pl": "karetka"
+    },
+    {
+      "id": "fire-brigade",
+      "cs": "hasiči",
+      "en": "fire brigade",
+      "uk": "пожежна служба",
+      "ru": "пожарная служба",
+      "pl": "straż pożarna"
+    },
+    {
+      "id": "fire-blaze",
+      "cs": "požár",
+      "en": "fire (blaze)",
+      "uk": "пожежа",
+      "ru": "пожар",
+      "pl": "pożar"
+    },
+    {
+      "id": "fire-flame",
+      "cs": "oheň",
+      "en": "fire (flame)",
+      "uk": "вогонь",
+      "ru": "огонь",
+      "pl": "ogień"
+    },
+    {
+      "id": "smoke",
+      "cs": "kouř",
+      "en": "smoke",
+      "uk": "дим",
+      "ru": "дым",
+      "pl": "dym"
+    },
+    {
+      "id": "fire-extinguisher",
+      "cs": "hasicí přístroj",
+      "en": "fire extinguisher",
+      "uk": "вогнегасник",
+      "ru": "огнетушитель",
+      "pl": "gaśnica"
+    },
+    {
+      "id": "fire-alarm",
+      "cs": "požární poplach",
+      "en": "fire alarm",
+      "uk": "пожежна тривога",
+      "ru": "пожарная тревога",
+      "pl": "alarm pożarowy"
+    },
+    {
+      "id": "emergency-exit",
+      "cs": "nouzový východ",
+      "en": "emergency exit",
+      "uk": "аварійний вихід",
+      "ru": "аварийный выход",
+      "pl": "wyjście awaryjne"
+    },
+    {
+      "id": "evacuation",
+      "cs": "evakuace",
+      "en": "evacuation",
+      "uk": "евакуація",
+      "ru": "эвакуация",
+      "pl": "ewakuacja"
+    },
+    {
+      "id": "first-aid",
+      "cs": "první pomoc",
+      "en": "first aid",
+      "uk": "перша допомога",
+      "ru": "первая помощь",
+      "pl": "pierwsza pomoc"
+    },
+    {
+      "id": "first-aid-kit",
+      "cs": "lékárnička",
+      "en": "first-aid kit",
+      "uk": "аптечка",
+      "ru": "аптечка",
+      "pl": "apteczka"
+    },
+    {
+      "id": "resuscitation",
+      "cs": "oživování",
+      "en": "resuscitation",
+      "uk": "реанімація",
+      "ru": "реанимация",
+      "pl": "resuscytacja"
+    },
+    {
+      "id": "unconsciousness",
+      "cs": "bezvědomí",
+      "en": "unconsciousness",
+      "uk": "непритомність",
+      "ru": "потеря сознания",
+      "pl": "utrata przytomności"
+    },
+    {
+      "id": "bleeding",
+      "cs": "krvácení",
+      "en": "bleeding",
+      "uk": "кровотеча",
+      "ru": "кровотечение",
+      "pl": "krwawienie"
+    },
+    {
+      "id": "poisoning",
+      "cs": "otrava",
+      "en": "poisoning",
+      "uk": "отруєння",
+      "ru": "отравление",
+      "pl": "zatrucie"
+    },
+    {
+      "id": "heart-attack",
+      "cs": "infarkt",
+      "en": "heart attack",
+      "uk": "інфаркт",
+      "ru": "инфаркт",
+      "pl": "zawał serca"
+    },
+    {
+      "id": "stroke",
+      "cs": "mrtvice",
+      "en": "stroke",
+      "uk": "інсульт",
+      "ru": "инсульт",
+      "pl": "udar mózgu"
+    },
+    {
+      "id": "paramedic",
+      "cs": "záchranář",
+      "en": "paramedic",
+      "uk": "рятувальник",
+      "ru": "спасатель",
+      "pl": "ratownik"
+    },
+    {
+      "id": "victim",
+      "cs": "oběť",
+      "en": "victim",
+      "uk": "жертва",
+      "ru": "жертва",
+      "pl": "ofiara"
+    },
+    {
+      "id": "witness",
+      "cs": "svědek",
+      "en": "witness",
+      "uk": "свідок",
+      "ru": "свидетель",
+      "pl": "świadek"
+    },
+    {
+      "id": "thief",
+      "cs": "zloděj",
+      "en": "thief",
+      "uk": "злодій",
+      "ru": "вор",
+      "pl": "złodziej"
+    },
+    {
+      "id": "theft",
+      "cs": "krádež",
+      "en": "theft",
+      "uk": "крадіжка",
+      "ru": "кража",
+      "pl": "kradzież"
+    },
+    {
+      "id": "burglary",
+      "cs": "vloupání",
+      "en": "burglary",
+      "uk": "квартирна крадіжка",
+      "ru": "кража со взломом",
+      "pl": "włamanie"
+    },
+    {
+      "id": "crime",
+      "cs": "zločin",
+      "en": "crime",
+      "uk": "злочин",
+      "ru": "преступление",
+      "pl": "przestępstwo"
+    },
+    {
+      "id": "attack",
+      "cs": "útok",
+      "en": "attack",
+      "uk": "напад",
+      "ru": "нападение",
+      "pl": "napad"
+    },
+    {
+      "id": "danger",
+      "cs": "nebezpečí",
+      "en": "danger",
+      "uk": "небезпека",
+      "ru": "опасность",
+      "pl": "niebezpieczeństwo"
+    },
+    {
+      "id": "safety",
+      "cs": "bezpečnost",
+      "en": "safety",
+      "uk": "безпека",
+      "ru": "безопасность",
+      "pl": "bezpieczeństwo"
+    },
+    {
+      "id": "warning",
+      "cs": "varování",
+      "en": "warning",
+      "uk": "попередження",
+      "ru": "предупреждение",
+      "pl": "ostrzeżenie"
+    },
+    {
+      "id": "siren",
+      "cs": "siréna",
+      "en": "siren",
+      "uk": "сирена",
+      "ru": "сирена",
+      "pl": "syrena"
+    },
+    {
+      "id": "alarm",
+      "cs": "poplach",
+      "en": "alarm",
+      "uk": "тривога",
+      "ru": "тревога",
+      "pl": "alarm"
+    },
+    {
+      "id": "shelter",
+      "cs": "kryt",
+      "en": "shelter",
+      "uk": "укриття",
+      "ru": "укрытие",
+      "pl": "schron"
+    },
+    {
+      "id": "flood",
+      "cs": "povodeň",
+      "en": "flood",
+      "uk": "повінь",
+      "ru": "наводнение",
+      "pl": "powódź"
+    },
+    {
+      "id": "earthquake",
+      "cs": "zemětřesení",
+      "en": "earthquake",
+      "uk": "землетрус",
+      "ru": "землетрясение",
+      "pl": "trzęsienie ziemi"
+    },
+    {
+      "id": "explosion",
+      "cs": "výbuch",
+      "en": "explosion",
+      "uk": "вибух",
+      "ru": "взрыв",
+      "pl": "wybuch"
+    },
+    {
+      "id": "lost",
+      "cs": "ztracený",
+      "en": "lost",
+      "uk": "загублений",
+      "ru": "потерянный",
+      "pl": "zgubiony"
+    },
+    {
+      "id": "missing-person",
+      "cs": "pohřešovaný",
+      "en": "missing person",
+      "uk": "зниклий безвісти",
+      "ru": "пропавший без вести",
+      "pl": "zaginiony"
+    },
+    {
+      "id": "stolen",
+      "cs": "ukradený",
+      "en": "stolen",
+      "uk": "вкрадений",
+      "ru": "украденный",
+      "pl": "skradziony"
+    },
+    {
+      "id": "report",
+      "cs": "nahlásit",
+      "en": "to report",
+      "uk": "повідомити",
+      "ru": "сообщить",
+      "pl": "zgłosić"
+    },
+    {
+      "id": "call-for-help",
+      "cs": "volat o pomoc",
+      "en": "to call for help",
+      "uk": "кликати на допомогу",
+      "ru": "звать на помощь",
+      "pl": "wołać o pomoc"
+    },
+    {
+      "id": "drown",
+      "cs": "utopit se",
+      "en": "to drown",
+      "uk": "потонути",
+      "ru": "утонуть",
+      "pl": "utonąć"
+    },
+    {
+      "id": "burn",
+      "cs": "hořet",
+      "en": "to burn",
+      "uk": "горіти",
+      "ru": "гореть",
+      "pl": "płonąć"
+    },
+    {
+      "id": "put-out-a-fire",
+      "cs": "uhasit",
+      "en": "to put out (a fire)",
+      "uk": "загасити",
+      "ru": "потушить",
+      "pl": "ugasić"
+    },
+    {
+      "id": "life-jacket",
+      "cs": "záchranná vesta",
+      "en": "life jacket",
+      "uk": "рятувальний жилет",
+      "ru": "спасательный жилет",
+      "pl": "kamizelka ratunkowa"
+    }
+  ]
+}

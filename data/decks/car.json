@@ -1,0 +1,389 @@
+{
+  "id": "car",
+  "order": 69,
+  "level": "B1",
+  "icon": "car",
+  "title": {
+    "cs": "Auto a řízení",
+    "en": "Car & Driving",
+    "uk": "Автомобіль і водіння",
+    "ru": "Автомобиль и вождение",
+    "pl": "Samochód i jazda"
+  },
+  "description": {
+    "en": "Driving, the car and the road.",
+    "uk": "Водіння, автомобіль і дорога.",
+    "ru": "Вождение, автомобиль и дорога.",
+    "pl": "Jazda, samochód i droga."
+  },
+  "words": [
+    {
+      "id": "drive",
+      "cs": "řídit",
+      "en": "to drive",
+      "uk": "керувати автомобілем",
+      "ru": "водить машину",
+      "pl": "prowadzić samochód"
+    },
+    {
+      "id": "driving",
+      "cs": "řízení",
+      "en": "driving",
+      "uk": "водіння",
+      "ru": "вождение",
+      "pl": "jazda"
+    },
+    {
+      "id": "driving-school",
+      "cs": "autoškola",
+      "en": "driving school",
+      "uk": "автошкола",
+      "ru": "автошкола",
+      "pl": "szkoła jazdy"
+    },
+    {
+      "id": "steering-wheel",
+      "cs": "volant",
+      "en": "steering wheel",
+      "uk": "кермо",
+      "ru": "руль",
+      "pl": "kierownica"
+    },
+    {
+      "id": "brake",
+      "cs": "brzda",
+      "en": "brake",
+      "uk": "гальмо",
+      "ru": "тормоз",
+      "pl": "hamulec"
+    },
+    {
+      "id": "accelerator",
+      "cs": "plynový pedál",
+      "en": "accelerator",
+      "uk": "педаль газу",
+      "ru": "педаль газа",
+      "pl": "pedał gazu"
+    },
+    {
+      "id": "clutch",
+      "cs": "spojka",
+      "en": "clutch",
+      "uk": "зчеплення",
+      "ru": "сцепление",
+      "pl": "sprzęgło"
+    },
+    {
+      "id": "gear-stick",
+      "cs": "řadicí páka",
+      "en": "gear stick",
+      "uk": "важіль коробки передач",
+      "ru": "рычаг коробки передач",
+      "pl": "dźwignia zmiany biegów"
+    },
+    {
+      "id": "engine",
+      "cs": "motor",
+      "en": "engine",
+      "uk": "двигун",
+      "ru": "двигатель",
+      "pl": "silnik"
+    },
+    {
+      "id": "tire",
+      "cs": "pneumatika",
+      "en": "tire",
+      "uk": "шина",
+      "ru": "шина",
+      "pl": "opona"
+    },
+    {
+      "id": "seat-belt",
+      "cs": "bezpečnostní pás",
+      "en": "seat belt",
+      "uk": "ремінь безпеки",
+      "ru": "ремень безопасности",
+      "pl": "pas bezpieczeństwa"
+    },
+    {
+      "id": "trunk",
+      "cs": "zavazadlový prostor",
+      "en": "trunk",
+      "uk": "багажник",
+      "ru": "багажник",
+      "pl": "bagażnik"
+    },
+    {
+      "id": "hood",
+      "cs": "kapota",
+      "en": "hood",
+      "uk": "капот",
+      "ru": "капот",
+      "pl": "maska"
+    },
+    {
+      "id": "headlights",
+      "cs": "světla",
+      "en": "headlights",
+      "uk": "фари",
+      "ru": "фары",
+      "pl": "światła"
+    },
+    {
+      "id": "turn-signal",
+      "cs": "blinkr",
+      "en": "turn signal",
+      "uk": "поворотник",
+      "ru": "поворотник",
+      "pl": "kierunkowskaz"
+    },
+    {
+      "id": "windshield-wipers",
+      "cs": "stěrače",
+      "en": "windshield wipers",
+      "uk": "двірники",
+      "ru": "дворники",
+      "pl": "wycieraczki"
+    },
+    {
+      "id": "side-mirror",
+      "cs": "zrcátko",
+      "en": "side mirror",
+      "uk": "дзеркало заднього виду",
+      "ru": "зеркало заднего вида",
+      "pl": "lusterko"
+    },
+    {
+      "id": "license-plate",
+      "cs": "SPZ",
+      "en": "license plate",
+      "uk": "номерний знак",
+      "ru": "номерной знак",
+      "pl": "tablica rejestracyjna"
+    },
+    {
+      "id": "fuel-tank",
+      "cs": "nádrž",
+      "en": "fuel tank",
+      "uk": "бак",
+      "ru": "бак",
+      "pl": "bak"
+    },
+    {
+      "id": "gasoline",
+      "cs": "benzín",
+      "en": "gasoline",
+      "uk": "бензин",
+      "ru": "бензин",
+      "pl": "benzyna"
+    },
+    {
+      "id": "diesel",
+      "cs": "nafta",
+      "en": "diesel",
+      "uk": "дизель",
+      "ru": "дизель",
+      "pl": "olej napędowy"
+    },
+    {
+      "id": "refuel",
+      "cs": "tankovat",
+      "en": "to refuel",
+      "uk": "заправляти",
+      "ru": "заправлять",
+      "pl": "tankować"
+    },
+    {
+      "id": "highway",
+      "cs": "dálnice",
+      "en": "highway",
+      "uk": "автомагістраль",
+      "ru": "автомагистраль",
+      "pl": "autostrada"
+    },
+    {
+      "id": "highway-vignette",
+      "cs": "dálniční známka",
+      "en": "highway vignette",
+      "uk": "віньєтка",
+      "ru": "виньетка",
+      "pl": "winieta"
+    },
+    {
+      "id": "road",
+      "cs": "silnice",
+      "en": "road",
+      "uk": "дорога",
+      "ru": "дорога",
+      "pl": "droga"
+    },
+    {
+      "id": "detour",
+      "cs": "objížďka",
+      "en": "detour",
+      "uk": "об’їзд",
+      "ru": "объезд",
+      "pl": "objazd"
+    },
+    {
+      "id": "traffic-jam",
+      "cs": "zácpa",
+      "en": "traffic jam",
+      "uk": "затор",
+      "ru": "пробка",
+      "pl": "korek"
+    },
+    {
+      "id": "car-accident",
+      "cs": "nehoda",
+      "en": "car accident",
+      "uk": "ДТП",
+      "ru": "ДТП",
+      "pl": "wypadek"
+    },
+    {
+      "id": "speed-limit",
+      "cs": "rychlostní limit",
+      "en": "speed limit",
+      "uk": "обмеження швидкості",
+      "ru": "ограничение скорости",
+      "pl": "ograniczenie prędkości"
+    },
+    {
+      "id": "fine-penalty",
+      "cs": "pokuta",
+      "en": "fine (penalty)",
+      "uk": "штраф",
+      "ru": "штраф",
+      "pl": "mandat"
+    },
+    {
+      "id": "traffic-sign",
+      "cs": "dopravní značka",
+      "en": "traffic sign",
+      "uk": "дорожній знак",
+      "ru": "дорожный знак",
+      "pl": "znak drogowy"
+    },
+    {
+      "id": "right-of-way",
+      "cs": "přednost",
+      "en": "right of way",
+      "uk": "перевага в русі",
+      "ru": "преимущество в движении",
+      "pl": "pierwszeństwo"
+    },
+    {
+      "id": "roundabout",
+      "cs": "kruhový objezd",
+      "en": "roundabout",
+      "uk": "кільцева розв’язка",
+      "ru": "круговое движение",
+      "pl": "rondo"
+    },
+    {
+      "id": "bend-curve",
+      "cs": "zatáčka",
+      "en": "bend (curve)",
+      "uk": "поворот",
+      "ru": "поворот",
+      "pl": "zakręt"
+    },
+    {
+      "id": "overtake",
+      "cs": "předjíždět",
+      "en": "to overtake",
+      "uk": "обганяти",
+      "ru": "обгонять",
+      "pl": "wyprzedzać"
+    },
+    {
+      "id": "park",
+      "cs": "parkovat",
+      "en": "to park",
+      "uk": "паркуватися",
+      "ru": "парковаться",
+      "pl": "parkować"
+    },
+    {
+      "id": "start-the-engine",
+      "cs": "nastartovat",
+      "en": "to start the engine",
+      "uk": "завести",
+      "ru": "завести",
+      "pl": "uruchomić silnik"
+    },
+    {
+      "id": "breakdown",
+      "cs": "porucha",
+      "en": "breakdown",
+      "uk": "поломка",
+      "ru": "поломка",
+      "pl": "awaria"
+    },
+    {
+      "id": "tow-truck",
+      "cs": "odtahovka",
+      "en": "tow truck",
+      "uk": "евакуатор",
+      "ru": "эвакуатор",
+      "pl": "laweta"
+    },
+    {
+      "id": "car-service",
+      "cs": "servis",
+      "en": "car service",
+      "uk": "автосервіс",
+      "ru": "автосервис",
+      "pl": "warsztat samochodowy"
+    },
+    {
+      "id": "vehicle-inspection",
+      "cs": "STK",
+      "en": "vehicle inspection",
+      "uk": "техогляд",
+      "ru": "техосмотр",
+      "pl": "przegląd techniczny"
+    },
+    {
+      "id": "car-rental",
+      "cs": "autopůjčovna",
+      "en": "car rental",
+      "uk": "прокат автомобілів",
+      "ru": "прокат автомобилей",
+      "pl": "wypożyczalnia samochodów"
+    },
+    {
+      "id": "electric-car",
+      "cs": "elektromobil",
+      "en": "electric car",
+      "uk": "електромобіль",
+      "ru": "электромобиль",
+      "pl": "samochód elektryczny"
+    },
+    {
+      "id": "charging-station",
+      "cs": "nabíjecí stanice",
+      "en": "charging station",
+      "uk": "зарядна станція",
+      "ru": "зарядная станция",
+      "pl": "stacja ładowania"
+    },
+    {
+      "id": "pedestrian",
+      "cs": "chodec",
+      "en": "pedestrian",
+      "uk": "пішохід",
+      "ru": "пешеход",
+      "pl": "pieszy"
+    },
+    {
+      "id": "cyclist",
+      "cs": "cyklista",
+      "en": "cyclist",
+      "uk": "велосипедист",
+      "ru": "велосипедист",
+      "pl": "rowerzysta"
+    }
+  ]
+}

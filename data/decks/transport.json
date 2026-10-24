@@ -1,0 +1,365 @@
+{
+  "id": "transport",
+  "order": 42,
+  "level": "A2",
+  "icon": "bus",
+  "title": {
+    "cs": "Doprava",
+    "en": "Transport",
+    "uk": "Транспорт",
+    "ru": "Транспорт",
+    "pl": "Transport"
+  },
+  "description": {
+    "en": "Getting around by bus, train, boat and more.",
+    "uk": "Пересування автобусом, потягом, човном тощо.",
+    "ru": "Передвижение на автобусе, поезде, лодке и не только.",
+    "pl": "Podróżowanie autobusem, pociągiem, łodzią i nie tylko."
+  },
+  "words": [
+    {
+      "id": "transport",
+      "cs": "doprava",
+      "en": "transport",
+      "uk": "транспорт",
+      "ru": "транспорт",
+      "pl": "transport"
+    },
+    {
+      "id": "public-transport",
+      "cs": "veřejná doprava",
+      "en": "public transport",
+      "uk": "громадський транспорт",
+      "ru": "общественный транспорт",
+      "pl": "komunikacja miejska"
+    },
+    {
+      "id": "trolleybus",
+      "cs": "trolejbus",
+      "en": "trolleybus",
+      "uk": "тролейбус",
+      "ru": "троллейбус",
+      "pl": "trolejbus"
+    },
+    {
+      "id": "express-train",
+      "cs": "rychlík",
+      "en": "express train",
+      "uk": "швидкий потяг",
+      "ru": "скорый поезд",
+      "pl": "pociąg pospieszny"
+    },
+    {
+      "id": "ship",
+      "cs": "loď",
+      "en": "ship",
+      "uk": "корабель",
+      "ru": "корабль",
+      "pl": "statek"
+    },
+    {
+      "id": "boat",
+      "cs": "člun",
+      "en": "boat",
+      "uk": "човен",
+      "ru": "лодка",
+      "pl": "łódź"
+    },
+    {
+      "id": "ferry",
+      "cs": "trajekt",
+      "en": "ferry",
+      "uk": "пором",
+      "ru": "паром",
+      "pl": "prom"
+    },
+    {
+      "id": "helicopter",
+      "cs": "vrtulník",
+      "en": "helicopter",
+      "uk": "гелікоптер",
+      "ru": "вертолёт",
+      "pl": "helikopter"
+    },
+    {
+      "id": "motorcycle",
+      "cs": "motorka",
+      "en": "motorcycle",
+      "uk": "мотоцикл",
+      "ru": "мотоцикл",
+      "pl": "motocykl"
+    },
+    {
+      "id": "kick-scooter",
+      "cs": "koloběžka",
+      "en": "kick scooter",
+      "uk": "самокат",
+      "ru": "самокат",
+      "pl": "hulajnoga"
+    },
+    {
+      "id": "taxi",
+      "cs": "taxi",
+      "en": "taxi",
+      "uk": "таксі",
+      "ru": "такси",
+      "pl": "taksówka"
+    },
+    {
+      "id": "truck",
+      "cs": "nákladní auto",
+      "en": "truck",
+      "uk": "вантажівка",
+      "ru": "грузовик",
+      "pl": "ciężarówka"
+    },
+    {
+      "id": "van",
+      "cs": "dodávka",
+      "en": "van",
+      "uk": "фургон",
+      "ru": "фургон",
+      "pl": "furgonetka"
+    },
+    {
+      "id": "cable-car",
+      "cs": "lanovka",
+      "en": "cable car",
+      "uk": "канатна дорога",
+      "ru": "канатная дорога",
+      "pl": "kolejka linowa"
+    },
+    {
+      "id": "fare",
+      "cs": "jízdné",
+      "en": "fare",
+      "uk": "вартість проїзду",
+      "ru": "стоимость проезда",
+      "pl": "opłata za przejazd"
+    },
+    {
+      "id": "travel-pass",
+      "cs": "časová jízdenka",
+      "en": "travel pass",
+      "uk": "проїзний",
+      "ru": "проездной",
+      "pl": "bilet okresowy"
+    },
+    {
+      "id": "validate-a-ticket",
+      "cs": "označit jízdenku",
+      "en": "to validate a ticket",
+      "uk": "прокомпостувати квиток",
+      "ru": "прокомпостировать билет",
+      "pl": "skasować bilet"
+    },
+    {
+      "id": "ticket-inspector",
+      "cs": "revizor",
+      "en": "ticket inspector",
+      "uk": "контролер",
+      "ru": "контролёр",
+      "pl": "kontroler"
+    },
+    {
+      "id": "passenger",
+      "cs": "cestující",
+      "en": "passenger",
+      "uk": "пасажир",
+      "ru": "пассажир",
+      "pl": "pasażer"
+    },
+    {
+      "id": "seat",
+      "cs": "sedadlo",
+      "en": "seat",
+      "uk": "сидіння",
+      "ru": "сиденье",
+      "pl": "siedzenie"
+    },
+    {
+      "id": "seat-reservation",
+      "cs": "místenka",
+      "en": "seat reservation",
+      "uk": "резервування місця",
+      "ru": "бронирование места",
+      "pl": "miejscówka"
+    },
+    {
+      "id": "carriage",
+      "cs": "vagon",
+      "en": "carriage",
+      "uk": "вагон",
+      "ru": "вагон",
+      "pl": "wagon"
+    },
+    {
+      "id": "compartment",
+      "cs": "kupé",
+      "en": "compartment",
+      "uk": "купе",
+      "ru": "купе",
+      "pl": "przedział"
+    },
+    {
+      "id": "couchette",
+      "cs": "lehátko",
+      "en": "couchette",
+      "uk": "спальне місце",
+      "ru": "спальное место",
+      "pl": "kuszetka"
+    },
+    {
+      "id": "line-route",
+      "cs": "linka",
+      "en": "line (route)",
+      "uk": "маршрут",
+      "ru": "маршрут",
+      "pl": "linia"
+    },
+    {
+      "id": "last-stop",
+      "cs": "konečná",
+      "en": "last stop",
+      "uk": "кінцева зупинка",
+      "ru": "конечная остановка",
+      "pl": "pętla"
+    },
+    {
+      "id": "connection",
+      "cs": "spoj",
+      "en": "connection",
+      "uk": "сполучення",
+      "ru": "сообщение",
+      "pl": "połączenie"
+    },
+    {
+      "id": "transfer",
+      "cs": "přestup",
+      "en": "transfer",
+      "uk": "пересадка",
+      "ru": "пересадка",
+      "pl": "przesiadka"
+    },
+    {
+      "id": "port",
+      "cs": "přístav",
+      "en": "port",
+      "uk": "порт",
+      "ru": "порт",
+      "pl": "port"
+    },
+    {
+      "id": "pier",
+      "cs": "molo",
+      "en": "pier",
+      "uk": "пірс",
+      "ru": "пирс",
+      "pl": "molo"
+    },
+    {
+      "id": "bus-station",
+      "cs": "autobusové nádraží",
+      "en": "bus station",
+      "uk": "автовокзал",
+      "ru": "автовокзал",
+      "pl": "dworzec autobusowy"
+    },
+    {
+      "id": "terminal",
+      "cs": "terminál",
+      "en": "terminal",
+      "uk": "термінал",
+      "ru": "терминал",
+      "pl": "terminal"
+    },
+    {
+      "id": "check-in-airport",
+      "cs": "odbavení",
+      "en": "check-in (airport)",
+      "uk": "реєстрація на рейс",
+      "ru": "регистрация на рейс",
+      "pl": "odprawa"
+    },
+    {
+      "id": "boarding-pass",
+      "cs": "palubní lístek",
+      "en": "boarding pass",
+      "uk": "посадковий талон",
+      "ru": "посадочный талон",
+      "pl": "karta pokładowa"
+    },
+    {
+      "id": "flight",
+      "cs": "let",
+      "en": "flight",
+      "uk": "рейс",
+      "ru": "рейс",
+      "pl": "lot"
+    },
+    {
+      "id": "land",
+      "cs": "přistát",
+      "en": "to land",
+      "uk": "приземлитися",
+      "ru": "приземлиться",
+      "pl": "wylądować"
+    },
+    {
+      "id": "take-off",
+      "cs": "vzlétnout",
+      "en": "to take off",
+      "uk": "злетіти",
+      "ru": "взлететь",
+      "pl": "wystartować"
+    },
+    {
+      "id": "helmet",
+      "cs": "helma",
+      "en": "helmet",
+      "uk": "шолом",
+      "ru": "шлем",
+      "pl": "kask"
+    },
+    {
+      "id": "bike-path",
+      "cs": "cyklostezka",
+      "en": "bike path",
+      "uk": "велодоріжка",
+      "ru": "велодорожка",
+      "pl": "ścieżka rowerowa"
+    },
+    {
+      "id": "on-foot",
+      "cs": "pěšky",
+      "en": "on foot",
+      "uk": "пішки",
+      "ru": "пешком",
+      "pl": "pieszo"
+    },
+    {
+      "id": "by-car",
+      "cs": "autem",
+      "en": "by car",
+      "uk": "автомобілем",
+      "ru": "на машине",
+      "pl": "samochodem"
+    },
+    {
+      "id": "by-train",
+      "cs": "vlakem",
+      "en": "by train",
+      "uk": "потягом",
+      "ru": "на поезде",
+      "pl": "pociągiem"
+    },
+    {
+      "id": "by-plane",
+      "cs": "letadlem",
+      "en": "by plane",
+      "uk": "літаком",
+      "ru": "на самолёте",
+      "pl": "samolotem"
+    }
+  ]
+}

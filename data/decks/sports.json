@@ -1,0 +1,437 @@
+{
+  "id": "sports",
+  "order": 45,
+  "level": "A2",
+  "icon": "ball",
+  "title": {
+    "cs": "Sport",
+    "en": "Sports",
+    "uk": "Спорт",
+    "ru": "Спорт",
+    "pl": "Sport"
+  },
+  "description": {
+    "en": "Games, training and sports equipment.",
+    "uk": "Ігри, тренування та спорядження.",
+    "ru": "Игры, тренировки и снаряжение.",
+    "pl": "Gry, treningi i sprzęt sportowy."
+  },
+  "words": [
+    {
+      "id": "sport",
+      "cs": "sport",
+      "en": "sport",
+      "uk": "спорт",
+      "ru": "спорт",
+      "pl": "sport"
+    },
+    {
+      "id": "soccer",
+      "cs": "fotbal",
+      "en": "soccer",
+      "uk": "футбол",
+      "ru": "футбол",
+      "pl": "piłka nożna"
+    },
+    {
+      "id": "ice-hockey",
+      "cs": "hokej",
+      "en": "ice hockey",
+      "uk": "хокей",
+      "ru": "хоккей",
+      "pl": "hokej"
+    },
+    {
+      "id": "tennis",
+      "cs": "tenis",
+      "en": "tennis",
+      "uk": "теніс",
+      "ru": "теннис",
+      "pl": "tenis"
+    },
+    {
+      "id": "basketball",
+      "cs": "basketbal",
+      "en": "basketball",
+      "uk": "баскетбол",
+      "ru": "баскетбол",
+      "pl": "koszykówka"
+    },
+    {
+      "id": "volleyball",
+      "cs": "volejbal",
+      "en": "volleyball",
+      "uk": "волейбол",
+      "ru": "волейбол",
+      "pl": "siatkówka"
+    },
+    {
+      "id": "handball",
+      "cs": "házená",
+      "en": "handball",
+      "uk": "гандбол",
+      "ru": "гандбол",
+      "pl": "piłka ręczna"
+    },
+    {
+      "id": "golf",
+      "cs": "golf",
+      "en": "golf",
+      "uk": "гольф",
+      "ru": "гольф",
+      "pl": "golf"
+    },
+    {
+      "id": "skiing",
+      "cs": "lyžování",
+      "en": "skiing",
+      "uk": "лижний спорт",
+      "ru": "лыжный спорт",
+      "pl": "narciarstwo"
+    },
+    {
+      "id": "ice-skating",
+      "cs": "bruslení",
+      "en": "ice skating",
+      "uk": "катання на ковзанах",
+      "ru": "катание на коньках",
+      "pl": "łyżwiarstwo"
+    },
+    {
+      "id": "swimming",
+      "cs": "plavání",
+      "en": "swimming",
+      "uk": "плавання",
+      "ru": "плавание",
+      "pl": "pływanie"
+    },
+    {
+      "id": "cycling",
+      "cs": "cyklistika",
+      "en": "cycling",
+      "uk": "велоспорт",
+      "ru": "велоспорт",
+      "pl": "kolarstwo"
+    },
+    {
+      "id": "running",
+      "cs": "běh",
+      "en": "running",
+      "uk": "біг",
+      "ru": "бег",
+      "pl": "bieganie"
+    },
+    {
+      "id": "gymnastics",
+      "cs": "gymnastika",
+      "en": "gymnastics",
+      "uk": "гімнастика",
+      "ru": "гимнастика",
+      "pl": "gimnastyka"
+    },
+    {
+      "id": "boxing",
+      "cs": "box",
+      "en": "boxing",
+      "uk": "бокс",
+      "ru": "бокс",
+      "pl": "boks"
+    },
+    {
+      "id": "yoga",
+      "cs": "jóga",
+      "en": "yoga",
+      "uk": "йога",
+      "ru": "йога",
+      "pl": "joga"
+    },
+    {
+      "id": "chess",
+      "cs": "šachy",
+      "en": "chess",
+      "uk": "шахи",
+      "ru": "шахматы",
+      "pl": "szachy"
+    },
+    {
+      "id": "ball",
+      "cs": "míč",
+      "en": "ball",
+      "uk": "м’яч",
+      "ru": "мяч",
+      "pl": "piłka"
+    },
+    {
+      "id": "goal-net",
+      "cs": "branka",
+      "en": "goal (net)",
+      "uk": "ворота",
+      "ru": "ворота",
+      "pl": "bramka"
+    },
+    {
+      "id": "goal-score",
+      "cs": "gól",
+      "en": "goal (score)",
+      "uk": "гол",
+      "ru": "гол",
+      "pl": "gol"
+    },
+    {
+      "id": "team",
+      "cs": "tým",
+      "en": "team",
+      "uk": "команда",
+      "ru": "команда",
+      "pl": "drużyna"
+    },
+    {
+      "id": "player",
+      "cs": "hráč",
+      "en": "player",
+      "uk": "гравець",
+      "ru": "игрок",
+      "pl": "zawodnik"
+    },
+    {
+      "id": "match",
+      "cs": "zápas",
+      "en": "match",
+      "uk": "матч",
+      "ru": "матч",
+      "pl": "mecz"
+    },
+    {
+      "id": "tournament",
+      "cs": "turnaj",
+      "en": "tournament",
+      "uk": "турнір",
+      "ru": "турнир",
+      "pl": "turniej"
+    },
+    {
+      "id": "competition",
+      "cs": "soutěž",
+      "en": "competition",
+      "uk": "змагання",
+      "ru": "соревнование",
+      "pl": "zawody"
+    },
+    {
+      "id": "winner",
+      "cs": "vítěz",
+      "en": "winner",
+      "uk": "переможець",
+      "ru": "победитель",
+      "pl": "zwycięzca"
+    },
+    {
+      "id": "loser",
+      "cs": "poražený",
+      "en": "loser",
+      "uk": "переможений",
+      "ru": "проигравший",
+      "pl": "przegrany"
+    },
+    {
+      "id": "win",
+      "cs": "vyhrát",
+      "en": "to win",
+      "uk": "виграти",
+      "ru": "выиграть",
+      "pl": "wygrać"
+    },
+    {
+      "id": "lose-a-game",
+      "cs": "prohrát",
+      "en": "to lose (a game)",
+      "uk": "програти",
+      "ru": "проиграть",
+      "pl": "przegrać"
+    },
+    {
+      "id": "draw-tie",
+      "cs": "remíza",
+      "en": "draw (tie)",
+      "uk": "нічия",
+      "ru": "ничья",
+      "pl": "remis"
+    },
+    {
+      "id": "score",
+      "cs": "skóre",
+      "en": "score",
+      "uk": "рахунок",
+      "ru": "счёт",
+      "pl": "wynik"
+    },
+    {
+      "id": "referee",
+      "cs": "rozhodčí",
+      "en": "referee",
+      "uk": "арбітр",
+      "ru": "судья",
+      "pl": "sędzia"
+    },
+    {
+      "id": "fan",
+      "cs": "fanoušek",
+      "en": "fan",
+      "uk": "вболівальник",
+      "ru": "болельщик",
+      "pl": "kibic"
+    },
+    {
+      "id": "training",
+      "cs": "trénink",
+      "en": "training",
+      "uk": "тренування",
+      "ru": "тренировка",
+      "pl": "trening"
+    },
+    {
+      "id": "gym",
+      "cs": "posilovna",
+      "en": "gym",
+      "uk": "спортзал",
+      "ru": "спортзал",
+      "pl": "siłownia"
+    },
+    {
+      "id": "skis",
+      "cs": "lyže",
+      "en": "skis",
+      "uk": "лижі",
+      "ru": "лыжи",
+      "pl": "narty"
+    },
+    {
+      "id": "skates",
+      "cs": "brusle",
+      "en": "skates",
+      "uk": "ковзани",
+      "ru": "коньки",
+      "pl": "łyżwy"
+    },
+    {
+      "id": "racket",
+      "cs": "raketa",
+      "en": "racket",
+      "uk": "ракетка",
+      "ru": "ракетка",
+      "pl": "rakieta"
+    },
+    {
+      "id": "net",
+      "cs": "síť",
+      "en": "net",
+      "uk": "сітка",
+      "ru": "сетка",
+      "pl": "siatka"
+    },
+    {
+      "id": "jersey",
+      "cs": "dres",
+      "en": "jersey",
+      "uk": "спортивна форма",
+      "ru": "спортивная форма",
+      "pl": "strój sportowy"
+    },
+    {
+      "id": "medal",
+      "cs": "medaile",
+      "en": "medal",
+      "uk": "медаль",
+      "ru": "медаль",
+      "pl": "medal"
+    },
+    {
+      "id": "olympic-games",
+      "cs": "olympijské hry",
+      "en": "Olympic Games",
+      "uk": "Олімпійські ігри",
+      "ru": "Олимпийские игры",
+      "pl": "igrzyska olimpijskie"
+    },
+    {
+      "id": "championship",
+      "cs": "mistrovství",
+      "en": "championship",
+      "uk": "чемпіонат",
+      "ru": "чемпионат",
+      "pl": "mistrzostwa"
+    },
+    {
+      "id": "record",
+      "cs": "rekord",
+      "en": "record",
+      "uk": "рекорд",
+      "ru": "рекорд",
+      "pl": "rekord"
+    },
+    {
+      "id": "finish-line",
+      "cs": "cíl",
+      "en": "finish line",
+      "uk": "фініш",
+      "ru": "финиш",
+      "pl": "meta"
+    },
+    {
+      "id": "start",
+      "cs": "start",
+      "en": "start",
+      "uk": "старт",
+      "ru": "старт",
+      "pl": "start"
+    },
+    {
+      "id": "warm-up",
+      "cs": "rozcvička",
+      "en": "warm-up",
+      "uk": "розминка",
+      "ru": "разминка",
+      "pl": "rozgrzewka"
+    },
+    {
+      "id": "play-soccer",
+      "cs": "hrát fotbal",
+      "en": "to play soccer",
+      "uk": "грати у футбол",
+      "ru": "играть в футбол",
+      "pl": "grać w piłkę"
+    },
+    {
+      "id": "kick",
+      "cs": "kopat",
+      "en": "to kick",
+      "uk": "бити ногою",
+      "ru": "пинать",
+      "pl": "kopać"
+    },
+    {
+      "id": "climbing",
+      "cs": "horolezectví",
+      "en": "climbing",
+      "uk": "скелелазіння",
+      "ru": "скалолазание",
+      "pl": "wspinaczka"
+    },
+    {
+      "id": "hiking",
+      "cs": "turistika",
+      "en": "hiking",
+      "uk": "піші походи",
+      "ru": "пеший туризм",
+      "pl": "turystyka piesza"
+    },
+    {
+      "id": "fishing",
+      "cs": "rybaření",
+      "en": "fishing",
+      "uk": "риболовля",
+      "ru": "рыбалка",
+      "pl": "wędkarstwo"
+    }
+  ]
+}

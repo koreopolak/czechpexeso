@@ -1,0 +1,421 @@
+{
+  "id": "city",
+  "order": 19,
+  "level": "A1",
+  "icon": "building",
+  "title": {
+    "cs": "Ve městě",
+    "en": "In the City",
+    "uk": "У місті",
+    "ru": "В городе",
+    "pl": "W mieście"
+  },
+  "description": {
+    "en": "Places, buildings and getting around town.",
+    "uk": "Місця, будівлі та орієнтування в місті.",
+    "ru": "Места, здания и ориентирование в городе.",
+    "pl": "Miejsca, budynki i poruszanie się po mieście."
+  },
+  "words": [
+    {
+      "id": "city",
+      "cs": "město",
+      "en": "city",
+      "uk": "місто",
+      "ru": "город",
+      "pl": "miasto"
+    },
+    {
+      "id": "village",
+      "cs": "vesnice",
+      "en": "village",
+      "uk": "село",
+      "ru": "деревня",
+      "pl": "wieś"
+    },
+    {
+      "id": "city-center",
+      "cs": "centrum",
+      "en": "city center",
+      "uk": "центр міста",
+      "ru": "центр города",
+      "pl": "centrum"
+    },
+    {
+      "id": "square",
+      "cs": "náměstí",
+      "en": "square",
+      "uk": "площа",
+      "ru": "площадь",
+      "pl": "plac"
+    },
+    {
+      "id": "park",
+      "cs": "park",
+      "en": "park",
+      "uk": "парк",
+      "ru": "парк",
+      "pl": "park"
+    },
+    {
+      "id": "shop",
+      "cs": "obchod",
+      "en": "shop",
+      "uk": "магазин",
+      "ru": "магазин",
+      "pl": "sklep"
+    },
+    {
+      "id": "supermarket",
+      "cs": "supermarket",
+      "en": "supermarket",
+      "uk": "супермаркет",
+      "ru": "супермаркет",
+      "pl": "supermarket"
+    },
+    {
+      "id": "market",
+      "cs": "trh",
+      "en": "market",
+      "uk": "ринок",
+      "ru": "рынок",
+      "pl": "rynek"
+    },
+    {
+      "id": "bank",
+      "cs": "banka",
+      "en": "bank",
+      "uk": "банк",
+      "ru": "банк",
+      "pl": "bank"
+    },
+    {
+      "id": "post-office",
+      "cs": "pošta",
+      "en": "post office",
+      "uk": "пошта",
+      "ru": "почта",
+      "pl": "poczta"
+    },
+    {
+      "id": "hospital",
+      "cs": "nemocnice",
+      "en": "hospital",
+      "uk": "лікарня",
+      "ru": "больница",
+      "pl": "szpital"
+    },
+    {
+      "id": "pharmacy",
+      "cs": "lékárna",
+      "en": "pharmacy",
+      "uk": "аптека",
+      "ru": "аптека",
+      "pl": "apteka"
+    },
+    {
+      "id": "church",
+      "cs": "kostel",
+      "en": "church",
+      "uk": "церква",
+      "ru": "церковь",
+      "pl": "kościół"
+    },
+    {
+      "id": "castle",
+      "cs": "hrad",
+      "en": "castle",
+      "uk": "замок",
+      "ru": "замок",
+      "pl": "zamek"
+    },
+    {
+      "id": "museum",
+      "cs": "muzeum",
+      "en": "museum",
+      "uk": "музей",
+      "ru": "музей",
+      "pl": "muzeum"
+    },
+    {
+      "id": "theater",
+      "cs": "divadlo",
+      "en": "theater",
+      "uk": "театр",
+      "ru": "театр",
+      "pl": "teatr"
+    },
+    {
+      "id": "cinema",
+      "cs": "kino",
+      "en": "cinema",
+      "uk": "кінотеатр",
+      "ru": "кинотеатр",
+      "pl": "kino"
+    },
+    {
+      "id": "library",
+      "cs": "knihovna",
+      "en": "library",
+      "uk": "бібліотека",
+      "ru": "библиотека",
+      "pl": "biblioteka"
+    },
+    {
+      "id": "town-hall",
+      "cs": "radnice",
+      "en": "town hall",
+      "uk": "ратуша",
+      "ru": "ратуша",
+      "pl": "ratusz"
+    },
+    {
+      "id": "police",
+      "cs": "policie",
+      "en": "police",
+      "uk": "поліція",
+      "ru": "полиция",
+      "pl": "policja"
+    },
+    {
+      "id": "stadium",
+      "cs": "stadion",
+      "en": "stadium",
+      "uk": "стадіон",
+      "ru": "стадион",
+      "pl": "stadion"
+    },
+    {
+      "id": "swimming-pool",
+      "cs": "bazén",
+      "en": "swimming pool",
+      "uk": "басейн",
+      "ru": "бассейн",
+      "pl": "basen"
+    },
+    {
+      "id": "zoo",
+      "cs": "zoo",
+      "en": "zoo",
+      "uk": "зоопарк",
+      "ru": "зоопарк",
+      "pl": "zoo"
+    },
+    {
+      "id": "playground",
+      "cs": "hřiště",
+      "en": "playground",
+      "uk": "дитячий майданчик",
+      "ru": "детская площадка",
+      "pl": "plac zabaw"
+    },
+    {
+      "id": "sidewalk",
+      "cs": "chodník",
+      "en": "sidewalk",
+      "uk": "тротуар",
+      "ru": "тротуар",
+      "pl": "chodnik"
+    },
+    {
+      "id": "crosswalk",
+      "cs": "přechod",
+      "en": "crosswalk",
+      "uk": "пішохідний перехід",
+      "ru": "пешеходный переход",
+      "pl": "przejście dla pieszych"
+    },
+    {
+      "id": "traffic-light",
+      "cs": "semafor",
+      "en": "traffic light",
+      "uk": "світлофор",
+      "ru": "светофор",
+      "pl": "sygnalizacja świetlna"
+    },
+    {
+      "id": "intersection",
+      "cs": "křižovatka",
+      "en": "intersection",
+      "uk": "перехрестя",
+      "ru": "перекрёсток",
+      "pl": "skrzyżowanie"
+    },
+    {
+      "id": "corner",
+      "cs": "roh",
+      "en": "corner",
+      "uk": "ріг",
+      "ru": "угол",
+      "pl": "róg"
+    },
+    {
+      "id": "building",
+      "cs": "budova",
+      "en": "building",
+      "uk": "будівля",
+      "ru": "здание",
+      "pl": "budynek"
+    },
+    {
+      "id": "skyscraper",
+      "cs": "mrakodrap",
+      "en": "skyscraper",
+      "uk": "хмарочос",
+      "ru": "небоскрёб",
+      "pl": "wieżowiec"
+    },
+    {
+      "id": "tower",
+      "cs": "věž",
+      "en": "tower",
+      "uk": "вежа",
+      "ru": "башня",
+      "pl": "wieża"
+    },
+    {
+      "id": "statue",
+      "cs": "socha",
+      "en": "statue",
+      "uk": "статуя",
+      "ru": "статуя",
+      "pl": "posąg"
+    },
+    {
+      "id": "monument",
+      "cs": "pomník",
+      "en": "monument",
+      "uk": "пам’ятник",
+      "ru": "памятник",
+      "pl": "pomnik"
+    },
+    {
+      "id": "fountain",
+      "cs": "fontána",
+      "en": "fountain",
+      "uk": "фонтан",
+      "ru": "фонтан",
+      "pl": "fontanna"
+    },
+    {
+      "id": "parking-lot",
+      "cs": "parkoviště",
+      "en": "parking lot",
+      "uk": "парковка",
+      "ru": "парковка",
+      "pl": "parking"
+    },
+    {
+      "id": "neighborhood",
+      "cs": "čtvrť",
+      "en": "neighborhood",
+      "uk": "район",
+      "ru": "район",
+      "pl": "dzielnica"
+    },
+    {
+      "id": "suburb",
+      "cs": "předměstí",
+      "en": "suburb",
+      "uk": "передмістя",
+      "ru": "пригород",
+      "pl": "przedmieście"
+    },
+    {
+      "id": "inhabitant",
+      "cs": "obyvatel",
+      "en": "inhabitant",
+      "uk": "мешканець",
+      "ru": "житель",
+      "pl": "mieszkaniec"
+    },
+    {
+      "id": "factory",
+      "cs": "továrna",
+      "en": "factory",
+      "uk": "завод",
+      "ru": "завод",
+      "pl": "fabryka"
+    },
+    {
+      "id": "pub",
+      "cs": "hospoda",
+      "en": "pub",
+      "uk": "паб",
+      "ru": "паб",
+      "pl": "pub"
+    },
+    {
+      "id": "bakery",
+      "cs": "pekárna",
+      "en": "bakery",
+      "uk": "пекарня",
+      "ru": "пекарня",
+      "pl": "piekarnia"
+    },
+    {
+      "id": "butcher-s",
+      "cs": "řeznictví",
+      "en": "butcher's",
+      "uk": "м’ясна крамниця",
+      "ru": "мясная лавка",
+      "pl": "sklep mięsny"
+    },
+    {
+      "id": "hairdresser-s",
+      "cs": "kadeřnictví",
+      "en": "hairdresser's",
+      "uk": "перукарня",
+      "ru": "парикмахерская",
+      "pl": "salon fryzjerski"
+    },
+    {
+      "id": "dry-cleaner-s",
+      "cs": "čistírna",
+      "en": "dry cleaner's",
+      "uk": "хімчистка",
+      "ru": "химчистка",
+      "pl": "pralnia chemiczna"
+    },
+    {
+      "id": "gas-station",
+      "cs": "benzínka",
+      "en": "gas station",
+      "uk": "заправка",
+      "ru": "заправка",
+      "pl": "stacja benzynowa"
+    },
+    {
+      "id": "cemetery",
+      "cs": "hřbitov",
+      "en": "cemetery",
+      "uk": "цвинтар",
+      "ru": "кладбище",
+      "pl": "cmentarz"
+    },
+    {
+      "id": "subway",
+      "cs": "metro",
+      "en": "subway",
+      "uk": "метро",
+      "ru": "метро",
+      "pl": "metro"
+    },
+    {
+      "id": "housing-estate",
+      "cs": "sídliště",
+      "en": "housing estate",
+      "uk": "житловий масив",
+      "ru": "жилой массив",
+      "pl": "osiedle"
+    },
+    {
+      "id": "city-map",
+      "cs": "plán města",
+      "en": "city map",
+      "uk": "карта міста",
+      "ru": "карта города",
+      "pl": "plan miasta"
+    }
+  ]
+}

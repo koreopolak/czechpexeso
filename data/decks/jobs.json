@@ -1,0 +1,485 @@
+{
+  "id": "jobs",
+  "order": 20,
+  "level": "A1",
+  "icon": "briefcase",
+  "title": {
+    "cs": "Povolání",
+    "en": "Jobs",
+    "uk": "Професії",
+    "ru": "Профессии",
+    "pl": "Zawody"
+  },
+  "description": {
+    "en": "Who does what: common jobs and professions.",
+    "uk": "Хто чим займається: поширені професії.",
+    "ru": "Кто чем занимается: распространённые профессии.",
+    "pl": "Kto czym się zajmuje: popularne zawody."
+  },
+  "words": [
+    {
+      "id": "doctor",
+      "cs": "lékař",
+      "en": "doctor",
+      "uk": "лікар",
+      "ru": "врач",
+      "pl": "lekarz"
+    },
+    {
+      "id": "nurse",
+      "cs": "zdravotní sestra",
+      "en": "nurse",
+      "uk": "медсестра",
+      "ru": "медсестра",
+      "pl": "pielęgniarka"
+    },
+    {
+      "id": "dentist",
+      "cs": "zubař",
+      "en": "dentist",
+      "uk": "стоматолог",
+      "ru": "стоматолог",
+      "pl": "dentysta"
+    },
+    {
+      "id": "police-officer",
+      "cs": "policista",
+      "en": "police officer",
+      "uk": "поліцейський",
+      "ru": "полицейский",
+      "pl": "policjant"
+    },
+    {
+      "id": "firefighter",
+      "cs": "hasič",
+      "en": "firefighter",
+      "uk": "пожежник",
+      "ru": "пожарный",
+      "pl": "strażak"
+    },
+    {
+      "id": "soldier",
+      "cs": "voják",
+      "en": "soldier",
+      "uk": "солдат",
+      "ru": "солдат",
+      "pl": "żołnierz"
+    },
+    {
+      "id": "cook",
+      "cs": "kuchař",
+      "en": "cook",
+      "uk": "кухар",
+      "ru": "повар",
+      "pl": "kucharz"
+    },
+    {
+      "id": "waiter",
+      "cs": "číšník",
+      "en": "waiter",
+      "uk": "офіціант",
+      "ru": "официант",
+      "pl": "kelner"
+    },
+    {
+      "id": "shop-assistant",
+      "cs": "prodavač",
+      "en": "shop assistant",
+      "uk": "продавець",
+      "ru": "продавец",
+      "pl": "sprzedawca"
+    },
+    {
+      "id": "cashier",
+      "cs": "pokladní",
+      "en": "cashier",
+      "uk": "касир",
+      "ru": "кассир",
+      "pl": "kasjer"
+    },
+    {
+      "id": "driver",
+      "cs": "řidič",
+      "en": "driver",
+      "uk": "водій",
+      "ru": "водитель",
+      "pl": "kierowca"
+    },
+    {
+      "id": "pilot",
+      "cs": "pilot",
+      "en": "pilot",
+      "uk": "пілот",
+      "ru": "пилот",
+      "pl": "pilot"
+    },
+    {
+      "id": "engineer",
+      "cs": "inženýr",
+      "en": "engineer",
+      "uk": "інженер",
+      "ru": "инженер",
+      "pl": "inżynier"
+    },
+    {
+      "id": "programmer",
+      "cs": "programátor",
+      "en": "programmer",
+      "uk": "програміст",
+      "ru": "программист",
+      "pl": "programista"
+    },
+    {
+      "id": "architect",
+      "cs": "architekt",
+      "en": "architect",
+      "uk": "архітектор",
+      "ru": "архитектор",
+      "pl": "architekt"
+    },
+    {
+      "id": "lawyer",
+      "cs": "právník",
+      "en": "lawyer",
+      "uk": "юрист",
+      "ru": "юрист",
+      "pl": "prawnik"
+    },
+    {
+      "id": "judge",
+      "cs": "soudce",
+      "en": "judge",
+      "uk": "суддя",
+      "ru": "судья",
+      "pl": "sędzia"
+    },
+    {
+      "id": "journalist",
+      "cs": "novinář",
+      "en": "journalist",
+      "uk": "журналіст",
+      "ru": "журналист",
+      "pl": "dziennikarz"
+    },
+    {
+      "id": "actor",
+      "cs": "herec",
+      "en": "actor",
+      "uk": "актор",
+      "ru": "актёр",
+      "pl": "aktor"
+    },
+    {
+      "id": "singer",
+      "cs": "zpěvák",
+      "en": "singer",
+      "uk": "співак",
+      "ru": "певец",
+      "pl": "piosenkarz"
+    },
+    {
+      "id": "painter",
+      "cs": "malíř",
+      "en": "painter",
+      "uk": "художник",
+      "ru": "художник",
+      "pl": "malarz"
+    },
+    {
+      "id": "writer",
+      "cs": "spisovatel",
+      "en": "writer",
+      "uk": "письменник",
+      "ru": "писатель",
+      "pl": "pisarz"
+    },
+    {
+      "id": "photographer",
+      "cs": "fotograf",
+      "en": "photographer",
+      "uk": "фотограф",
+      "ru": "фотограф",
+      "pl": "fotograf"
+    },
+    {
+      "id": "hairdresser",
+      "cs": "kadeřník",
+      "en": "hairdresser",
+      "uk": "перукар",
+      "ru": "парикмахер",
+      "pl": "fryzjer"
+    },
+    {
+      "id": "bricklayer",
+      "cs": "zedník",
+      "en": "bricklayer",
+      "uk": "муляр",
+      "ru": "каменщик",
+      "pl": "murarz"
+    },
+    {
+      "id": "electrician",
+      "cs": "elektrikář",
+      "en": "electrician",
+      "uk": "електрик",
+      "ru": "электрик",
+      "pl": "elektryk"
+    },
+    {
+      "id": "plumber",
+      "cs": "instalatér",
+      "en": "plumber",
+      "uk": "сантехнік",
+      "ru": "сантехник",
+      "pl": "hydraulik"
+    },
+    {
+      "id": "carpenter",
+      "cs": "truhlář",
+      "en": "carpenter",
+      "uk": "столяр",
+      "ru": "столяр",
+      "pl": "stolarz"
+    },
+    {
+      "id": "car-mechanic",
+      "cs": "automechanik",
+      "en": "car mechanic",
+      "uk": "автомеханік",
+      "ru": "автомеханик",
+      "pl": "mechanik samochodowy"
+    },
+    {
+      "id": "farmer",
+      "cs": "zemědělec",
+      "en": "farmer",
+      "uk": "фермер",
+      "ru": "фермер",
+      "pl": "rolnik"
+    },
+    {
+      "id": "baker",
+      "cs": "pekař",
+      "en": "baker",
+      "uk": "пекар",
+      "ru": "пекарь",
+      "pl": "piekarz"
+    },
+    {
+      "id": "butcher",
+      "cs": "řezník",
+      "en": "butcher",
+      "uk": "м’ясник",
+      "ru": "мясник",
+      "pl": "rzeźnik"
+    },
+    {
+      "id": "gardener",
+      "cs": "zahradník",
+      "en": "gardener",
+      "uk": "садівник",
+      "ru": "садовник",
+      "pl": "ogrodnik"
+    },
+    {
+      "id": "cleaner",
+      "cs": "uklízečka",
+      "en": "cleaner",
+      "uk": "прибиральниця",
+      "ru": "уборщица",
+      "pl": "sprzątaczka"
+    },
+    {
+      "id": "accountant",
+      "cs": "účetní",
+      "en": "accountant",
+      "uk": "бухгалтер",
+      "ru": "бухгалтер",
+      "pl": "księgowy"
+    },
+    {
+      "id": "clerk",
+      "cs": "úředník",
+      "en": "clerk",
+      "uk": "службовець",
+      "ru": "служащий",
+      "pl": "urzędnik"
+    },
+    {
+      "id": "manager",
+      "cs": "manažer",
+      "en": "manager",
+      "uk": "менеджер",
+      "ru": "менеджер",
+      "pl": "menedżer"
+    },
+    {
+      "id": "entrepreneur",
+      "cs": "podnikatel",
+      "en": "entrepreneur",
+      "uk": "підприємець",
+      "ru": "предприниматель",
+      "pl": "przedsiębiorca"
+    },
+    {
+      "id": "scientist",
+      "cs": "vědec",
+      "en": "scientist",
+      "uk": "науковець",
+      "ru": "учёный",
+      "pl": "naukowiec"
+    },
+    {
+      "id": "pharmacist",
+      "cs": "lékárník",
+      "en": "pharmacist",
+      "uk": "фармацевт",
+      "ru": "фармацевт",
+      "pl": "farmaceuta"
+    },
+    {
+      "id": "vet",
+      "cs": "veterinář",
+      "en": "vet",
+      "uk": "ветеринар",
+      "ru": "ветеринар",
+      "pl": "weterynarz"
+    },
+    {
+      "id": "psychologist",
+      "cs": "psycholog",
+      "en": "psychologist",
+      "uk": "психолог",
+      "ru": "психолог",
+      "pl": "psycholog"
+    },
+    {
+      "id": "translator",
+      "cs": "překladatel",
+      "en": "translator",
+      "uk": "перекладач",
+      "ru": "переводчик",
+      "pl": "tłumacz"
+    },
+    {
+      "id": "interpreter",
+      "cs": "tlumočník",
+      "en": "interpreter",
+      "uk": "усний перекладач",
+      "ru": "устный переводчик",
+      "pl": "tłumacz ustny"
+    },
+    {
+      "id": "mail-carrier",
+      "cs": "listonoš",
+      "en": "mail carrier",
+      "uk": "листоноша",
+      "ru": "почтальон",
+      "pl": "listonosz"
+    },
+    {
+      "id": "courier",
+      "cs": "kurýr",
+      "en": "courier",
+      "uk": "кур’єр",
+      "ru": "курьер",
+      "pl": "kurier"
+    },
+    {
+      "id": "warehouse-worker",
+      "cs": "skladník",
+      "en": "warehouse worker",
+      "uk": "комірник",
+      "ru": "кладовщик",
+      "pl": "magazynier"
+    },
+    {
+      "id": "worker",
+      "cs": "dělník",
+      "en": "worker",
+      "uk": "робітник",
+      "ru": "рабочий",
+      "pl": "robotnik"
+    },
+    {
+      "id": "secretary",
+      "cs": "sekretářka",
+      "en": "secretary",
+      "uk": "секретарка",
+      "ru": "секретарь",
+      "pl": "sekretarka"
+    },
+    {
+      "id": "receptionist",
+      "cs": "recepční",
+      "en": "receptionist",
+      "uk": "адміністратор",
+      "ru": "администратор",
+      "pl": "recepcjonista"
+    },
+    {
+      "id": "coach",
+      "cs": "trenér",
+      "en": "coach",
+      "uk": "тренер",
+      "ru": "тренер",
+      "pl": "trener"
+    },
+    {
+      "id": "athlete",
+      "cs": "sportovec",
+      "en": "athlete",
+      "uk": "спортсмен",
+      "ru": "спортсмен",
+      "pl": "sportowiec"
+    },
+    {
+      "id": "dancer",
+      "cs": "tanečník",
+      "en": "dancer",
+      "uk": "танцюрист",
+      "ru": "танцор",
+      "pl": "tancerz"
+    },
+    {
+      "id": "musician",
+      "cs": "hudebník",
+      "en": "musician",
+      "uk": "музикант",
+      "ru": "музыкант",
+      "pl": "muzyk"
+    },
+    {
+      "id": "retiree",
+      "cs": "důchodce",
+      "en": "retiree",
+      "uk": "пенсіонер",
+      "ru": "пенсионер",
+      "pl": "emeryt"
+    },
+    {
+      "id": "unemployed",
+      "cs": "nezaměstnaný",
+      "en": "unemployed",
+      "uk": "безробітний",
+      "ru": "безработный",
+      "pl": "bezrobotny"
+    },
+    {
+      "id": "profession",
+      "cs": "povolání",
+      "en": "profession",
+      "uk": "професія",
+      "ru": "профессия",
+      "pl": "zawód"
+    },
+    {
+      "id": "nanny",
+      "cs": "chůva",
+      "en": "nanny",
+      "uk": "няня",
+      "ru": "няня",
+      "pl": "niania"
+    }
+  ]
+}

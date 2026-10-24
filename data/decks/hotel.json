@@ -1,0 +1,341 @@
+{
+  "id": "hotel",
+  "order": 43,
+  "level": "A2",
+  "icon": "bed",
+  "title": {
+    "cs": "Ubytování",
+    "en": "Accommodation",
+    "uk": "Проживання",
+    "ru": "Проживание",
+    "pl": "Zakwaterowanie"
+  },
+  "description": {
+    "en": "Hotels, check-in and staying away from home.",
+    "uk": "Готелі, заселення та проживання поза домом.",
+    "ru": "Отели, заселение и проживание вне дома.",
+    "pl": "Hotele, zameldowanie i pobyt poza domem."
+  },
+  "words": [
+    {
+      "id": "accommodation",
+      "cs": "ubytování",
+      "en": "accommodation",
+      "uk": "проживання",
+      "ru": "проживание",
+      "pl": "zakwaterowanie"
+    },
+    {
+      "id": "guesthouse",
+      "cs": "penzion",
+      "en": "guesthouse",
+      "uk": "гостьовий будинок",
+      "ru": "гостевой дом",
+      "pl": "pensjonat"
+    },
+    {
+      "id": "hostel",
+      "cs": "hostel",
+      "en": "hostel",
+      "uk": "хостел",
+      "ru": "хостел",
+      "pl": "hostel"
+    },
+    {
+      "id": "reception",
+      "cs": "recepce",
+      "en": "reception",
+      "uk": "рецепція",
+      "ru": "ресепшен",
+      "pl": "recepcja"
+    },
+    {
+      "id": "single-room",
+      "cs": "jednolůžkový pokoj",
+      "en": "single room",
+      "uk": "одномісний номер",
+      "ru": "одноместный номер",
+      "pl": "pokój jednoosobowy"
+    },
+    {
+      "id": "double-room",
+      "cs": "dvoulůžkový pokoj",
+      "en": "double room",
+      "uk": "двомісний номер",
+      "ru": "двухместный номер",
+      "pl": "pokój dwuosobowy"
+    },
+    {
+      "id": "vacancy",
+      "cs": "volný pokoj",
+      "en": "vacancy",
+      "uk": "вільний номер",
+      "ru": "свободный номер",
+      "pl": "wolny pokój"
+    },
+    {
+      "id": "check-in",
+      "cs": "přihlásit se",
+      "en": "to check in",
+      "uk": "заселитися",
+      "ru": "заселиться",
+      "pl": "zameldować się"
+    },
+    {
+      "id": "check-out",
+      "cs": "odhlásit se",
+      "en": "to check out",
+      "uk": "виселитися",
+      "ru": "выселиться",
+      "pl": "wymeldować się"
+    },
+    {
+      "id": "overnight-stay",
+      "cs": "přenocování",
+      "en": "overnight stay",
+      "uk": "ночівля",
+      "ru": "ночёвка",
+      "pl": "nocleg"
+    },
+    {
+      "id": "breakfast-included",
+      "cs": "snídaně v ceně",
+      "en": "breakfast included",
+      "uk": "сніданок включено",
+      "ru": "завтрак включён",
+      "pl": "śniadanie w cenie"
+    },
+    {
+      "id": "half-board",
+      "cs": "polopenze",
+      "en": "half board",
+      "uk": "напівпансіон",
+      "ru": "полупансион",
+      "pl": "półpensjonat"
+    },
+    {
+      "id": "full-board",
+      "cs": "plná penze",
+      "en": "full board",
+      "uk": "повний пансіон",
+      "ru": "полный пансион",
+      "pl": "pełne wyżywienie"
+    },
+    {
+      "id": "room-service",
+      "cs": "pokojová služba",
+      "en": "room service",
+      "uk": "обслуговування номерів",
+      "ru": "обслуживание номеров",
+      "pl": "obsługa pokoju"
+    },
+    {
+      "id": "key-card",
+      "cs": "klíčová karta",
+      "en": "key card",
+      "uk": "ключ-картка",
+      "ru": "ключ-карта",
+      "pl": "karta do pokoju"
+    },
+    {
+      "id": "safe-box",
+      "cs": "trezor",
+      "en": "safe (box)",
+      "uk": "сейф",
+      "ru": "сейф",
+      "pl": "sejf"
+    },
+    {
+      "id": "minibar",
+      "cs": "minibar",
+      "en": "minibar",
+      "uk": "мінібар",
+      "ru": "мини-бар",
+      "pl": "minibar"
+    },
+    {
+      "id": "air-conditioning",
+      "cs": "klimatizace",
+      "en": "air conditioning",
+      "uk": "кондиціонер",
+      "ru": "кондиционер",
+      "pl": "klimatyzacja"
+    },
+    {
+      "id": "wi-fi-password",
+      "cs": "heslo na wifi",
+      "en": "Wi-Fi password",
+      "uk": "пароль від Wi-Fi",
+      "ru": "пароль от Wi-Fi",
+      "pl": "hasło do Wi-Fi"
+    },
+    {
+      "id": "view",
+      "cs": "výhled",
+      "en": "view",
+      "uk": "вид з вікна",
+      "ru": "вид",
+      "pl": "widok"
+    },
+    {
+      "id": "star-rating",
+      "cs": "hvězdička",
+      "en": "star (rating)",
+      "uk": "зірочка",
+      "ru": "звёздочка",
+      "pl": "gwiazdka"
+    },
+    {
+      "id": "review",
+      "cs": "recenze",
+      "en": "review",
+      "uk": "відгук",
+      "ru": "отзыв",
+      "pl": "recenzja"
+    },
+    {
+      "id": "stay-at-a-hotel",
+      "cs": "ubytovat se",
+      "en": "to stay (at a hotel)",
+      "uk": "зупинитися",
+      "ru": "остановиться",
+      "pl": "zatrzymać się"
+    },
+    {
+      "id": "hotel-room",
+      "cs": "hotelový pokoj",
+      "en": "hotel room",
+      "uk": "номер у готелі",
+      "ru": "номер в отеле",
+      "pl": "pokój hotelowy"
+    },
+    {
+      "id": "holiday-apartment",
+      "cs": "apartmán",
+      "en": "holiday apartment",
+      "uk": "апартаменти",
+      "ru": "апартаменты",
+      "pl": "apartament"
+    },
+    {
+      "id": "cabin",
+      "cs": "chata",
+      "en": "cabin",
+      "uk": "дача",
+      "ru": "дача",
+      "pl": "domek letniskowy"
+    },
+    {
+      "id": "country-house",
+      "cs": "chalupa",
+      "en": "country house",
+      "uk": "сільський будинок",
+      "ru": "деревенский дом",
+      "pl": "dom na wsi"
+    },
+    {
+      "id": "stay",
+      "cs": "pobyt",
+      "en": "stay",
+      "uk": "перебування",
+      "ru": "пребывание",
+      "pl": "pobyt"
+    },
+    {
+      "id": "extend-a-stay",
+      "cs": "prodloužit pobyt",
+      "en": "to extend a stay",
+      "uk": "продовжити перебування",
+      "ru": "продлить пребывание",
+      "pl": "przedłużyć pobyt"
+    },
+    {
+      "id": "cancel-a-booking",
+      "cs": "zrušit rezervaci",
+      "en": "to cancel a booking",
+      "uk": "скасувати бронювання",
+      "ru": "отменить бронь",
+      "pl": "anulować rezerwację"
+    },
+    {
+      "id": "fee",
+      "cs": "poplatek",
+      "en": "fee",
+      "uk": "збір",
+      "ru": "сбор",
+      "pl": "opłata"
+    },
+    {
+      "id": "deposit",
+      "cs": "záloha",
+      "en": "deposit",
+      "uk": "завдаток",
+      "ru": "предоплата",
+      "pl": "zaliczka"
+    },
+    {
+      "id": "tourist-tax",
+      "cs": "turistická taxa",
+      "en": "tourist tax",
+      "uk": "туристичний збір",
+      "ru": "туристический сбор",
+      "pl": "opłata turystyczna"
+    },
+    {
+      "id": "lobby",
+      "cs": "hala",
+      "en": "lobby",
+      "uk": "хол",
+      "ru": "холл",
+      "pl": "hol"
+    },
+    {
+      "id": "parking",
+      "cs": "parkování",
+      "en": "parking",
+      "uk": "паркування",
+      "ru": "парковка",
+      "pl": "parkowanie"
+    },
+    {
+      "id": "wake-up-call",
+      "cs": "buzení",
+      "en": "wake-up call",
+      "uk": "дзвінок-побудка",
+      "ru": "звонок-будильник",
+      "pl": "budzenie"
+    },
+    {
+      "id": "laundry-room",
+      "cs": "prádelna",
+      "en": "laundry room",
+      "uk": "пральня",
+      "ru": "прачечная",
+      "pl": "pralnia"
+    },
+    {
+      "id": "housekeeper",
+      "cs": "pokojská",
+      "en": "housekeeper",
+      "uk": "покоївка",
+      "ru": "горничная",
+      "pl": "pokojówka"
+    },
+    {
+      "id": "spa-town",
+      "cs": "lázně",
+      "en": "spa town",
+      "uk": "курорт",
+      "ru": "курорт",
+      "pl": "uzdrowisko"
+    },
+    {
+      "id": "sauna",
+      "cs": "sauna",
+      "en": "sauna",
+      "uk": "сауна",
+      "ru": "сауна",
+      "pl": "sauna"
+    }
+  ]
+}

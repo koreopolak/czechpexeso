@@ -1,0 +1,549 @@
+{
+  "id": "verbs-everyday",
+  "order": 30,
+  "level": "A2",
+  "icon": "list",
+  "title": {
+    "cs": "Každodenní činnosti",
+    "en": "Everyday Actions",
+    "uk": "Щоденні дії",
+    "ru": "Повседневные действия",
+    "pl": "Codzienne czynności"
+  },
+  "description": {
+    "en": "Verbs for your daily routine.",
+    "uk": "Дієслова для вашого щоденного розпорядку.",
+    "ru": "Глаголы для вашего распорядка дня.",
+    "pl": "Czasowniki na co dzień."
+  },
+  "words": [
+    {
+      "id": "get-up",
+      "cs": "vstávat",
+      "en": "to get up",
+      "uk": "вставати",
+      "ru": "вставать",
+      "pl": "wstawać"
+    },
+    {
+      "id": "wake-up",
+      "cs": "probudit se",
+      "en": "to wake up",
+      "uk": "прокинутися",
+      "ru": "проснуться",
+      "pl": "obudzić się"
+    },
+    {
+      "id": "fall-asleep",
+      "cs": "usnout",
+      "en": "to fall asleep",
+      "uk": "заснути",
+      "ru": "заснуть",
+      "pl": "zasnąć"
+    },
+    {
+      "id": "get-dressed",
+      "cs": "obléknout se",
+      "en": "to get dressed",
+      "uk": "одягнутися",
+      "ru": "одеться",
+      "pl": "ubrać się"
+    },
+    {
+      "id": "get-undressed",
+      "cs": "svléknout se",
+      "en": "to get undressed",
+      "uk": "роздягнутися",
+      "ru": "раздеться",
+      "pl": "rozebrać się"
+    },
+    {
+      "id": "shower",
+      "cs": "sprchovat se",
+      "en": "to shower",
+      "uk": "приймати душ",
+      "ru": "принимать душ",
+      "pl": "brać prysznic"
+    },
+    {
+      "id": "bathe",
+      "cs": "koupat se",
+      "en": "to bathe",
+      "uk": "купатися",
+      "ru": "купаться",
+      "pl": "kąpać się"
+    },
+    {
+      "id": "brush-one-s-teeth",
+      "cs": "čistit si zuby",
+      "en": "to brush one's teeth",
+      "uk": "чистити зуби",
+      "ru": "чистить зубы",
+      "pl": "myć zęby"
+    },
+    {
+      "id": "comb-one-s-hair",
+      "cs": "česat se",
+      "en": "to comb one's hair",
+      "uk": "розчісуватися",
+      "ru": "причёсываться",
+      "pl": "czesać się"
+    },
+    {
+      "id": "shave",
+      "cs": "holit se",
+      "en": "to shave",
+      "uk": "голитися",
+      "ru": "бриться",
+      "pl": "golić się"
+    },
+    {
+      "id": "have-breakfast",
+      "cs": "snídat",
+      "en": "to have breakfast",
+      "uk": "снідати",
+      "ru": "завтракать",
+      "pl": "jeść śniadanie"
+    },
+    {
+      "id": "have-lunch",
+      "cs": "obědvat",
+      "en": "to have lunch",
+      "uk": "обідати",
+      "ru": "обедать",
+      "pl": "jeść obiad"
+    },
+    {
+      "id": "have-dinner",
+      "cs": "večeřet",
+      "en": "to have dinner",
+      "uk": "вечеряти",
+      "ru": "ужинать",
+      "pl": "jeść kolację"
+    },
+    {
+      "id": "rest",
+      "cs": "odpočívat",
+      "en": "to rest",
+      "uk": "відпочивати",
+      "ru": "отдыхать",
+      "pl": "odpoczywać"
+    },
+    {
+      "id": "go-shopping",
+      "cs": "nakupovat",
+      "en": "to go shopping",
+      "uk": "робити покупки",
+      "ru": "делать покупки",
+      "pl": "robić zakupy"
+    },
+    {
+      "id": "tidy-up",
+      "cs": "uklízet",
+      "en": "to tidy up",
+      "uk": "прибирати",
+      "ru": "убирать",
+      "pl": "sprzątać"
+    },
+    {
+      "id": "do-laundry",
+      "cs": "prát",
+      "en": "to do laundry",
+      "uk": "прати",
+      "ru": "стирать",
+      "pl": "prać"
+    },
+    {
+      "id": "iron",
+      "cs": "žehlit",
+      "en": "to iron",
+      "uk": "прасувати",
+      "ru": "гладить",
+      "pl": "prasować"
+    },
+    {
+      "id": "wash-the-dishes",
+      "cs": "mýt nádobí",
+      "en": "to wash the dishes",
+      "uk": "мити посуд",
+      "ru": "мыть посуду",
+      "pl": "zmywać naczynia"
+    },
+    {
+      "id": "take-out-the-trash",
+      "cs": "vynést odpadky",
+      "en": "to take out the trash",
+      "uk": "винести сміття",
+      "ru": "вынести мусор",
+      "pl": "wynieść śmieci"
+    },
+    {
+      "id": "water-plants",
+      "cs": "zalévat",
+      "en": "to water (plants)",
+      "uk": "поливати",
+      "ru": "поливать",
+      "pl": "podlewać"
+    },
+    {
+      "id": "feed",
+      "cs": "krmit",
+      "en": "to feed",
+      "uk": "годувати",
+      "ru": "кормить",
+      "pl": "karmić"
+    },
+    {
+      "id": "walk-the-dog",
+      "cs": "venčit psa",
+      "en": "to walk the dog",
+      "uk": "вигулювати собаку",
+      "ru": "выгуливать собаку",
+      "pl": "wyprowadzać psa"
+    },
+    {
+      "id": "watch-tv",
+      "cs": "dívat se na televizi",
+      "en": "to watch TV",
+      "uk": "дивитися телевізор",
+      "ru": "смотреть телевизор",
+      "pl": "oglądać telewizję"
+    },
+    {
+      "id": "use",
+      "cs": "používat",
+      "en": "to use",
+      "uk": "використовувати",
+      "ru": "использовать",
+      "pl": "używać"
+    },
+    {
+      "id": "turn-on",
+      "cs": "zapnout",
+      "en": "to turn on",
+      "uk": "увімкнути",
+      "ru": "включить",
+      "pl": "włączyć"
+    },
+    {
+      "id": "turn-off",
+      "cs": "vypnout",
+      "en": "to turn off",
+      "uk": "вимкнути",
+      "ru": "выключить",
+      "pl": "wyłączyć"
+    },
+    {
+      "id": "charge",
+      "cs": "nabíjet",
+      "en": "to charge",
+      "uk": "заряджати",
+      "ru": "заряжать",
+      "pl": "ładować"
+    },
+    {
+      "id": "text",
+      "cs": "psát zprávu",
+      "en": "to text",
+      "uk": "писати повідомлення",
+      "ru": "писать сообщение",
+      "pl": "pisać wiadomość"
+    },
+    {
+      "id": "prepare",
+      "cs": "připravit",
+      "en": "to prepare",
+      "uk": "підготувати",
+      "ru": "подготовить",
+      "pl": "przygotować"
+    },
+    {
+      "id": "repair",
+      "cs": "opravit",
+      "en": "to repair",
+      "uk": "полагодити",
+      "ru": "починить",
+      "pl": "naprawić"
+    },
+    {
+      "id": "break",
+      "cs": "rozbít",
+      "en": "to break",
+      "uk": "розбити",
+      "ru": "разбить",
+      "pl": "rozbić"
+    },
+    {
+      "id": "lose",
+      "cs": "ztratit",
+      "en": "to lose",
+      "uk": "загубити",
+      "ru": "потерять",
+      "pl": "zgubić"
+    },
+    {
+      "id": "hide",
+      "cs": "schovat",
+      "en": "to hide",
+      "uk": "сховати",
+      "ru": "спрятать",
+      "pl": "schować"
+    },
+    {
+      "id": "pay-attention",
+      "cs": "dát pozor",
+      "en": "to pay attention",
+      "uk": "бути уважним",
+      "ru": "быть внимательным",
+      "pl": "uważać"
+    },
+    {
+      "id": "hurry",
+      "cs": "spěchat",
+      "en": "to hurry",
+      "uk": "поспішати",
+      "ru": "спешить",
+      "pl": "spieszyć się"
+    },
+    {
+      "id": "stay",
+      "cs": "zůstat",
+      "en": "to stay",
+      "uk": "залишитися",
+      "ru": "остаться",
+      "pl": "zostać"
+    },
+    {
+      "id": "meet",
+      "cs": "potkat",
+      "en": "to meet",
+      "uk": "зустріти",
+      "ru": "встретить",
+      "pl": "spotkać"
+    },
+    {
+      "id": "visit",
+      "cs": "navštívit",
+      "en": "to visit",
+      "uk": "відвідати",
+      "ru": "навестить",
+      "pl": "odwiedzić"
+    },
+    {
+      "id": "invite",
+      "cs": "pozvat",
+      "en": "to invite",
+      "uk": "запросити",
+      "ru": "пригласить",
+      "pl": "zaprosić"
+    },
+    {
+      "id": "celebrate",
+      "cs": "slavit",
+      "en": "to celebrate",
+      "uk": "святкувати",
+      "ru": "праздновать",
+      "pl": "świętować"
+    },
+    {
+      "id": "give-a-gift",
+      "cs": "darovat",
+      "en": "to give (a gift)",
+      "uk": "дарувати",
+      "ru": "дарить",
+      "pl": "podarować"
+    },
+    {
+      "id": "lend",
+      "cs": "půjčit",
+      "en": "to lend",
+      "uk": "позичити",
+      "ru": "одолжить",
+      "pl": "pożyczyć"
+    },
+    {
+      "id": "give-back",
+      "cs": "vrátit",
+      "en": "to give back",
+      "uk": "повернути",
+      "ru": "вернуть",
+      "pl": "oddać"
+    },
+    {
+      "id": "send",
+      "cs": "poslat",
+      "en": "to send",
+      "uk": "надіслати",
+      "ru": "отправить",
+      "pl": "wysłać"
+    },
+    {
+      "id": "phone",
+      "cs": "telefonovat",
+      "en": "to phone",
+      "uk": "телефонувати",
+      "ru": "звонить по телефону",
+      "pl": "telefonować"
+    },
+    {
+      "id": "take-photos",
+      "cs": "fotit",
+      "en": "to take photos",
+      "uk": "фотографувати",
+      "ru": "фотографировать",
+      "pl": "fotografować"
+    },
+    {
+      "id": "smoke",
+      "cs": "kouřit",
+      "en": "to smoke",
+      "uk": "курити",
+      "ru": "курить",
+      "pl": "palić"
+    },
+    {
+      "id": "taste",
+      "cs": "ochutnat",
+      "en": "to taste",
+      "uk": "скуштувати",
+      "ru": "попробовать на вкус",
+      "pl": "spróbować smaku"
+    },
+    {
+      "id": "be-hungry",
+      "cs": "mít hlad",
+      "en": "to be hungry",
+      "uk": "бути голодним",
+      "ru": "быть голодным",
+      "pl": "być głodnym"
+    },
+    {
+      "id": "be-thirsty",
+      "cs": "mít žízeň",
+      "en": "to be thirsty",
+      "uk": "хотіти пити",
+      "ru": "хотеть пить",
+      "pl": "chcieć pić"
+    },
+    {
+      "id": "be-tired",
+      "cs": "být unavený",
+      "en": "to be tired",
+      "uk": "бути втомленим",
+      "ru": "быть уставшим",
+      "pl": "być zmęczonym"
+    },
+    {
+      "id": "order",
+      "cs": "objednat",
+      "en": "to order",
+      "uk": "замовити",
+      "ru": "заказать",
+      "pl": "zamówić"
+    },
+    {
+      "id": "book",
+      "cs": "rezervovat",
+      "en": "to book",
+      "uk": "забронювати",
+      "ru": "забронировать",
+      "pl": "zarezerwować"
+    },
+    {
+      "id": "plan",
+      "cs": "naplánovat",
+      "en": "to plan",
+      "uk": "запланувати",
+      "ru": "запланировать",
+      "pl": "zaplanować"
+    },
+    {
+      "id": "organize",
+      "cs": "organizovat",
+      "en": "to organize",
+      "uk": "організовувати",
+      "ru": "организовывать",
+      "pl": "organizować"
+    },
+    {
+      "id": "choose",
+      "cs": "vybrat",
+      "en": "to choose",
+      "uk": "вибрати",
+      "ru": "выбрать",
+      "pl": "wybrać"
+    },
+    {
+      "id": "change",
+      "cs": "změnit",
+      "en": "to change",
+      "uk": "змінити",
+      "ru": "изменить",
+      "pl": "zmienić"
+    },
+    {
+      "id": "turn",
+      "cs": "otočit",
+      "en": "to turn",
+      "uk": "обернути",
+      "ru": "повернуть",
+      "pl": "obrócić"
+    },
+    {
+      "id": "throw",
+      "cs": "hodit",
+      "en": "to throw",
+      "uk": "кинути",
+      "ru": "бросить",
+      "pl": "rzucić"
+    },
+    {
+      "id": "catch",
+      "cs": "chytit",
+      "en": "to catch",
+      "uk": "зловити",
+      "ru": "поймать",
+      "pl": "złapać"
+    },
+    {
+      "id": "hold",
+      "cs": "držet",
+      "en": "to hold",
+      "uk": "тримати",
+      "ru": "держать",
+      "pl": "trzymać"
+    },
+    {
+      "id": "push",
+      "cs": "tlačit",
+      "en": "to push",
+      "uk": "штовхати",
+      "ru": "толкать",
+      "pl": "pchać"
+    },
+    {
+      "id": "pull",
+      "cs": "táhnout",
+      "en": "to pull",
+      "uk": "тягнути",
+      "ru": "тянуть",
+      "pl": "ciągnąć"
+    },
+    {
+      "id": "lift",
+      "cs": "zvednout",
+      "en": "to lift",
+      "uk": "підняти",
+      "ru": "поднять",
+      "pl": "podnieść"
+    },
+    {
+      "id": "put-down",
+      "cs": "položit",
+      "en": "to put down",
+      "uk": "покласти",
+      "ru": "положить",
+      "pl": "położyć"
+    }
+  ]
+}

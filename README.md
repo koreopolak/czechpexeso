@@ -6,7 +6,7 @@ with a light Premium subscription through Stripe.
 
 - **Game:** 4×3, 4×4, 6×4 and 6×6 boards, move counter, optional timer, stars for speed (separate limits per board size), score with streak bonus, best scores
 - **Learning:** Czech pronunciation (Web Speech API) after each match, "last pair" bar, word list, end-of-game review
-- **Decks:** 12 themed decks in JSON, all free to play, easy to extend; each deck shows how many of its words you have played
+- **Decks:** 60 themed decks (3,000+ words, grouped by level A1–B1) in JSON, all free to play, easy to extend; each deck shows how many of its words you have played
 - **Interface:** English, Ukrainian, Russian, Polish (auto-detected, switchable); light/dark/system theme
 - **Sound:** synthesised flip / match / mismatch / win effects (no audio files)
 - **Progress:** words played per deck, stars, accuracy, history, daily streak; export/import as JSON
@@ -206,9 +206,10 @@ registration (OSS) for your situation.
    ```
 
    At least **18 words** (enough for the 6×6 board). Optional per word: `"note"` (shown in word lists).
-   Icons: `palette hash paw cup people book spark plane leaf hand house shirt` (add more in `components/icons.tsx`).
+   `level` is `A1`, `A2` or `B1` and decides which section of the deck list it appears in; `order` sorts decks within the list.
+   Icons: any name from `components/icons.tsx` (e.g. `book`, `car`, `heart`, `bulb`; add more there).
 2. Import it in `data/decks/index.ts` and add it to the list.
-3. `npm run validate:decks` — catches missing translations and duplicate texts (two different cards must never look identical).
+3. `npm run validate:decks` — catches missing translations, duplicate texts (two different cards must never look identical) and words that already appear in another deck.
 
 New decks are automatically included in the deck list, the daily challenge and the sitemap.
 

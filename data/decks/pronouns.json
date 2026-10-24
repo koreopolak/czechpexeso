@@ -1,0 +1,341 @@
+{
+  "id": "pronouns",
+  "order": 16,
+  "level": "A1",
+  "icon": "question",
+  "title": {
+    "cs": "Zájmena a otázky",
+    "en": "Pronouns & Questions",
+    "uk": "Займенники та питання",
+    "ru": "Местоимения и вопросы",
+    "pl": "Zaimki i pytania"
+  },
+  "description": {
+    "en": "Who, what, where — and I, you, we.",
+    "uk": "Хто, що, де — і я, ти, ми.",
+    "ru": "Кто, что, где — и я, ты, мы.",
+    "pl": "Kto, co, gdzie — oraz ja, ty, my."
+  },
+  "words": [
+    {
+      "id": "i",
+      "cs": "já",
+      "en": "I",
+      "uk": "я",
+      "ru": "я",
+      "pl": "ja"
+    },
+    {
+      "id": "you-informal",
+      "cs": "ty",
+      "en": "you (informal)",
+      "uk": "ти",
+      "ru": "ты",
+      "pl": "ty"
+    },
+    {
+      "id": "he",
+      "cs": "on",
+      "en": "he",
+      "uk": "він",
+      "ru": "он",
+      "pl": "on"
+    },
+    {
+      "id": "she",
+      "cs": "ona",
+      "en": "she",
+      "uk": "вона",
+      "ru": "она",
+      "pl": "ona"
+    },
+    {
+      "id": "it",
+      "cs": "ono",
+      "en": "it",
+      "uk": "воно",
+      "ru": "оно",
+      "pl": "ono"
+    },
+    {
+      "id": "we",
+      "cs": "my",
+      "en": "we",
+      "uk": "ми",
+      "ru": "мы",
+      "pl": "my"
+    },
+    {
+      "id": "you-plural-polite",
+      "cs": "vy",
+      "en": "you (plural, polite)",
+      "uk": "ви",
+      "ru": "вы",
+      "pl": "wy"
+    },
+    {
+      "id": "they",
+      "cs": "oni",
+      "en": "they",
+      "uk": "вони",
+      "ru": "они",
+      "pl": "oni"
+    },
+    {
+      "id": "my-mine",
+      "cs": "můj",
+      "en": "my, mine",
+      "uk": "мій",
+      "ru": "мой",
+      "pl": "mój"
+    },
+    {
+      "id": "your-informal",
+      "cs": "tvůj",
+      "en": "your (informal)",
+      "uk": "твій",
+      "ru": "твой",
+      "pl": "twój"
+    },
+    {
+      "id": "his",
+      "cs": "jeho",
+      "en": "his",
+      "uk": "його",
+      "ru": "его",
+      "pl": "jego"
+    },
+    {
+      "id": "her-possessive",
+      "cs": "její",
+      "en": "her (possessive)",
+      "uk": "її",
+      "ru": "её",
+      "pl": "jej"
+    },
+    {
+      "id": "our",
+      "cs": "náš",
+      "en": "our",
+      "uk": "наш",
+      "ru": "наш",
+      "pl": "nasz"
+    },
+    {
+      "id": "your-plural-polite",
+      "cs": "váš",
+      "en": "your (plural, polite)",
+      "uk": "ваш",
+      "ru": "ваш",
+      "pl": "wasz"
+    },
+    {
+      "id": "their",
+      "cs": "jejich",
+      "en": "their",
+      "uk": "їхній",
+      "ru": "их",
+      "pl": "ich"
+    },
+    {
+      "id": "one-s-own",
+      "cs": "svůj",
+      "en": "one's own",
+      "uk": "свій",
+      "ru": "свой",
+      "pl": "swój"
+    },
+    {
+      "id": "who",
+      "cs": "kdo",
+      "en": "who",
+      "uk": "хто",
+      "ru": "кто",
+      "pl": "kto"
+    },
+    {
+      "id": "what",
+      "cs": "co",
+      "en": "what",
+      "uk": "що",
+      "ru": "что",
+      "pl": "co"
+    },
+    {
+      "id": "where",
+      "cs": "kde",
+      "en": "where",
+      "uk": "де",
+      "ru": "где",
+      "pl": "gdzie"
+    },
+    {
+      "id": "where-to",
+      "cs": "kam",
+      "en": "where to",
+      "uk": "куди",
+      "ru": "куда",
+      "pl": "dokąd"
+    },
+    {
+      "id": "where-from",
+      "cs": "odkud",
+      "en": "where from",
+      "uk": "звідки",
+      "ru": "откуда",
+      "pl": "skąd"
+    },
+    {
+      "id": "when",
+      "cs": "kdy",
+      "en": "when",
+      "uk": "коли",
+      "ru": "когда",
+      "pl": "kiedy"
+    },
+    {
+      "id": "why",
+      "cs": "proč",
+      "en": "why",
+      "uk": "чому",
+      "ru": "почему",
+      "pl": "dlaczego"
+    },
+    {
+      "id": "how",
+      "cs": "jak",
+      "en": "how",
+      "uk": "як",
+      "ru": "как",
+      "pl": "jak"
+    },
+    {
+      "id": "how-many",
+      "cs": "kolik",
+      "en": "how many",
+      "uk": "скільки",
+      "ru": "сколько",
+      "pl": "ile"
+    },
+    {
+      "id": "which",
+      "cs": "který",
+      "en": "which",
+      "uk": "котрий",
+      "ru": "который",
+      "pl": "który"
+    },
+    {
+      "id": "what-kind",
+      "cs": "jaký",
+      "en": "what kind",
+      "uk": "який",
+      "ru": "какой",
+      "pl": "jaki"
+    },
+    {
+      "id": "whose",
+      "cs": "čí",
+      "en": "whose",
+      "uk": "чий",
+      "ru": "чей",
+      "pl": "czyj"
+    },
+    {
+      "id": "this",
+      "cs": "tento",
+      "en": "this",
+      "uk": "цей",
+      "ru": "этот",
+      "pl": "ten"
+    },
+    {
+      "id": "that",
+      "cs": "tamten",
+      "en": "that",
+      "uk": "той",
+      "ru": "тот",
+      "pl": "tamten"
+    },
+    {
+      "id": "everything",
+      "cs": "všechno",
+      "en": "everything",
+      "uk": "все",
+      "ru": "всё",
+      "pl": "wszystko"
+    },
+    {
+      "id": "nothing",
+      "cs": "nic",
+      "en": "nothing",
+      "uk": "нічого",
+      "ru": "ничего",
+      "pl": "nic"
+    },
+    {
+      "id": "somebody",
+      "cs": "někdo",
+      "en": "somebody",
+      "uk": "хтось",
+      "ru": "кто-то",
+      "pl": "ktoś"
+    },
+    {
+      "id": "nobody",
+      "cs": "nikdo",
+      "en": "nobody",
+      "uk": "ніхто",
+      "ru": "никто",
+      "pl": "nikt"
+    },
+    {
+      "id": "something",
+      "cs": "něco",
+      "en": "something",
+      "uk": "щось",
+      "ru": "что-то",
+      "pl": "coś"
+    },
+    {
+      "id": "every",
+      "cs": "každý",
+      "en": "every",
+      "uk": "кожен",
+      "ru": "каждый",
+      "pl": "każdy"
+    },
+    {
+      "id": "none",
+      "cs": "žádný",
+      "en": "none",
+      "uk": "жоден",
+      "ru": "никакой",
+      "pl": "żaden"
+    },
+    {
+      "id": "by-oneself",
+      "cs": "sám",
+      "en": "by oneself",
+      "uk": "сам",
+      "ru": "сам",
+      "pl": "sam"
+    },
+    {
+      "id": "somewhere",
+      "cs": "někde",
+      "en": "somewhere",
+      "uk": "десь",
+      "ru": "где-то",
+      "pl": "gdzieś"
+    },
+    {
+      "id": "nowhere",
+      "cs": "nikde",
+      "en": "nowhere",
+      "uk": "ніде",
+      "ru": "нигде",
+      "pl": "nigdzie"
+    }
+  ]
+}

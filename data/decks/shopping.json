@@ -1,0 +1,421 @@
+{
+  "id": "shopping",
+  "order": 21,
+  "level": "A1",
+  "icon": "cart",
+  "title": {
+    "cs": "Nakupování a peníze",
+    "en": "Shopping & Money",
+    "uk": "Покупки та гроші",
+    "ru": "Покупки и деньги",
+    "pl": "Zakupy i pieniądze"
+  },
+  "description": {
+    "en": "Prices, payments and going shopping.",
+    "uk": "Ціни, оплата та покупки.",
+    "ru": "Цены, оплата и покупки.",
+    "pl": "Ceny, płatności i zakupy."
+  },
+  "words": [
+    {
+      "id": "shopping",
+      "cs": "nákup",
+      "en": "shopping",
+      "uk": "покупка",
+      "ru": "покупка",
+      "pl": "zakupy"
+    },
+    {
+      "id": "money",
+      "cs": "peníze",
+      "en": "money",
+      "uk": "гроші",
+      "ru": "деньги",
+      "pl": "pieniądze"
+    },
+    {
+      "id": "price",
+      "cs": "cena",
+      "en": "price",
+      "uk": "ціна",
+      "ru": "цена",
+      "pl": "cena"
+    },
+    {
+      "id": "discount",
+      "cs": "sleva",
+      "en": "discount",
+      "uk": "знижка",
+      "ru": "скидка",
+      "pl": "zniżka"
+    },
+    {
+      "id": "sale",
+      "cs": "výprodej",
+      "en": "sale",
+      "uk": "розпродаж",
+      "ru": "распродажа",
+      "pl": "wyprzedaż"
+    },
+    {
+      "id": "receipt",
+      "cs": "účtenka",
+      "en": "receipt",
+      "uk": "чек",
+      "ru": "чек",
+      "pl": "paragon"
+    },
+    {
+      "id": "cash",
+      "cs": "hotovost",
+      "en": "cash",
+      "uk": "готівка",
+      "ru": "наличные",
+      "pl": "gotówka"
+    },
+    {
+      "id": "card",
+      "cs": "karta",
+      "en": "card",
+      "uk": "картка",
+      "ru": "карта",
+      "pl": "karta"
+    },
+    {
+      "id": "coin",
+      "cs": "mince",
+      "en": "coin",
+      "uk": "монета",
+      "ru": "монета",
+      "pl": "moneta"
+    },
+    {
+      "id": "banknote",
+      "cs": "bankovka",
+      "en": "banknote",
+      "uk": "банкнота",
+      "ru": "банкнота",
+      "pl": "banknot"
+    },
+    {
+      "id": "crown-currency",
+      "cs": "koruna",
+      "en": "crown (currency)",
+      "uk": "крона",
+      "ru": "крона",
+      "pl": "korona"
+    },
+    {
+      "id": "euro",
+      "cs": "euro",
+      "en": "euro",
+      "uk": "євро",
+      "ru": "евро",
+      "pl": "euro"
+    },
+    {
+      "id": "small-change",
+      "cs": "drobné",
+      "en": "small change",
+      "uk": "дрібні гроші",
+      "ru": "мелочь",
+      "pl": "drobne"
+    },
+    {
+      "id": "refund",
+      "cs": "vrátit peníze",
+      "en": "to refund",
+      "uk": "повернути гроші",
+      "ru": "вернуть деньги",
+      "pl": "zwrócić pieniądze"
+    },
+    {
+      "id": "shopping-basket",
+      "cs": "nákupní košík",
+      "en": "shopping basket",
+      "uk": "кошик",
+      "ru": "корзина",
+      "pl": "koszyk"
+    },
+    {
+      "id": "shopping-cart",
+      "cs": "nákupní vozík",
+      "en": "shopping cart",
+      "uk": "візок",
+      "ru": "тележка",
+      "pl": "wózek"
+    },
+    {
+      "id": "bag",
+      "cs": "taška",
+      "en": "bag",
+      "uk": "сумка",
+      "ru": "сумка",
+      "pl": "torba"
+    },
+    {
+      "id": "goods",
+      "cs": "zboží",
+      "en": "goods",
+      "uk": "товар",
+      "ru": "товар",
+      "pl": "towar"
+    },
+    {
+      "id": "customer",
+      "cs": "zákazník",
+      "en": "customer",
+      "uk": "клієнт",
+      "ru": "покупатель",
+      "pl": "klient"
+    },
+    {
+      "id": "queue",
+      "cs": "fronta",
+      "en": "queue",
+      "uk": "черга",
+      "ru": "очередь",
+      "pl": "kolejka"
+    },
+    {
+      "id": "opening-hours",
+      "cs": "otevírací doba",
+      "en": "opening hours",
+      "uk": "години роботи",
+      "ru": "часы работы",
+      "pl": "godziny otwarcia"
+    },
+    {
+      "id": "closed-sign",
+      "cs": "zavřeno",
+      "en": "closed (sign)",
+      "uk": "зачинено",
+      "ru": "закрыто",
+      "pl": "zamknięte"
+    },
+    {
+      "id": "open-sign",
+      "cs": "otevřeno",
+      "en": "open (sign)",
+      "uk": "відчинено",
+      "ru": "открыто",
+      "pl": "otwarte"
+    },
+    {
+      "id": "how-much-is-it",
+      "cs": "kolik to stojí?",
+      "en": "how much is it?",
+      "uk": "скільки це коштує?",
+      "ru": "сколько это стоит?",
+      "pl": "ile to kosztuje?"
+    },
+    {
+      "id": "try-on",
+      "cs": "vyzkoušet si",
+      "en": "to try on",
+      "uk": "приміряти",
+      "ru": "примерить",
+      "pl": "przymierzyć"
+    },
+    {
+      "id": "fitting-room",
+      "cs": "kabinka",
+      "en": "fitting room",
+      "uk": "примірочна",
+      "ru": "примерочная",
+      "pl": "przymierzalnia"
+    },
+    {
+      "id": "warranty",
+      "cs": "záruka",
+      "en": "warranty",
+      "uk": "гарантія",
+      "ru": "гарантия",
+      "pl": "gwarancja"
+    },
+    {
+      "id": "complaint-return",
+      "cs": "reklamace",
+      "en": "complaint (return)",
+      "uk": "рекламація",
+      "ru": "рекламация",
+      "pl": "reklamacja"
+    },
+    {
+      "id": "gift-card",
+      "cs": "dárkový poukaz",
+      "en": "gift card",
+      "uk": "подарунковий сертифікат",
+      "ru": "подарочный сертификат",
+      "pl": "karta podarunkowa"
+    },
+    {
+      "id": "special-offer",
+      "cs": "akce",
+      "en": "special offer",
+      "uk": "акція",
+      "ru": "акция",
+      "pl": "promocja"
+    },
+    {
+      "id": "offer",
+      "cs": "nabídka",
+      "en": "offer",
+      "uk": "пропозиція",
+      "ru": "предложение",
+      "pl": "oferta"
+    },
+    {
+      "id": "order",
+      "cs": "objednávka",
+      "en": "order",
+      "uk": "замовлення",
+      "ru": "заказ",
+      "pl": "zamówienie"
+    },
+    {
+      "id": "online-shop",
+      "cs": "e-shop",
+      "en": "online shop",
+      "uk": "інтернет-магазин",
+      "ru": "интернет-магазин",
+      "pl": "sklep internetowy"
+    },
+    {
+      "id": "delivery",
+      "cs": "doručení",
+      "en": "delivery",
+      "uk": "доставка",
+      "ru": "доставка",
+      "pl": "dostawa"
+    },
+    {
+      "id": "parcel",
+      "cs": "balík",
+      "en": "parcel",
+      "uk": "посилка",
+      "ru": "посылка",
+      "pl": "paczka"
+    },
+    {
+      "id": "debt",
+      "cs": "dluh",
+      "en": "debt",
+      "uk": "борг",
+      "ru": "долг",
+      "pl": "dług"
+    },
+    {
+      "id": "loan",
+      "cs": "půjčka",
+      "en": "loan",
+      "uk": "позика",
+      "ru": "заём",
+      "pl": "pożyczka"
+    },
+    {
+      "id": "savings",
+      "cs": "úspory",
+      "en": "savings",
+      "uk": "заощадження",
+      "ru": "сбережения",
+      "pl": "oszczędności"
+    },
+    {
+      "id": "atm",
+      "cs": "bankomat",
+      "en": "ATM",
+      "uk": "банкомат",
+      "ru": "банкомат",
+      "pl": "bankomat"
+    },
+    {
+      "id": "payment",
+      "cs": "platba",
+      "en": "payment",
+      "uk": "оплата",
+      "ru": "оплата",
+      "pl": "płatność"
+    },
+    {
+      "id": "bank-transfer",
+      "cs": "převod",
+      "en": "bank transfer",
+      "uk": "переказ",
+      "ru": "перевод",
+      "pl": "przelew"
+    },
+    {
+      "id": "exchange-office",
+      "cs": "směnárna",
+      "en": "exchange office",
+      "uk": "обмін валют",
+      "ru": "обмен валют",
+      "pl": "kantor"
+    },
+    {
+      "id": "exchange-rate",
+      "cs": "kurz",
+      "en": "exchange rate",
+      "uk": "курс",
+      "ru": "курс",
+      "pl": "kurs"
+    },
+    {
+      "id": "tax",
+      "cs": "daň",
+      "en": "tax",
+      "uk": "податок",
+      "ru": "налог",
+      "pl": "podatek"
+    },
+    {
+      "id": "wages",
+      "cs": "výplata",
+      "en": "wages",
+      "uk": "зарплата",
+      "ru": "зарплата",
+      "pl": "wypłata"
+    },
+    {
+      "id": "pocket-money",
+      "cs": "kapesné",
+      "en": "pocket money",
+      "uk": "кишенькові гроші",
+      "ru": "карманные деньги",
+      "pl": "kieszonkowe"
+    },
+    {
+      "id": "spend",
+      "cs": "utratit",
+      "en": "to spend",
+      "uk": "витратити",
+      "ru": "потратить",
+      "pl": "wydać"
+    },
+    {
+      "id": "save-money",
+      "cs": "ušetřit",
+      "en": "to save (money)",
+      "uk": "заощадити",
+      "ru": "сэкономить",
+      "pl": "zaoszczędzić"
+    },
+    {
+      "id": "exchange",
+      "cs": "vyměnit",
+      "en": "to exchange",
+      "uk": "обміняти",
+      "ru": "обменять",
+      "pl": "wymienić"
+    },
+    {
+      "id": "free-of-charge",
+      "cs": "zdarma",
+      "en": "free of charge",
+      "uk": "безкоштовно",
+      "ru": "бесплатно",
+      "pl": "za darmo"
+    }
+  ]
+}

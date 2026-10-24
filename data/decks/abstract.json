@@ -1,0 +1,509 @@
+{
+  "id": "abstract",
+  "order": 74,
+  "level": "B1",
+  "icon": "bulb",
+  "title": {
+    "cs": "Abstraktní pojmy",
+    "en": "Ideas & Concepts",
+    "uk": "Абстрактні поняття",
+    "ru": "Абстрактные понятия",
+    "pl": "Pojęcia abstrakcyjne"
+  },
+  "description": {
+    "en": "Words for ideas, values and life's big questions.",
+    "uk": "Слова для ідей, цінностей і важливих питань життя.",
+    "ru": "Слова для идей, ценностей и важных вопросов жизни.",
+    "pl": "Słowa na idee, wartości i wielkie pytania życia."
+  },
+  "words": [
+    {
+      "id": "thought",
+      "cs": "myšlenka",
+      "en": "thought",
+      "uk": "думка",
+      "ru": "мысль",
+      "pl": "myśl"
+    },
+    {
+      "id": "idea",
+      "cs": "nápad",
+      "en": "idea",
+      "uk": "ідея",
+      "ru": "идея",
+      "pl": "pomysł"
+    },
+    {
+      "id": "opinion",
+      "cs": "názor",
+      "en": "opinion",
+      "uk": "погляд",
+      "ru": "мнение",
+      "pl": "opinia"
+    },
+    {
+      "id": "meaning",
+      "cs": "smysl",
+      "en": "meaning",
+      "uk": "сенс",
+      "ru": "смысл",
+      "pl": "sens"
+    },
+    {
+      "id": "significance",
+      "cs": "význam",
+      "en": "significance",
+      "uk": "значення",
+      "ru": "значение",
+      "pl": "znaczenie"
+    },
+    {
+      "id": "goal-aim",
+      "cs": "cíl",
+      "en": "goal (aim)",
+      "uk": "мета",
+      "ru": "цель",
+      "pl": "cel"
+    },
+    {
+      "id": "reason",
+      "cs": "důvod",
+      "en": "reason",
+      "uk": "причина",
+      "ru": "причина",
+      "pl": "powód"
+    },
+    {
+      "id": "consequence",
+      "cs": "následek",
+      "en": "consequence",
+      "uk": "наслідок",
+      "ru": "последствие",
+      "pl": "skutek"
+    },
+    {
+      "id": "advantage",
+      "cs": "výhoda",
+      "en": "advantage",
+      "uk": "перевага",
+      "ru": "преимущество",
+      "pl": "zaleta"
+    },
+    {
+      "id": "disadvantage",
+      "cs": "nevýhoda",
+      "en": "disadvantage",
+      "uk": "недолік",
+      "ru": "недостаток",
+      "pl": "wada"
+    },
+    {
+      "id": "problem",
+      "cs": "problém",
+      "en": "problem",
+      "uk": "проблема",
+      "ru": "проблема",
+      "pl": "problem"
+    },
+    {
+      "id": "solution",
+      "cs": "řešení",
+      "en": "solution",
+      "uk": "рішення",
+      "ru": "решение",
+      "pl": "rozwiązanie"
+    },
+    {
+      "id": "possibility",
+      "cs": "možnost",
+      "en": "possibility",
+      "uk": "можливість",
+      "ru": "возможность",
+      "pl": "możliwość"
+    },
+    {
+      "id": "opportunity",
+      "cs": "příležitost",
+      "en": "opportunity",
+      "uk": "нагода",
+      "ru": "удобный случай",
+      "pl": "okazja"
+    },
+    {
+      "id": "chance",
+      "cs": "šance",
+      "en": "chance",
+      "uk": "шанс",
+      "ru": "шанс",
+      "pl": "szansa"
+    },
+    {
+      "id": "risk",
+      "cs": "riziko",
+      "en": "risk",
+      "uk": "ризик",
+      "ru": "риск",
+      "pl": "ryzyko"
+    },
+    {
+      "id": "success",
+      "cs": "úspěch",
+      "en": "success",
+      "uk": "успіх",
+      "ru": "успех",
+      "pl": "sukces"
+    },
+    {
+      "id": "failure",
+      "cs": "neúspěch",
+      "en": "failure",
+      "uk": "невдача",
+      "ru": "неудача",
+      "pl": "porażka"
+    },
+    {
+      "id": "knowledge",
+      "cs": "znalost",
+      "en": "knowledge",
+      "uk": "знання",
+      "ru": "знание",
+      "pl": "wiedza"
+    },
+    {
+      "id": "wisdom",
+      "cs": "moudrost",
+      "en": "wisdom",
+      "uk": "мудрість",
+      "ru": "мудрость",
+      "pl": "mądrość"
+    },
+    {
+      "id": "truth",
+      "cs": "pravda",
+      "en": "truth",
+      "uk": "правда",
+      "ru": "правда",
+      "pl": "prawda"
+    },
+    {
+      "id": "lie-untruth",
+      "cs": "lež",
+      "en": "lie (untruth)",
+      "uk": "брехня",
+      "ru": "ложь",
+      "pl": "kłamstwo"
+    },
+    {
+      "id": "secret",
+      "cs": "tajemství",
+      "en": "secret",
+      "uk": "таємниця",
+      "ru": "тайна",
+      "pl": "tajemnica"
+    },
+    {
+      "id": "rule",
+      "cs": "pravidlo",
+      "en": "rule",
+      "uk": "правило",
+      "ru": "правило",
+      "pl": "zasada"
+    },
+    {
+      "id": "exception",
+      "cs": "výjimka",
+      "en": "exception",
+      "uk": "виняток",
+      "ru": "исключение",
+      "pl": "wyjątek"
+    },
+    {
+      "id": "example",
+      "cs": "příklad",
+      "en": "example",
+      "uk": "приклад",
+      "ru": "пример",
+      "pl": "przykład"
+    },
+    {
+      "id": "difference",
+      "cs": "rozdíl",
+      "en": "difference",
+      "uk": "різниця",
+      "ru": "разница",
+      "pl": "różnica"
+    },
+    {
+      "id": "similarity",
+      "cs": "podobnost",
+      "en": "similarity",
+      "uk": "схожість",
+      "ru": "сходство",
+      "pl": "podobieństwo"
+    },
+    {
+      "id": "relationship",
+      "cs": "vztah",
+      "en": "relationship",
+      "uk": "стосунки",
+      "ru": "отношения",
+      "pl": "związek"
+    },
+    {
+      "id": "influence",
+      "cs": "vliv",
+      "en": "influence",
+      "uk": "вплив",
+      "ru": "влияние",
+      "pl": "wpływ"
+    },
+    {
+      "id": "change",
+      "cs": "změna",
+      "en": "change",
+      "uk": "зміна",
+      "ru": "изменение",
+      "pl": "zmiana"
+    },
+    {
+      "id": "development",
+      "cs": "vývoj",
+      "en": "development",
+      "uk": "розвиток",
+      "ru": "развитие",
+      "pl": "rozwój"
+    },
+    {
+      "id": "progress",
+      "cs": "pokrok",
+      "en": "progress",
+      "uk": "прогрес",
+      "ru": "прогресс",
+      "pl": "postęp"
+    },
+    {
+      "id": "fate",
+      "cs": "osud",
+      "en": "fate",
+      "uk": "доля",
+      "ru": "судьба",
+      "pl": "los"
+    },
+    {
+      "id": "coincidence",
+      "cs": "náhoda",
+      "en": "coincidence",
+      "uk": "збіг",
+      "ru": "совпадение",
+      "pl": "przypadek"
+    },
+    {
+      "id": "bad-luck",
+      "cs": "smůla",
+      "en": "bad luck",
+      "uk": "невезіння",
+      "ru": "невезение",
+      "pl": "pech"
+    },
+    {
+      "id": "responsibility",
+      "cs": "zodpovědnost",
+      "en": "responsibility",
+      "uk": "відповідальність",
+      "ru": "ответственность",
+      "pl": "odpowiedzialność"
+    },
+    {
+      "id": "duty",
+      "cs": "povinnost",
+      "en": "duty",
+      "uk": "обов’язок",
+      "ru": "обязанность",
+      "pl": "obowiązek"
+    },
+    {
+      "id": "right",
+      "cs": "právo",
+      "en": "right",
+      "uk": "право",
+      "ru": "право",
+      "pl": "prawo"
+    },
+    {
+      "id": "beauty",
+      "cs": "krása",
+      "en": "beauty",
+      "uk": "краса",
+      "ru": "красота",
+      "pl": "piękno"
+    },
+    {
+      "id": "good-moral",
+      "cs": "dobro",
+      "en": "good (moral)",
+      "uk": "добро",
+      "ru": "добро",
+      "pl": "dobro"
+    },
+    {
+      "id": "evil",
+      "cs": "zlo",
+      "en": "evil",
+      "uk": "зло",
+      "ru": "зло",
+      "pl": "zło"
+    },
+    {
+      "id": "honor",
+      "cs": "čest",
+      "en": "honor",
+      "uk": "честь",
+      "ru": "честь",
+      "pl": "honor"
+    },
+    {
+      "id": "courage",
+      "cs": "odvaha",
+      "en": "courage",
+      "uk": "мужність",
+      "ru": "мужество",
+      "pl": "odwaga"
+    },
+    {
+      "id": "faith",
+      "cs": "víra",
+      "en": "faith",
+      "uk": "віра",
+      "ru": "вера",
+      "pl": "wiara"
+    },
+    {
+      "id": "life",
+      "cs": "život",
+      "en": "life",
+      "uk": "життя",
+      "ru": "жизнь",
+      "pl": "życie"
+    },
+    {
+      "id": "death",
+      "cs": "smrt",
+      "en": "death",
+      "uk": "смерть",
+      "ru": "смерть",
+      "pl": "śmierć"
+    },
+    {
+      "id": "soul",
+      "cs": "duše",
+      "en": "soul",
+      "uk": "душа",
+      "ru": "душа",
+      "pl": "dusza"
+    },
+    {
+      "id": "mind",
+      "cs": "mysl",
+      "en": "mind",
+      "uk": "розум",
+      "ru": "разум",
+      "pl": "umysł"
+    },
+    {
+      "id": "memory",
+      "cs": "paměť",
+      "en": "memory",
+      "uk": "пам’ять",
+      "ru": "память",
+      "pl": "pamięć"
+    },
+    {
+      "id": "recollection",
+      "cs": "vzpomínka",
+      "en": "recollection",
+      "uk": "спогад",
+      "ru": "воспоминание",
+      "pl": "wspomnienie"
+    },
+    {
+      "id": "dream",
+      "cs": "sen",
+      "en": "dream",
+      "uk": "сон",
+      "ru": "сон",
+      "pl": "sen"
+    },
+    {
+      "id": "will",
+      "cs": "vůle",
+      "en": "will",
+      "uk": "воля",
+      "ru": "воля",
+      "pl": "wola"
+    },
+    {
+      "id": "interest",
+      "cs": "zájem",
+      "en": "interest",
+      "uk": "інтерес",
+      "ru": "интерес",
+      "pl": "zainteresowanie"
+    },
+    {
+      "id": "attention",
+      "cs": "pozornost",
+      "en": "attention",
+      "uk": "увага",
+      "ru": "внимание",
+      "pl": "uwaga"
+    },
+    {
+      "id": "quality",
+      "cs": "kvalita",
+      "en": "quality",
+      "uk": "якість",
+      "ru": "качество",
+      "pl": "jakość"
+    },
+    {
+      "id": "value",
+      "cs": "hodnota",
+      "en": "value",
+      "uk": "цінність",
+      "ru": "ценность",
+      "pl": "wartość"
+    },
+    {
+      "id": "reality",
+      "cs": "skutečnost",
+      "en": "reality",
+      "uk": "реальність",
+      "ru": "реальность",
+      "pl": "rzeczywistość"
+    },
+    {
+      "id": "imagination",
+      "cs": "fantazie",
+      "en": "imagination",
+      "uk": "фантазія",
+      "ru": "фантазия",
+      "pl": "wyobraźnia"
+    },
+    {
+      "id": "humor",
+      "cs": "humor",
+      "en": "humor",
+      "uk": "гумор",
+      "ru": "юмор",
+      "pl": "humor"
+    },
+    {
+      "id": "balance",
+      "cs": "rovnováha",
+      "en": "balance",
+      "uk": "рівновага",
+      "ru": "равновесие",
+      "pl": "równowaga"
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "id": "adjectives",
+  "order": 15,
+  "level": "A1",
+  "icon": "contrast",
+  "title": {
+    "cs": "Protiklady",
+    "en": "Opposites",
+    "uk": "Протилежності",
+    "ru": "Противоположности",
+    "pl": "Przeciwieństwa"
+  },
+  "description": {
+    "en": "Basic adjectives in pairs of opposites.",
+    "uk": "Базові прикметники парами протилежностей.",
+    "ru": "Базовые прилагательные парами противоположностей.",
+    "pl": "Podstawowe przymiotniki w parach przeciwieństw."
+  },
+  "words": [
+    {
+      "id": "big",
+      "cs": "velký",
+      "en": "big",
+      "uk": "великий",
+      "ru": "большой",
+      "pl": "duży"
+    },
+    {
+      "id": "small",
+      "cs": "malý",
+      "en": "small",
+      "uk": "малий",
+      "ru": "маленький",
+      "pl": "mały"
+    },
+    {
+      "id": "long",
+      "cs": "dlouhý",
+      "en": "long",
+      "uk": "довгий",
+      "ru": "длинный",
+      "pl": "długi"
+    },
+    {
+      "id": "short",
+      "cs": "krátký",
+      "en": "short",
+      "uk": "короткий",
+      "ru": "короткий",
+      "pl": "krótki"
+    },
+    {
+      "id": "tall",
+      "cs": "vysoký",
+      "en": "tall",
+      "uk": "високий",
+      "ru": "высокий",
+      "pl": "wysoki"
+    },
+    {
+      "id": "low",
+      "cs": "nízký",
+      "en": "low",
+      "uk": "низький",
+      "ru": "низкий",
+      "pl": "niski"
+    },
+    {
+      "id": "wide",
+      "cs": "široký",
+      "en": "wide",
+      "uk": "широкий",
+      "ru": "широкий",
+      "pl": "szeroki"
+    },
+    {
+      "id": "narrow",
+      "cs": "úzký",
+      "en": "narrow",
+      "uk": "вузький",
+      "ru": "узкий",
+      "pl": "wąski"
+    },
+    {
+      "id": "heavy",
+      "cs": "těžký",
+      "en": "heavy",
+      "uk": "важкий",
+      "ru": "тяжёлый",
+      "pl": "ciężki"
+    },
+    {
+      "id": "light-not-heavy",
+      "cs": "lehký",
+      "en": "light (not heavy)",
+      "uk": "легкий",
+      "ru": "лёгкий",
+      "pl": "lekki"
+    },
+    {
+      "id": "thick",
+      "cs": "tlustý",
+      "en": "thick",
+      "uk": "товстий",
+      "ru": "толстый",
+      "pl": "gruby"
+    },
+    {
+      "id": "thin",
+      "cs": "tenký",
+      "en": "thin",
+      "uk": "тонкий",
+      "ru": "тонкий",
+      "pl": "cienki"
+    },
+    {
+      "id": "new",
+      "cs": "nový",
+      "en": "new",
+      "uk": "новий",
+      "ru": "новый",
+      "pl": "nowy"
+    },
+    {
+      "id": "old",
+      "cs": "starý",
+      "en": "old",
+      "uk": "старий",
+      "ru": "старый",
+      "pl": "stary"
+    },
+    {
+      "id": "young",
+      "cs": "mladý",
+      "en": "young",
+      "uk": "молодий",
+      "ru": "молодой",
+      "pl": "młody"
+    },
+    {
+      "id": "good",
+      "cs": "dobrý",
+      "en": "good",
+      "uk": "добрий",
+      "ru": "хороший",
+      "pl": "dobry"
+    },
+    {
+      "id": "bad",
+      "cs": "špatný",
+      "en": "bad",
+      "uk": "поганий",
+      "ru": "плохой",
+      "pl": "zły"
+    },
+    {
+      "id": "fast",
+      "cs": "rychlý",
+      "en": "fast",
+      "uk": "швидкий",
+      "ru": "быстрый",
+      "pl": "szybki"
+    },
+    {
+      "id": "slow",
+      "cs": "pomalý",
+      "en": "slow",
+      "uk": "повільний",
+      "ru": "медленный",
+      "pl": "wolny"
+    },
+    {
+      "id": "hot",
+      "cs": "horký",
+      "en": "hot",
+      "uk": "гарячий",
+      "ru": "горячий",
+      "pl": "gorący"
+    },
+    {
+      "id": "cold",
+      "cs": "studený",
+      "en": "cold",
+      "uk": "холодний",
+      "ru": "холодный",
+      "pl": "zimny"
+    },
+    {
+      "id": "warm",
+      "cs": "teplý",
+      "en": "warm",
+      "uk": "теплий",
+      "ru": "тёплый",
+      "pl": "ciepły"
+    },
+    {
+      "id": "cool",
+      "cs": "chladný",
+      "en": "cool",
+      "uk": "прохолодний",
+      "ru": "прохладный",
+      "pl": "chłodny"
+    },
+    {
+      "id": "clean",
+      "cs": "čistý",
+      "en": "clean",
+      "uk": "чистий",
+      "ru": "чистый",
+      "pl": "czysty"
+    },
+    {
+      "id": "dirty",
+      "cs": "špinavý",
+      "en": "dirty",
+      "uk": "брудний",
+      "ru": "грязный",
+      "pl": "brudny"
+    },
+    {
+      "id": "full",
+      "cs": "plný",
+      "en": "full",
+      "uk": "повний",
+      "ru": "полный",
+      "pl": "pełny"
+    },
+    {
+      "id": "empty",
+      "cs": "prázdný",
+      "en": "empty",
+      "uk": "порожній",
+      "ru": "пустой",
+      "pl": "pusty"
+    },
+    {
+      "id": "open",
+      "cs": "otevřený",
+      "en": "open",
+      "uk": "відкритий",
+      "ru": "открытый",
+      "pl": "otwarty"
+    },
+    {
+      "id": "closed",
+      "cs": "zavřený",
+      "en": "closed",
+      "uk": "закритий",
+      "ru": "закрытый",
+      "pl": "zamknięty"
+    },
+    {
+      "id": "expensive",
+      "cs": "drahý",
+      "en": "expensive",
+      "uk": "дорогий",
+      "ru": "дорогой",
+      "pl": "drogi"
+    },
+    {
+      "id": "cheap",
+      "cs": "levný",
+      "en": "cheap",
+      "uk": "дешевий",
+      "ru": "дешёвый",
+      "pl": "tani"
+    },
+    {
+      "id": "rich",
+      "cs": "bohatý",
+      "en": "rich",
+      "uk": "багатий",
+      "ru": "богатый",
+      "pl": "bogaty"
+    },
+    {
+      "id": "poor",
+      "cs": "chudý",
+      "en": "poor",
+      "uk": "бідний",
+      "ru": "бедный",
+      "pl": "biedny"
+    },
+    {
+      "id": "strong",
+      "cs": "silný",
+      "en": "strong",
+      "uk": "сильний",
+      "ru": "сильный",
+      "pl": "silny"
+    },
+    {
+      "id": "weak",
+      "cs": "slabý",
+      "en": "weak",
+      "uk": "слабкий",
+      "ru": "слабый",
+      "pl": "słaby"
+    },
+    {
+      "id": "easy",
+      "cs": "snadný",
+      "en": "easy",
+      "uk": "простий",
+      "ru": "простой",
+      "pl": "łatwy"
+    },
+    {
+      "id": "difficult",
+      "cs": "obtížný",
+      "en": "difficult",
+      "uk": "складний",
+      "ru": "трудный",
+      "pl": "trudny"
+    },
+    {
+      "id": "noisy",
+      "cs": "hlučný",
+      "en": "noisy",
+      "uk": "гучний",
+      "ru": "шумный",
+      "pl": "głośny"
+    },
+    {
+      "id": "quiet",
+      "cs": "tichý",
+      "en": "quiet",
+      "uk": "тихий",
+      "ru": "тихий",
+      "pl": "cichy"
+    },
+    {
+      "id": "hard",
+      "cs": "tvrdý",
+      "en": "hard",
+      "uk": "твердий",
+      "ru": "твёрдый",
+      "pl": "twardy"
+    },
+    {
+      "id": "soft",
+      "cs": "měkký",
+      "en": "soft",
+      "uk": "м’який",
+      "ru": "мягкий",
+      "pl": "miękki"
+    },
+    {
+      "id": "wet",
+      "cs": "mokrý",
+      "en": "wet",
+      "uk": "мокрий",
+      "ru": "мокрый",
+      "pl": "mokry"
+    },
+    {
+      "id": "dry",
+      "cs": "suchý",
+      "en": "dry",
+      "uk": "сухий",
+      "ru": "сухой",
+      "pl": "suchy"
+    },
+    {
+      "id": "sharp",
+      "cs": "ostrý",
+      "en": "sharp",
+      "uk": "гострий",
+      "ru": "острый",
+      "pl": "ostry"
+    },
+    {
+      "id": "blunt",
+      "cs": "tupý",
+      "en": "blunt",
+      "uk": "тупий",
+      "ru": "тупой",
+      "pl": "tępy"
+    },
+    {
+      "id": "smooth",
+      "cs": "hladký",
+      "en": "smooth",
+      "uk": "гладкий",
+      "ru": "гладкий",
+      "pl": "gładki"
+    },
+    {
+      "id": "rough",
+      "cs": "hrubý",
+      "en": "rough",
+      "uk": "шорсткий",
+      "ru": "шершавый",
+      "pl": "szorstki"
+    },
+    {
+      "id": "pretty",
+      "cs": "hezký",
+      "en": "pretty",
+      "uk": "гарний",
+      "ru": "красивый",
+      "pl": "ładny"
+    },
+    {
+      "id": "ugly",
+      "cs": "ošklivý",
+      "en": "ugly",
+      "uk": "потворний",
+      "ru": "уродливый",
+      "pl": "brzydki"
+    },
+    {
+      "id": "happy",
+      "cs": "šťastný",
+      "en": "happy",
+      "uk": "щасливий",
+      "ru": "счастливый",
+      "pl": "szczęśliwy"
+    },
+    {
+      "id": "sad",
+      "cs": "smutný",
+      "en": "sad",
+      "uk": "сумний",
+      "ru": "грустный",
+      "pl": "smutny"
+    },
+    {
+      "id": "correct",
+      "cs": "správný",
+      "en": "correct",
+      "uk": "правильний",
+      "ru": "правильный",
+      "pl": "poprawny"
+    },
+    {
+      "id": "wrong",
+      "cs": "chybný",
+      "en": "wrong",
+      "uk": "неправильний",
+      "ru": "неправильный",
+      "pl": "błędny"
+    },
+    {
+      "id": "near",
+      "cs": "blízký",
+      "en": "near",
+      "uk": "близький",
+      "ru": "близкий",
+      "pl": "bliski"
+    },
+    {
+      "id": "far",
+      "cs": "vzdálený",
+      "en": "far",
+      "uk": "далекий",
+      "ru": "далёкий",
+      "pl": "daleki"
+    },
+    {
+      "id": "deep",
+      "cs": "hluboký",
+      "en": "deep",
+      "uk": "глибокий",
+      "ru": "глубокий",
+      "pl": "głęboki"
+    },
+    {
+      "id": "shallow",
+      "cs": "mělký",
+      "en": "shallow",
+      "uk": "мілкий",
+      "ru": "мелкий",
+      "pl": "płytki"
+    },
+    {
+      "id": "alive",
+      "cs": "živý",
+      "en": "alive",
+      "uk": "живий",
+      "ru": "живой",
+      "pl": "żywy"
+    },
+    {
+      "id": "dead",
+      "cs": "mrtvý",
+      "en": "dead",
+      "uk": "мертвий",
+      "ru": "мёртвый",
+      "pl": "martwy"
+    },
+    {
+      "id": "sweet",
+      "cs": "sladký",
+      "en": "sweet",
+      "uk": "солодкий",
+      "ru": "сладкий",
+      "pl": "słodki"
+    },
+    {
+      "id": "bitter",
+      "cs": "hořký",
+      "en": "bitter",
+      "uk": "гіркий",
+      "ru": "горький",
+      "pl": "gorzki"
+    },
+    {
+      "id": "salty",
+      "cs": "slaný",
+      "en": "salty",
+      "uk": "солоний",
+      "ru": "солёный",
+      "pl": "słony"
+    },
+    {
+      "id": "sour",
+      "cs": "kyselý",
+      "en": "sour",
+      "uk": "кислий",
+      "ru": "кислый",
+      "pl": "kwaśny"
+    },
+    {
+      "id": "right-side",
+      "cs": "pravý",
+      "en": "right (side)",
+      "uk": "правий",
+      "ru": "правый",
+      "pl": "prawy"
+    },
+    {
+      "id": "left-side",
+      "cs": "levý",
+      "en": "left (side)",
+      "uk": "лівий",
+      "ru": "левый",
+      "pl": "lewy"
+    },
+    {
+      "id": "cheerful",
+      "cs": "veselý",
+      "en": "cheerful",
+      "uk": "веселий",
+      "ru": "весёлый",
+      "pl": "wesoły"
+    },
+    {
+      "id": "interesting",
+      "cs": "zajímavý",
+      "en": "interesting",
+      "uk": "цікавий",
+      "ru": "интересный",
+      "pl": "ciekawy"
+    },
+    {
+      "id": "boring",
+      "cs": "nudný",
+      "en": "boring",
+      "uk": "нудний",
+      "ru": "скучный",
+      "pl": "nudny"
+    },
+    {
+      "id": "important",
+      "cs": "důležitý",
+      "en": "important",
+      "uk": "важливий",
+      "ru": "важный",
+      "pl": "ważny"
+    },
+    {
+      "id": "possible",
+      "cs": "možný",
+      "en": "possible",
+      "uk": "можливий",
+      "ru": "возможный",
+      "pl": "możliwy"
+    },
+    {
+      "id": "impossible",
+      "cs": "nemožný",
+      "en": "impossible",
+      "uk": "неможливий",
+      "ru": "невозможный",
+      "pl": "niemożliwy"
+    },
+    {
+      "id": "same",
+      "cs": "stejný",
+      "en": "same",
+      "uk": "однаковий",
+      "ru": "одинаковый",
+      "pl": "taki sam"
+    },
+    {
+      "id": "different",
+      "cs": "jiný",
+      "en": "different",
+      "uk": "інший",
+      "ru": "другой",
+      "pl": "inny"
+    }
+  ]
+}

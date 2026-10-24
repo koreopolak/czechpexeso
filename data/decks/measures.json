@@ -1,0 +1,365 @@
+{
+  "id": "measures",
+  "order": 51,
+  "level": "A2",
+  "icon": "ruler",
+  "title": {
+    "cs": "Míry a množství",
+    "en": "Measures & Quantities",
+    "uk": "Міри та кількість",
+    "ru": "Меры и количество",
+    "pl": "Miary i ilości"
+  },
+  "description": {
+    "en": "Weights, sizes and how much of something.",
+    "uk": "Вага, розміри та кількість.",
+    "ru": "Вес, размеры и количество.",
+    "pl": "Waga, rozmiary i ilości."
+  },
+  "words": [
+    {
+      "id": "measure",
+      "cs": "míra",
+      "en": "measure",
+      "uk": "міра",
+      "ru": "мера",
+      "pl": "miara"
+    },
+    {
+      "id": "meter",
+      "cs": "metr",
+      "en": "meter",
+      "uk": "метр",
+      "ru": "метр",
+      "pl": "metr"
+    },
+    {
+      "id": "centimeter",
+      "cs": "centimetr",
+      "en": "centimeter",
+      "uk": "сантиметр",
+      "ru": "сантиметр",
+      "pl": "centymetr"
+    },
+    {
+      "id": "millimeter",
+      "cs": "milimetr",
+      "en": "millimeter",
+      "uk": "міліметр",
+      "ru": "миллиметр",
+      "pl": "milimetr"
+    },
+    {
+      "id": "kilometer",
+      "cs": "kilometr",
+      "en": "kilometer",
+      "uk": "кілометр",
+      "ru": "километр",
+      "pl": "kilometr"
+    },
+    {
+      "id": "gram",
+      "cs": "gram",
+      "en": "gram",
+      "uk": "грам",
+      "ru": "грамм",
+      "pl": "gram"
+    },
+    {
+      "id": "kilogram",
+      "cs": "kilogram",
+      "en": "kilogram",
+      "uk": "кілограм",
+      "ru": "килограмм",
+      "pl": "kilogram"
+    },
+    {
+      "id": "10-grams",
+      "cs": "deka",
+      "en": "10 grams",
+      "uk": "10 грамів",
+      "ru": "10 граммов",
+      "pl": "10 gramów"
+    },
+    {
+      "id": "ton",
+      "cs": "tuna",
+      "en": "ton",
+      "uk": "тонна",
+      "ru": "тонна",
+      "pl": "tona"
+    },
+    {
+      "id": "liter",
+      "cs": "litr",
+      "en": "liter",
+      "uk": "літр",
+      "ru": "литр",
+      "pl": "litr"
+    },
+    {
+      "id": "deciliter",
+      "cs": "decilitr",
+      "en": "deciliter",
+      "uk": "децилітр",
+      "ru": "децилитр",
+      "pl": "decylitr"
+    },
+    {
+      "id": "weight",
+      "cs": "váha",
+      "en": "weight",
+      "uk": "вага",
+      "ru": "вес",
+      "pl": "waga"
+    },
+    {
+      "id": "length",
+      "cs": "délka",
+      "en": "length",
+      "uk": "довжина",
+      "ru": "длина",
+      "pl": "długość"
+    },
+    {
+      "id": "width",
+      "cs": "šířka",
+      "en": "width",
+      "uk": "ширина",
+      "ru": "ширина",
+      "pl": "szerokość"
+    },
+    {
+      "id": "height",
+      "cs": "výška",
+      "en": "height",
+      "uk": "висота",
+      "ru": "высота",
+      "pl": "wysokość"
+    },
+    {
+      "id": "depth",
+      "cs": "hloubka",
+      "en": "depth",
+      "uk": "глибина",
+      "ru": "глубина",
+      "pl": "głębokość"
+    },
+    {
+      "id": "volume",
+      "cs": "objem",
+      "en": "volume",
+      "uk": "об’єм",
+      "ru": "объём",
+      "pl": "objętość"
+    },
+    {
+      "id": "area",
+      "cs": "plocha",
+      "en": "area",
+      "uk": "площа",
+      "ru": "площадь",
+      "pl": "powierzchnia"
+    },
+    {
+      "id": "distance",
+      "cs": "vzdálenost",
+      "en": "distance",
+      "uk": "відстань",
+      "ru": "расстояние",
+      "pl": "odległość"
+    },
+    {
+      "id": "speed",
+      "cs": "rychlost",
+      "en": "speed",
+      "uk": "швидкість",
+      "ru": "скорость",
+      "pl": "prędkość"
+    },
+    {
+      "id": "quantity",
+      "cs": "množství",
+      "en": "quantity",
+      "uk": "кількість",
+      "ru": "количество",
+      "pl": "ilość"
+    },
+    {
+      "id": "piece",
+      "cs": "kus",
+      "en": "piece",
+      "uk": "штука",
+      "ru": "штука",
+      "pl": "sztuka"
+    },
+    {
+      "id": "package",
+      "cs": "balení",
+      "en": "package",
+      "uk": "упаковка",
+      "ru": "упаковка",
+      "pl": "opakowanie"
+    },
+    {
+      "id": "box",
+      "cs": "krabice",
+      "en": "box",
+      "uk": "коробка",
+      "ru": "коробка",
+      "pl": "pudełko"
+    },
+    {
+      "id": "small-bag",
+      "cs": "sáček",
+      "en": "small bag",
+      "uk": "пакетик",
+      "ru": "пакетик",
+      "pl": "woreczek"
+    },
+    {
+      "id": "slice-of-bread",
+      "cs": "krajíc",
+      "en": "slice of bread",
+      "uk": "скибка",
+      "ru": "ломоть",
+      "pl": "kromka"
+    },
+    {
+      "id": "slice",
+      "cs": "plátek",
+      "en": "slice",
+      "uk": "скибочка",
+      "ru": "ломтик",
+      "pl": "plasterek"
+    },
+    {
+      "id": "small-piece",
+      "cs": "kousek",
+      "en": "small piece",
+      "uk": "шматок",
+      "ru": "кусочек",
+      "pl": "kawałek"
+    },
+    {
+      "id": "pinch",
+      "cs": "špetka",
+      "en": "pinch",
+      "uk": "дрібка",
+      "ru": "щепотка",
+      "pl": "szczypta"
+    },
+    {
+      "id": "handful",
+      "cs": "hrst",
+      "en": "handful",
+      "uk": "жменя",
+      "ru": "горсть",
+      "pl": "garść"
+    },
+    {
+      "id": "double",
+      "cs": "dvojnásobek",
+      "en": "double",
+      "uk": "подвійна кількість",
+      "ru": "двойное количество",
+      "pl": "podwójna ilość"
+    },
+    {
+      "id": "percent",
+      "cs": "procento",
+      "en": "percent",
+      "uk": "відсоток",
+      "ru": "процент",
+      "pl": "procent"
+    },
+    {
+      "id": "average",
+      "cs": "průměr",
+      "en": "average",
+      "uk": "середнє значення",
+      "ru": "среднее значение",
+      "pl": "średnia"
+    },
+    {
+      "id": "maximum",
+      "cs": "maximum",
+      "en": "maximum",
+      "uk": "максимум",
+      "ru": "максимум",
+      "pl": "maksimum"
+    },
+    {
+      "id": "minimum",
+      "cs": "minimum",
+      "en": "minimum",
+      "uk": "мінімум",
+      "ru": "минимум",
+      "pl": "minimum"
+    },
+    {
+      "id": "approximately",
+      "cs": "přibližně",
+      "en": "approximately",
+      "uk": "приблизно",
+      "ru": "приблизительно",
+      "pl": "około"
+    },
+    {
+      "id": "in-total",
+      "cs": "celkem",
+      "en": "in total",
+      "uk": "загалом",
+      "ru": "всего",
+      "pl": "w sumie"
+    },
+    {
+      "id": "more",
+      "cs": "víc",
+      "en": "more",
+      "uk": "більше",
+      "ru": "больше",
+      "pl": "więcej"
+    },
+    {
+      "id": "less",
+      "cs": "míň",
+      "en": "less",
+      "uk": "менше",
+      "ru": "меньше",
+      "pl": "mniej"
+    },
+    {
+      "id": "the-most",
+      "cs": "nejvíc",
+      "en": "the most",
+      "uk": "найбільше",
+      "ru": "больше всего",
+      "pl": "najwięcej"
+    },
+    {
+      "id": "enough",
+      "cs": "dost",
+      "en": "enough",
+      "uk": "достатньо",
+      "ru": "достаточно",
+      "pl": "wystarczająco"
+    },
+    {
+      "id": "measure-2",
+      "cs": "měřit",
+      "en": "to measure",
+      "uk": "вимірювати",
+      "ru": "измерять",
+      "pl": "mierzyć"
+    },
+    {
+      "id": "contents",
+      "cs": "obsah",
+      "en": "contents",
+      "uk": "вміст",
+      "ru": "содержимое",
+      "pl": "zawartość"
+    }
+  ]
+}

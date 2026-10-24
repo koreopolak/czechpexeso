@@ -1,0 +1,357 @@
+{
+  "id": "media",
+  "order": 65,
+  "level": "B1",
+  "icon": "news",
+  "title": {
+    "cs": "Média a zprávy",
+    "en": "Media & News",
+    "uk": "Медіа та новини",
+    "ru": "СМИ и новости",
+    "pl": "Media i wiadomości"
+  },
+  "description": {
+    "en": "Newspapers, TV, film and the news.",
+    "uk": "Газети, телебачення, кіно та новини.",
+    "ru": "Газеты, телевидение, кино и новости.",
+    "pl": "Gazety, telewizja, film i wiadomości."
+  },
+  "words": [
+    {
+      "id": "media",
+      "cs": "média",
+      "en": "media",
+      "uk": "медіа",
+      "ru": "СМИ",
+      "pl": "media"
+    },
+    {
+      "id": "news",
+      "cs": "zprávy",
+      "en": "news",
+      "uk": "новини",
+      "ru": "новости",
+      "pl": "wiadomości"
+    },
+    {
+      "id": "newspaper",
+      "cs": "noviny",
+      "en": "newspaper",
+      "uk": "газета",
+      "ru": "газета",
+      "pl": "gazeta"
+    },
+    {
+      "id": "magazine",
+      "cs": "časopis",
+      "en": "magazine",
+      "uk": "журнал",
+      "ru": "журнал",
+      "pl": "czasopismo"
+    },
+    {
+      "id": "article",
+      "cs": "článek",
+      "en": "article",
+      "uk": "стаття",
+      "ru": "статья",
+      "pl": "artykuł"
+    },
+    {
+      "id": "headline",
+      "cs": "titulek",
+      "en": "headline",
+      "uk": "заголовок",
+      "ru": "заголовок",
+      "pl": "nagłówek"
+    },
+    {
+      "id": "interview",
+      "cs": "rozhovor",
+      "en": "interview",
+      "uk": "інтерв’ю",
+      "ru": "интервью",
+      "pl": "wywiad"
+    },
+    {
+      "id": "news-report",
+      "cs": "reportáž",
+      "en": "news report",
+      "uk": "репортаж",
+      "ru": "репортаж",
+      "pl": "reportaż"
+    },
+    {
+      "id": "newsroom",
+      "cs": "redakce",
+      "en": "newsroom",
+      "uk": "редакція",
+      "ru": "редакция",
+      "pl": "redakcja"
+    },
+    {
+      "id": "radio",
+      "cs": "rádio",
+      "en": "radio",
+      "uk": "радіо",
+      "ru": "радио",
+      "pl": "radio"
+    },
+    {
+      "id": "tv-schedule",
+      "cs": "televizní program",
+      "en": "TV schedule",
+      "uk": "телепрограма",
+      "ru": "телепрограмма",
+      "pl": "program telewizyjny"
+    },
+    {
+      "id": "channel",
+      "cs": "kanál",
+      "en": "channel",
+      "uk": "канал",
+      "ru": "канал",
+      "pl": "kanał"
+    },
+    {
+      "id": "broadcast",
+      "cs": "vysílání",
+      "en": "broadcast",
+      "uk": "трансляція",
+      "ru": "трансляция",
+      "pl": "transmisja"
+    },
+    {
+      "id": "live",
+      "cs": "živě",
+      "en": "live",
+      "uk": "наживо",
+      "ru": "в прямом эфире",
+      "pl": "na żywo"
+    },
+    {
+      "id": "presenter",
+      "cs": "moderátor",
+      "en": "presenter",
+      "uk": "ведучий",
+      "ru": "ведущий",
+      "pl": "prezenter"
+    },
+    {
+      "id": "viewer",
+      "cs": "divák",
+      "en": "viewer",
+      "uk": "глядач",
+      "ru": "зритель",
+      "pl": "widz"
+    },
+    {
+      "id": "listener",
+      "cs": "posluchač",
+      "en": "listener",
+      "uk": "слухач",
+      "ru": "слушатель",
+      "pl": "słuchacz"
+    },
+    {
+      "id": "reader",
+      "cs": "čtenář",
+      "en": "reader",
+      "uk": "читач",
+      "ru": "читатель",
+      "pl": "czytelnik"
+    },
+    {
+      "id": "film",
+      "cs": "film",
+      "en": "film",
+      "uk": "фільм",
+      "ru": "фильм",
+      "pl": "film"
+    },
+    {
+      "id": "tv-series",
+      "cs": "seriál",
+      "en": "TV series",
+      "uk": "серіал",
+      "ru": "сериал",
+      "pl": "serial"
+    },
+    {
+      "id": "documentary",
+      "cs": "dokument",
+      "en": "documentary",
+      "uk": "документальний фільм",
+      "ru": "документальный фильм",
+      "pl": "film dokumentalny"
+    },
+    {
+      "id": "comedy",
+      "cs": "komedie",
+      "en": "comedy",
+      "uk": "комедія",
+      "ru": "комедия",
+      "pl": "komedia"
+    },
+    {
+      "id": "horror-film",
+      "cs": "horor",
+      "en": "horror film",
+      "uk": "фільм жахів",
+      "ru": "фильм ужасов",
+      "pl": "horror"
+    },
+    {
+      "id": "actress",
+      "cs": "herečka",
+      "en": "actress",
+      "uk": "акторка",
+      "ru": "актриса",
+      "pl": "aktorka"
+    },
+    {
+      "id": "film-director",
+      "cs": "režisér",
+      "en": "film director",
+      "uk": "режисер",
+      "ru": "режиссёр",
+      "pl": "reżyser"
+    },
+    {
+      "id": "advertisement",
+      "cs": "reklama",
+      "en": "advertisement",
+      "uk": "реклама",
+      "ru": "реклама",
+      "pl": "reklama"
+    },
+    {
+      "id": "news-program",
+      "cs": "zpravodajství",
+      "en": "news program",
+      "uk": "інформаційна програма",
+      "ru": "новостная программа",
+      "pl": "serwis informacyjny"
+    },
+    {
+      "id": "press-conference",
+      "cs": "tisková konference",
+      "en": "press conference",
+      "uk": "пресконференція",
+      "ru": "пресс-конференция",
+      "pl": "konferencja prasowa"
+    },
+    {
+      "id": "press",
+      "cs": "tisk",
+      "en": "press",
+      "uk": "преса",
+      "ru": "пресса",
+      "pl": "prasa"
+    },
+    {
+      "id": "freedom-of-the-press",
+      "cs": "svoboda tisku",
+      "en": "freedom of the press",
+      "uk": "свобода преси",
+      "ru": "свобода печати",
+      "pl": "wolność prasy"
+    },
+    {
+      "id": "censorship",
+      "cs": "cenzura",
+      "en": "censorship",
+      "uk": "цензура",
+      "ru": "цензура",
+      "pl": "cenzura"
+    },
+    {
+      "id": "fake-news",
+      "cs": "falešné zprávy",
+      "en": "fake news",
+      "uk": "фейкові новини",
+      "ru": "фейковые новости",
+      "pl": "fałszywe wiadomości"
+    },
+    {
+      "id": "source",
+      "cs": "zdroj",
+      "en": "source",
+      "uk": "джерело",
+      "ru": "источник",
+      "pl": "źródło"
+    },
+    {
+      "id": "information",
+      "cs": "informace",
+      "en": "information",
+      "uk": "інформація",
+      "ru": "информация",
+      "pl": "informacja"
+    },
+    {
+      "id": "event",
+      "cs": "událost",
+      "en": "event",
+      "uk": "подія",
+      "ru": "событие",
+      "pl": "wydarzenie"
+    },
+    {
+      "id": "scandal",
+      "cs": "skandál",
+      "en": "scandal",
+      "uk": "скандал",
+      "ru": "скандал",
+      "pl": "skandal"
+    },
+    {
+      "id": "comment",
+      "cs": "komentář",
+      "en": "comment",
+      "uk": "коментар",
+      "ru": "комментарий",
+      "pl": "komentarz"
+    },
+    {
+      "id": "podcast",
+      "cs": "podcast",
+      "en": "podcast",
+      "uk": "подкаст",
+      "ru": "подкаст",
+      "pl": "podcast"
+    },
+    {
+      "id": "subscription",
+      "cs": "předplatné",
+      "en": "subscription",
+      "uk": "передплата",
+      "ru": "подписка",
+      "pl": "prenumerata"
+    },
+    {
+      "id": "issue-edition",
+      "cs": "vydání",
+      "en": "issue (edition)",
+      "uk": "випуск",
+      "ru": "выпуск",
+      "pl": "wydanie"
+    },
+    {
+      "id": "front-page",
+      "cs": "titulní strana",
+      "en": "front page",
+      "uk": "перша сторінка",
+      "ru": "первая полоса",
+      "pl": "pierwsza strona"
+    },
+    {
+      "id": "publish",
+      "cs": "publikovat",
+      "en": "to publish",
+      "uk": "публікувати",
+      "ru": "публиковать",
+      "pl": "publikować"
+    }
+  ]
+}

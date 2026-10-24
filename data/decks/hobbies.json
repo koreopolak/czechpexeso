@@ -1,0 +1,373 @@
+{
+  "id": "hobbies",
+  "order": 46,
+  "level": "A2",
+  "icon": "gamepad",
+  "title": {
+    "cs": "Koníčky a volný čas",
+    "en": "Hobbies & Free Time",
+    "uk": "Хобі та дозвілля",
+    "ru": "Хобби и досуг",
+    "pl": "Hobby i czas wolny"
+  },
+  "description": {
+    "en": "Things to do in your free time.",
+    "uk": "Чим зайнятися у вільний час.",
+    "ru": "Чем заняться в свободное время.",
+    "pl": "Co robić w wolnym czasie."
+  },
+  "words": [
+    {
+      "id": "hobby",
+      "cs": "koníček",
+      "en": "hobby",
+      "uk": "хобі",
+      "ru": "хобби",
+      "pl": "hobby"
+    },
+    {
+      "id": "free-time",
+      "cs": "volný čas",
+      "en": "free time",
+      "uk": "вільний час",
+      "ru": "свободное время",
+      "pl": "czas wolny"
+    },
+    {
+      "id": "fun",
+      "cs": "zábava",
+      "en": "fun",
+      "uk": "розвага",
+      "ru": "развлечение",
+      "pl": "rozrywka"
+    },
+    {
+      "id": "game",
+      "cs": "hra",
+      "en": "game",
+      "uk": "гра",
+      "ru": "игра",
+      "pl": "gra"
+    },
+    {
+      "id": "board-games",
+      "cs": "deskové hry",
+      "en": "board games",
+      "uk": "настільні ігри",
+      "ru": "настольные игры",
+      "pl": "gry planszowe"
+    },
+    {
+      "id": "playing-cards",
+      "cs": "karty",
+      "en": "playing cards",
+      "uk": "гральні карти",
+      "ru": "игральные карты",
+      "pl": "karty do gry"
+    },
+    {
+      "id": "dice",
+      "cs": "kostka",
+      "en": "dice",
+      "uk": "кубик",
+      "ru": "кубик",
+      "pl": "kostka do gry"
+    },
+    {
+      "id": "jigsaw-puzzle",
+      "cs": "puzzle",
+      "en": "jigsaw puzzle",
+      "uk": "пазл",
+      "ru": "пазл",
+      "pl": "puzzle"
+    },
+    {
+      "id": "crossword",
+      "cs": "křížovka",
+      "en": "crossword",
+      "uk": "кросворд",
+      "ru": "кроссворд",
+      "pl": "krzyżówka"
+    },
+    {
+      "id": "video-games",
+      "cs": "videohry",
+      "en": "video games",
+      "uk": "відеоігри",
+      "ru": "видеоигры",
+      "pl": "gry wideo"
+    },
+    {
+      "id": "computer-game",
+      "cs": "počítačová hra",
+      "en": "computer game",
+      "uk": "комп’ютерна гра",
+      "ru": "компьютерная игра",
+      "pl": "gra komputerowa"
+    },
+    {
+      "id": "baking",
+      "cs": "pečení",
+      "en": "baking",
+      "uk": "випікання",
+      "ru": "выпечка",
+      "pl": "pieczenie"
+    },
+    {
+      "id": "gardening",
+      "cs": "zahradničení",
+      "en": "gardening",
+      "uk": "садівництво",
+      "ru": "садоводство",
+      "pl": "ogrodnictwo"
+    },
+    {
+      "id": "knitting",
+      "cs": "pletení",
+      "en": "knitting",
+      "uk": "в’язання",
+      "ru": "вязание",
+      "pl": "robienie na drutach"
+    },
+    {
+      "id": "crochet",
+      "cs": "háčkování",
+      "en": "crochet",
+      "uk": "гачкування",
+      "ru": "вязание крючком",
+      "pl": "szydełkowanie"
+    },
+    {
+      "id": "collection",
+      "cs": "sbírka",
+      "en": "collection",
+      "uk": "колекція",
+      "ru": "коллекция",
+      "pl": "kolekcja"
+    },
+    {
+      "id": "stamps",
+      "cs": "poštovní známky",
+      "en": "stamps",
+      "uk": "поштові марки",
+      "ru": "почтовые марки",
+      "pl": "znaczki pocztowe"
+    },
+    {
+      "id": "picnic",
+      "cs": "piknik",
+      "en": "picnic",
+      "uk": "пікнік",
+      "ru": "пикник",
+      "pl": "piknik"
+    },
+    {
+      "id": "walk",
+      "cs": "procházka",
+      "en": "walk",
+      "uk": "прогулянка",
+      "ru": "прогулка",
+      "pl": "spacer"
+    },
+    {
+      "id": "mushroom-picking",
+      "cs": "houbaření",
+      "en": "mushroom picking",
+      "uk": "збирання грибів",
+      "ru": "сбор грибов",
+      "pl": "grzybobranie"
+    },
+    {
+      "id": "cottage-weekends",
+      "cs": "chalupaření",
+      "en": "cottage weekends",
+      "uk": "відпочинок на дачі",
+      "ru": "отдых на даче",
+      "pl": "wypoczynek na działce"
+    },
+    {
+      "id": "barbecue",
+      "cs": "grilování",
+      "en": "barbecue",
+      "uk": "барбекю",
+      "ru": "барбекю",
+      "pl": "grillowanie"
+    },
+    {
+      "id": "campfire",
+      "cs": "táborák",
+      "en": "campfire",
+      "uk": "вогнище",
+      "ru": "костёр",
+      "pl": "ognisko"
+    },
+    {
+      "id": "reading",
+      "cs": "čtení",
+      "en": "reading",
+      "uk": "читання",
+      "ru": "чтение",
+      "pl": "czytanie"
+    },
+    {
+      "id": "meditation",
+      "cs": "meditace",
+      "en": "meditation",
+      "uk": "медитація",
+      "ru": "медитация",
+      "pl": "medytacja"
+    },
+    {
+      "id": "dance",
+      "cs": "tanec",
+      "en": "dance",
+      "uk": "танець",
+      "ru": "танец",
+      "pl": "taniec"
+    },
+    {
+      "id": "singing",
+      "cs": "zpěv",
+      "en": "singing",
+      "uk": "спів",
+      "ru": "пение",
+      "pl": "śpiew"
+    },
+    {
+      "id": "photography",
+      "cs": "fotografování",
+      "en": "photography",
+      "uk": "фотографія",
+      "ru": "фотография",
+      "pl": "fotografia"
+    },
+    {
+      "id": "painting-hobby",
+      "cs": "malování",
+      "en": "painting (hobby)",
+      "uk": "живопис",
+      "ru": "живопись",
+      "pl": "malarstwo"
+    },
+    {
+      "id": "model-making",
+      "cs": "modelářství",
+      "en": "model making",
+      "uk": "моделювання",
+      "ru": "моделирование",
+      "pl": "modelarstwo"
+    },
+    {
+      "id": "origami",
+      "cs": "origami",
+      "en": "origami",
+      "uk": "орігамі",
+      "ru": "оригами",
+      "pl": "origami"
+    },
+    {
+      "id": "horse-riding",
+      "cs": "jízda na koni",
+      "en": "horse riding",
+      "uk": "верхова їзда",
+      "ru": "верховая езда",
+      "pl": "jazda konna"
+    },
+    {
+      "id": "volunteering",
+      "cs": "dobrovolnictví",
+      "en": "volunteering",
+      "uk": "волонтерство",
+      "ru": "волонтёрство",
+      "pl": "wolontariat"
+    },
+    {
+      "id": "club",
+      "cs": "klub",
+      "en": "club",
+      "uk": "клуб",
+      "ru": "клуб",
+      "pl": "klub"
+    },
+    {
+      "id": "after-school-club",
+      "cs": "kroužek",
+      "en": "after-school club",
+      "uk": "гурток",
+      "ru": "кружок",
+      "pl": "kółko zainteresowań"
+    },
+    {
+      "id": "relax",
+      "cs": "relaxovat",
+      "en": "to relax",
+      "uk": "розслаблятися",
+      "ru": "расслабляться",
+      "pl": "relaksować się"
+    },
+    {
+      "id": "follow-watch",
+      "cs": "sledovat",
+      "en": "to follow (watch)",
+      "uk": "стежити",
+      "ru": "следить",
+      "pl": "śledzić"
+    },
+    {
+      "id": "exercise",
+      "cs": "cvičit",
+      "en": "to exercise",
+      "uk": "займатися спортом",
+      "ru": "заниматься спортом",
+      "pl": "ćwiczyć"
+    },
+    {
+      "id": "aquarium",
+      "cs": "akvárium",
+      "en": "aquarium",
+      "uk": "акваріум",
+      "ru": "аквариум",
+      "pl": "akwarium"
+    },
+    {
+      "id": "brain-teaser",
+      "cs": "hlavolam",
+      "en": "brain teaser",
+      "uk": "головоломка",
+      "ru": "головоломка",
+      "pl": "łamigłówka"
+    },
+    {
+      "id": "building-blocks",
+      "cs": "lego",
+      "en": "building blocks",
+      "uk": "конструктор",
+      "ru": "конструктор",
+      "pl": "klocki"
+    },
+    {
+      "id": "doll",
+      "cs": "panenka",
+      "en": "doll",
+      "uk": "лялька",
+      "ru": "кукла",
+      "pl": "lalka"
+    },
+    {
+      "id": "toy",
+      "cs": "hračka",
+      "en": "toy",
+      "uk": "іграшка",
+      "ru": "игрушка",
+      "pl": "zabawka"
+    },
+    {
+      "id": "stuffed-animal",
+      "cs": "plyšák",
+      "en": "stuffed animal",
+      "uk": "м’яка іграшка",
+      "ru": "мягкая игрушка",
+      "pl": "pluszak"
+    }
+  ]
+}

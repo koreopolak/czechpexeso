@@ -1,0 +1,397 @@
+{
+  "id": "housework",
+  "order": 41,
+  "level": "A2",
+  "icon": "broom",
+  "title": {
+    "cs": "Domácí práce a nářadí",
+    "en": "Housework & Tools",
+    "uk": "Хатні справи та інструменти",
+    "ru": "Домашние дела и инструменты",
+    "pl": "Prace domowe i narzędzia"
+  },
+  "description": {
+    "en": "Cleaning, repairs and the tools you need.",
+    "uk": "Прибирання, ремонт і потрібні інструменти.",
+    "ru": "Уборка, ремонт и нужные инструменты.",
+    "pl": "Sprzątanie, naprawy i potrzebne narzędzia."
+  },
+  "words": [
+    {
+      "id": "cleaning",
+      "cs": "úklid",
+      "en": "cleaning",
+      "uk": "прибирання",
+      "ru": "уборка",
+      "pl": "sprzątanie"
+    },
+    {
+      "id": "vacuum",
+      "cs": "vysávat",
+      "en": "to vacuum",
+      "uk": "пилососити",
+      "ru": "пылесосить",
+      "pl": "odkurzać"
+    },
+    {
+      "id": "sweep",
+      "cs": "zametat",
+      "en": "to sweep",
+      "uk": "підмітати",
+      "ru": "подметать",
+      "pl": "zamiatać"
+    },
+    {
+      "id": "mop",
+      "cs": "vytírat",
+      "en": "to mop",
+      "uk": "мити підлогу",
+      "ru": "мыть пол",
+      "pl": "myć podłogę"
+    },
+    {
+      "id": "dust",
+      "cs": "utírat prach",
+      "en": "to dust",
+      "uk": "витирати пил",
+      "ru": "вытирать пыль",
+      "pl": "ścierać kurz"
+    },
+    {
+      "id": "polish",
+      "cs": "leštit",
+      "en": "to polish",
+      "uk": "полірувати",
+      "ru": "полировать",
+      "pl": "polerować"
+    },
+    {
+      "id": "hang-the-laundry",
+      "cs": "věšet prádlo",
+      "en": "to hang the laundry",
+      "uk": "вішати білизну",
+      "ru": "вешать бельё",
+      "pl": "wieszać pranie"
+    },
+    {
+      "id": "fold-the-laundry",
+      "cs": "skládat prádlo",
+      "en": "to fold the laundry",
+      "uk": "складати білизну",
+      "ru": "складывать бельё",
+      "pl": "składać pranie"
+    },
+    {
+      "id": "make-the-bed",
+      "cs": "stlát postel",
+      "en": "to make the bed",
+      "uk": "застеляти ліжко",
+      "ru": "заправлять кровать",
+      "pl": "ścielić łóżko"
+    },
+    {
+      "id": "sort-waste",
+      "cs": "třídit odpad",
+      "en": "to sort waste",
+      "uk": "сортувати сміття",
+      "ru": "сортировать мусор",
+      "pl": "segregować śmieci"
+    },
+    {
+      "id": "broom",
+      "cs": "smeták",
+      "en": "broom",
+      "uk": "віник",
+      "ru": "веник",
+      "pl": "miotła"
+    },
+    {
+      "id": "dustpan",
+      "cs": "lopatka",
+      "en": "dustpan",
+      "uk": "совок",
+      "ru": "совок",
+      "pl": "szufelka"
+    },
+    {
+      "id": "mop-2",
+      "cs": "mop",
+      "en": "mop",
+      "uk": "швабра",
+      "ru": "швабра",
+      "pl": "mop"
+    },
+    {
+      "id": "bucket",
+      "cs": "kbelík",
+      "en": "bucket",
+      "uk": "відро",
+      "ru": "ведро",
+      "pl": "wiadro"
+    },
+    {
+      "id": "rag",
+      "cs": "hadr",
+      "en": "rag",
+      "uk": "ганчірка",
+      "ru": "тряпка",
+      "pl": "szmata"
+    },
+    {
+      "id": "sponge",
+      "cs": "houbička",
+      "en": "sponge",
+      "uk": "губка",
+      "ru": "губка",
+      "pl": "gąbka"
+    },
+    {
+      "id": "dust-2",
+      "cs": "prach",
+      "en": "dust",
+      "uk": "пил",
+      "ru": "пыль",
+      "pl": "kurz"
+    },
+    {
+      "id": "dirt",
+      "cs": "špína",
+      "en": "dirt",
+      "uk": "бруд",
+      "ru": "грязь",
+      "pl": "brud"
+    },
+    {
+      "id": "laundry-detergent",
+      "cs": "prášek na praní",
+      "en": "laundry detergent",
+      "uk": "пральний порошок",
+      "ru": "стиральный порошок",
+      "pl": "proszek do prania"
+    },
+    {
+      "id": "dish-soap",
+      "cs": "prostředek na nádobí",
+      "en": "dish soap",
+      "uk": "засіб для миття посуду",
+      "ru": "средство для мытья посуды",
+      "pl": "płyn do naczyń"
+    },
+    {
+      "id": "laundry",
+      "cs": "prádlo",
+      "en": "laundry",
+      "uk": "білизна",
+      "ru": "бельё",
+      "pl": "pranie"
+    },
+    {
+      "id": "tools",
+      "cs": "nářadí",
+      "en": "tools",
+      "uk": "інструменти",
+      "ru": "инструменты",
+      "pl": "narzędzia"
+    },
+    {
+      "id": "hammer",
+      "cs": "kladivo",
+      "en": "hammer",
+      "uk": "молоток",
+      "ru": "молоток",
+      "pl": "młotek"
+    },
+    {
+      "id": "nail-metal",
+      "cs": "hřebík",
+      "en": "nail (metal)",
+      "uk": "цвях",
+      "ru": "гвоздь",
+      "pl": "gwóźdź"
+    },
+    {
+      "id": "screwdriver",
+      "cs": "šroubovák",
+      "en": "screwdriver",
+      "uk": "викрутка",
+      "ru": "отвёртка",
+      "pl": "śrubokręt"
+    },
+    {
+      "id": "screw",
+      "cs": "šroub",
+      "en": "screw",
+      "uk": "гвинт",
+      "ru": "винт",
+      "pl": "śruba"
+    },
+    {
+      "id": "drill",
+      "cs": "vrtačka",
+      "en": "drill",
+      "uk": "дриль",
+      "ru": "дрель",
+      "pl": "wiertarka"
+    },
+    {
+      "id": "saw",
+      "cs": "pila",
+      "en": "saw",
+      "uk": "пилка",
+      "ru": "пила",
+      "pl": "piła"
+    },
+    {
+      "id": "pliers",
+      "cs": "kleště",
+      "en": "pliers",
+      "uk": "плоскогубці",
+      "ru": "плоскогубцы",
+      "pl": "kombinerki"
+    },
+    {
+      "id": "ladder",
+      "cs": "žebřík",
+      "en": "ladder",
+      "uk": "драбина",
+      "ru": "стремянка",
+      "pl": "drabina"
+    },
+    {
+      "id": "tape",
+      "cs": "lepicí páska",
+      "en": "tape",
+      "uk": "скотч",
+      "ru": "скотч",
+      "pl": "taśma klejąca"
+    },
+    {
+      "id": "rope",
+      "cs": "provaz",
+      "en": "rope",
+      "uk": "мотузка",
+      "ru": "верёвка",
+      "pl": "sznurek"
+    },
+    {
+      "id": "paintbrush",
+      "cs": "štětec",
+      "en": "paintbrush",
+      "uk": "пензель",
+      "ru": "кисть",
+      "pl": "pędzel"
+    },
+    {
+      "id": "paint-walls",
+      "cs": "malovat",
+      "en": "to paint (walls)",
+      "uk": "фарбувати",
+      "ru": "красить",
+      "pl": "malować"
+    },
+    {
+      "id": "drill-2",
+      "cs": "vrtat",
+      "en": "to drill",
+      "uk": "свердлити",
+      "ru": "сверлить",
+      "pl": "wiercić"
+    },
+    {
+      "id": "hammer-in",
+      "cs": "zatlouct",
+      "en": "to hammer in",
+      "uk": "забити",
+      "ru": "забить",
+      "pl": "wbić"
+    },
+    {
+      "id": "screw-on",
+      "cs": "přišroubovat",
+      "en": "to screw on",
+      "uk": "пригвинтити",
+      "ru": "привинтить",
+      "pl": "przykręcić"
+    },
+    {
+      "id": "change-a-bulb",
+      "cs": "vyměnit žárovku",
+      "en": "to change a bulb",
+      "uk": "замінити лампочку",
+      "ru": "поменять лампочку",
+      "pl": "wymienić żarówkę"
+    },
+    {
+      "id": "clogged",
+      "cs": "ucpaný",
+      "en": "clogged",
+      "uk": "засмічений",
+      "ru": "засорившийся",
+      "pl": "zatkany"
+    },
+    {
+      "id": "drip",
+      "cs": "kapat",
+      "en": "to drip",
+      "uk": "капати",
+      "ru": "капать",
+      "pl": "kapać"
+    },
+    {
+      "id": "out-of-order",
+      "cs": "porouchaný",
+      "en": "out of order",
+      "uk": "несправний",
+      "ru": "неисправный",
+      "pl": "zepsuty"
+    },
+    {
+      "id": "maintenance",
+      "cs": "údržba",
+      "en": "maintenance",
+      "uk": "обслуговування",
+      "ru": "обслуживание",
+      "pl": "konserwacja"
+    },
+    {
+      "id": "mow-the-lawn",
+      "cs": "sekat trávu",
+      "en": "to mow the lawn",
+      "uk": "косити траву",
+      "ru": "косить траву",
+      "pl": "kosić trawę"
+    },
+    {
+      "id": "sewing-machine",
+      "cs": "šicí stroj",
+      "en": "sewing machine",
+      "uk": "швейна машина",
+      "ru": "швейная машина",
+      "pl": "maszyna do szycia"
+    },
+    {
+      "id": "needle",
+      "cs": "jehla",
+      "en": "needle",
+      "uk": "голка",
+      "ru": "игла",
+      "pl": "igła"
+    },
+    {
+      "id": "thread",
+      "cs": "nit",
+      "en": "thread",
+      "uk": "нитка",
+      "ru": "нитка",
+      "pl": "nić"
+    },
+    {
+      "id": "sew",
+      "cs": "šít",
+      "en": "to sew",
+      "uk": "шити",
+      "ru": "шить",
+      "pl": "szyć"
+    }
+  ]
+}

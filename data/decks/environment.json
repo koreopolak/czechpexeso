@@ -1,0 +1,349 @@
+{
+  "id": "environment",
+  "order": 67,
+  "level": "B1",
+  "icon": "tree",
+  "title": {
+    "cs": "Životní prostředí",
+    "en": "Environment",
+    "uk": "Довкілля",
+    "ru": "Окружающая среда",
+    "pl": "Środowisko"
+  },
+  "description": {
+    "en": "Nature protection, recycling and climate.",
+    "uk": "Захист природи, переробка та клімат.",
+    "ru": "Защита природы, переработка и климат.",
+    "pl": "Ochrona przyrody, recykling i klimat."
+  },
+  "words": [
+    {
+      "id": "environment",
+      "cs": "životní prostředí",
+      "en": "environment",
+      "uk": "довкілля",
+      "ru": "окружающая среда",
+      "pl": "środowisko"
+    },
+    {
+      "id": "ecology",
+      "cs": "ekologie",
+      "en": "ecology",
+      "uk": "екологія",
+      "ru": "экология",
+      "pl": "ekologia"
+    },
+    {
+      "id": "pollution",
+      "cs": "znečištění",
+      "en": "pollution",
+      "uk": "забруднення",
+      "ru": "загрязнение",
+      "pl": "zanieczyszczenie"
+    },
+    {
+      "id": "waste",
+      "cs": "odpad",
+      "en": "waste",
+      "uk": "відходи",
+      "ru": "отходы",
+      "pl": "odpady"
+    },
+    {
+      "id": "trash",
+      "cs": "odpadky",
+      "en": "trash",
+      "uk": "сміття",
+      "ru": "мусор",
+      "pl": "śmieci"
+    },
+    {
+      "id": "recycling",
+      "cs": "recyklace",
+      "en": "recycling",
+      "uk": "переробка",
+      "ru": "переработка",
+      "pl": "recykling"
+    },
+    {
+      "id": "recycling-bin",
+      "cs": "kontejner",
+      "en": "recycling bin",
+      "uk": "контейнер",
+      "ru": "контейнер",
+      "pl": "kontener"
+    },
+    {
+      "id": "plastic-bottle",
+      "cs": "plastová láhev",
+      "en": "plastic bottle",
+      "uk": "пластикова пляшка",
+      "ru": "пластиковая бутылка",
+      "pl": "plastikowa butelka"
+    },
+    {
+      "id": "landfill",
+      "cs": "skládka",
+      "en": "landfill",
+      "uk": "звалище",
+      "ru": "свалка",
+      "pl": "wysypisko"
+    },
+    {
+      "id": "smog",
+      "cs": "smog",
+      "en": "smog",
+      "uk": "смог",
+      "ru": "смог",
+      "pl": "smog"
+    },
+    {
+      "id": "exhaust-fumes",
+      "cs": "výfukové plyny",
+      "en": "exhaust fumes",
+      "uk": "вихлопні гази",
+      "ru": "выхлопные газы",
+      "pl": "spaliny"
+    },
+    {
+      "id": "global-warming",
+      "cs": "globální oteplování",
+      "en": "global warming",
+      "uk": "глобальне потепління",
+      "ru": "глобальное потепление",
+      "pl": "globalne ocieplenie"
+    },
+    {
+      "id": "climate-change",
+      "cs": "změna klimatu",
+      "en": "climate change",
+      "uk": "зміна клімату",
+      "ru": "изменение климата",
+      "pl": "zmiana klimatu"
+    },
+    {
+      "id": "greenhouse-effect",
+      "cs": "skleníkový efekt",
+      "en": "greenhouse effect",
+      "uk": "парниковий ефект",
+      "ru": "парниковый эффект",
+      "pl": "efekt cieplarniany"
+    },
+    {
+      "id": "ozone-layer",
+      "cs": "ozonová vrstva",
+      "en": "ozone layer",
+      "uk": "озоновий шар",
+      "ru": "озоновый слой",
+      "pl": "warstwa ozonowa"
+    },
+    {
+      "id": "renewable-energy",
+      "cs": "obnovitelná energie",
+      "en": "renewable energy",
+      "uk": "відновлювана енергія",
+      "ru": "возобновляемая энергия",
+      "pl": "energia odnawialna"
+    },
+    {
+      "id": "solar-panel",
+      "cs": "solární panel",
+      "en": "solar panel",
+      "uk": "сонячна панель",
+      "ru": "солнечная панель",
+      "pl": "panel słoneczny"
+    },
+    {
+      "id": "wind-farm",
+      "cs": "větrná elektrárna",
+      "en": "wind farm",
+      "uk": "вітрова електростанція",
+      "ru": "ветровая электростанция",
+      "pl": "elektrownia wiatrowa"
+    },
+    {
+      "id": "nuclear-power-plant",
+      "cs": "jaderná elektrárna",
+      "en": "nuclear power plant",
+      "uk": "атомна електростанція",
+      "ru": "атомная электростанция",
+      "pl": "elektrownia jądrowa"
+    },
+    {
+      "id": "coal-power-plant",
+      "cs": "uhelná elektrárna",
+      "en": "coal power plant",
+      "uk": "вугільна електростанція",
+      "ru": "угольная электростанция",
+      "pl": "elektrownia węglowa"
+    },
+    {
+      "id": "crude-oil",
+      "cs": "ropa",
+      "en": "crude oil",
+      "uk": "нафта",
+      "ru": "нефть",
+      "pl": "ropa"
+    },
+    {
+      "id": "natural-gas",
+      "cs": "zemní plyn",
+      "en": "natural gas",
+      "uk": "природний газ",
+      "ru": "природный газ",
+      "pl": "gaz ziemny"
+    },
+    {
+      "id": "save-energy",
+      "cs": "šetřit energii",
+      "en": "to save energy",
+      "uk": "економити енергію",
+      "ru": "экономить энергию",
+      "pl": "oszczędzać energię"
+    },
+    {
+      "id": "nature-protection",
+      "cs": "ochrana přírody",
+      "en": "nature protection",
+      "uk": "охорона природи",
+      "ru": "охрана природы",
+      "pl": "ochrona przyrody"
+    },
+    {
+      "id": "national-park",
+      "cs": "národní park",
+      "en": "national park",
+      "uk": "національний парк",
+      "ru": "национальный парк",
+      "pl": "park narodowy"
+    },
+    {
+      "id": "endangered-species",
+      "cs": "ohrožený druh",
+      "en": "endangered species",
+      "uk": "зникаючий вид",
+      "ru": "вымирающий вид",
+      "pl": "gatunek zagrożony"
+    },
+    {
+      "id": "become-extinct",
+      "cs": "vyhynout",
+      "en": "to become extinct",
+      "uk": "вимерти",
+      "ru": "вымереть",
+      "pl": "wyginąć"
+    },
+    {
+      "id": "deforestation",
+      "cs": "kácení lesů",
+      "en": "deforestation",
+      "uk": "вирубка лісів",
+      "ru": "вырубка лесов",
+      "pl": "wylesianie"
+    },
+    {
+      "id": "drought",
+      "cs": "sucho",
+      "en": "drought",
+      "uk": "посуха",
+      "ru": "засуха",
+      "pl": "susza"
+    },
+    {
+      "id": "erosion",
+      "cs": "eroze",
+      "en": "erosion",
+      "uk": "ерозія",
+      "ru": "эрозия",
+      "pl": "erozja"
+    },
+    {
+      "id": "biodegradable",
+      "cs": "biologicky odbouratelný",
+      "en": "biodegradable",
+      "uk": "біорозкладний",
+      "ru": "биоразлагаемый",
+      "pl": "biodegradowalny"
+    },
+    {
+      "id": "compost",
+      "cs": "kompost",
+      "en": "compost",
+      "uk": "компост",
+      "ru": "компост",
+      "pl": "kompost"
+    },
+    {
+      "id": "organic",
+      "cs": "bio",
+      "en": "organic",
+      "uk": "органічний",
+      "ru": "органический",
+      "pl": "ekologiczny"
+    },
+    {
+      "id": "sustainable",
+      "cs": "udržitelný",
+      "en": "sustainable",
+      "uk": "сталий",
+      "ru": "устойчивый",
+      "pl": "zrównoważony"
+    },
+    {
+      "id": "consumption",
+      "cs": "spotřeba",
+      "en": "consumption",
+      "uk": "споживання",
+      "ru": "потребление",
+      "pl": "konsumpcja"
+    },
+    {
+      "id": "single-use",
+      "cs": "jednorázový",
+      "en": "single-use",
+      "uk": "одноразовий",
+      "ru": "одноразовый",
+      "pl": "jednorazowy"
+    },
+    {
+      "id": "reuse",
+      "cs": "znovu použít",
+      "en": "to reuse",
+      "uk": "використати повторно",
+      "ru": "использовать повторно",
+      "pl": "użyć ponownie"
+    },
+    {
+      "id": "protect",
+      "cs": "chránit",
+      "en": "to protect",
+      "uk": "захищати",
+      "ru": "защищать",
+      "pl": "chronić"
+    },
+    {
+      "id": "volunteer",
+      "cs": "dobrovolník",
+      "en": "volunteer",
+      "uk": "волонтер",
+      "ru": "волонтёр",
+      "pl": "wolontariusz"
+    },
+    {
+      "id": "water-resources",
+      "cs": "vodní zdroje",
+      "en": "water resources",
+      "uk": "водні ресурси",
+      "ru": "водные ресурсы",
+      "pl": "zasoby wodne"
+    },
+    {
+      "id": "acid-rain",
+      "cs": "kyselý déšť",
+      "en": "acid rain",
+      "uk": "кислотний дощ",
+      "ru": "кислотный дождь",
+      "pl": "kwaśny deszcz"
+    }
+  ]
+}

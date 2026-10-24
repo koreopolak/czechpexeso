@@ -1,0 +1,445 @@
+{
+  "id": "verbs-talk",
+  "order": 32,
+  "level": "A2",
+  "icon": "chat",
+  "title": {
+    "cs": "Mluvení a myšlení",
+    "en": "Talking & Thinking",
+    "uk": "Мовлення та мислення",
+    "ru": "Речь и мышление",
+    "pl": "Mówienie i myślenie"
+  },
+  "description": {
+    "en": "Verbs for conversation, opinions and ideas.",
+    "uk": "Дієслова для розмови, думок та ідей.",
+    "ru": "Глаголы для разговора, мнений и идей.",
+    "pl": "Czasowniki do rozmowy, opinii i pomysłów."
+  },
+  "words": [
+    {
+      "id": "chat",
+      "cs": "povídat si",
+      "en": "to chat",
+      "uk": "балакати",
+      "ru": "болтать",
+      "pl": "gadać"
+    },
+    {
+      "id": "tell-a-story",
+      "cs": "vyprávět",
+      "en": "to tell (a story)",
+      "uk": "розповідати",
+      "ru": "рассказывать",
+      "pl": "opowiadać"
+    },
+    {
+      "id": "explain",
+      "cs": "vysvětlit",
+      "en": "to explain",
+      "uk": "пояснити",
+      "ru": "объяснить",
+      "pl": "wyjaśnić"
+    },
+    {
+      "id": "describe",
+      "cs": "popsat",
+      "en": "to describe",
+      "uk": "описати",
+      "ru": "описать",
+      "pl": "opisać"
+    },
+    {
+      "id": "repeat",
+      "cs": "opakovat",
+      "en": "to repeat",
+      "uk": "повторювати",
+      "ru": "повторять",
+      "pl": "powtarzać"
+    },
+    {
+      "id": "translate",
+      "cs": "překládat",
+      "en": "to translate",
+      "uk": "перекладати",
+      "ru": "переводить",
+      "pl": "tłumaczyć"
+    },
+    {
+      "id": "discuss",
+      "cs": "diskutovat",
+      "en": "to discuss",
+      "uk": "обговорювати",
+      "ru": "обсуждать",
+      "pl": "dyskutować"
+    },
+    {
+      "id": "argue",
+      "cs": "hádat se",
+      "en": "to argue",
+      "uk": "сваритися",
+      "ru": "ссориться",
+      "pl": "kłócić się"
+    },
+    {
+      "id": "agree",
+      "cs": "souhlasit",
+      "en": "to agree",
+      "uk": "погоджуватися",
+      "ru": "соглашаться",
+      "pl": "zgadzać się"
+    },
+    {
+      "id": "disagree",
+      "cs": "nesouhlasit",
+      "en": "to disagree",
+      "uk": "не погоджуватися",
+      "ru": "не соглашаться",
+      "pl": "nie zgadzać się"
+    },
+    {
+      "id": "promise",
+      "cs": "slíbit",
+      "en": "to promise",
+      "uk": "обіцяти",
+      "ru": "обещать",
+      "pl": "obiecać"
+    },
+    {
+      "id": "lie-not-tell-the-truth",
+      "cs": "lhát",
+      "en": "to lie (not tell the truth)",
+      "uk": "брехати",
+      "ru": "врать",
+      "pl": "kłamać"
+    },
+    {
+      "id": "whisper",
+      "cs": "šeptat",
+      "en": "to whisper",
+      "uk": "шепотіти",
+      "ru": "шептать",
+      "pl": "szeptać"
+    },
+    {
+      "id": "shout",
+      "cs": "křičet",
+      "en": "to shout",
+      "uk": "кричати",
+      "ru": "кричать",
+      "pl": "krzyczeć"
+    },
+    {
+      "id": "greet",
+      "cs": "pozdravit",
+      "en": "to greet",
+      "uk": "привітати",
+      "ru": "поздороваться",
+      "pl": "przywitać"
+    },
+    {
+      "id": "thank",
+      "cs": "poděkovat",
+      "en": "to thank",
+      "uk": "подякувати",
+      "ru": "поблагодарить",
+      "pl": "podziękować"
+    },
+    {
+      "id": "apologize",
+      "cs": "omluvit se",
+      "en": "to apologize",
+      "uk": "вибачитися",
+      "ru": "извиниться",
+      "pl": "przeprosić"
+    },
+    {
+      "id": "ask-for",
+      "cs": "požádat",
+      "en": "to ask for",
+      "uk": "попросити",
+      "ru": "попросить",
+      "pl": "poprosić"
+    },
+    {
+      "id": "recommend",
+      "cs": "doporučit",
+      "en": "to recommend",
+      "uk": "порадити",
+      "ru": "порекомендовать",
+      "pl": "polecić"
+    },
+    {
+      "id": "advise",
+      "cs": "radit",
+      "en": "to advise",
+      "uk": "радити",
+      "ru": "советовать",
+      "pl": "doradzać"
+    },
+    {
+      "id": "warn",
+      "cs": "varovat",
+      "en": "to warn",
+      "uk": "попереджати",
+      "ru": "предупреждать",
+      "pl": "ostrzegać"
+    },
+    {
+      "id": "complain",
+      "cs": "stěžovat si",
+      "en": "to complain",
+      "uk": "скаржитися",
+      "ru": "жаловаться",
+      "pl": "narzekać"
+    },
+    {
+      "id": "praise",
+      "cs": "chválit",
+      "en": "to praise",
+      "uk": "хвалити",
+      "ru": "хвалить",
+      "pl": "chwalić"
+    },
+    {
+      "id": "criticize",
+      "cs": "kritizovat",
+      "en": "to criticize",
+      "uk": "критикувати",
+      "ru": "критиковать",
+      "pl": "krytykować"
+    },
+    {
+      "id": "joke",
+      "cs": "vtipkovat",
+      "en": "to joke",
+      "uk": "жартувати",
+      "ru": "шутить",
+      "pl": "żartować"
+    },
+    {
+      "id": "convince",
+      "cs": "přesvědčit",
+      "en": "to convince",
+      "uk": "переконати",
+      "ru": "убедить",
+      "pl": "przekonać"
+    },
+    {
+      "id": "announce",
+      "cs": "oznámit",
+      "en": "to announce",
+      "uk": "оголосити",
+      "ru": "объявить",
+      "pl": "ogłosić"
+    },
+    {
+      "id": "mention",
+      "cs": "zmínit",
+      "en": "to mention",
+      "uk": "згадати",
+      "ru": "упомянуть",
+      "pl": "wspomnieć"
+    },
+    {
+      "id": "refuse",
+      "cs": "odmítnout",
+      "en": "to refuse",
+      "uk": "відмовитися",
+      "ru": "отказаться",
+      "pl": "odmówić"
+    },
+    {
+      "id": "accept",
+      "cs": "přijmout",
+      "en": "to accept",
+      "uk": "прийняти",
+      "ru": "принять",
+      "pl": "przyjąć"
+    },
+    {
+      "id": "believe",
+      "cs": "věřit",
+      "en": "to believe",
+      "uk": "вірити",
+      "ru": "верить",
+      "pl": "wierzyć"
+    },
+    {
+      "id": "hope",
+      "cs": "doufat",
+      "en": "to hope",
+      "uk": "сподіватися",
+      "ru": "надеяться",
+      "pl": "mieć nadzieję"
+    },
+    {
+      "id": "doubt",
+      "cs": "pochybovat",
+      "en": "to doubt",
+      "uk": "сумніватися",
+      "ru": "сомневаться",
+      "pl": "wątpić"
+    },
+    {
+      "id": "think-about",
+      "cs": "přemýšlet",
+      "en": "to think about",
+      "uk": "розмірковувати",
+      "ru": "размышлять",
+      "pl": "zastanawiać się"
+    },
+    {
+      "id": "consider",
+      "cs": "uvažovat",
+      "en": "to consider",
+      "uk": "обмірковувати",
+      "ru": "обдумывать",
+      "pl": "rozważać"
+    },
+    {
+      "id": "decide",
+      "cs": "rozhodnout se",
+      "en": "to decide",
+      "uk": "вирішити",
+      "ru": "решить",
+      "pl": "zdecydować się"
+    },
+    {
+      "id": "imagine",
+      "cs": "představit si",
+      "en": "to imagine",
+      "uk": "уявити",
+      "ru": "представить",
+      "pl": "wyobrazić sobie"
+    },
+    {
+      "id": "dream",
+      "cs": "snít",
+      "en": "to dream",
+      "uk": "мріяти",
+      "ru": "мечтать",
+      "pl": "marzyć"
+    },
+    {
+      "id": "recognize",
+      "cs": "poznat",
+      "en": "to recognize",
+      "uk": "впізнати",
+      "ru": "узнать",
+      "pl": "rozpoznać"
+    },
+    {
+      "id": "find-out",
+      "cs": "zjistit",
+      "en": "to find out",
+      "uk": "з’ясувати",
+      "ru": "выяснить",
+      "pl": "dowiedzieć się"
+    },
+    {
+      "id": "grasp",
+      "cs": "pochopit",
+      "en": "to grasp",
+      "uk": "зрозуміти",
+      "ru": "понять",
+      "pl": "zrozumieć"
+    },
+    {
+      "id": "know-be-familiar-with",
+      "cs": "znát",
+      "en": "to know (be familiar with)",
+      "uk": "знати",
+      "ru": "знать",
+      "pl": "znać"
+    },
+    {
+      "id": "memorize",
+      "cs": "učit se nazpaměť",
+      "en": "to memorize",
+      "uk": "вчити напам’ять",
+      "ru": "учить наизусть",
+      "pl": "uczyć się na pamięć"
+    },
+    {
+      "id": "count",
+      "cs": "počítat",
+      "en": "to count",
+      "uk": "рахувати",
+      "ru": "считать",
+      "pl": "liczyć"
+    },
+    {
+      "id": "compare",
+      "cs": "srovnat",
+      "en": "to compare",
+      "uk": "порівняти",
+      "ru": "сравнить",
+      "pl": "porównać"
+    },
+    {
+      "id": "expect",
+      "cs": "očekávat",
+      "en": "to expect",
+      "uk": "очікувати",
+      "ru": "ожидать",
+      "pl": "oczekiwać"
+    },
+    {
+      "id": "assume",
+      "cs": "předpokládat",
+      "en": "to assume",
+      "uk": "припускати",
+      "ru": "предполагать",
+      "pl": "zakładać"
+    },
+    {
+      "id": "claim",
+      "cs": "tvrdit",
+      "en": "to claim",
+      "uk": "стверджувати",
+      "ru": "утверждать",
+      "pl": "twierdzić"
+    },
+    {
+      "id": "prove",
+      "cs": "dokázat",
+      "en": "to prove",
+      "uk": "довести",
+      "ru": "доказать",
+      "pl": "udowodnić"
+    },
+    {
+      "id": "sign",
+      "cs": "podepsat",
+      "en": "to sign",
+      "uk": "підписати",
+      "ru": "подписать",
+      "pl": "podpisać"
+    },
+    {
+      "id": "vote",
+      "cs": "hlasovat",
+      "en": "to vote",
+      "uk": "голосувати",
+      "ru": "голосовать",
+      "pl": "głosować"
+    },
+    {
+      "id": "admit",
+      "cs": "přiznat",
+      "en": "to admit",
+      "uk": "визнати",
+      "ru": "признать",
+      "pl": "przyznać"
+    },
+    {
+      "id": "be-silent",
+      "cs": "mlčet",
+      "en": "to be silent",
+      "uk": "мовчати",
+      "ru": "молчать",
+      "pl": "milczeć"
+    }
+  ]
+}

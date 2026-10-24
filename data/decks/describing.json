@@ -1,0 +1,485 @@
+{
+  "id": "describing",
+  "order": 35,
+  "level": "A2",
+  "icon": "star",
+  "title": {
+    "cs": "Popis věcí",
+    "en": "Describing Things",
+    "uk": "Опис речей",
+    "ru": "Описание вещей",
+    "pl": "Opisywanie rzeczy"
+  },
+  "description": {
+    "en": "More adjectives for shapes, quality and feel.",
+    "uk": "Більше прикметників: форма, якість, відчуття.",
+    "ru": "Больше прилагательных: форма, качество, ощущения.",
+    "pl": "Więcej przymiotników: kształt, jakość, odczucia."
+  },
+  "words": [
+    {
+      "id": "round",
+      "cs": "kulatý",
+      "en": "round",
+      "uk": "круглий",
+      "ru": "круглый",
+      "pl": "okrągły"
+    },
+    {
+      "id": "angular",
+      "cs": "hranatý",
+      "en": "angular",
+      "uk": "кутастий",
+      "ru": "угловатый",
+      "pl": "kanciasty"
+    },
+    {
+      "id": "square-shape",
+      "cs": "čtvercový",
+      "en": "square (shape)",
+      "uk": "квадратний",
+      "ru": "квадратный",
+      "pl": "kwadratowy"
+    },
+    {
+      "id": "rectangular",
+      "cs": "obdélníkový",
+      "en": "rectangular",
+      "uk": "прямокутний",
+      "ru": "прямоугольный",
+      "pl": "prostokątny"
+    },
+    {
+      "id": "triangular",
+      "cs": "trojúhelníkový",
+      "en": "triangular",
+      "uk": "трикутний",
+      "ru": "треугольный",
+      "pl": "trójkątny"
+    },
+    {
+      "id": "oval",
+      "cs": "oválný",
+      "en": "oval",
+      "uk": "овальний",
+      "ru": "овальный",
+      "pl": "owalny"
+    },
+    {
+      "id": "straight",
+      "cs": "rovný",
+      "en": "straight",
+      "uk": "прямий",
+      "ru": "прямой",
+      "pl": "prosty"
+    },
+    {
+      "id": "crooked",
+      "cs": "křivý",
+      "en": "crooked",
+      "uk": "кривий",
+      "ru": "кривой",
+      "pl": "krzywy"
+    },
+    {
+      "id": "flat",
+      "cs": "plochý",
+      "en": "flat",
+      "uk": "плаский",
+      "ru": "плоский",
+      "pl": "płaski"
+    },
+    {
+      "id": "pointed",
+      "cs": "špičatý",
+      "en": "pointed",
+      "uk": "гострокінцевий",
+      "ru": "заострённый",
+      "pl": "spiczasty"
+    },
+    {
+      "id": "huge",
+      "cs": "obrovský",
+      "en": "huge",
+      "uk": "величезний",
+      "ru": "огромный",
+      "pl": "ogromny"
+    },
+    {
+      "id": "tiny",
+      "cs": "drobný",
+      "en": "tiny",
+      "uk": "крихітний",
+      "ru": "крошечный",
+      "pl": "drobny"
+    },
+    {
+      "id": "high-quality",
+      "cs": "kvalitní",
+      "en": "high-quality",
+      "uk": "якісний",
+      "ru": "качественный",
+      "pl": "wysokiej jakości"
+    },
+    {
+      "id": "perfect",
+      "cs": "dokonalý",
+      "en": "perfect",
+      "uk": "ідеальний",
+      "ru": "идеальный",
+      "pl": "doskonały"
+    },
+    {
+      "id": "excellent",
+      "cs": "vynikající",
+      "en": "excellent",
+      "uk": "чудовий",
+      "ru": "превосходный",
+      "pl": "znakomity"
+    },
+    {
+      "id": "terrible",
+      "cs": "hrozný",
+      "en": "terrible",
+      "uk": "жахливий",
+      "ru": "ужасный",
+      "pl": "okropny"
+    },
+    {
+      "id": "great",
+      "cs": "skvělý",
+      "en": "great",
+      "uk": "відмінний",
+      "ru": "отличный",
+      "pl": "świetny"
+    },
+    {
+      "id": "average",
+      "cs": "průměrný",
+      "en": "average",
+      "uk": "середній",
+      "ru": "средний",
+      "pl": "przeciętny"
+    },
+    {
+      "id": "ordinary",
+      "cs": "obyčejný",
+      "en": "ordinary",
+      "uk": "звичайний",
+      "ru": "обычный",
+      "pl": "zwykły"
+    },
+    {
+      "id": "strange",
+      "cs": "zvláštní",
+      "en": "strange",
+      "uk": "дивний",
+      "ru": "странный",
+      "pl": "dziwny"
+    },
+    {
+      "id": "rare",
+      "cs": "vzácný",
+      "en": "rare",
+      "uk": "рідкісний",
+      "ru": "редкий",
+      "pl": "rzadki"
+    },
+    {
+      "id": "common",
+      "cs": "běžný",
+      "en": "common",
+      "uk": "поширений",
+      "ru": "распространённый",
+      "pl": "powszechny"
+    },
+    {
+      "id": "simple",
+      "cs": "jednoduchý",
+      "en": "simple",
+      "uk": "простий",
+      "ru": "простой",
+      "pl": "nieskomplikowany"
+    },
+    {
+      "id": "complicated",
+      "cs": "složitý",
+      "en": "complicated",
+      "uk": "складний",
+      "ru": "сложный",
+      "pl": "skomplikowany"
+    },
+    {
+      "id": "modern",
+      "cs": "moderní",
+      "en": "modern",
+      "uk": "сучасний",
+      "ru": "современный",
+      "pl": "nowoczesny"
+    },
+    {
+      "id": "old-fashioned",
+      "cs": "staromódní",
+      "en": "old-fashioned",
+      "uk": "старомодний",
+      "ru": "старомодный",
+      "pl": "staromodny"
+    },
+    {
+      "id": "traditional",
+      "cs": "tradiční",
+      "en": "traditional",
+      "uk": "традиційний",
+      "ru": "традиционный",
+      "pl": "tradycyjny"
+    },
+    {
+      "id": "useful",
+      "cs": "užitečný",
+      "en": "useful",
+      "uk": "корисний",
+      "ru": "полезный",
+      "pl": "przydatny"
+    },
+    {
+      "id": "useless",
+      "cs": "zbytečný",
+      "en": "useless",
+      "uk": "марний",
+      "ru": "бесполезный",
+      "pl": "bezużyteczny"
+    },
+    {
+      "id": "safe",
+      "cs": "bezpečný",
+      "en": "safe",
+      "uk": "безпечний",
+      "ru": "безопасный",
+      "pl": "bezpieczny"
+    },
+    {
+      "id": "dangerous",
+      "cs": "nebezpečný",
+      "en": "dangerous",
+      "uk": "небезпечний",
+      "ru": "опасный",
+      "pl": "niebezpieczny"
+    },
+    {
+      "id": "comfortable",
+      "cs": "pohodlný",
+      "en": "comfortable",
+      "uk": "зручний",
+      "ru": "удобный",
+      "pl": "wygodny"
+    },
+    {
+      "id": "uncomfortable",
+      "cs": "nepohodlný",
+      "en": "uncomfortable",
+      "uk": "незручний",
+      "ru": "неудобный",
+      "pl": "niewygodny"
+    },
+    {
+      "id": "fresh",
+      "cs": "čerstvý",
+      "en": "fresh",
+      "uk": "свіжий",
+      "ru": "свежий",
+      "pl": "świeży"
+    },
+    {
+      "id": "spoiled-food",
+      "cs": "zkažený",
+      "en": "spoiled (food)",
+      "uk": "зіпсований",
+      "ru": "испорченный",
+      "pl": "zepsuty"
+    },
+    {
+      "id": "tasty",
+      "cs": "chutný",
+      "en": "tasty",
+      "uk": "смачний",
+      "ru": "вкусный",
+      "pl": "smaczny"
+    },
+    {
+      "id": "fragrant",
+      "cs": "voňavý",
+      "en": "fragrant",
+      "uk": "запашний",
+      "ru": "ароматный",
+      "pl": "pachnący"
+    },
+    {
+      "id": "smelly",
+      "cs": "smradlavý",
+      "en": "smelly",
+      "uk": "смердючий",
+      "ru": "вонючий",
+      "pl": "śmierdzący"
+    },
+    {
+      "id": "sticky",
+      "cs": "lepkavý",
+      "en": "sticky",
+      "uk": "липкий",
+      "ru": "липкий",
+      "pl": "lepki"
+    },
+    {
+      "id": "slippery",
+      "cs": "kluzký",
+      "en": "slippery",
+      "uk": "слизький",
+      "ru": "скользкий",
+      "pl": "śliski"
+    },
+    {
+      "id": "flexible",
+      "cs": "pružný",
+      "en": "flexible",
+      "uk": "гнучкий",
+      "ru": "гибкий",
+      "pl": "elastyczny"
+    },
+    {
+      "id": "fragile",
+      "cs": "křehký",
+      "en": "fragile",
+      "uk": "крихкий",
+      "ru": "хрупкий",
+      "pl": "kruchy"
+    },
+    {
+      "id": "firm",
+      "cs": "pevný",
+      "en": "firm",
+      "uk": "міцний",
+      "ru": "прочный",
+      "pl": "mocny"
+    },
+    {
+      "id": "loose",
+      "cs": "volný",
+      "en": "loose",
+      "uk": "вільний",
+      "ru": "свободный",
+      "pl": "luźny"
+    },
+    {
+      "id": "tight",
+      "cs": "těsný",
+      "en": "tight",
+      "uk": "тісний",
+      "ru": "тесный",
+      "pl": "ciasny"
+    },
+    {
+      "id": "dense",
+      "cs": "hustý",
+      "en": "dense",
+      "uk": "густий",
+      "ru": "густой",
+      "pl": "gęsty"
+    },
+    {
+      "id": "loud",
+      "cs": "hlasitý",
+      "en": "loud",
+      "uk": "голосний",
+      "ru": "громкий",
+      "pl": "głośny"
+    },
+    {
+      "id": "clear",
+      "cs": "jasný",
+      "en": "clear",
+      "uk": "ясний",
+      "ru": "ясный",
+      "pl": "jasny"
+    },
+    {
+      "id": "unclear",
+      "cs": "nejasný",
+      "en": "unclear",
+      "uk": "неясний",
+      "ru": "неясный",
+      "pl": "niejasny"
+    },
+    {
+      "id": "real",
+      "cs": "skutečný",
+      "en": "real",
+      "uk": "справжній",
+      "ru": "настоящий",
+      "pl": "prawdziwy"
+    },
+    {
+      "id": "fake",
+      "cs": "falešný",
+      "en": "fake",
+      "uk": "фальшивий",
+      "ru": "поддельный",
+      "pl": "fałszywy"
+    },
+    {
+      "id": "public",
+      "cs": "veřejný",
+      "en": "public",
+      "uk": "громадський",
+      "ru": "общественный",
+      "pl": "publiczny"
+    },
+    {
+      "id": "private",
+      "cs": "soukromý",
+      "en": "private",
+      "uk": "приватний",
+      "ru": "частный",
+      "pl": "prywatny"
+    },
+    {
+      "id": "local",
+      "cs": "místní",
+      "en": "local",
+      "uk": "місцевий",
+      "ru": "местный",
+      "pl": "lokalny"
+    },
+    {
+      "id": "foreign",
+      "cs": "cizí",
+      "en": "foreign",
+      "uk": "чужий",
+      "ru": "чужой",
+      "pl": "obcy"
+    },
+    {
+      "id": "main",
+      "cs": "hlavní",
+      "en": "main",
+      "uk": "головний",
+      "ru": "главный",
+      "pl": "główny"
+    },
+    {
+      "id": "whole",
+      "cs": "celý",
+      "en": "whole",
+      "uk": "цілий",
+      "ru": "целый",
+      "pl": "cały"
+    },
+    {
+      "id": "broken",
+      "cs": "rozbitý",
+      "en": "broken",
+      "uk": "розбитий",
+      "ru": "разбитый",
+      "pl": "rozbity"
+    }
+  ]
+}

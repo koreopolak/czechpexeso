@@ -1,0 +1,301 @@
+{
+  "id": "vegetables",
+  "order": 9,
+  "level": "A1",
+  "icon": "carrot",
+  "title": {
+    "cs": "Zelenina a bylinky",
+    "en": "Vegetables & Herbs",
+    "uk": "Овочі та зелень",
+    "ru": "Овощи и зелень",
+    "pl": "Warzywa i zioła"
+  },
+  "description": {
+    "en": "Vegetables, herbs and mushrooms.",
+    "uk": "Овочі, зелень і гриби.",
+    "ru": "Овощи, зелень и грибы.",
+    "pl": "Warzywa, zioła i grzyby."
+  },
+  "words": [
+    {
+      "id": "vegetables",
+      "cs": "zelenina",
+      "en": "vegetables",
+      "uk": "овочі",
+      "ru": "овощи",
+      "pl": "warzywa"
+    },
+    {
+      "id": "cucumber",
+      "cs": "okurka",
+      "en": "cucumber",
+      "uk": "огірок",
+      "ru": "огурец",
+      "pl": "ogórek"
+    },
+    {
+      "id": "bell-pepper",
+      "cs": "paprika",
+      "en": "bell pepper",
+      "uk": "солодкий перець",
+      "ru": "сладкий перец",
+      "pl": "papryka"
+    },
+    {
+      "id": "onion",
+      "cs": "cibule",
+      "en": "onion",
+      "uk": "цибуля",
+      "ru": "лук",
+      "pl": "cebula"
+    },
+    {
+      "id": "garlic",
+      "cs": "česnek",
+      "en": "garlic",
+      "uk": "часник",
+      "ru": "чеснок",
+      "pl": "czosnek"
+    },
+    {
+      "id": "cabbage",
+      "cs": "zelí",
+      "en": "cabbage",
+      "uk": "капуста",
+      "ru": "капуста",
+      "pl": "kapusta"
+    },
+    {
+      "id": "cauliflower",
+      "cs": "květák",
+      "en": "cauliflower",
+      "uk": "цвітна капуста",
+      "ru": "цветная капуста",
+      "pl": "kalafior"
+    },
+    {
+      "id": "broccoli",
+      "cs": "brokolice",
+      "en": "broccoli",
+      "uk": "броколі",
+      "ru": "брокколи",
+      "pl": "brokuł"
+    },
+    {
+      "id": "lettuce",
+      "cs": "hlávkový salát",
+      "en": "lettuce",
+      "uk": "салат латук",
+      "ru": "салат-латук",
+      "pl": "sałata"
+    },
+    {
+      "id": "spinach",
+      "cs": "špenát",
+      "en": "spinach",
+      "uk": "шпинат",
+      "ru": "шпинат",
+      "pl": "szpinak"
+    },
+    {
+      "id": "pumpkin",
+      "cs": "dýně",
+      "en": "pumpkin",
+      "uk": "гарбуз",
+      "ru": "тыква",
+      "pl": "dynia"
+    },
+    {
+      "id": "zucchini",
+      "cs": "cuketa",
+      "en": "zucchini",
+      "uk": "цукіні",
+      "ru": "кабачок",
+      "pl": "cukinia"
+    },
+    {
+      "id": "eggplant",
+      "cs": "lilek",
+      "en": "eggplant",
+      "uk": "баклажан",
+      "ru": "баклажан",
+      "pl": "bakłażan"
+    },
+    {
+      "id": "corn",
+      "cs": "kukuřice",
+      "en": "corn",
+      "uk": "кукурудза",
+      "ru": "кукуруза",
+      "pl": "kukurydza"
+    },
+    {
+      "id": "peas",
+      "cs": "hrách",
+      "en": "peas",
+      "uk": "горох",
+      "ru": "горох",
+      "pl": "groch"
+    },
+    {
+      "id": "beans",
+      "cs": "fazole",
+      "en": "beans",
+      "uk": "квасоля",
+      "ru": "фасоль",
+      "pl": "fasola"
+    },
+    {
+      "id": "lentils",
+      "cs": "čočka",
+      "en": "lentils",
+      "uk": "сочевиця",
+      "ru": "чечевица",
+      "pl": "soczewica"
+    },
+    {
+      "id": "radish",
+      "cs": "ředkvička",
+      "en": "radish",
+      "uk": "редиска",
+      "ru": "редиска",
+      "pl": "rzodkiewka"
+    },
+    {
+      "id": "beetroot",
+      "cs": "červená řepa",
+      "en": "beetroot",
+      "uk": "буряк",
+      "ru": "свёкла",
+      "pl": "burak"
+    },
+    {
+      "id": "celery",
+      "cs": "celer",
+      "en": "celery",
+      "uk": "селера",
+      "ru": "сельдерей",
+      "pl": "seler"
+    },
+    {
+      "id": "leek",
+      "cs": "pórek",
+      "en": "leek",
+      "uk": "цибуля-порей",
+      "ru": "лук-порей",
+      "pl": "por"
+    },
+    {
+      "id": "kohlrabi",
+      "cs": "kedlubna",
+      "en": "kohlrabi",
+      "uk": "кольрабі",
+      "ru": "кольраби",
+      "pl": "kalarepa"
+    },
+    {
+      "id": "asparagus",
+      "cs": "chřest",
+      "en": "asparagus",
+      "uk": "спаржа",
+      "ru": "спаржа",
+      "pl": "szparagi"
+    },
+    {
+      "id": "mushroom",
+      "cs": "houba",
+      "en": "mushroom",
+      "uk": "гриб",
+      "ru": "гриб",
+      "pl": "grzyb"
+    },
+    {
+      "id": "button-mushroom",
+      "cs": "žampion",
+      "en": "button mushroom",
+      "uk": "печериця",
+      "ru": "шампиньон",
+      "pl": "pieczarka"
+    },
+    {
+      "id": "parsley",
+      "cs": "petržel",
+      "en": "parsley",
+      "uk": "петрушка",
+      "ru": "петрушка",
+      "pl": "pietruszka"
+    },
+    {
+      "id": "dill",
+      "cs": "kopr",
+      "en": "dill",
+      "uk": "кріп",
+      "ru": "укроп",
+      "pl": "koperek"
+    },
+    {
+      "id": "chives",
+      "cs": "pažitka",
+      "en": "chives",
+      "uk": "шнітт-цибуля",
+      "ru": "шнитт-лук",
+      "pl": "szczypiorek"
+    },
+    {
+      "id": "basil",
+      "cs": "bazalka",
+      "en": "basil",
+      "uk": "базилік",
+      "ru": "базилик",
+      "pl": "bazylia"
+    },
+    {
+      "id": "mint",
+      "cs": "máta",
+      "en": "mint",
+      "uk": "м’ята",
+      "ru": "мята",
+      "pl": "mięta"
+    },
+    {
+      "id": "olives",
+      "cs": "olivy",
+      "en": "olives",
+      "uk": "оливки",
+      "ru": "оливки",
+      "pl": "oliwki"
+    },
+    {
+      "id": "chili-pepper",
+      "cs": "chilli paprička",
+      "en": "chili pepper",
+      "uk": "перець чилі",
+      "ru": "перец чили",
+      "pl": "papryczka chili"
+    },
+    {
+      "id": "ginger",
+      "cs": "zázvor",
+      "en": "ginger",
+      "uk": "імбир",
+      "ru": "имбирь",
+      "pl": "imbir"
+    },
+    {
+      "id": "soy",
+      "cs": "sója",
+      "en": "soy",
+      "uk": "соя",
+      "ru": "соя",
+      "pl": "soja"
+    },
+    {
+      "id": "sauerkraut",
+      "cs": "kysané zelí",
+      "en": "sauerkraut",
+      "uk": "квашена капуста",
+      "ru": "квашеная капуста",
+      "pl": "kiszona kapusta"
+    }
+  ]
+}

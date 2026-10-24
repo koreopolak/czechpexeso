@@ -1,0 +1,701 @@
+{
+  "id": "verbs-more",
+  "order": 72,
+  "level": "B1",
+  "icon": "spark",
+  "title": {
+    "cs": "Další slovesa",
+    "en": "More Verbs",
+    "uk": "Ще дієслова",
+    "ru": "Ещё глаголы",
+    "pl": "Więcej czasowników"
+  },
+  "description": {
+    "en": "Useful verbs for more advanced conversations.",
+    "uk": "Корисні дієслова для складніших розмов.",
+    "ru": "Полезные глаголы для более сложных разговоров.",
+    "pl": "Przydatne czasowniki do bardziej złożonych rozmów."
+  },
+  "words": [
+    {
+      "id": "exist",
+      "cs": "existovat",
+      "en": "to exist",
+      "uk": "існувати",
+      "ru": "существовать",
+      "pl": "istnieć"
+    },
+    {
+      "id": "happen",
+      "cs": "stát se",
+      "en": "to happen",
+      "uk": "статися",
+      "ru": "случиться",
+      "pl": "stać się"
+    },
+    {
+      "id": "seem",
+      "cs": "zdát se",
+      "en": "to seem",
+      "uk": "здаватися",
+      "ru": "казаться",
+      "pl": "wydawać się"
+    },
+    {
+      "id": "belong",
+      "cs": "patřit",
+      "en": "to belong",
+      "uk": "належати",
+      "ru": "принадлежать",
+      "pl": "należeć"
+    },
+    {
+      "id": "depend",
+      "cs": "záležet",
+      "en": "to depend",
+      "uk": "залежати",
+      "ru": "зависеть",
+      "pl": "zależeć"
+    },
+    {
+      "id": "contain",
+      "cs": "obsahovat",
+      "en": "to contain",
+      "uk": "містити",
+      "ru": "содержать",
+      "pl": "zawierać"
+    },
+    {
+      "id": "include",
+      "cs": "zahrnovat",
+      "en": "to include",
+      "uk": "включати",
+      "ru": "включать",
+      "pl": "obejmować"
+    },
+    {
+      "id": "create",
+      "cs": "vytvořit",
+      "en": "to create",
+      "uk": "створити",
+      "ru": "создать",
+      "pl": "stworzyć"
+    },
+    {
+      "id": "produce",
+      "cs": "vyrobit",
+      "en": "to produce",
+      "uk": "виробити",
+      "ru": "произвести",
+      "pl": "wyprodukować"
+    },
+    {
+      "id": "build",
+      "cs": "postavit",
+      "en": "to build",
+      "uk": "побудувати",
+      "ru": "построить",
+      "pl": "zbudować"
+    },
+    {
+      "id": "destroy",
+      "cs": "zničit",
+      "en": "to destroy",
+      "uk": "знищити",
+      "ru": "уничтожить",
+      "pl": "zniszczyć"
+    },
+    {
+      "id": "develop",
+      "cs": "rozvíjet",
+      "en": "to develop",
+      "uk": "розвивати",
+      "ru": "развивать",
+      "pl": "rozwijać"
+    },
+    {
+      "id": "improve",
+      "cs": "zlepšit",
+      "en": "to improve",
+      "uk": "покращити",
+      "ru": "улучшить",
+      "pl": "poprawić"
+    },
+    {
+      "id": "worsen",
+      "cs": "zhoršit",
+      "en": "to worsen",
+      "uk": "погіршити",
+      "ru": "ухудшить",
+      "pl": "pogorszyć"
+    },
+    {
+      "id": "increase",
+      "cs": "zvýšit",
+      "en": "to increase",
+      "uk": "збільшити",
+      "ru": "увеличить",
+      "pl": "zwiększyć"
+    },
+    {
+      "id": "reduce",
+      "cs": "snížit",
+      "en": "to reduce",
+      "uk": "зменшити",
+      "ru": "уменьшить",
+      "pl": "zmniejszyć"
+    },
+    {
+      "id": "add",
+      "cs": "přidat",
+      "en": "to add",
+      "uk": "додати",
+      "ru": "добавить",
+      "pl": "dodać"
+    },
+    {
+      "id": "remove",
+      "cs": "odstranit",
+      "en": "to remove",
+      "uk": "усунути",
+      "ru": "устранить",
+      "pl": "usunąć"
+    },
+    {
+      "id": "connect",
+      "cs": "spojit",
+      "en": "to connect",
+      "uk": "з’єднати",
+      "ru": "соединить",
+      "pl": "połączyć"
+    },
+    {
+      "id": "divide",
+      "cs": "rozdělit",
+      "en": "to divide",
+      "uk": "розділити",
+      "ru": "разделить",
+      "pl": "podzielić"
+    },
+    {
+      "id": "achieve",
+      "cs": "dosáhnout",
+      "en": "to achieve",
+      "uk": "досягти",
+      "ru": "достичь",
+      "pl": "osiągnąć"
+    },
+    {
+      "id": "fail",
+      "cs": "selhat",
+      "en": "to fail",
+      "uk": "зазнати невдачі",
+      "ru": "потерпеть неудачу",
+      "pl": "ponieść porażkę"
+    },
+    {
+      "id": "continue",
+      "cs": "pokračovat",
+      "en": "to continue",
+      "uk": "продовжувати",
+      "ru": "продолжать",
+      "pl": "kontynuować"
+    },
+    {
+      "id": "stop-doing",
+      "cs": "přestat",
+      "en": "to stop (doing)",
+      "uk": "припинити",
+      "ru": "перестать",
+      "pl": "przestać"
+    },
+    {
+      "id": "abandon",
+      "cs": "opustit",
+      "en": "to abandon",
+      "uk": "покинути",
+      "ru": "покинуть",
+      "pl": "opuścić"
+    },
+    {
+      "id": "allow",
+      "cs": "dovolit",
+      "en": "to allow",
+      "uk": "дозволити",
+      "ru": "разрешить",
+      "pl": "pozwolić"
+    },
+    {
+      "id": "forbid",
+      "cs": "zakázat",
+      "en": "to forbid",
+      "uk": "заборонити",
+      "ru": "запретить",
+      "pl": "zabronić"
+    },
+    {
+      "id": "force",
+      "cs": "donutit",
+      "en": "to force",
+      "uk": "змусити",
+      "ru": "заставить",
+      "pl": "zmusić"
+    },
+    {
+      "id": "offer",
+      "cs": "nabídnout",
+      "en": "to offer",
+      "uk": "запропонувати",
+      "ru": "предложить",
+      "pl": "zaproponować"
+    },
+    {
+      "id": "provide",
+      "cs": "poskytnout",
+      "en": "to provide",
+      "uk": "надати",
+      "ru": "предоставить",
+      "pl": "zapewnić"
+    },
+    {
+      "id": "gain",
+      "cs": "získat",
+      "en": "to gain",
+      "uk": "здобути",
+      "ru": "приобрести",
+      "pl": "zdobyć"
+    },
+    {
+      "id": "invest",
+      "cs": "investovat",
+      "en": "to invest",
+      "uk": "інвестувати",
+      "ru": "инвестировать",
+      "pl": "inwestować"
+    },
+    {
+      "id": "own",
+      "cs": "vlastnit",
+      "en": "to own",
+      "uk": "володіти",
+      "ru": "владеть",
+      "pl": "posiadać"
+    },
+    {
+      "id": "inherit",
+      "cs": "dědit",
+      "en": "to inherit",
+      "uk": "успадковувати",
+      "ru": "наследовать",
+      "pl": "dziedziczyć"
+    },
+    {
+      "id": "solve",
+      "cs": "řešit",
+      "en": "to solve",
+      "uk": "вирішувати",
+      "ru": "решать",
+      "pl": "rozwiązywać"
+    },
+    {
+      "id": "prevent",
+      "cs": "zabránit",
+      "en": "to prevent",
+      "uk": "запобігти",
+      "ru": "предотвратить",
+      "pl": "zapobiec"
+    },
+    {
+      "id": "cause",
+      "cs": "způsobit",
+      "en": "to cause",
+      "uk": "спричинити",
+      "ru": "вызвать",
+      "pl": "spowodować"
+    },
+    {
+      "id": "influence",
+      "cs": "ovlivnit",
+      "en": "to influence",
+      "uk": "вплинути",
+      "ru": "повлиять",
+      "pl": "wpłynąć"
+    },
+    {
+      "id": "support",
+      "cs": "podporovat",
+      "en": "to support",
+      "uk": "підтримувати",
+      "ru": "поддерживать",
+      "pl": "wspierać"
+    },
+    {
+      "id": "defend",
+      "cs": "bránit",
+      "en": "to defend",
+      "uk": "обороняти",
+      "ru": "защищать",
+      "pl": "bronić"
+    },
+    {
+      "id": "fight",
+      "cs": "bojovat",
+      "en": "to fight",
+      "uk": "боротися",
+      "ru": "бороться",
+      "pl": "walczyć"
+    },
+    {
+      "id": "triumph",
+      "cs": "zvítězit",
+      "en": "to triumph",
+      "uk": "перемогти",
+      "ru": "победить",
+      "pl": "zwyciężyć"
+    },
+    {
+      "id": "risk",
+      "cs": "riskovat",
+      "en": "to risk",
+      "uk": "ризикувати",
+      "ru": "рисковать",
+      "pl": "ryzykować"
+    },
+    {
+      "id": "be-concerned",
+      "cs": "obávat se",
+      "en": "to be concerned",
+      "uk": "побоюватися",
+      "ru": "опасаться",
+      "pl": "obawiać się"
+    },
+    {
+      "id": "avoid",
+      "cs": "vyhnout se",
+      "en": "to avoid",
+      "uk": "уникнути",
+      "ru": "избежать",
+      "pl": "uniknąć"
+    },
+    {
+      "id": "take-part",
+      "cs": "zúčastnit se",
+      "en": "to take part",
+      "uk": "взяти участь",
+      "ru": "принять участие",
+      "pl": "wziąć udział"
+    },
+    {
+      "id": "react",
+      "cs": "reagovat",
+      "en": "to react",
+      "uk": "реагувати",
+      "ru": "реагировать",
+      "pl": "reagować"
+    },
+    {
+      "id": "notice",
+      "cs": "všimnout si",
+      "en": "to notice",
+      "uk": "помітити",
+      "ru": "заметить",
+      "pl": "zauważyć"
+    },
+    {
+      "id": "focus",
+      "cs": "zaměřit se",
+      "en": "to focus",
+      "uk": "зосередитися",
+      "ru": "сосредоточиться",
+      "pl": "skupić się"
+    },
+    {
+      "id": "adapt",
+      "cs": "přizpůsobit se",
+      "en": "to adapt",
+      "uk": "пристосуватися",
+      "ru": "приспособиться",
+      "pl": "dostosować się"
+    },
+    {
+      "id": "get-used-to",
+      "cs": "zvyknout si",
+      "en": "to get used to",
+      "uk": "звикнути",
+      "ru": "привыкнуть",
+      "pl": "przyzwyczaić się"
+    },
+    {
+      "id": "get-involved",
+      "cs": "zapojit se",
+      "en": "to get involved",
+      "uk": "долучитися",
+      "ru": "присоединиться",
+      "pl": "zaangażować się"
+    },
+    {
+      "id": "last",
+      "cs": "trvat",
+      "en": "to last",
+      "uk": "тривати",
+      "ru": "длиться",
+      "pl": "trwać"
+    },
+    {
+      "id": "be-late",
+      "cs": "zpozdit se",
+      "en": "to be late",
+      "uk": "запізнитися",
+      "ru": "опоздать",
+      "pl": "spóźnić się"
+    },
+    {
+      "id": "make-it-in-time",
+      "cs": "stihnout",
+      "en": "to make it (in time)",
+      "uk": "встигнути",
+      "ru": "успеть",
+      "pl": "zdążyć"
+    },
+    {
+      "id": "postpone",
+      "cs": "odložit",
+      "en": "to postpone",
+      "uk": "відкласти",
+      "ru": "отложить",
+      "pl": "odłożyć"
+    },
+    {
+      "id": "cancel",
+      "cs": "zrušit",
+      "en": "to cancel",
+      "uk": "скасувати",
+      "ru": "отменить",
+      "pl": "odwołać"
+    },
+    {
+      "id": "confirm",
+      "cs": "potvrdit",
+      "en": "to confirm",
+      "uk": "підтвердити",
+      "ru": "подтвердить",
+      "pl": "potwierdzić"
+    },
+    {
+      "id": "verify",
+      "cs": "ověřit",
+      "en": "to verify",
+      "uk": "перевірити",
+      "ru": "проверить",
+      "pl": "sprawdzić"
+    },
+    {
+      "id": "check",
+      "cs": "kontrolovat",
+      "en": "to check",
+      "uk": "контролювати",
+      "ru": "контролировать",
+      "pl": "kontrolować"
+    },
+    {
+      "id": "renew",
+      "cs": "obnovit",
+      "en": "to renew",
+      "uk": "відновити",
+      "ru": "восстановить",
+      "pl": "odnowić"
+    },
+    {
+      "id": "maintain",
+      "cs": "udržovat",
+      "en": "to maintain",
+      "uk": "утримувати",
+      "ru": "сохранять",
+      "pl": "utrzymywać"
+    },
+    {
+      "id": "serve",
+      "cs": "sloužit",
+      "en": "to serve",
+      "uk": "служити",
+      "ru": "служить",
+      "pl": "służyć"
+    },
+    {
+      "id": "represent",
+      "cs": "představovat",
+      "en": "to represent",
+      "uk": "представляти",
+      "ru": "представлять",
+      "pl": "reprezentować"
+    },
+    {
+      "id": "mean",
+      "cs": "znamenat",
+      "en": "to mean",
+      "uk": "означати",
+      "ru": "означать",
+      "pl": "znaczyć"
+    },
+    {
+      "id": "express",
+      "cs": "vyjádřit",
+      "en": "to express",
+      "uk": "висловити",
+      "ru": "выразить",
+      "pl": "wyrazić"
+    },
+    {
+      "id": "deny",
+      "cs": "popírat",
+      "en": "to deny",
+      "uk": "заперечувати",
+      "ru": "отрицать",
+      "pl": "zaprzeczać"
+    },
+    {
+      "id": "reveal",
+      "cs": "prozradit",
+      "en": "to reveal",
+      "uk": "розкрити",
+      "ru": "раскрыть",
+      "pl": "zdradzić"
+    },
+    {
+      "id": "keep-secret",
+      "cs": "tajit",
+      "en": "to keep secret",
+      "uk": "приховувати",
+      "ru": "скрывать",
+      "pl": "ukrywać"
+    },
+    {
+      "id": "surprise",
+      "cs": "překvapit",
+      "en": "to surprise",
+      "uk": "здивувати",
+      "ru": "удивить",
+      "pl": "zaskoczyć"
+    },
+    {
+      "id": "disappoint",
+      "cs": "zklamat",
+      "en": "to disappoint",
+      "uk": "розчарувати",
+      "ru": "разочаровать",
+      "pl": "rozczarować"
+    },
+    {
+      "id": "offend",
+      "cs": "urazit",
+      "en": "to offend",
+      "uk": "образити",
+      "ru": "обидеть",
+      "pl": "obrazić"
+    },
+    {
+      "id": "forgive",
+      "cs": "odpustit",
+      "en": "to forgive",
+      "uk": "пробачити",
+      "ru": "простить",
+      "pl": "wybaczyć"
+    },
+    {
+      "id": "regret",
+      "cs": "litovat",
+      "en": "to regret",
+      "uk": "шкодувати",
+      "ru": "сожалеть",
+      "pl": "żałować"
+    },
+    {
+      "id": "admire",
+      "cs": "obdivovat",
+      "en": "to admire",
+      "uk": "захоплюватися",
+      "ru": "восхищаться",
+      "pl": "podziwiać"
+    },
+    {
+      "id": "respect",
+      "cs": "respektovat",
+      "en": "to respect",
+      "uk": "поважати",
+      "ru": "уважать",
+      "pl": "szanować"
+    },
+    {
+      "id": "trust",
+      "cs": "důvěřovat",
+      "en": "to trust",
+      "uk": "довіряти",
+      "ru": "доверять",
+      "pl": "ufać"
+    },
+    {
+      "id": "survive",
+      "cs": "přežít",
+      "en": "to survive",
+      "uk": "вижити",
+      "ru": "выжить",
+      "pl": "przetrwać"
+    },
+    {
+      "id": "die",
+      "cs": "zemřít",
+      "en": "to die",
+      "uk": "померти",
+      "ru": "умереть",
+      "pl": "umrzeć"
+    },
+    {
+      "id": "be-born",
+      "cs": "narodit se",
+      "en": "to be born",
+      "uk": "народитися",
+      "ru": "родиться",
+      "pl": "urodzić się"
+    },
+    {
+      "id": "grow-up",
+      "cs": "vyrůst",
+      "en": "to grow up",
+      "uk": "вирости",
+      "ru": "вырасти",
+      "pl": "dorosnąć"
+    },
+    {
+      "id": "grow-old",
+      "cs": "stárnout",
+      "en": "to grow old",
+      "uk": "старіти",
+      "ru": "стареть",
+      "pl": "starzeć się"
+    },
+    {
+      "id": "marry-said-of-a-man",
+      "cs": "oženit se",
+      "en": "to marry (said of a man)",
+      "uk": "одружитися",
+      "ru": "жениться",
+      "pl": "ożenić się"
+    },
+    {
+      "id": "marry-said-of-a-woman",
+      "cs": "vdát se",
+      "en": "to marry (said of a woman)",
+      "uk": "вийти заміж",
+      "ru": "выйти замуж",
+      "pl": "wyjść za mąż"
+    },
+    {
+      "id": "get-divorced",
+      "cs": "rozvést se",
+      "en": "to get divorced",
+      "uk": "розлучитися",
+      "ru": "развестись",
+      "pl": "rozwieść się"
+    }
+  ]
+}

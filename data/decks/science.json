@@ -1,0 +1,381 @@
+{
+  "id": "science",
+  "order": 68,
+  "level": "B1",
+  "icon": "planet",
+  "title": {
+    "cs": "Věda a vesmír",
+    "en": "Science & Space",
+    "uk": "Наука та космос",
+    "ru": "Наука и космос",
+    "pl": "Nauka i kosmos"
+  },
+  "description": {
+    "en": "Science, research and the universe.",
+    "uk": "Наука, дослідження та Всесвіт.",
+    "ru": "Наука, исследования и Вселенная.",
+    "pl": "Nauka, badania i wszechświat."
+  },
+  "words": [
+    {
+      "id": "science",
+      "cs": "věda",
+      "en": "science",
+      "uk": "наука",
+      "ru": "наука",
+      "pl": "nauka"
+    },
+    {
+      "id": "research",
+      "cs": "výzkum",
+      "en": "research",
+      "uk": "дослідження",
+      "ru": "исследование",
+      "pl": "badania"
+    },
+    {
+      "id": "experiment",
+      "cs": "experiment",
+      "en": "experiment",
+      "uk": "експеримент",
+      "ru": "эксперимент",
+      "pl": "eksperyment"
+    },
+    {
+      "id": "laboratory",
+      "cs": "laboratoř",
+      "en": "laboratory",
+      "uk": "лабораторія",
+      "ru": "лаборатория",
+      "pl": "laboratorium"
+    },
+    {
+      "id": "discovery",
+      "cs": "objev",
+      "en": "discovery",
+      "uk": "відкриття",
+      "ru": "открытие",
+      "pl": "odkrycie"
+    },
+    {
+      "id": "invention",
+      "cs": "vynález",
+      "en": "invention",
+      "uk": "винахід",
+      "ru": "изобретение",
+      "pl": "wynalazek"
+    },
+    {
+      "id": "theory",
+      "cs": "teorie",
+      "en": "theory",
+      "uk": "теорія",
+      "ru": "теория",
+      "pl": "teoria"
+    },
+    {
+      "id": "proof",
+      "cs": "důkaz",
+      "en": "proof",
+      "uk": "доказ",
+      "ru": "доказательство",
+      "pl": "dowód"
+    },
+    {
+      "id": "result",
+      "cs": "výsledek",
+      "en": "result",
+      "uk": "результат",
+      "ru": "результат",
+      "pl": "wynik"
+    },
+    {
+      "id": "hypothesis",
+      "cs": "hypotéza",
+      "en": "hypothesis",
+      "uk": "гіпотеза",
+      "ru": "гипотеза",
+      "pl": "hipoteza"
+    },
+    {
+      "id": "microscope",
+      "cs": "mikroskop",
+      "en": "microscope",
+      "uk": "мікроскоп",
+      "ru": "микроскоп",
+      "pl": "mikroskop"
+    },
+    {
+      "id": "telescope",
+      "cs": "dalekohled",
+      "en": "telescope",
+      "uk": "телескоп",
+      "ru": "телескоп",
+      "pl": "teleskop"
+    },
+    {
+      "id": "atom",
+      "cs": "atom",
+      "en": "atom",
+      "uk": "атом",
+      "ru": "атом",
+      "pl": "atom"
+    },
+    {
+      "id": "molecule",
+      "cs": "molekula",
+      "en": "molecule",
+      "uk": "молекула",
+      "ru": "молекула",
+      "pl": "cząsteczka"
+    },
+    {
+      "id": "cell",
+      "cs": "buňka",
+      "en": "cell",
+      "uk": "клітина",
+      "ru": "клетка",
+      "pl": "komórka"
+    },
+    {
+      "id": "energy",
+      "cs": "energie",
+      "en": "energy",
+      "uk": "енергія",
+      "ru": "энергия",
+      "pl": "energia"
+    },
+    {
+      "id": "gravity",
+      "cs": "gravitace",
+      "en": "gravity",
+      "uk": "гравітація",
+      "ru": "гравитация",
+      "pl": "grawitacja"
+    },
+    {
+      "id": "equation",
+      "cs": "rovnice",
+      "en": "equation",
+      "uk": "рівняння",
+      "ru": "уравнение",
+      "pl": "równanie"
+    },
+    {
+      "id": "formula",
+      "cs": "vzorec",
+      "en": "formula",
+      "uk": "формула",
+      "ru": "формула",
+      "pl": "wzór"
+    },
+    {
+      "id": "universe",
+      "cs": "vesmír",
+      "en": "universe",
+      "uk": "Всесвіт",
+      "ru": "Вселенная",
+      "pl": "wszechświat"
+    },
+    {
+      "id": "planet",
+      "cs": "planeta",
+      "en": "planet",
+      "uk": "планета",
+      "ru": "планета",
+      "pl": "planeta"
+    },
+    {
+      "id": "galaxy",
+      "cs": "galaxie",
+      "en": "galaxy",
+      "uk": "галактика",
+      "ru": "галактика",
+      "pl": "galaktyka"
+    },
+    {
+      "id": "solar-system",
+      "cs": "sluneční soustava",
+      "en": "solar system",
+      "uk": "Сонячна система",
+      "ru": "Солнечная система",
+      "pl": "Układ Słoneczny"
+    },
+    {
+      "id": "mars",
+      "cs": "Mars",
+      "en": "Mars",
+      "uk": "Марс",
+      "ru": "Марс",
+      "pl": "Mars"
+    },
+    {
+      "id": "venus",
+      "cs": "Venuše",
+      "en": "Venus",
+      "uk": "Венера",
+      "ru": "Венера",
+      "pl": "Wenus"
+    },
+    {
+      "id": "milky-way",
+      "cs": "Mléčná dráha",
+      "en": "Milky Way",
+      "uk": "Чумацький Шлях",
+      "ru": "Млечный Путь",
+      "pl": "Droga Mleczna"
+    },
+    {
+      "id": "comet",
+      "cs": "kometa",
+      "en": "comet",
+      "uk": "комета",
+      "ru": "комета",
+      "pl": "kometa"
+    },
+    {
+      "id": "meteorite",
+      "cs": "meteorit",
+      "en": "meteorite",
+      "uk": "метеорит",
+      "ru": "метеорит",
+      "pl": "meteoryt"
+    },
+    {
+      "id": "astronaut",
+      "cs": "astronaut",
+      "en": "astronaut",
+      "uk": "астронавт",
+      "ru": "космонавт",
+      "pl": "astronauta"
+    },
+    {
+      "id": "rocket",
+      "cs": "raketa",
+      "en": "rocket",
+      "uk": "ракета",
+      "ru": "ракета",
+      "pl": "rakieta"
+    },
+    {
+      "id": "satellite",
+      "cs": "družice",
+      "en": "satellite",
+      "uk": "супутник",
+      "ru": "спутник",
+      "pl": "satelita"
+    },
+    {
+      "id": "space-station",
+      "cs": "vesmírná stanice",
+      "en": "space station",
+      "uk": "космічна станція",
+      "ru": "космическая станция",
+      "pl": "stacja kosmiczna"
+    },
+    {
+      "id": "orbit",
+      "cs": "oběžná dráha",
+      "en": "orbit",
+      "uk": "орбіта",
+      "ru": "орбита",
+      "pl": "orbita"
+    },
+    {
+      "id": "black-hole",
+      "cs": "černá díra",
+      "en": "black hole",
+      "uk": "чорна діра",
+      "ru": "чёрная дыра",
+      "pl": "czarna dziura"
+    },
+    {
+      "id": "light-radiation",
+      "cs": "světlo",
+      "en": "light (radiation)",
+      "uk": "світло",
+      "ru": "свет",
+      "pl": "światło"
+    },
+    {
+      "id": "sound",
+      "cs": "zvuk",
+      "en": "sound",
+      "uk": "звук",
+      "ru": "звук",
+      "pl": "dźwięk"
+    },
+    {
+      "id": "force",
+      "cs": "síla",
+      "en": "force",
+      "uk": "сила",
+      "ru": "сила",
+      "pl": "siła"
+    },
+    {
+      "id": "mass",
+      "cs": "hmotnost",
+      "en": "mass",
+      "uk": "маса",
+      "ru": "масса",
+      "pl": "masa"
+    },
+    {
+      "id": "evolution",
+      "cs": "evoluce",
+      "en": "evolution",
+      "uk": "еволюція",
+      "ru": "эволюция",
+      "pl": "ewolucja"
+    },
+    {
+      "id": "genetics",
+      "cs": "genetika",
+      "en": "genetics",
+      "uk": "генетика",
+      "ru": "генетика",
+      "pl": "genetyka"
+    },
+    {
+      "id": "dna",
+      "cs": "DNA",
+      "en": "DNA",
+      "uk": "ДНК",
+      "ru": "ДНК",
+      "pl": "DNA"
+    },
+    {
+      "id": "bacteria",
+      "cs": "bakterie",
+      "en": "bacteria",
+      "uk": "бактерії",
+      "ru": "бактерии",
+      "pl": "bakterie"
+    },
+    {
+      "id": "dinosaur",
+      "cs": "dinosaurus",
+      "en": "dinosaur",
+      "uk": "динозавр",
+      "ru": "динозавр",
+      "pl": "dinozaur"
+    },
+    {
+      "id": "fossil",
+      "cs": "fosilie",
+      "en": "fossil",
+      "uk": "скам’янілість",
+      "ru": "окаменелость",
+      "pl": "skamieniałość"
+    },
+    {
+      "id": "observe",
+      "cs": "pozorovat",
+      "en": "to observe",
+      "uk": "спостерігати",
+      "ru": "наблюдать",
+      "pl": "obserwować"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "id": "kitchen",
+  "order": 38,
+  "level": "A2",
+  "icon": "pot",
+  "title": {
+    "cs": "Kuchyně a vaření",
+    "en": "Kitchen & Cooking",
+    "uk": "Кухня та готування",
+    "ru": "Кухня и готовка",
+    "pl": "Kuchnia i gotowanie"
+  },
+  "description": {
+    "en": "Kitchenware and cooking verbs.",
+    "uk": "Кухонне начиння та дієслова приготування.",
+    "ru": "Кухонная утварь и глаголы готовки.",
+    "pl": "Naczynia kuchenne i czasowniki gotowania."
+  },
+  "words": [
+    {
+      "id": "pot",
+      "cs": "hrnec",
+      "en": "pot",
+      "uk": "каструля",
+      "ru": "кастрюля",
+      "pl": "garnek"
+    },
+    {
+      "id": "frying-pan",
+      "cs": "pánev",
+      "en": "frying pan",
+      "uk": "сковорідка",
+      "ru": "сковорода",
+      "pl": "patelnia"
+    },
+    {
+      "id": "plate",
+      "cs": "talíř",
+      "en": "plate",
+      "uk": "тарілка",
+      "ru": "тарелка",
+      "pl": "talerz"
+    },
+    {
+      "id": "bowl",
+      "cs": "miska",
+      "en": "bowl",
+      "uk": "миска",
+      "ru": "миска",
+      "pl": "miska"
+    },
+    {
+      "id": "mug",
+      "cs": "hrnek",
+      "en": "mug",
+      "uk": "горнятко",
+      "ru": "кружка",
+      "pl": "kubek"
+    },
+    {
+      "id": "cup",
+      "cs": "šálek",
+      "en": "cup",
+      "uk": "чашка",
+      "ru": "чашка",
+      "pl": "filiżanka"
+    },
+    {
+      "id": "glass",
+      "cs": "sklenice",
+      "en": "glass",
+      "uk": "склянка",
+      "ru": "стакан",
+      "pl": "szklanka"
+    },
+    {
+      "id": "spoon",
+      "cs": "lžíce",
+      "en": "spoon",
+      "uk": "ложка",
+      "ru": "ложка",
+      "pl": "łyżka"
+    },
+    {
+      "id": "teaspoon",
+      "cs": "lžička",
+      "en": "teaspoon",
+      "uk": "чайна ложка",
+      "ru": "чайная ложка",
+      "pl": "łyżeczka"
+    },
+    {
+      "id": "fork",
+      "cs": "vidlička",
+      "en": "fork",
+      "uk": "виделка",
+      "ru": "вилка",
+      "pl": "widelec"
+    },
+    {
+      "id": "knife",
+      "cs": "nůž",
+      "en": "knife",
+      "uk": "ніж",
+      "ru": "нож",
+      "pl": "nóż"
+    },
+    {
+      "id": "cutlery",
+      "cs": "příbor",
+      "en": "cutlery",
+      "uk": "столові прибори",
+      "ru": "столовые приборы",
+      "pl": "sztućce"
+    },
+    {
+      "id": "kettle",
+      "cs": "konvice",
+      "en": "kettle",
+      "uk": "чайник",
+      "ru": "чайник",
+      "pl": "czajnik"
+    },
+    {
+      "id": "oven",
+      "cs": "trouba",
+      "en": "oven",
+      "uk": "духовка",
+      "ru": "духовка",
+      "pl": "piekarnik"
+    },
+    {
+      "id": "stove",
+      "cs": "sporák",
+      "en": "stove",
+      "uk": "плита",
+      "ru": "плита",
+      "pl": "kuchenka"
+    },
+    {
+      "id": "microwave",
+      "cs": "mikrovlnka",
+      "en": "microwave",
+      "uk": "мікрохвильовка",
+      "ru": "микроволновка",
+      "pl": "mikrofalówka"
+    },
+    {
+      "id": "dishwasher",
+      "cs": "myčka",
+      "en": "dishwasher",
+      "uk": "посудомийна машина",
+      "ru": "посудомоечная машина",
+      "pl": "zmywarka"
+    },
+    {
+      "id": "freezer",
+      "cs": "mrazák",
+      "en": "freezer",
+      "uk": "морозильник",
+      "ru": "морозилка",
+      "pl": "zamrażarka"
+    },
+    {
+      "id": "sink",
+      "cs": "dřez",
+      "en": "sink",
+      "uk": "мийка",
+      "ru": "раковина",
+      "pl": "zlew"
+    },
+    {
+      "id": "kitchen-counter",
+      "cs": "linka",
+      "en": "kitchen counter",
+      "uk": "кухонна стільниця",
+      "ru": "кухонная столешница",
+      "pl": "blat kuchenny"
+    },
+    {
+      "id": "cutting-board",
+      "cs": "prkénko",
+      "en": "cutting board",
+      "uk": "обробна дошка",
+      "ru": "разделочная доска",
+      "pl": "deska do krojenia"
+    },
+    {
+      "id": "grater",
+      "cs": "struhadlo",
+      "en": "grater",
+      "uk": "тертка",
+      "ru": "тёрка",
+      "pl": "tarka"
+    },
+    {
+      "id": "opener",
+      "cs": "otvírák",
+      "en": "opener",
+      "uk": "відкривачка",
+      "ru": "открывалка",
+      "pl": "otwieracz"
+    },
+    {
+      "id": "ladle",
+      "cs": "naběračka",
+      "en": "ladle",
+      "uk": "ополоник",
+      "ru": "половник",
+      "pl": "chochla"
+    },
+    {
+      "id": "lid",
+      "cs": "poklice",
+      "en": "lid",
+      "uk": "кришка",
+      "ru": "крышка",
+      "pl": "pokrywka"
+    },
+    {
+      "id": "dish-towel",
+      "cs": "utěrka",
+      "en": "dish towel",
+      "uk": "рушник для посуду",
+      "ru": "кухонное полотенце",
+      "pl": "ścierka"
+    },
+    {
+      "id": "recipe",
+      "cs": "recept",
+      "en": "recipe",
+      "uk": "рецепт",
+      "ru": "рецепт",
+      "pl": "przepis"
+    },
+    {
+      "id": "ingredient",
+      "cs": "přísada",
+      "en": "ingredient",
+      "uk": "інгредієнт",
+      "ru": "ингредиент",
+      "pl": "składnik"
+    },
+    {
+      "id": "cookbook",
+      "cs": "kuchařka",
+      "en": "cookbook",
+      "uk": "кулінарна книга",
+      "ru": "поваренная книга",
+      "pl": "książka kucharska"
+    },
+    {
+      "id": "slice",
+      "cs": "krájet",
+      "en": "to slice",
+      "uk": "різати",
+      "ru": "резать",
+      "pl": "kroić"
+    },
+    {
+      "id": "fry",
+      "cs": "smažit",
+      "en": "to fry",
+      "uk": "смажити",
+      "ru": "жарить",
+      "pl": "smażyć"
+    },
+    {
+      "id": "bake",
+      "cs": "péct",
+      "en": "to bake",
+      "uk": "пекти",
+      "ru": "печь",
+      "pl": "piec"
+    },
+    {
+      "id": "stew",
+      "cs": "dusit",
+      "en": "to stew",
+      "uk": "тушкувати",
+      "ru": "тушить",
+      "pl": "dusić"
+    },
+    {
+      "id": "grill",
+      "cs": "grilovat",
+      "en": "to grill",
+      "uk": "смажити на грилі",
+      "ru": "жарить на гриле",
+      "pl": "grillować"
+    },
+    {
+      "id": "stir",
+      "cs": "míchat",
+      "en": "to stir",
+      "uk": "мішати",
+      "ru": "мешать",
+      "pl": "mieszać"
+    },
+    {
+      "id": "peel",
+      "cs": "loupat",
+      "en": "to peel",
+      "uk": "чистити",
+      "ru": "чистить",
+      "pl": "obierać"
+    },
+    {
+      "id": "grate",
+      "cs": "strouhat",
+      "en": "to grate",
+      "uk": "терти",
+      "ru": "тереть",
+      "pl": "trzeć"
+    },
+    {
+      "id": "pour",
+      "cs": "nalít",
+      "en": "to pour",
+      "uk": "налити",
+      "ru": "налить",
+      "pl": "nalać"
+    },
+    {
+      "id": "season",
+      "cs": "ochutit",
+      "en": "to season",
+      "uk": "приправити",
+      "ru": "приправить",
+      "pl": "przyprawić"
+    },
+    {
+      "id": "salt",
+      "cs": "solit",
+      "en": "to salt",
+      "uk": "солити",
+      "ru": "солить",
+      "pl": "solić"
+    },
+    {
+      "id": "weigh",
+      "cs": "vážit",
+      "en": "to weigh",
+      "uk": "зважувати",
+      "ru": "взвешивать",
+      "pl": "ważyć"
+    },
+    {
+      "id": "defrost",
+      "cs": "rozmrazit",
+      "en": "to defrost",
+      "uk": "розморозити",
+      "ru": "разморозить",
+      "pl": "rozmrozić"
+    },
+    {
+      "id": "heat-up",
+      "cs": "ohřát",
+      "en": "to heat up",
+      "uk": "підігріти",
+      "ru": "разогреть",
+      "pl": "podgrzać"
+    },
+    {
+      "id": "chill",
+      "cs": "vychladit",
+      "en": "to chill",
+      "uk": "охолодити",
+      "ru": "охладить",
+      "pl": "schłodzić"
+    },
+    {
+      "id": "boiled",
+      "cs": "vařený",
+      "en": "boiled",
+      "uk": "варений",
+      "ru": "варёный",
+      "pl": "gotowany"
+    },
+    {
+      "id": "fried",
+      "cs": "smažený",
+      "en": "fried",
+      "uk": "смажений",
+      "ru": "жареный",
+      "pl": "smażony"
+    },
+    {
+      "id": "baked",
+      "cs": "pečený",
+      "en": "baked",
+      "uk": "печений",
+      "ru": "печёный",
+      "pl": "pieczony"
+    },
+    {
+      "id": "raw",
+      "cs": "syrový",
+      "en": "raw",
+      "uk": "сирий",
+      "ru": "сырой",
+      "pl": "surowy"
+    },
+    {
+      "id": "well-done",
+      "cs": "propečený",
+      "en": "well-done",
+      "uk": "добре просмажений",
+      "ru": "хорошо прожаренный",
+      "pl": "dobrze wysmażony"
+    },
+    {
+      "id": "apron",
+      "cs": "zástěra",
+      "en": "apron",
+      "uk": "фартух",
+      "ru": "фартук",
+      "pl": "fartuch"
+    },
+    {
+      "id": "spices",
+      "cs": "koření",
+      "en": "spices",
+      "uk": "спеції",
+      "ru": "специи",
+      "pl": "przyprawy"
+    },
+    {
+      "id": "bottle",
+      "cs": "láhev",
+      "en": "bottle",
+      "uk": "пляшка",
+      "ru": "бутылка",
+      "pl": "butelka"
+    },
+    {
+      "id": "can",
+      "cs": "plechovka",
+      "en": "can",
+      "uk": "бляшанка",
+      "ru": "банка",
+      "pl": "puszka"
+    }
+  ]
+}

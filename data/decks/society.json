@@ -1,0 +1,413 @@
+{
+  "id": "society",
+  "order": 66,
+  "level": "B1",
+  "icon": "bank",
+  "title": {
+    "cs": "Společnost a politika",
+    "en": "Society & Politics",
+    "uk": "Суспільство та політика",
+    "ru": "Общество и политика",
+    "pl": "Społeczeństwo i polityka"
+  },
+  "description": {
+    "en": "Government, laws and public life.",
+    "uk": "Влада, закони та суспільне життя.",
+    "ru": "Власть, законы и общественная жизнь.",
+    "pl": "Władza, prawo i życie publiczne."
+  },
+  "words": [
+    {
+      "id": "society",
+      "cs": "společnost",
+      "en": "society",
+      "uk": "суспільство",
+      "ru": "общество",
+      "pl": "społeczeństwo"
+    },
+    {
+      "id": "politics",
+      "cs": "politika",
+      "en": "politics",
+      "uk": "політика",
+      "ru": "политика",
+      "pl": "polityka"
+    },
+    {
+      "id": "state",
+      "cs": "stát",
+      "en": "state",
+      "uk": "держава",
+      "ru": "государство",
+      "pl": "państwo"
+    },
+    {
+      "id": "government",
+      "cs": "vláda",
+      "en": "government",
+      "uk": "уряд",
+      "ru": "правительство",
+      "pl": "rząd"
+    },
+    {
+      "id": "president",
+      "cs": "prezident",
+      "en": "president",
+      "uk": "президент",
+      "ru": "президент",
+      "pl": "prezydent"
+    },
+    {
+      "id": "prime-minister",
+      "cs": "premiér",
+      "en": "prime minister",
+      "uk": "прем’єр-міністр",
+      "ru": "премьер-министр",
+      "pl": "premier"
+    },
+    {
+      "id": "minister",
+      "cs": "ministr",
+      "en": "minister",
+      "uk": "міністр",
+      "ru": "министр",
+      "pl": "minister"
+    },
+    {
+      "id": "parliament",
+      "cs": "parlament",
+      "en": "parliament",
+      "uk": "парламент",
+      "ru": "парламент",
+      "pl": "parlament"
+    },
+    {
+      "id": "member-of-parliament",
+      "cs": "poslanec",
+      "en": "member of parliament",
+      "uk": "депутат",
+      "ru": "депутат",
+      "pl": "poseł"
+    },
+    {
+      "id": "senate",
+      "cs": "senát",
+      "en": "senate",
+      "uk": "сенат",
+      "ru": "сенат",
+      "pl": "senat"
+    },
+    {
+      "id": "elections",
+      "cs": "volby",
+      "en": "elections",
+      "uk": "вибори",
+      "ru": "выборы",
+      "pl": "wybory"
+    },
+    {
+      "id": "political-party",
+      "cs": "strana",
+      "en": "political party",
+      "uk": "партія",
+      "ru": "партия",
+      "pl": "partia"
+    },
+    {
+      "id": "democracy",
+      "cs": "demokracie",
+      "en": "democracy",
+      "uk": "демократія",
+      "ru": "демократия",
+      "pl": "demokracja"
+    },
+    {
+      "id": "law",
+      "cs": "zákon",
+      "en": "law",
+      "uk": "закон",
+      "ru": "закон",
+      "pl": "ustawa"
+    },
+    {
+      "id": "constitution",
+      "cs": "ústava",
+      "en": "constitution",
+      "uk": "конституція",
+      "ru": "конституция",
+      "pl": "konstytucja"
+    },
+    {
+      "id": "rights",
+      "cs": "práva",
+      "en": "rights",
+      "uk": "права",
+      "ru": "права",
+      "pl": "prawa"
+    },
+    {
+      "id": "freedom",
+      "cs": "svoboda",
+      "en": "freedom",
+      "uk": "свобода",
+      "ru": "свобода",
+      "pl": "wolność"
+    },
+    {
+      "id": "equality",
+      "cs": "rovnost",
+      "en": "equality",
+      "uk": "рівність",
+      "ru": "равенство",
+      "pl": "równość"
+    },
+    {
+      "id": "justice",
+      "cs": "spravedlnost",
+      "en": "justice",
+      "uk": "справедливість",
+      "ru": "справедливость",
+      "pl": "sprawiedliwość"
+    },
+    {
+      "id": "court",
+      "cs": "soud",
+      "en": "court",
+      "uk": "суд",
+      "ru": "суд",
+      "pl": "sąd"
+    },
+    {
+      "id": "punishment",
+      "cs": "trest",
+      "en": "punishment",
+      "uk": "покарання",
+      "ru": "наказание",
+      "pl": "kara"
+    },
+    {
+      "id": "prison",
+      "cs": "vězení",
+      "en": "prison",
+      "uk": "в’язниця",
+      "ru": "тюрьма",
+      "pl": "więzienie"
+    },
+    {
+      "id": "army",
+      "cs": "armáda",
+      "en": "army",
+      "uk": "армія",
+      "ru": "армия",
+      "pl": "armia"
+    },
+    {
+      "id": "war",
+      "cs": "válka",
+      "en": "war",
+      "uk": "війна",
+      "ru": "война",
+      "pl": "wojna"
+    },
+    {
+      "id": "peace",
+      "cs": "mír",
+      "en": "peace",
+      "uk": "мир",
+      "ru": "мир",
+      "pl": "pokój"
+    },
+    {
+      "id": "refugee",
+      "cs": "uprchlík",
+      "en": "refugee",
+      "uk": "біженець",
+      "ru": "беженец",
+      "pl": "uchodźca"
+    },
+    {
+      "id": "migration",
+      "cs": "migrace",
+      "en": "migration",
+      "uk": "міграція",
+      "ru": "миграция",
+      "pl": "migracja"
+    },
+    {
+      "id": "minority",
+      "cs": "menšina",
+      "en": "minority",
+      "uk": "меншина",
+      "ru": "меньшинство",
+      "pl": "mniejszość"
+    },
+    {
+      "id": "majority",
+      "cs": "většina",
+      "en": "majority",
+      "uk": "більшість",
+      "ru": "большинство",
+      "pl": "większość"
+    },
+    {
+      "id": "municipality",
+      "cs": "obec",
+      "en": "municipality",
+      "uk": "громада",
+      "ru": "муниципалитет",
+      "pl": "gmina"
+    },
+    {
+      "id": "region",
+      "cs": "kraj",
+      "en": "region",
+      "uk": "область",
+      "ru": "область",
+      "pl": "województwo"
+    },
+    {
+      "id": "mayor",
+      "cs": "starosta",
+      "en": "mayor",
+      "uk": "мер",
+      "ru": "мэр",
+      "pl": "burmistrz"
+    },
+    {
+      "id": "the-public",
+      "cs": "veřejnost",
+      "en": "the public",
+      "uk": "громадськість",
+      "ru": "общественность",
+      "pl": "opinia publiczna"
+    },
+    {
+      "id": "demonstration",
+      "cs": "demonstrace",
+      "en": "demonstration",
+      "uk": "демонстрація",
+      "ru": "демонстрация",
+      "pl": "demonstracja"
+    },
+    {
+      "id": "corruption",
+      "cs": "korupce",
+      "en": "corruption",
+      "uk": "корупція",
+      "ru": "коррупция",
+      "pl": "korupcja"
+    },
+    {
+      "id": "economy",
+      "cs": "ekonomika",
+      "en": "economy",
+      "uk": "економіка",
+      "ru": "экономика",
+      "pl": "gospodarka"
+    },
+    {
+      "id": "inflation",
+      "cs": "inflace",
+      "en": "inflation",
+      "uk": "інфляція",
+      "ru": "инфляция",
+      "pl": "inflacja"
+    },
+    {
+      "id": "poverty",
+      "cs": "chudoba",
+      "en": "poverty",
+      "uk": "бідність",
+      "ru": "бедность",
+      "pl": "bieda"
+    },
+    {
+      "id": "independence",
+      "cs": "nezávislost",
+      "en": "independence",
+      "uk": "незалежність",
+      "ru": "независимость",
+      "pl": "niepodległość"
+    },
+    {
+      "id": "referendum",
+      "cs": "referendum",
+      "en": "referendum",
+      "uk": "референдум",
+      "ru": "референдум",
+      "pl": "referendum"
+    },
+    {
+      "id": "candidate",
+      "cs": "kandidát",
+      "en": "candidate",
+      "uk": "кандидат",
+      "ru": "кандидат",
+      "pl": "kandydat"
+    },
+    {
+      "id": "opposition",
+      "cs": "opozice",
+      "en": "opposition",
+      "uk": "опозиція",
+      "ru": "оппозиция",
+      "pl": "opozycja"
+    },
+    {
+      "id": "embassy",
+      "cs": "velvyslanectví",
+      "en": "embassy",
+      "uk": "посольство",
+      "ru": "посольство",
+      "pl": "ambasada"
+    },
+    {
+      "id": "diplomat",
+      "cs": "diplomat",
+      "en": "diplomat",
+      "uk": "дипломат",
+      "ru": "дипломат",
+      "pl": "dyplomata"
+    },
+    {
+      "id": "international",
+      "cs": "mezinárodní",
+      "en": "international",
+      "uk": "міжнародний",
+      "ru": "международный",
+      "pl": "międzynarodowy"
+    },
+    {
+      "id": "national",
+      "cs": "národní",
+      "en": "national",
+      "uk": "національний",
+      "ru": "национальный",
+      "pl": "narodowy"
+    },
+    {
+      "id": "govern",
+      "cs": "vládnout",
+      "en": "to govern",
+      "uk": "правити",
+      "ru": "править",
+      "pl": "rządzić"
+    },
+    {
+      "id": "elect",
+      "cs": "zvolit",
+      "en": "to elect",
+      "uk": "обрати",
+      "ru": "избрать",
+      "pl": "wybrać"
+    },
+    {
+      "id": "protest",
+      "cs": "protestovat",
+      "en": "to protest",
+      "uk": "протестувати",
+      "ru": "протестовать",
+      "pl": "protestować"
+    }
+  ]
+}

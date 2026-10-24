@@ -1,0 +1,509 @@
+{
+  "id": "adverbs",
+  "order": 36,
+  "level": "A2",
+  "icon": "sparkle",
+  "title": {
+    "cs": "Příslovce",
+    "en": "Adverbs",
+    "uk": "Прислівники",
+    "ru": "Наречия",
+    "pl": "Przysłówki"
+  },
+  "description": {
+    "en": "How, when, where and how often.",
+    "uk": "Як, коли, де і як часто.",
+    "ru": "Как, когда, где и как часто.",
+    "pl": "Jak, kiedy, gdzie i jak często."
+  },
+  "words": [
+    {
+      "id": "always",
+      "cs": "vždy",
+      "en": "always",
+      "uk": "завжди",
+      "ru": "всегда",
+      "pl": "zawsze"
+    },
+    {
+      "id": "never",
+      "cs": "nikdy",
+      "en": "never",
+      "uk": "ніколи",
+      "ru": "никогда",
+      "pl": "nigdy"
+    },
+    {
+      "id": "often",
+      "cs": "často",
+      "en": "often",
+      "uk": "часто",
+      "ru": "часто",
+      "pl": "często"
+    },
+    {
+      "id": "sometimes",
+      "cs": "někdy",
+      "en": "sometimes",
+      "uk": "іноді",
+      "ru": "иногда",
+      "pl": "czasami"
+    },
+    {
+      "id": "rarely",
+      "cs": "zřídka",
+      "en": "rarely",
+      "uk": "рідко",
+      "ru": "редко",
+      "pl": "rzadko"
+    },
+    {
+      "id": "usually",
+      "cs": "obvykle",
+      "en": "usually",
+      "uk": "зазвичай",
+      "ru": "обычно",
+      "pl": "zwykle"
+    },
+    {
+      "id": "already",
+      "cs": "už",
+      "en": "already",
+      "uk": "вже",
+      "ru": "уже",
+      "pl": "już"
+    },
+    {
+      "id": "still",
+      "cs": "ještě",
+      "en": "still",
+      "uk": "ще",
+      "ru": "ещё",
+      "pl": "jeszcze"
+    },
+    {
+      "id": "right-away",
+      "cs": "hned",
+      "en": "right away",
+      "uk": "одразу",
+      "ru": "сразу",
+      "pl": "od razu"
+    },
+    {
+      "id": "then",
+      "cs": "potom",
+      "en": "then",
+      "uk": "потім",
+      "ru": "потом",
+      "pl": "potem"
+    },
+    {
+      "id": "before-that",
+      "cs": "předtím",
+      "en": "before that",
+      "uk": "перед тим",
+      "ru": "до этого",
+      "pl": "przedtem"
+    },
+    {
+      "id": "at-first",
+      "cs": "nejdřív",
+      "en": "at first",
+      "uk": "спочатку",
+      "ru": "сначала",
+      "pl": "najpierw"
+    },
+    {
+      "id": "finally",
+      "cs": "nakonec",
+      "en": "finally",
+      "uk": "нарешті",
+      "ru": "наконец",
+      "pl": "w końcu"
+    },
+    {
+      "id": "again",
+      "cs": "znovu",
+      "en": "again",
+      "uk": "знову",
+      "ru": "снова",
+      "pl": "znowu"
+    },
+    {
+      "id": "for-a-long-time",
+      "cs": "dlouho",
+      "en": "for a long time",
+      "uk": "довго",
+      "ru": "долго",
+      "pl": "długo"
+    },
+    {
+      "id": "here",
+      "cs": "tady",
+      "en": "here",
+      "uk": "тут",
+      "ru": "здесь",
+      "pl": "tutaj"
+    },
+    {
+      "id": "there",
+      "cs": "tam",
+      "en": "there",
+      "uk": "там",
+      "ru": "там",
+      "pl": "tam"
+    },
+    {
+      "id": "everywhere",
+      "cs": "všude",
+      "en": "everywhere",
+      "uk": "всюди",
+      "ru": "везде",
+      "pl": "wszędzie"
+    },
+    {
+      "id": "above",
+      "cs": "nahoře",
+      "en": "above",
+      "uk": "нагорі",
+      "ru": "наверху",
+      "pl": "na górze"
+    },
+    {
+      "id": "below",
+      "cs": "dole",
+      "en": "below",
+      "uk": "внизу",
+      "ru": "внизу",
+      "pl": "na dole"
+    },
+    {
+      "id": "inside",
+      "cs": "uvnitř",
+      "en": "inside",
+      "uk": "всередині",
+      "ru": "внутри",
+      "pl": "w środku"
+    },
+    {
+      "id": "outside",
+      "cs": "venku",
+      "en": "outside",
+      "uk": "надворі",
+      "ru": "снаружи",
+      "pl": "na zewnątrz"
+    },
+    {
+      "id": "in-front",
+      "cs": "vpředu",
+      "en": "in front",
+      "uk": "попереду",
+      "ru": "впереди",
+      "pl": "z przodu"
+    },
+    {
+      "id": "at-the-back",
+      "cs": "vzadu",
+      "en": "at the back",
+      "uk": "позаду",
+      "ru": "сзади",
+      "pl": "z tyłu"
+    },
+    {
+      "id": "nearby",
+      "cs": "blízko",
+      "en": "nearby",
+      "uk": "близько",
+      "ru": "близко",
+      "pl": "blisko"
+    },
+    {
+      "id": "far-away",
+      "cs": "daleko",
+      "en": "far away",
+      "uk": "далеко",
+      "ru": "далеко",
+      "pl": "daleko"
+    },
+    {
+      "id": "at-home",
+      "cs": "doma",
+      "en": "at home",
+      "uk": "вдома",
+      "ru": "дома",
+      "pl": "w domu"
+    },
+    {
+      "id": "quickly",
+      "cs": "rychle",
+      "en": "quickly",
+      "uk": "швидко",
+      "ru": "быстро",
+      "pl": "szybko"
+    },
+    {
+      "id": "slowly",
+      "cs": "pomalu",
+      "en": "slowly",
+      "uk": "повільно",
+      "ru": "медленно",
+      "pl": "powoli"
+    },
+    {
+      "id": "loudly",
+      "cs": "hlasitě",
+      "en": "loudly",
+      "uk": "голосно",
+      "ru": "громко",
+      "pl": "głośno"
+    },
+    {
+      "id": "quietly",
+      "cs": "potichu",
+      "en": "quietly",
+      "uk": "тихо",
+      "ru": "тихо",
+      "pl": "cicho"
+    },
+    {
+      "id": "badly",
+      "cs": "špatně",
+      "en": "badly",
+      "uk": "погано",
+      "ru": "плохо",
+      "pl": "źle"
+    },
+    {
+      "id": "nicely",
+      "cs": "hezky",
+      "en": "nicely",
+      "uk": "гарно",
+      "ru": "красиво",
+      "pl": "ładnie"
+    },
+    {
+      "id": "easily",
+      "cs": "snadno",
+      "en": "easily",
+      "uk": "легко",
+      "ru": "легко",
+      "pl": "łatwo"
+    },
+    {
+      "id": "with-difficulty",
+      "cs": "těžko",
+      "en": "with difficulty",
+      "uk": "важко",
+      "ru": "тяжело",
+      "pl": "ciężko"
+    },
+    {
+      "id": "very",
+      "cs": "velmi",
+      "en": "very",
+      "uk": "дуже",
+      "ru": "очень",
+      "pl": "bardzo"
+    },
+    {
+      "id": "a-lot",
+      "cs": "hodně",
+      "en": "a lot",
+      "uk": "багато",
+      "ru": "много",
+      "pl": "dużo"
+    },
+    {
+      "id": "little-not-much",
+      "cs": "málo",
+      "en": "little (not much)",
+      "uk": "мало",
+      "ru": "мало",
+      "pl": "mało"
+    },
+    {
+      "id": "a-bit",
+      "cs": "trochu",
+      "en": "a bit",
+      "uk": "трохи",
+      "ru": "немного",
+      "pl": "trochę"
+    },
+    {
+      "id": "quite",
+      "cs": "docela",
+      "en": "quite",
+      "uk": "досить",
+      "ru": "довольно",
+      "pl": "dość"
+    },
+    {
+      "id": "too-much",
+      "cs": "příliš",
+      "en": "too (much)",
+      "uk": "занадто",
+      "ru": "слишком",
+      "pl": "zbyt"
+    },
+    {
+      "id": "almost",
+      "cs": "skoro",
+      "en": "almost",
+      "uk": "майже",
+      "ru": "почти",
+      "pl": "prawie"
+    },
+    {
+      "id": "only",
+      "cs": "jenom",
+      "en": "only",
+      "uk": "тільки",
+      "ru": "только",
+      "pl": "tylko"
+    },
+    {
+      "id": "also",
+      "cs": "také",
+      "en": "also",
+      "uk": "також",
+      "ru": "также",
+      "pl": "także"
+    },
+    {
+      "id": "together",
+      "cs": "spolu",
+      "en": "together",
+      "uk": "разом",
+      "ru": "вместе",
+      "pl": "razem"
+    },
+    {
+      "id": "really",
+      "cs": "opravdu",
+      "en": "really",
+      "uk": "справді",
+      "ru": "действительно",
+      "pl": "naprawdę"
+    },
+    {
+      "id": "probably",
+      "cs": "asi",
+      "en": "probably",
+      "uk": "мабуть",
+      "ru": "наверное",
+      "pl": "chyba"
+    },
+    {
+      "id": "definitely",
+      "cs": "určitě",
+      "en": "definitely",
+      "uk": "обов’язково",
+      "ru": "обязательно",
+      "pl": "na pewno"
+    },
+    {
+      "id": "fortunately",
+      "cs": "naštěstí",
+      "en": "fortunately",
+      "uk": "на щастя",
+      "ru": "к счастью",
+      "pl": "na szczęście"
+    },
+    {
+      "id": "exactly",
+      "cs": "přesně",
+      "en": "exactly",
+      "uk": "точно",
+      "ru": "точно",
+      "pl": "dokładnie"
+    },
+    {
+      "id": "suddenly",
+      "cs": "najednou",
+      "en": "suddenly",
+      "uk": "раптом",
+      "ru": "вдруг",
+      "pl": "nagle"
+    },
+    {
+      "id": "meanwhile",
+      "cs": "mezitím",
+      "en": "meanwhile",
+      "uk": "тим часом",
+      "ru": "тем временем",
+      "pl": "tymczasem"
+    },
+    {
+      "id": "recently",
+      "cs": "nedávno",
+      "en": "recently",
+      "uk": "нещодавно",
+      "ru": "недавно",
+      "pl": "niedawno"
+    },
+    {
+      "id": "long-ago",
+      "cs": "dávno",
+      "en": "long ago",
+      "uk": "давно",
+      "ru": "давно",
+      "pl": "dawno"
+    },
+    {
+      "id": "later",
+      "cs": "později",
+      "en": "later",
+      "uk": "пізніше",
+      "ru": "позже",
+      "pl": "później"
+    },
+    {
+      "id": "earlier",
+      "cs": "dříve",
+      "en": "earlier",
+      "uk": "раніше",
+      "ru": "раньше",
+      "pl": "wcześniej"
+    },
+    {
+      "id": "back",
+      "cs": "zpátky",
+      "en": "back",
+      "uk": "назад",
+      "ru": "назад",
+      "pl": "z powrotem"
+    },
+    {
+      "id": "forward",
+      "cs": "dopředu",
+      "en": "forward",
+      "uk": "вперед",
+      "ru": "вперёд",
+      "pl": "do przodu"
+    },
+    {
+      "id": "up",
+      "cs": "nahoru",
+      "en": "up",
+      "uk": "вгору",
+      "ru": "вверх",
+      "pl": "w górę"
+    },
+    {
+      "id": "down",
+      "cs": "dolů",
+      "en": "down",
+      "uk": "вниз",
+      "ru": "вниз",
+      "pl": "w dół"
+    },
+    {
+      "id": "away",
+      "cs": "pryč",
+      "en": "away",
+      "uk": "геть",
+      "ru": "прочь",
+      "pl": "precz"
+    }
+  ]
+}

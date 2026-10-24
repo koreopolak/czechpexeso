@@ -1,0 +1,437 @@
+{
+  "id": "emotions",
+  "order": 33,
+  "level": "A2",
+  "icon": "heart",
+  "title": {
+    "cs": "Pocity a emoce",
+    "en": "Feelings & Emotions",
+    "uk": "Почуття та емоції",
+    "ru": "Чувства и эмоции",
+    "pl": "Uczucia i emocje"
+  },
+  "description": {
+    "en": "How you feel and how to say it.",
+    "uk": "Як ви почуваєтеся і як це сказати.",
+    "ru": "Что вы чувствуете и как это сказать.",
+    "pl": "Co czujesz i jak to powiedzieć."
+  },
+  "words": [
+    {
+      "id": "joy",
+      "cs": "radost",
+      "en": "joy",
+      "uk": "радість",
+      "ru": "радость",
+      "pl": "radość"
+    },
+    {
+      "id": "happiness",
+      "cs": "štěstí",
+      "en": "happiness",
+      "uk": "щастя",
+      "ru": "счастье",
+      "pl": "szczęście"
+    },
+    {
+      "id": "sadness",
+      "cs": "smutek",
+      "en": "sadness",
+      "uk": "смуток",
+      "ru": "грусть",
+      "pl": "smutek"
+    },
+    {
+      "id": "fear",
+      "cs": "strach",
+      "en": "fear",
+      "uk": "страх",
+      "ru": "страх",
+      "pl": "strach"
+    },
+    {
+      "id": "anger",
+      "cs": "hněv",
+      "en": "anger",
+      "uk": "гнів",
+      "ru": "гнев",
+      "pl": "gniew"
+    },
+    {
+      "id": "love",
+      "cs": "láska",
+      "en": "love",
+      "uk": "кохання",
+      "ru": "любовь",
+      "pl": "miłość"
+    },
+    {
+      "id": "hate",
+      "cs": "nenávist",
+      "en": "hate",
+      "uk": "ненависть",
+      "ru": "ненависть",
+      "pl": "nienawiść"
+    },
+    {
+      "id": "surprise",
+      "cs": "překvapení",
+      "en": "surprise",
+      "uk": "здивування",
+      "ru": "удивление",
+      "pl": "zaskoczenie"
+    },
+    {
+      "id": "shame",
+      "cs": "stud",
+      "en": "shame",
+      "uk": "сором",
+      "ru": "стыд",
+      "pl": "wstyd"
+    },
+    {
+      "id": "jealousy",
+      "cs": "žárlivost",
+      "en": "jealousy",
+      "uk": "ревнощі",
+      "ru": "ревность",
+      "pl": "zazdrość"
+    },
+    {
+      "id": "envy",
+      "cs": "závist",
+      "en": "envy",
+      "uk": "заздрість",
+      "ru": "зависть",
+      "pl": "zawiść"
+    },
+    {
+      "id": "hope",
+      "cs": "naděje",
+      "en": "hope",
+      "uk": "надія",
+      "ru": "надежда",
+      "pl": "nadzieja"
+    },
+    {
+      "id": "disappointment",
+      "cs": "zklamání",
+      "en": "disappointment",
+      "uk": "розчарування",
+      "ru": "разочарование",
+      "pl": "rozczarowanie"
+    },
+    {
+      "id": "boredom",
+      "cs": "nuda",
+      "en": "boredom",
+      "uk": "нудьга",
+      "ru": "скука",
+      "pl": "nuda"
+    },
+    {
+      "id": "stress",
+      "cs": "stres",
+      "en": "stress",
+      "uk": "стрес",
+      "ru": "стресс",
+      "pl": "stres"
+    },
+    {
+      "id": "anxiety",
+      "cs": "úzkost",
+      "en": "anxiety",
+      "uk": "тривога",
+      "ru": "тревога",
+      "pl": "niepokój"
+    },
+    {
+      "id": "calm",
+      "cs": "klid",
+      "en": "calm",
+      "uk": "спокій",
+      "ru": "спокойствие",
+      "pl": "spokój"
+    },
+    {
+      "id": "pride",
+      "cs": "pýcha",
+      "en": "pride",
+      "uk": "гордість",
+      "ru": "гордость",
+      "pl": "duma"
+    },
+    {
+      "id": "gratitude",
+      "cs": "vděčnost",
+      "en": "gratitude",
+      "uk": "вдячність",
+      "ru": "благодарность",
+      "pl": "wdzięczność"
+    },
+    {
+      "id": "regret",
+      "cs": "lítost",
+      "en": "regret",
+      "uk": "жаль",
+      "ru": "сожаление",
+      "pl": "żal"
+    },
+    {
+      "id": "loneliness",
+      "cs": "osamělost",
+      "en": "loneliness",
+      "uk": "самотність",
+      "ru": "одиночество",
+      "pl": "samotność"
+    },
+    {
+      "id": "trust",
+      "cs": "důvěra",
+      "en": "trust",
+      "uk": "довіра",
+      "ru": "доверие",
+      "pl": "zaufanie"
+    },
+    {
+      "id": "compassion",
+      "cs": "soucit",
+      "en": "compassion",
+      "uk": "співчуття",
+      "ru": "сочувствие",
+      "pl": "współczucie"
+    },
+    {
+      "id": "enthusiasm",
+      "cs": "nadšení",
+      "en": "enthusiasm",
+      "uk": "ентузіазм",
+      "ru": "энтузиазм",
+      "pl": "entuzjazm"
+    },
+    {
+      "id": "feeling",
+      "cs": "pocit",
+      "en": "feeling",
+      "uk": "почуття",
+      "ru": "чувство",
+      "pl": "uczucie"
+    },
+    {
+      "id": "mood",
+      "cs": "nálada",
+      "en": "mood",
+      "uk": "настрій",
+      "ru": "настроение",
+      "pl": "nastrój"
+    },
+    {
+      "id": "emotion",
+      "cs": "emoce",
+      "en": "emotion",
+      "uk": "емоція",
+      "ru": "эмоция",
+      "pl": "emocja"
+    },
+    {
+      "id": "angry",
+      "cs": "naštvaný",
+      "en": "angry",
+      "uk": "сердитий",
+      "ru": "сердитый",
+      "pl": "zły"
+    },
+    {
+      "id": "scared",
+      "cs": "vystrašený",
+      "en": "scared",
+      "uk": "наляканий",
+      "ru": "испуганный",
+      "pl": "przestraszony"
+    },
+    {
+      "id": "nervous",
+      "cs": "nervózní",
+      "en": "nervous",
+      "uk": "знервований",
+      "ru": "нервный",
+      "pl": "zdenerwowany"
+    },
+    {
+      "id": "satisfied",
+      "cs": "spokojený",
+      "en": "satisfied",
+      "uk": "задоволений",
+      "ru": "довольный",
+      "pl": "zadowolony"
+    },
+    {
+      "id": "dissatisfied",
+      "cs": "nespokojený",
+      "en": "dissatisfied",
+      "uk": "незадоволений",
+      "ru": "недовольный",
+      "pl": "niezadowolony"
+    },
+    {
+      "id": "surprised",
+      "cs": "překvapený",
+      "en": "surprised",
+      "uk": "здивований",
+      "ru": "удивлённый",
+      "pl": "zaskoczony"
+    },
+    {
+      "id": "in-love",
+      "cs": "zamilovaný",
+      "en": "in love",
+      "uk": "закоханий",
+      "ru": "влюблённый",
+      "pl": "zakochany"
+    },
+    {
+      "id": "lonely",
+      "cs": "osamělý",
+      "en": "lonely",
+      "uk": "самотній",
+      "ru": "одинокий",
+      "pl": "samotny"
+    },
+    {
+      "id": "proud",
+      "cs": "hrdý",
+      "en": "proud",
+      "uk": "гордий",
+      "ru": "гордый",
+      "pl": "dumny"
+    },
+    {
+      "id": "grateful",
+      "cs": "vděčný",
+      "en": "grateful",
+      "uk": "вдячний",
+      "ru": "благодарный",
+      "pl": "wdzięczny"
+    },
+    {
+      "id": "disappointed",
+      "cs": "zklamaný",
+      "en": "disappointed",
+      "uk": "розчарований",
+      "ru": "разочарованный",
+      "pl": "rozczarowany"
+    },
+    {
+      "id": "bored",
+      "cs": "znuděný",
+      "en": "bored",
+      "uk": "знуджений",
+      "ru": "скучающий",
+      "pl": "znudzony"
+    },
+    {
+      "id": "calm-adjective",
+      "cs": "klidný",
+      "en": "calm (adjective)",
+      "uk": "спокійний",
+      "ru": "спокойный",
+      "pl": "spokojny"
+    },
+    {
+      "id": "worried",
+      "cs": "ustaraný",
+      "en": "worried",
+      "uk": "стурбований",
+      "ru": "обеспокоенный",
+      "pl": "zmartwiony"
+    },
+    {
+      "id": "excited",
+      "cs": "vzrušený",
+      "en": "excited",
+      "uk": "схвильований",
+      "ru": "взволнованный",
+      "pl": "podekscytowany"
+    },
+    {
+      "id": "jealous",
+      "cs": "žárlivý",
+      "en": "jealous",
+      "uk": "ревнивий",
+      "ru": "ревнивый",
+      "pl": "zazdrosny"
+    },
+    {
+      "id": "be-ashamed",
+      "cs": "stydět se",
+      "en": "to be ashamed",
+      "uk": "соромитися",
+      "ru": "стыдиться",
+      "pl": "wstydzić się"
+    },
+    {
+      "id": "be-afraid",
+      "cs": "bát se",
+      "en": "to be afraid",
+      "uk": "боятися",
+      "ru": "бояться",
+      "pl": "bać się"
+    },
+    {
+      "id": "be-angry",
+      "cs": "zlobit se",
+      "en": "to be angry",
+      "uk": "сердитися",
+      "ru": "сердиться",
+      "pl": "gniewać się"
+    },
+    {
+      "id": "look-forward-to",
+      "cs": "těšit se",
+      "en": "to look forward to",
+      "uk": "з нетерпінням чекати",
+      "ru": "ждать с нетерпением",
+      "pl": "cieszyć się na"
+    },
+    {
+      "id": "feel",
+      "cs": "cítit se",
+      "en": "to feel",
+      "uk": "почуватися",
+      "ru": "чувствовать себя",
+      "pl": "czuć się"
+    },
+    {
+      "id": "be-bored",
+      "cs": "nudit se",
+      "en": "to be bored",
+      "uk": "нудьгувати",
+      "ru": "скучать",
+      "pl": "nudzić się"
+    },
+    {
+      "id": "smile",
+      "cs": "usmívat se",
+      "en": "to smile",
+      "uk": "усміхатися",
+      "ru": "улыбаться",
+      "pl": "uśmiechać się"
+    },
+    {
+      "id": "hug",
+      "cs": "objímat",
+      "en": "to hug",
+      "uk": "обіймати",
+      "ru": "обнимать",
+      "pl": "przytulać"
+    },
+    {
+      "id": "kiss",
+      "cs": "líbat",
+      "en": "to kiss",
+      "uk": "цілувати",
+      "ru": "целовать",
+      "pl": "całować"
+    }
+  ]
+}

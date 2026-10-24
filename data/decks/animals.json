@@ -1,6 +1,6 @@
 {
   "id": "animals",
-  "order": 3,
+  "order": 10,
   "level": "A1",
   "icon": "paw",
   "title": {
@@ -192,6 +192,294 @@
       "uk": "сова",
       "ru": "сова",
       "pl": "sowa"
+    },
+    {
+      "id": "rooster",
+      "cs": "kohout",
+      "en": "rooster",
+      "uk": "півень",
+      "ru": "петух",
+      "pl": "kogut"
+    },
+    {
+      "id": "goose",
+      "cs": "husa",
+      "en": "goose",
+      "uk": "гуска",
+      "ru": "гусь",
+      "pl": "gęś"
+    },
+    {
+      "id": "turkey",
+      "cs": "krocan",
+      "en": "turkey",
+      "uk": "індик",
+      "ru": "индюк",
+      "pl": "indyk"
+    },
+    {
+      "id": "donkey",
+      "cs": "osel",
+      "en": "donkey",
+      "uk": "осел",
+      "ru": "осёл",
+      "pl": "osioł"
+    },
+    {
+      "id": "bull",
+      "cs": "býk",
+      "en": "bull",
+      "uk": "бик",
+      "ru": "бык",
+      "pl": "byk"
+    },
+    {
+      "id": "calf",
+      "cs": "tele",
+      "en": "calf",
+      "uk": "теля",
+      "ru": "телёнок",
+      "pl": "cielę"
+    },
+    {
+      "id": "lamb",
+      "cs": "jehně",
+      "en": "lamb",
+      "uk": "ягня",
+      "ru": "ягнёнок",
+      "pl": "jagnię"
+    },
+    {
+      "id": "puppy",
+      "cs": "štěně",
+      "en": "puppy",
+      "uk": "цуценя",
+      "ru": "щенок",
+      "pl": "szczeniak"
+    },
+    {
+      "id": "kitten",
+      "cs": "kotě",
+      "en": "kitten",
+      "uk": "кошеня",
+      "ru": "котёнок",
+      "pl": "kociak"
+    },
+    {
+      "id": "hamster",
+      "cs": "křeček",
+      "en": "hamster",
+      "uk": "хом’як",
+      "ru": "хомяк",
+      "pl": "chomik"
+    },
+    {
+      "id": "guinea-pig",
+      "cs": "morče",
+      "en": "guinea pig",
+      "uk": "морська свинка",
+      "ru": "морская свинка",
+      "pl": "świnka morska"
+    },
+    {
+      "id": "squirrel",
+      "cs": "veverka",
+      "en": "squirrel",
+      "uk": "білка",
+      "ru": "белка",
+      "pl": "wiewiórka"
+    },
+    {
+      "id": "hare",
+      "cs": "zajíc",
+      "en": "hare",
+      "uk": "заєць",
+      "ru": "заяц",
+      "pl": "zając"
+    },
+    {
+      "id": "deer",
+      "cs": "jelen",
+      "en": "deer",
+      "uk": "олень",
+      "ru": "олень",
+      "pl": "jeleń"
+    },
+    {
+      "id": "roe-deer",
+      "cs": "srna",
+      "en": "roe deer",
+      "uk": "козуля",
+      "ru": "косуля",
+      "pl": "sarna"
+    },
+    {
+      "id": "wild-boar",
+      "cs": "divočák",
+      "en": "wild boar",
+      "uk": "кабан",
+      "ru": "кабан",
+      "pl": "dzik"
+    },
+    {
+      "id": "moose",
+      "cs": "los",
+      "en": "moose",
+      "uk": "лось",
+      "ru": "лось",
+      "pl": "łoś"
+    },
+    {
+      "id": "beaver",
+      "cs": "bobr",
+      "en": "beaver",
+      "uk": "бобер",
+      "ru": "бобр",
+      "pl": "bóbr"
+    },
+    {
+      "id": "bat",
+      "cs": "netopýr",
+      "en": "bat",
+      "uk": "кажан",
+      "ru": "летучая мышь",
+      "pl": "nietoperz"
+    },
+    {
+      "id": "tiger",
+      "cs": "tygr",
+      "en": "tiger",
+      "uk": "тигр",
+      "ru": "тигр",
+      "pl": "tygrys"
+    },
+    {
+      "id": "giraffe",
+      "cs": "žirafa",
+      "en": "giraffe",
+      "uk": "жираф",
+      "ru": "жираф",
+      "pl": "żyrafa"
+    },
+    {
+      "id": "zebra",
+      "cs": "zebra",
+      "en": "zebra",
+      "uk": "зебра",
+      "ru": "зебра",
+      "pl": "zebra"
+    },
+    {
+      "id": "camel",
+      "cs": "velbloud",
+      "en": "camel",
+      "uk": "верблюд",
+      "ru": "верблюд",
+      "pl": "wielbłąd"
+    },
+    {
+      "id": "crocodile",
+      "cs": "krokodýl",
+      "en": "crocodile",
+      "uk": "крокодил",
+      "ru": "крокодил",
+      "pl": "krokodyl"
+    },
+    {
+      "id": "snake",
+      "cs": "had",
+      "en": "snake",
+      "uk": "змія",
+      "ru": "змея",
+      "pl": "wąż"
+    },
+    {
+      "id": "turtle",
+      "cs": "želva",
+      "en": "turtle",
+      "uk": "черепаха",
+      "ru": "черепаха",
+      "pl": "żółw"
+    },
+    {
+      "id": "lizard",
+      "cs": "ještěrka",
+      "en": "lizard",
+      "uk": "ящірка",
+      "ru": "ящерица",
+      "pl": "jaszczurka"
+    },
+    {
+      "id": "whale",
+      "cs": "velryba",
+      "en": "whale",
+      "uk": "кит",
+      "ru": "кит",
+      "pl": "wieloryb"
+    },
+    {
+      "id": "dolphin",
+      "cs": "delfín",
+      "en": "dolphin",
+      "uk": "дельфін",
+      "ru": "дельфин",
+      "pl": "delfin"
+    },
+    {
+      "id": "shark",
+      "cs": "žralok",
+      "en": "shark",
+      "uk": "акула",
+      "ru": "акула",
+      "pl": "rekin"
+    },
+    {
+      "id": "polar-bear",
+      "cs": "lední medvěd",
+      "en": "polar bear",
+      "uk": "білий ведмідь",
+      "ru": "белый медведь",
+      "pl": "niedźwiedź polarny"
+    },
+    {
+      "id": "kangaroo",
+      "cs": "klokan",
+      "en": "kangaroo",
+      "uk": "кенгуру",
+      "ru": "кенгуру",
+      "pl": "kangur"
+    },
+    {
+      "id": "panda",
+      "cs": "panda",
+      "en": "panda",
+      "uk": "панда",
+      "ru": "панда",
+      "pl": "panda"
+    },
+    {
+      "id": "mole",
+      "cs": "krtek",
+      "en": "mole",
+      "uk": "кріт",
+      "ru": "крот",
+      "pl": "kret"
+    },
+    {
+      "id": "animal",
+      "cs": "zvíře",
+      "en": "animal",
+      "uk": "тварина",
+      "ru": "животное",
+      "pl": "zwierzę"
+    },
+    {
+      "id": "pet",
+      "cs": "mazlíček",
+      "en": "pet",
+      "uk": "домашній улюбленець",
+      "ru": "домашний питомец",
+      "pl": "zwierzątko domowe"
     }
   ]
 }

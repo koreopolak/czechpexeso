@@ -176,6 +176,246 @@
       "uk": "онука",
       "ru": "внучка",
       "pl": "wnuczka"
+    },
+    {
+      "id": "mother",
+      "cs": "matka",
+      "en": "mother",
+      "uk": "мати",
+      "ru": "мать",
+      "pl": "matka"
+    },
+    {
+      "id": "father",
+      "cs": "otec",
+      "en": "father",
+      "uk": "батько",
+      "ru": "отец",
+      "pl": "ojciec"
+    },
+    {
+      "id": "children",
+      "cs": "děti",
+      "en": "children",
+      "uk": "діти",
+      "ru": "дети",
+      "pl": "dzieci"
+    },
+    {
+      "id": "siblings",
+      "cs": "sourozenci",
+      "en": "siblings",
+      "uk": "брати й сестри",
+      "ru": "братья и сёстры",
+      "pl": "rodzeństwo"
+    },
+    {
+      "id": "twins",
+      "cs": "dvojčata",
+      "en": "twins",
+      "uk": "близнюки",
+      "ru": "близнецы",
+      "pl": "bliźniaki"
+    },
+    {
+      "id": "grandparents",
+      "cs": "prarodiče",
+      "en": "grandparents",
+      "uk": "бабуся й дідусь",
+      "ru": "бабушка и дедушка",
+      "pl": "dziadkowie"
+    },
+    {
+      "id": "nephew",
+      "cs": "synovec",
+      "en": "nephew",
+      "uk": "племінник",
+      "ru": "племянник",
+      "pl": "bratanek"
+    },
+    {
+      "id": "niece",
+      "cs": "neteř",
+      "en": "niece",
+      "uk": "племінниця",
+      "ru": "племянница",
+      "pl": "bratanica"
+    },
+    {
+      "id": "father-in-law",
+      "cs": "tchán",
+      "en": "father-in-law",
+      "uk": "тесть",
+      "ru": "тесть",
+      "pl": "teść"
+    },
+    {
+      "id": "mother-in-law",
+      "cs": "tchyně",
+      "en": "mother-in-law",
+      "uk": "теща",
+      "ru": "тёща",
+      "pl": "teściowa"
+    },
+    {
+      "id": "son-in-law",
+      "cs": "zeť",
+      "en": "son-in-law",
+      "uk": "зять",
+      "ru": "зять",
+      "pl": "zięć"
+    },
+    {
+      "id": "daughter-in-law",
+      "cs": "snacha",
+      "en": "daughter-in-law",
+      "uk": "невістка",
+      "ru": "невестка",
+      "pl": "synowa"
+    },
+    {
+      "id": "great-grandson",
+      "cs": "pravnuk",
+      "en": "great-grandson",
+      "uk": "правнук",
+      "ru": "правнук",
+      "pl": "prawnuk"
+    },
+    {
+      "id": "great-grandmother",
+      "cs": "prababička",
+      "en": "great-grandmother",
+      "uk": "прабабуся",
+      "ru": "прабабушка",
+      "pl": "prababcia"
+    },
+    {
+      "id": "relative",
+      "cs": "příbuzný",
+      "en": "relative",
+      "uk": "родич",
+      "ru": "родственник",
+      "pl": "krewny"
+    },
+    {
+      "id": "friend",
+      "cs": "kamarád",
+      "en": "friend",
+      "uk": "друг",
+      "ru": "друг",
+      "pl": "przyjaciel"
+    },
+    {
+      "id": "boyfriend",
+      "cs": "přítel",
+      "en": "boyfriend",
+      "uk": "хлопець",
+      "ru": "парень",
+      "pl": "chłopak"
+    },
+    {
+      "id": "girlfriend",
+      "cs": "přítelkyně",
+      "en": "girlfriend",
+      "uk": "дівчина",
+      "ru": "девушка",
+      "pl": "dziewczyna"
+    },
+    {
+      "id": "fiance",
+      "cs": "snoubenec",
+      "en": "fiancé",
+      "uk": "наречений",
+      "ru": "жених",
+      "pl": "narzeczony"
+    },
+    {
+      "id": "fiancee",
+      "cs": "snoubenka",
+      "en": "fiancée",
+      "uk": "наречена",
+      "ru": "невеста",
+      "pl": "narzeczona"
+    },
+    {
+      "id": "wedding",
+      "cs": "svatba",
+      "en": "wedding",
+      "uk": "весілля",
+      "ru": "свадьба",
+      "pl": "ślub"
+    },
+    {
+      "id": "married-couple",
+      "cs": "manželé",
+      "en": "married couple",
+      "uk": "подружжя",
+      "ru": "супруги",
+      "pl": "małżeństwo"
+    },
+    {
+      "id": "divorce",
+      "cs": "rozvod",
+      "en": "divorce",
+      "uk": "розлучення",
+      "ru": "развод",
+      "pl": "rozwód"
+    },
+    {
+      "id": "widow",
+      "cs": "vdova",
+      "en": "widow",
+      "uk": "вдова",
+      "ru": "вдова",
+      "pl": "wdowa"
+    },
+    {
+      "id": "neighbor",
+      "cs": "soused",
+      "en": "neighbor",
+      "uk": "сусід",
+      "ru": "сосед",
+      "pl": "sąsiad"
+    },
+    {
+      "id": "generation",
+      "cs": "generace",
+      "en": "generation",
+      "uk": "покоління",
+      "ru": "поколение",
+      "pl": "pokolenie"
+    },
+    {
+      "id": "godfather",
+      "cs": "kmotr",
+      "en": "godfather",
+      "uk": "хрещений батько",
+      "ru": "крёстный отец",
+      "pl": "ojciec chrzestny"
+    },
+    {
+      "id": "stepmother",
+      "cs": "nevlastní matka",
+      "en": "stepmother",
+      "uk": "мачуха",
+      "ru": "мачеха",
+      "pl": "macocha"
+    },
+    {
+      "id": "stepfather",
+      "cs": "nevlastní otec",
+      "en": "stepfather",
+      "uk": "вітчим",
+      "ru": "отчим",
+      "pl": "ojczym"
+    },
+    {
+      "id": "couple",
+      "cs": "pár",
+      "en": "couple",
+      "uk": "пара",
+      "ru": "пара",
+      "pl": "para"
     }
   ]
 }

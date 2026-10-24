@@ -1,0 +1,397 @@
+{
+  "id": "little-words",
+  "order": 37,
+  "level": "A2",
+  "icon": "link",
+  "title": {
+    "cs": "Předložky a spojky",
+    "en": "Prepositions & Conjunctions",
+    "uk": "Прийменники та сполучники",
+    "ru": "Предлоги и союзы",
+    "pl": "Przyimki i spójniki"
+  },
+  "description": {
+    "en": "The small words that hold sentences together.",
+    "uk": "Маленькі слова, що тримають речення разом.",
+    "ru": "Маленькие слова, которые связывают предложения.",
+    "pl": "Małe słowa, które łączą zdania."
+  },
+  "words": [
+    {
+      "id": "in",
+      "cs": "v",
+      "en": "in",
+      "uk": "в",
+      "ru": "в",
+      "pl": "w"
+    },
+    {
+      "id": "on",
+      "cs": "na",
+      "en": "on",
+      "uk": "на",
+      "ru": "на",
+      "pl": "na"
+    },
+    {
+      "id": "under",
+      "cs": "pod",
+      "en": "under",
+      "uk": "під",
+      "ru": "под",
+      "pl": "pod"
+    },
+    {
+      "id": "above",
+      "cs": "nad",
+      "en": "above",
+      "uk": "над",
+      "ru": "над",
+      "pl": "nad"
+    },
+    {
+      "id": "in-front-of",
+      "cs": "před",
+      "en": "in front of",
+      "uk": "перед",
+      "ru": "перед",
+      "pl": "przed"
+    },
+    {
+      "id": "behind",
+      "cs": "za",
+      "en": "behind",
+      "uk": "за",
+      "ru": "за",
+      "pl": "za"
+    },
+    {
+      "id": "next-to",
+      "cs": "vedle",
+      "en": "next to",
+      "uk": "поруч",
+      "ru": "рядом",
+      "pl": "obok"
+    },
+    {
+      "id": "between",
+      "cs": "mezi",
+      "en": "between",
+      "uk": "між",
+      "ru": "между",
+      "pl": "między"
+    },
+    {
+      "id": "at-by",
+      "cs": "u",
+      "en": "at (by)",
+      "uk": "біля",
+      "ru": "у",
+      "pl": "przy"
+    },
+    {
+      "id": "with",
+      "cs": "s",
+      "en": "with",
+      "uk": "з",
+      "ru": "с",
+      "pl": "z"
+    },
+    {
+      "id": "without",
+      "cs": "bez",
+      "en": "without",
+      "uk": "без",
+      "ru": "без",
+      "pl": "bez"
+    },
+    {
+      "id": "for",
+      "cs": "pro",
+      "en": "for",
+      "uk": "для",
+      "ru": "для",
+      "pl": "dla"
+    },
+    {
+      "id": "from",
+      "cs": "od",
+      "en": "from",
+      "uk": "від",
+      "ru": "от",
+      "pl": "od"
+    },
+    {
+      "id": "into",
+      "cs": "do",
+      "en": "into",
+      "uk": "до",
+      "ru": "до",
+      "pl": "do"
+    },
+    {
+      "id": "towards",
+      "cs": "k",
+      "en": "towards",
+      "uk": "у напрямку",
+      "ru": "к",
+      "pl": "ku"
+    },
+    {
+      "id": "about",
+      "cs": "o",
+      "en": "about",
+      "uk": "про",
+      "ru": "о",
+      "pl": "o"
+    },
+    {
+      "id": "after",
+      "cs": "po",
+      "en": "after",
+      "uk": "після",
+      "ru": "после",
+      "pl": "po"
+    },
+    {
+      "id": "across",
+      "cs": "přes",
+      "en": "across",
+      "uk": "крізь",
+      "ru": "через",
+      "pl": "przez"
+    },
+    {
+      "id": "around",
+      "cs": "kolem",
+      "en": "around",
+      "uk": "навколо",
+      "ru": "вокруг",
+      "pl": "wokół"
+    },
+    {
+      "id": "against",
+      "cs": "proti",
+      "en": "against",
+      "uk": "проти",
+      "ru": "против",
+      "pl": "przeciw"
+    },
+    {
+      "id": "according-to",
+      "cs": "podle",
+      "en": "according to",
+      "uk": "згідно з",
+      "ru": "согласно",
+      "pl": "według"
+    },
+    {
+      "id": "because-of",
+      "cs": "kvůli",
+      "en": "because of",
+      "uk": "через",
+      "ru": "из-за",
+      "pl": "z powodu"
+    },
+    {
+      "id": "during",
+      "cs": "během",
+      "en": "during",
+      "uk": "під час",
+      "ru": "во время",
+      "pl": "podczas"
+    },
+    {
+      "id": "instead-of",
+      "cs": "místo",
+      "en": "instead of",
+      "uk": "замість",
+      "ru": "вместо",
+      "pl": "zamiast"
+    },
+    {
+      "id": "except",
+      "cs": "kromě",
+      "en": "except",
+      "uk": "крім",
+      "ru": "кроме",
+      "pl": "oprócz"
+    },
+    {
+      "id": "until",
+      "cs": "až",
+      "en": "until",
+      "uk": "аж до",
+      "ru": "вплоть до",
+      "pl": "aż"
+    },
+    {
+      "id": "and",
+      "cs": "a",
+      "en": "and",
+      "uk": "і",
+      "ru": "и",
+      "pl": "i"
+    },
+    {
+      "id": "but",
+      "cs": "ale",
+      "en": "but",
+      "uk": "але",
+      "ru": "но",
+      "pl": "ale"
+    },
+    {
+      "id": "or",
+      "cs": "nebo",
+      "en": "or",
+      "uk": "або",
+      "ru": "или",
+      "pl": "albo"
+    },
+    {
+      "id": "because",
+      "cs": "protože",
+      "en": "because",
+      "uk": "тому що",
+      "ru": "потому что",
+      "pl": "ponieważ"
+    },
+    {
+      "id": "that",
+      "cs": "že",
+      "en": "that",
+      "uk": "що",
+      "ru": "что",
+      "pl": "że"
+    },
+    {
+      "id": "when-if",
+      "cs": "když",
+      "en": "when (if)",
+      "uk": "коли",
+      "ru": "когда",
+      "pl": "kiedy"
+    },
+    {
+      "id": "whether",
+      "cs": "jestli",
+      "en": "whether",
+      "uk": "чи",
+      "ru": "ли",
+      "pl": "czy"
+    },
+    {
+      "id": "so-that",
+      "cs": "aby",
+      "en": "so that",
+      "uk": "щоб",
+      "ru": "чтобы",
+      "pl": "żeby"
+    },
+    {
+      "id": "so",
+      "cs": "takže",
+      "en": "so",
+      "uk": "тож",
+      "ru": "так что",
+      "pl": "więc"
+    },
+    {
+      "id": "nor",
+      "cs": "ani",
+      "en": "nor",
+      "uk": "ані",
+      "ru": "ни",
+      "pl": "ani"
+    },
+    {
+      "id": "than",
+      "cs": "než",
+      "en": "than",
+      "uk": "ніж",
+      "ru": "чем",
+      "pl": "niż"
+    },
+    {
+      "id": "as",
+      "cs": "jako",
+      "en": "as",
+      "uk": "як",
+      "ru": "как",
+      "pl": "jako"
+    },
+    {
+      "id": "therefore",
+      "cs": "proto",
+      "en": "therefore",
+      "uk": "тому",
+      "ru": "поэтому",
+      "pl": "dlatego"
+    },
+    {
+      "id": "although",
+      "cs": "ačkoli",
+      "en": "although",
+      "uk": "хоча",
+      "ru": "хотя",
+      "pl": "chociaż"
+    },
+    {
+      "id": "while",
+      "cs": "zatímco",
+      "en": "while",
+      "uk": "тоді як",
+      "ru": "в то время как",
+      "pl": "podczas gdy"
+    },
+    {
+      "id": "if",
+      "cs": "pokud",
+      "en": "if",
+      "uk": "якщо",
+      "ru": "если",
+      "pl": "jeżeli"
+    },
+    {
+      "id": "thus",
+      "cs": "tedy",
+      "en": "thus",
+      "uk": "отже",
+      "ru": "итак",
+      "pl": "zatem"
+    },
+    {
+      "id": "for-example",
+      "cs": "například",
+      "en": "for example",
+      "uk": "наприклад",
+      "ru": "например",
+      "pl": "na przykład"
+    },
+    {
+      "id": "opposite",
+      "cs": "naproti",
+      "en": "opposite",
+      "uk": "навпроти",
+      "ru": "напротив",
+      "pl": "naprzeciwko"
+    },
+    {
+      "id": "in-the-middle",
+      "cs": "uprostřed",
+      "en": "in the middle",
+      "uk": "посередині",
+      "ru": "посередине",
+      "pl": "pośrodku"
+    },
+    {
+      "id": "thanks-to",
+      "cs": "díky",
+      "en": "thanks to",
+      "uk": "завдяки",
+      "ru": "благодаря",
+      "pl": "dzięki"
+    }
+  ]
+}

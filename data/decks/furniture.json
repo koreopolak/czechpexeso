@@ -1,0 +1,421 @@
+{
+  "id": "furniture",
+  "order": 40,
+  "level": "A2",
+  "icon": "sofa",
+  "title": {
+    "cs": "Nábytek a vybavení",
+    "en": "Furniture & Household",
+    "uk": "Меблі та побут",
+    "ru": "Мебель и быт",
+    "pl": "Meble i wyposażenie"
+  },
+  "description": {
+    "en": "Furniture and things around the house.",
+    "uk": "Меблі та речі в домі.",
+    "ru": "Мебель и вещи в доме.",
+    "pl": "Meble i rzeczy w domu."
+  },
+  "words": [
+    {
+      "id": "furniture",
+      "cs": "nábytek",
+      "en": "furniture",
+      "uk": "меблі",
+      "ru": "мебель",
+      "pl": "meble"
+    },
+    {
+      "id": "armchair",
+      "cs": "křeslo",
+      "en": "armchair",
+      "uk": "крісло",
+      "ru": "кресло",
+      "pl": "fotel"
+    },
+    {
+      "id": "shelf",
+      "cs": "polička",
+      "en": "shelf",
+      "uk": "полиця",
+      "ru": "полка",
+      "pl": "półka"
+    },
+    {
+      "id": "chest-of-drawers",
+      "cs": "komoda",
+      "en": "chest of drawers",
+      "uk": "комод",
+      "ru": "комод",
+      "pl": "komoda"
+    },
+    {
+      "id": "drawer",
+      "cs": "šuplík",
+      "en": "drawer",
+      "uk": "шухляда",
+      "ru": "ящик",
+      "pl": "szuflada"
+    },
+    {
+      "id": "nightstand",
+      "cs": "noční stolek",
+      "en": "nightstand",
+      "uk": "тумбочка",
+      "ru": "тумбочка",
+      "pl": "szafka nocna"
+    },
+    {
+      "id": "desk",
+      "cs": "psací stůl",
+      "en": "desk",
+      "uk": "письмовий стіл",
+      "ru": "письменный стол",
+      "pl": "biurko"
+    },
+    {
+      "id": "carpet",
+      "cs": "koberec",
+      "en": "carpet",
+      "uk": "килим",
+      "ru": "ковёр",
+      "pl": "dywan"
+    },
+    {
+      "id": "net-curtain",
+      "cs": "záclona",
+      "en": "net curtain",
+      "uk": "тюль",
+      "ru": "тюль",
+      "pl": "firanka"
+    },
+    {
+      "id": "curtain",
+      "cs": "závěs",
+      "en": "curtain",
+      "uk": "штора",
+      "ru": "штора",
+      "pl": "zasłona"
+    },
+    {
+      "id": "blinds",
+      "cs": "žaluzie",
+      "en": "blinds",
+      "uk": "жалюзі",
+      "ru": "жалюзи",
+      "pl": "żaluzje"
+    },
+    {
+      "id": "pillow",
+      "cs": "polštář",
+      "en": "pillow",
+      "uk": "подушка",
+      "ru": "подушка",
+      "pl": "poduszka"
+    },
+    {
+      "id": "duvet",
+      "cs": "peřina",
+      "en": "duvet",
+      "uk": "ковдра",
+      "ru": "одеяло",
+      "pl": "kołdra"
+    },
+    {
+      "id": "blanket",
+      "cs": "deka",
+      "en": "blanket",
+      "uk": "плед",
+      "ru": "плед",
+      "pl": "koc"
+    },
+    {
+      "id": "bed-sheet",
+      "cs": "prostěradlo",
+      "en": "bed sheet",
+      "uk": "простирадло",
+      "ru": "простыня",
+      "pl": "prześcieradło"
+    },
+    {
+      "id": "towel",
+      "cs": "ručník",
+      "en": "towel",
+      "uk": "рушник",
+      "ru": "полотенце",
+      "pl": "ręcznik"
+    },
+    {
+      "id": "bathtub",
+      "cs": "vana",
+      "en": "bathtub",
+      "uk": "ванна",
+      "ru": "ванна",
+      "pl": "wanna"
+    },
+    {
+      "id": "shower",
+      "cs": "sprcha",
+      "en": "shower",
+      "uk": "душ",
+      "ru": "душ",
+      "pl": "prysznic"
+    },
+    {
+      "id": "washbasin",
+      "cs": "umyvadlo",
+      "en": "washbasin",
+      "uk": "умивальник",
+      "ru": "умывальник",
+      "pl": "umywalka"
+    },
+    {
+      "id": "tap",
+      "cs": "kohoutek",
+      "en": "tap",
+      "uk": "кран",
+      "ru": "кран",
+      "pl": "kran"
+    },
+    {
+      "id": "washing-machine",
+      "cs": "pračka",
+      "en": "washing machine",
+      "uk": "пральна машина",
+      "ru": "стиральная машина",
+      "pl": "pralka"
+    },
+    {
+      "id": "dryer",
+      "cs": "sušička",
+      "en": "dryer",
+      "uk": "сушильна машина",
+      "ru": "сушильная машина",
+      "pl": "suszarka"
+    },
+    {
+      "id": "vacuum-cleaner",
+      "cs": "vysavač",
+      "en": "vacuum cleaner",
+      "uk": "пилосос",
+      "ru": "пылесос",
+      "pl": "odkurzacz"
+    },
+    {
+      "id": "iron",
+      "cs": "žehlička",
+      "en": "iron",
+      "uk": "праска",
+      "ru": "утюг",
+      "pl": "żelazko"
+    },
+    {
+      "id": "hair-dryer",
+      "cs": "fén",
+      "en": "hair dryer",
+      "uk": "фен",
+      "ru": "фен",
+      "pl": "suszarka do włosów"
+    },
+    {
+      "id": "television",
+      "cs": "televize",
+      "en": "television",
+      "uk": "телевізор",
+      "ru": "телевизор",
+      "pl": "telewizor"
+    },
+    {
+      "id": "painting",
+      "cs": "obraz",
+      "en": "painting",
+      "uk": "картина",
+      "ru": "картина",
+      "pl": "obraz"
+    },
+    {
+      "id": "candle",
+      "cs": "svíčka",
+      "en": "candle",
+      "uk": "свічка",
+      "ru": "свеча",
+      "pl": "świeca"
+    },
+    {
+      "id": "vase",
+      "cs": "váza",
+      "en": "vase",
+      "uk": "ваза",
+      "ru": "ваза",
+      "pl": "wazon"
+    },
+    {
+      "id": "flowerpot",
+      "cs": "květináč",
+      "en": "flowerpot",
+      "uk": "вазон",
+      "ru": "цветочный горшок",
+      "pl": "doniczka"
+    },
+    {
+      "id": "light-bulb",
+      "cs": "žárovka",
+      "en": "light bulb",
+      "uk": "лампочка",
+      "ru": "лампочка",
+      "pl": "żarówka"
+    },
+    {
+      "id": "chandelier",
+      "cs": "lustr",
+      "en": "chandelier",
+      "uk": "люстра",
+      "ru": "люстра",
+      "pl": "żyrandol"
+    },
+    {
+      "id": "coat-rack",
+      "cs": "věšák",
+      "en": "coat rack",
+      "uk": "вішалка",
+      "ru": "вешалка",
+      "pl": "wieszak"
+    },
+    {
+      "id": "shoe-rack",
+      "cs": "botník",
+      "en": "shoe rack",
+      "uk": "взуттєва шафа",
+      "ru": "обувница",
+      "pl": "szafka na buty"
+    },
+    {
+      "id": "trash-can",
+      "cs": "odpadkový koš",
+      "en": "trash can",
+      "uk": "смітник",
+      "ru": "мусорное ведро",
+      "pl": "kosz na śmieci"
+    },
+    {
+      "id": "doormat",
+      "cs": "rohožka",
+      "en": "doormat",
+      "uk": "килимок",
+      "ru": "коврик",
+      "pl": "wycieraczka"
+    },
+    {
+      "id": "hanger",
+      "cs": "ramínko",
+      "en": "hanger",
+      "uk": "плічка",
+      "ru": "плечики",
+      "pl": "wieszak na ubrania"
+    },
+    {
+      "id": "cradle",
+      "cs": "kolébka",
+      "en": "cradle",
+      "uk": "колиска",
+      "ru": "колыбель",
+      "pl": "kołyska"
+    },
+    {
+      "id": "crib",
+      "cs": "dětská postýlka",
+      "en": "crib",
+      "uk": "дитяче ліжечко",
+      "ru": "детская кроватка",
+      "pl": "łóżeczko"
+    },
+    {
+      "id": "stool",
+      "cs": "stolička",
+      "en": "stool",
+      "uk": "табурет",
+      "ru": "табурет",
+      "pl": "taboret"
+    },
+    {
+      "id": "dining-table",
+      "cs": "jídelní stůl",
+      "en": "dining table",
+      "uk": "обідній стіл",
+      "ru": "обеденный стол",
+      "pl": "stół jadalny"
+    },
+    {
+      "id": "cabinet",
+      "cs": "skříňka",
+      "en": "cabinet",
+      "uk": "шафка",
+      "ru": "шкафчик",
+      "pl": "szafka"
+    },
+    {
+      "id": "mattress",
+      "cs": "matrace",
+      "en": "mattress",
+      "uk": "матрац",
+      "ru": "матрас",
+      "pl": "materac"
+    },
+    {
+      "id": "bedding",
+      "cs": "povlečení",
+      "en": "bedding",
+      "uk": "постільна білизна",
+      "ru": "постельное бельё",
+      "pl": "pościel"
+    },
+    {
+      "id": "brush",
+      "cs": "kartáč",
+      "en": "brush",
+      "uk": "щітка",
+      "ru": "щётка",
+      "pl": "szczotka"
+    },
+    {
+      "id": "soap",
+      "cs": "mýdlo",
+      "en": "soap",
+      "uk": "мило",
+      "ru": "мыло",
+      "pl": "mydło"
+    },
+    {
+      "id": "shampoo",
+      "cs": "šampon",
+      "en": "shampoo",
+      "uk": "шампунь",
+      "ru": "шампунь",
+      "pl": "szampon"
+    },
+    {
+      "id": "toothbrush",
+      "cs": "zubní kartáček",
+      "en": "toothbrush",
+      "uk": "зубна щітка",
+      "ru": "зубная щётка",
+      "pl": "szczoteczka do zębów"
+    },
+    {
+      "id": "toothpaste",
+      "cs": "zubní pasta",
+      "en": "toothpaste",
+      "uk": "зубна паста",
+      "ru": "зубная паста",
+      "pl": "pasta do zębów"
+    },
+    {
+      "id": "toilet-paper",
+      "cs": "toaletní papír",
+      "en": "toilet paper",
+      "uk": "туалетний папір",
+      "ru": "туалетная бумага",
+      "pl": "papier toaletowy"
+    }
+  ]
+}

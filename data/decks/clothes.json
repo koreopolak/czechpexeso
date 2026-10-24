@@ -184,6 +184,262 @@
       "uk": "парасолька",
       "ru": "зонт",
       "pl": "parasol"
+    },
+    {
+      "id": "hoodie",
+      "cs": "mikina",
+      "en": "hoodie",
+      "uk": "худі",
+      "ru": "толстовка",
+      "pl": "bluza"
+    },
+    {
+      "id": "blouse",
+      "cs": "halenka",
+      "en": "blouse",
+      "uk": "блузка",
+      "ru": "блузка",
+      "pl": "bluzka"
+    },
+    {
+      "id": "suit",
+      "cs": "oblek",
+      "en": "suit",
+      "uk": "костюм",
+      "ru": "костюм",
+      "pl": "garnitur"
+    },
+    {
+      "id": "tie",
+      "cs": "kravata",
+      "en": "tie",
+      "uk": "краватка",
+      "ru": "галстук",
+      "pl": "krawat"
+    },
+    {
+      "id": "blazer",
+      "cs": "sako",
+      "en": "blazer",
+      "uk": "піджак",
+      "ru": "пиджак",
+      "pl": "marynarka"
+    },
+    {
+      "id": "vest",
+      "cs": "vesta",
+      "en": "vest",
+      "uk": "жилет",
+      "ru": "жилет",
+      "pl": "kamizelka"
+    },
+    {
+      "id": "underwear",
+      "cs": "spodní prádlo",
+      "en": "underwear",
+      "uk": "нижня білизна",
+      "ru": "нижнее бельё",
+      "pl": "bielizna"
+    },
+    {
+      "id": "bra",
+      "cs": "podprsenka",
+      "en": "bra",
+      "uk": "бюстгальтер",
+      "ru": "бюстгальтер",
+      "pl": "biustonosz"
+    },
+    {
+      "id": "tights",
+      "cs": "punčochy",
+      "en": "tights",
+      "uk": "колготки",
+      "ru": "колготки",
+      "pl": "rajstopy"
+    },
+    {
+      "id": "sneakers",
+      "cs": "tenisky",
+      "en": "sneakers",
+      "uk": "кросівки",
+      "ru": "кроссовки",
+      "pl": "trampki"
+    },
+    {
+      "id": "sandals",
+      "cs": "sandály",
+      "en": "sandals",
+      "uk": "сандалі",
+      "ru": "сандалии",
+      "pl": "sandały"
+    },
+    {
+      "id": "rubber-boots",
+      "cs": "holínky",
+      "en": "rubber boots",
+      "uk": "гумові чоботи",
+      "ru": "резиновые сапоги",
+      "pl": "kalosze"
+    },
+    {
+      "id": "boots",
+      "cs": "kozačky",
+      "en": "boots",
+      "uk": "чоботи",
+      "ru": "сапоги",
+      "pl": "kozaki"
+    },
+    {
+      "id": "slippers",
+      "cs": "pantofle",
+      "en": "slippers",
+      "uk": "капці",
+      "ru": "тапочки",
+      "pl": "kapcie"
+    },
+    {
+      "id": "bathrobe",
+      "cs": "župan",
+      "en": "bathrobe",
+      "uk": "халат",
+      "ru": "халат",
+      "pl": "szlafrok"
+    },
+    {
+      "id": "uniform",
+      "cs": "uniforma",
+      "en": "uniform",
+      "uk": "уніформа",
+      "ru": "униформа",
+      "pl": "mundur"
+    },
+    {
+      "id": "baseball-cap",
+      "cs": "kšiltovka",
+      "en": "baseball cap",
+      "uk": "бейсболка",
+      "ru": "бейсболка",
+      "pl": "czapka z daszkiem"
+    },
+    {
+      "id": "glasses",
+      "cs": "brýle",
+      "en": "glasses",
+      "uk": "окуляри",
+      "ru": "очки",
+      "pl": "okulary"
+    },
+    {
+      "id": "sunglasses",
+      "cs": "sluneční brýle",
+      "en": "sunglasses",
+      "uk": "сонцезахисні окуляри",
+      "ru": "солнцезащитные очки",
+      "pl": "okulary przeciwsłoneczne"
+    },
+    {
+      "id": "watch",
+      "cs": "hodinky",
+      "en": "watch",
+      "uk": "годинник",
+      "ru": "часы",
+      "pl": "zegarek"
+    },
+    {
+      "id": "ring",
+      "cs": "prsten",
+      "en": "ring",
+      "uk": "каблучка",
+      "ru": "кольцо",
+      "pl": "pierścionek"
+    },
+    {
+      "id": "necklace",
+      "cs": "náhrdelník",
+      "en": "necklace",
+      "uk": "намисто",
+      "ru": "ожерелье",
+      "pl": "naszyjnik"
+    },
+    {
+      "id": "earrings",
+      "cs": "náušnice",
+      "en": "earrings",
+      "uk": "сережки",
+      "ru": "серьги",
+      "pl": "kolczyki"
+    },
+    {
+      "id": "bracelet",
+      "cs": "náramek",
+      "en": "bracelet",
+      "uk": "браслет",
+      "ru": "браслет",
+      "pl": "bransoletka"
+    },
+    {
+      "id": "handbag",
+      "cs": "kabelka",
+      "en": "handbag",
+      "uk": "сумочка",
+      "ru": "сумочка",
+      "pl": "torebka"
+    },
+    {
+      "id": "wallet",
+      "cs": "peněženka",
+      "en": "wallet",
+      "uk": "гаманець",
+      "ru": "кошелёк",
+      "pl": "portfel"
+    },
+    {
+      "id": "button",
+      "cs": "knoflík",
+      "en": "button",
+      "uk": "ґудзик",
+      "ru": "пуговица",
+      "pl": "guzik"
+    },
+    {
+      "id": "zipper",
+      "cs": "zip",
+      "en": "zipper",
+      "uk": "блискавка",
+      "ru": "молния",
+      "pl": "zamek błyskawiczny"
+    },
+    {
+      "id": "sleeve",
+      "cs": "rukáv",
+      "en": "sleeve",
+      "uk": "рукав",
+      "ru": "рукав",
+      "pl": "rękaw"
+    },
+    {
+      "id": "collar",
+      "cs": "límec",
+      "en": "collar",
+      "uk": "комір",
+      "ru": "воротник",
+      "pl": "kołnierz"
+    },
+    {
+      "id": "size",
+      "cs": "velikost",
+      "en": "size",
+      "uk": "розмір",
+      "ru": "размер",
+      "pl": "rozmiar"
+    },
+    {
+      "id": "fashion",
+      "cs": "móda",
+      "en": "fashion",
+      "uk": "мода",
+      "ru": "мода",
+      "pl": "moda"
     }
   ]
 }

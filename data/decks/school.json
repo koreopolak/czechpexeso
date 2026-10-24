@@ -1,6 +1,6 @@
 {
   "id": "school",
-  "order": 6,
+  "order": 13,
   "level": "A1",
   "icon": "book",
   "title": {
@@ -176,6 +176,254 @@
       "uk": "оцінка",
       "ru": "оценка",
       "pl": "ocena"
+    },
+    {
+      "id": "teacher-female",
+      "cs": "učitelka",
+      "en": "teacher (female)",
+      "uk": "вчителька",
+      "ru": "учительница",
+      "pl": "nauczycielka"
+    },
+    {
+      "id": "student",
+      "cs": "student",
+      "en": "student",
+      "uk": "студент",
+      "ru": "студент",
+      "pl": "student"
+    },
+    {
+      "id": "principal",
+      "cs": "ředitel",
+      "en": "principal",
+      "uk": "директор",
+      "ru": "директор",
+      "pl": "dyrektor"
+    },
+    {
+      "id": "kindergarten",
+      "cs": "školka",
+      "en": "kindergarten",
+      "uk": "дитячий садок",
+      "ru": "детский сад",
+      "pl": "przedszkole"
+    },
+    {
+      "id": "primary-school",
+      "cs": "základní škola",
+      "en": "primary school",
+      "uk": "початкова школа",
+      "ru": "начальная школа",
+      "pl": "szkoła podstawowa"
+    },
+    {
+      "id": "high-school",
+      "cs": "střední škola",
+      "en": "high school",
+      "uk": "середня школа",
+      "ru": "средняя школа",
+      "pl": "szkoła średnia"
+    },
+    {
+      "id": "czech-subject",
+      "cs": "čeština",
+      "en": "Czech (subject)",
+      "uk": "чеська мова",
+      "ru": "чешский язык",
+      "pl": "język czeski"
+    },
+    {
+      "id": "english-subject",
+      "cs": "angličtina",
+      "en": "English (subject)",
+      "uk": "англійська мова",
+      "ru": "английский язык",
+      "pl": "język angielski"
+    },
+    {
+      "id": "history-subject",
+      "cs": "dějepis",
+      "en": "history (subject)",
+      "uk": "історія",
+      "ru": "история",
+      "pl": "historia"
+    },
+    {
+      "id": "geography",
+      "cs": "zeměpis",
+      "en": "geography",
+      "uk": "географія",
+      "ru": "география",
+      "pl": "geografia"
+    },
+    {
+      "id": "biology",
+      "cs": "přírodopis",
+      "en": "biology",
+      "uk": "біологія",
+      "ru": "биология",
+      "pl": "biologia"
+    },
+    {
+      "id": "physics",
+      "cs": "fyzika",
+      "en": "physics",
+      "uk": "фізика",
+      "ru": "физика",
+      "pl": "fizyka"
+    },
+    {
+      "id": "chemistry",
+      "cs": "chemie",
+      "en": "chemistry",
+      "uk": "хімія",
+      "ru": "химия",
+      "pl": "chemia"
+    },
+    {
+      "id": "pe-gym-class",
+      "cs": "tělocvik",
+      "en": "PE (gym class)",
+      "uk": "фізкультура",
+      "ru": "физкультура",
+      "pl": "wychowanie fizyczne"
+    },
+    {
+      "id": "art-class",
+      "cs": "výtvarná výchova",
+      "en": "art class",
+      "uk": "образотворче мистецтво",
+      "ru": "изобразительное искусство",
+      "pl": "plastyka"
+    },
+    {
+      "id": "music-class",
+      "cs": "hudební výchova",
+      "en": "music class",
+      "uk": "музика",
+      "ru": "музыка",
+      "pl": "muzyka"
+    },
+    {
+      "id": "timetable",
+      "cs": "rozvrh",
+      "en": "timetable",
+      "uk": "розклад",
+      "ru": "расписание",
+      "pl": "plan lekcji"
+    },
+    {
+      "id": "school-holidays",
+      "cs": "prázdniny",
+      "en": "school holidays",
+      "uk": "канікули",
+      "ru": "каникулы",
+      "pl": "wakacje"
+    },
+    {
+      "id": "report-card",
+      "cs": "vysvědčení",
+      "en": "report card",
+      "uk": "табель",
+      "ru": "табель",
+      "pl": "świadectwo"
+    },
+    {
+      "id": "question",
+      "cs": "otázka",
+      "en": "question",
+      "uk": "питання",
+      "ru": "вопрос",
+      "pl": "pytanie"
+    },
+    {
+      "id": "answer",
+      "cs": "odpověď",
+      "en": "answer",
+      "uk": "відповідь",
+      "ru": "ответ",
+      "pl": "odpowiedź"
+    },
+    {
+      "id": "mistake",
+      "cs": "chyba",
+      "en": "mistake",
+      "uk": "помилка",
+      "ru": "ошибка",
+      "pl": "błąd"
+    },
+    {
+      "id": "test",
+      "cs": "test",
+      "en": "test",
+      "uk": "тест",
+      "ru": "тест",
+      "pl": "test"
+    },
+    {
+      "id": "dictionary",
+      "cs": "slovník",
+      "en": "dictionary",
+      "uk": "словник",
+      "ru": "словарь",
+      "pl": "słownik"
+    },
+    {
+      "id": "textbook",
+      "cs": "učebnice",
+      "en": "textbook",
+      "uk": "підручник",
+      "ru": "учебник",
+      "pl": "podręcznik"
+    },
+    {
+      "id": "pencil-case",
+      "cs": "pouzdro",
+      "en": "pencil case",
+      "uk": "пенал",
+      "ru": "пенал",
+      "pl": "piórnik"
+    },
+    {
+      "id": "glue",
+      "cs": "lepidlo",
+      "en": "glue",
+      "uk": "клей",
+      "ru": "клей",
+      "pl": "klej"
+    },
+    {
+      "id": "crayons",
+      "cs": "pastelky",
+      "en": "crayons",
+      "uk": "кольорові олівці",
+      "ru": "цветные карандаши",
+      "pl": "kredki"
+    },
+    {
+      "id": "calculator",
+      "cs": "kalkulačka",
+      "en": "calculator",
+      "uk": "калькулятор",
+      "ru": "калькулятор",
+      "pl": "kalkulator"
+    },
+    {
+      "id": "task",
+      "cs": "úkol",
+      "en": "task",
+      "uk": "завдання",
+      "ru": "задание",
+      "pl": "zadanie"
+    },
+    {
+      "id": "classmate",
+      "cs": "spolužák",
+      "en": "classmate",
+      "uk": "однокласник",
+      "ru": "одноклассник",
+      "pl": "kolega z klasy"
     }
   ]
 }

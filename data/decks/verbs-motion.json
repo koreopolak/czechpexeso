@@ -1,0 +1,381 @@
+{
+  "id": "verbs-motion",
+  "order": 31,
+  "level": "A2",
+  "icon": "arrows",
+  "title": {
+    "cs": "Slovesa pohybu",
+    "en": "Movement Verbs",
+    "uk": "Дієслова руху",
+    "ru": "Глаголы движения",
+    "pl": "Czasowniki ruchu"
+  },
+  "description": {
+    "en": "Going, coming, running, flying.",
+    "uk": "Йти, приходити, бігти, летіти.",
+    "ru": "Идти, приходить, бежать, лететь.",
+    "pl": "Iść, przychodzić, biec, lecieć."
+  },
+  "words": [
+    {
+      "id": "walk-regularly",
+      "cs": "chodit",
+      "en": "to walk (regularly)",
+      "uk": "ходити",
+      "ru": "ходить",
+      "pl": "chodzić"
+    },
+    {
+      "id": "ride-regularly",
+      "cs": "jezdit",
+      "en": "to ride (regularly)",
+      "uk": "їздити",
+      "ru": "ездить",
+      "pl": "jeździć"
+    },
+    {
+      "id": "run",
+      "cs": "běžet",
+      "en": "to run",
+      "uk": "бігти",
+      "ru": "бежать",
+      "pl": "biec"
+    },
+    {
+      "id": "jog",
+      "cs": "běhat",
+      "en": "to jog",
+      "uk": "бігати",
+      "ru": "бегать",
+      "pl": "biegać"
+    },
+    {
+      "id": "fly",
+      "cs": "letět",
+      "en": "to fly",
+      "uk": "летіти",
+      "ru": "лететь",
+      "pl": "lecieć"
+    },
+    {
+      "id": "fly-regularly",
+      "cs": "létat",
+      "en": "to fly (regularly)",
+      "uk": "літати",
+      "ru": "летать",
+      "pl": "latać"
+    },
+    {
+      "id": "swim",
+      "cs": "plavat",
+      "en": "to swim",
+      "uk": "плавати",
+      "ru": "плавать",
+      "pl": "pływać"
+    },
+    {
+      "id": "jump",
+      "cs": "skákat",
+      "en": "to jump",
+      "uk": "стрибати",
+      "ru": "прыгать",
+      "pl": "skakać"
+    },
+    {
+      "id": "climb",
+      "cs": "lézt",
+      "en": "to climb",
+      "uk": "лізти",
+      "ru": "лезть",
+      "pl": "wspinać się"
+    },
+    {
+      "id": "fall",
+      "cs": "padat",
+      "en": "to fall",
+      "uk": "падати",
+      "ru": "падать",
+      "pl": "padać"
+    },
+    {
+      "id": "fall-down",
+      "cs": "spadnout",
+      "en": "to fall down",
+      "uk": "впасти",
+      "ru": "упасть",
+      "pl": "upaść"
+    },
+    {
+      "id": "come",
+      "cs": "přijít",
+      "en": "to come",
+      "uk": "прийти",
+      "ru": "прийти",
+      "pl": "przyjść"
+    },
+    {
+      "id": "leave",
+      "cs": "odejít",
+      "en": "to leave",
+      "uk": "піти",
+      "ru": "уйти",
+      "pl": "odejść"
+    },
+    {
+      "id": "arrive-by-vehicle",
+      "cs": "přijet",
+      "en": "to arrive (by vehicle)",
+      "uk": "приїхати",
+      "ru": "приехать",
+      "pl": "przyjechać"
+    },
+    {
+      "id": "depart",
+      "cs": "odjet",
+      "en": "to depart",
+      "uk": "поїхати",
+      "ru": "уехать",
+      "pl": "odjechać"
+    },
+    {
+      "id": "go-in",
+      "cs": "vejít",
+      "en": "to go in",
+      "uk": "увійти",
+      "ru": "войти",
+      "pl": "wejść"
+    },
+    {
+      "id": "go-out",
+      "cs": "vyjít",
+      "en": "to go out",
+      "uk": "вийти",
+      "ru": "выйти",
+      "pl": "wyjść"
+    },
+    {
+      "id": "come-back",
+      "cs": "vrátit se",
+      "en": "to come back",
+      "uk": "повернутися",
+      "ru": "вернуться",
+      "pl": "wrócić"
+    },
+    {
+      "id": "pass-through",
+      "cs": "projít",
+      "en": "to pass through",
+      "uk": "пройти",
+      "ru": "пройти",
+      "pl": "przejść"
+    },
+    {
+      "id": "cross",
+      "cs": "přejít",
+      "en": "to cross",
+      "uk": "перейти",
+      "ru": "перейти",
+      "pl": "przejść przez"
+    },
+    {
+      "id": "go-around",
+      "cs": "obejít",
+      "en": "to go around",
+      "uk": "обійти",
+      "ru": "обойти",
+      "pl": "obejść"
+    },
+    {
+      "id": "reach-on-foot",
+      "cs": "dojít",
+      "en": "to reach (on foot)",
+      "uk": "дійти",
+      "ru": "дойти",
+      "pl": "dojść"
+    },
+    {
+      "id": "run-away",
+      "cs": "utéct",
+      "en": "to run away",
+      "uk": "втекти",
+      "ru": "убежать",
+      "pl": "uciec"
+    },
+    {
+      "id": "chase",
+      "cs": "honit",
+      "en": "to chase",
+      "uk": "гнатися",
+      "ru": "гнаться",
+      "pl": "gonić"
+    },
+    {
+      "id": "follow",
+      "cs": "následovat",
+      "en": "to follow",
+      "uk": "слідувати",
+      "ru": "следовать",
+      "pl": "podążać"
+    },
+    {
+      "id": "lead",
+      "cs": "vést",
+      "en": "to lead",
+      "uk": "вести",
+      "ru": "вести",
+      "pl": "prowadzić"
+    },
+    {
+      "id": "transport",
+      "cs": "vézt",
+      "en": "to transport",
+      "uk": "везти",
+      "ru": "везти",
+      "pl": "wieźć"
+    },
+    {
+      "id": "get-on",
+      "cs": "nastoupit",
+      "en": "to get on",
+      "uk": "сісти (в транспорт)",
+      "ru": "сесть (в транспорт)",
+      "pl": "wsiąść"
+    },
+    {
+      "id": "get-off",
+      "cs": "vystoupit",
+      "en": "to get off",
+      "uk": "вийти (з транспорту)",
+      "ru": "выйти (из транспорта)",
+      "pl": "wysiąść"
+    },
+    {
+      "id": "change-trains",
+      "cs": "přestoupit",
+      "en": "to change (trains)",
+      "uk": "пересісти",
+      "ru": "пересесть",
+      "pl": "przesiąść się"
+    },
+    {
+      "id": "stop",
+      "cs": "zastavit",
+      "en": "to stop",
+      "uk": "зупинити",
+      "ru": "остановить",
+      "pl": "zatrzymać"
+    },
+    {
+      "id": "stop-by",
+      "cs": "zastavit se",
+      "en": "to stop by",
+      "uk": "зайти",
+      "ru": "зайти",
+      "pl": "wpaść"
+    },
+    {
+      "id": "move",
+      "cs": "pohybovat se",
+      "en": "to move",
+      "uk": "рухатися",
+      "ru": "двигаться",
+      "pl": "ruszać się"
+    },
+    {
+      "id": "move-house",
+      "cs": "stěhovat se",
+      "en": "to move (house)",
+      "uk": "переїжджати",
+      "ru": "переезжать",
+      "pl": "przeprowadzać się"
+    },
+    {
+      "id": "turn-around",
+      "cs": "otáčet se",
+      "en": "to turn around",
+      "uk": "обертатися",
+      "ru": "оборачиваться",
+      "pl": "odwracać się"
+    },
+    {
+      "id": "bend-down",
+      "cs": "sklonit se",
+      "en": "to bend down",
+      "uk": "нахилитися",
+      "ru": "наклониться",
+      "pl": "schylić się"
+    },
+    {
+      "id": "sit-down",
+      "cs": "sednout si",
+      "en": "to sit down",
+      "uk": "сісти",
+      "ru": "сесть",
+      "pl": "usiąść"
+    },
+    {
+      "id": "lie-down",
+      "cs": "lehnout si",
+      "en": "to lie down",
+      "uk": "лягти",
+      "ru": "лечь",
+      "pl": "położyć się"
+    },
+    {
+      "id": "stand-up",
+      "cs": "vstát",
+      "en": "to stand up",
+      "uk": "встати",
+      "ru": "встать",
+      "pl": "wstać"
+    },
+    {
+      "id": "stride",
+      "cs": "kráčet",
+      "en": "to stride",
+      "uk": "крокувати",
+      "ru": "шагать",
+      "pl": "kroczyć"
+    },
+    {
+      "id": "sneak",
+      "cs": "plížit se",
+      "en": "to sneak",
+      "uk": "підкрадатися",
+      "ru": "подкрадываться",
+      "pl": "skradać się"
+    },
+    {
+      "id": "cycle",
+      "cs": "jet na kole",
+      "en": "to cycle",
+      "uk": "їхати на велосипеді",
+      "ru": "ехать на велосипеде",
+      "pl": "jechać na rowerze"
+    },
+    {
+      "id": "wander",
+      "cs": "bloudit",
+      "en": "to wander",
+      "uk": "блукати",
+      "ru": "блуждать",
+      "pl": "błądzić"
+    },
+    {
+      "id": "stroll",
+      "cs": "procházet se",
+      "en": "to stroll",
+      "uk": "прогулюватися",
+      "ru": "прогуливаться",
+      "pl": "spacerować"
+    },
+    {
+      "id": "back-up",
+      "cs": "couvat",
+      "en": "to back up",
+      "uk": "задкувати",
+      "ru": "пятиться",
+      "pl": "cofać się"
+    }
+  ]
+}

@@ -10,8 +10,20 @@ import { dailyStreak, gamesToday, wordsPlayed } from "@/lib/progress";
 import { useHydrated, useProgress } from "@/lib/progress-store";
 import type { DeckMeta } from "@/lib/types";
 
+const LEVELS = ["A1", "A2", "B1"] as const;
+
 /** How many of the deck's words the player has ever matched. */
-export function WordsBar({ played, total, label, className = "" }: { played: number; total: number; label: string; className?: string }) {
+export function WordsBar({
+  played,
+  total,
+  label,
+  className = "",
+}: {
+  played: number;
+  total: number;
+  label: string;
+  className?: string;
+}) {
   const pct = total ? Math.round((played / total) * 100) : 0;
   return (
     <span className={`flex flex-col gap-1.5 ${className}`} title={label}>
@@ -82,49 +94,59 @@ export function DeckPicker({ decks, today }: { decks: DeckMeta[]; today: string 
         <Icon name="arrow-right" className="shrink-0 transition-transform group-hover:translate-x-0.5" />
       </Link>
 
-      {/* Decks */}
-      <ul className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
-        {decks.map((d) => {
-          const stats = progress.decks[d.id];
-          const played = hydrated ? wordsPlayed(progress, d.id, d.wordIds) : 0;
-          return (
-            <li key={d.id}>
-              <Link
-                href={`/play/${d.id}`}
-                className="group relative flex h-full flex-col rounded-3xl border border-line p-4 transition-all hover:-translate-y-0.5 hover:border-fg hover:shadow-soft sm:p-5"
-              >
-                <span className="flex items-start justify-between">
-                  <span className="grid size-10 place-items-center rounded-xl bg-invert text-invert-fg">
-                    <Icon name={d.icon} size={20} />
-                  </span>
-                  {hydrated && stats?.plays ? (
-                    <Stars value={stats.bestStars} size={14} label={t("decks.best", { n: stats.bestStars })} />
-                  ) : hydrated ? (
-                    <span className="chip">{t("decks.new")}</span>
-                  ) : null}
-                </span>
-                <span className="mt-4 flex flex-1 flex-col justify-between gap-3 lg:flex-row lg:items-end">
-                  <span className="min-w-0">
-                    <span className="block text-lg font-semibold leading-tight" lang="cs">
-                      {d.title.cs}
-                    </span>
-                    <span className="block text-sm text-muted">{d.title[sourceLang]}</span>
-                    <span className="mt-3 block whitespace-nowrap text-xs text-muted">
-                      {t("common.words", { n: d.wordCount })} · {d.level}
-                    </span>
-                  </span>
-                  <WordsBar
-                    played={played}
-                    total={d.wordCount}
-                    label={t("decks.wordsPlayed", { n: played, total: d.wordCount })}
-                    className="w-full shrink-0 lg:mb-0.5 lg:w-24"
-                  />
-                </span>
-              </Link>
-            </li>
-          );
-        })}
-      </ul>
+      {/* Decks, grouped by level */}
+      {LEVELS.filter((level) => decks.some((d) => d.level === level)).map((level) => (
+        <section key={level} className="mt-10" aria-labelledby={`level-${level}`}>
+          <h2 id={`level-${level}`} className="flex items-baseline gap-3 text-2xl font-bold tracking-tight">
+            {level}
+            <span className="text-base font-medium text-muted">{t(`decks.level${level}`)}</span>
+          </h2>
+          <ul className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
+            {decks
+              .filter((d) => d.level === level)
+              .map((d) => {
+                const stats = progress.decks[d.id];
+                const played = hydrated ? wordsPlayed(progress, d.id, d.wordIds) : 0;
+                return (
+                  <li key={d.id}>
+                    <Link
+                      href={`/play/${d.id}`}
+                      className="group relative flex h-full flex-col rounded-3xl border border-line p-4 transition-all hover:-translate-y-0.5 hover:border-fg hover:shadow-soft sm:p-5"
+                    >
+                      <span className="flex items-start justify-between">
+                        <span className="grid size-10 place-items-center rounded-xl bg-invert text-invert-fg">
+                          <Icon name={d.icon} size={20} />
+                        </span>
+                        {hydrated && stats?.plays ? (
+                          <Stars value={stats.bestStars} size={14} label={t("decks.best", { n: stats.bestStars })} />
+                        ) : hydrated ? (
+                          <span className="chip">{t("decks.new")}</span>
+                        ) : null}
+                      </span>
+                      <span className="mt-4 flex flex-1 flex-col justify-between gap-3 lg:flex-row lg:items-end">
+                        <span className="min-w-0">
+                          <span className="block text-lg font-semibold leading-tight" lang="cs">
+                            {d.title.cs}
+                          </span>
+                          <span className="block text-sm text-muted">{d.title[sourceLang]}</span>
+                          <span className="mt-3 block whitespace-nowrap text-xs text-muted">
+                            {t("common.words", { n: d.wordCount })}
+                          </span>
+                        </span>
+                        <WordsBar
+                          played={played}
+                          total={d.wordCount}
+                          label={t("decks.wordsPlayed", { n: played, total: d.wordCount })}
+                          className="w-full shrink-0 lg:mb-0.5 lg:w-24"
+                        />
+                      </span>
+                    </Link>
+                  </li>
+                );
+              })}
+          </ul>
+        </section>
+      ))}
 
       {limited && (
         <div className="mt-8 flex flex-col items-start gap-4 rounded-3xl bg-invert p-6 text-invert-fg sm:flex-row sm:items-center sm:justify-between sm:p-8">

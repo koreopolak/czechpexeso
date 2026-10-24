@@ -1,6 +1,6 @@
 {
   "id": "colors",
-  "order": 1,
+  "order": 3,
   "level": "A1",
   "icon": "palette",
   "title": {
@@ -176,6 +176,126 @@
       "uk": "веселка",
       "ru": "радуга",
       "pl": "tęcza"
+    },
+    {
+      "id": "navy-blue",
+      "cs": "tmavě modrý",
+      "en": "navy blue",
+      "uk": "темно-синій",
+      "ru": "тёмно-синий",
+      "pl": "granatowy"
+    },
+    {
+      "id": "light-green",
+      "cs": "světle zelený",
+      "en": "light green",
+      "uk": "світло-зелений",
+      "ru": "светло-зелёный",
+      "pl": "jasnozielony"
+    },
+    {
+      "id": "dark-green",
+      "cs": "tmavě zelený",
+      "en": "dark green",
+      "uk": "темно-зелений",
+      "ru": "тёмно-зелёный",
+      "pl": "ciemnozielony"
+    },
+    {
+      "id": "burgundy",
+      "cs": "vínový",
+      "en": "burgundy",
+      "uk": "бордовий",
+      "ru": "бордовый",
+      "pl": "bordowy"
+    },
+    {
+      "id": "cream-color",
+      "cs": "krémový",
+      "en": "cream (color)",
+      "uk": "кремовий",
+      "ru": "кремовый",
+      "pl": "kremowy"
+    },
+    {
+      "id": "olive-green",
+      "cs": "olivový",
+      "en": "olive green",
+      "uk": "оливковий",
+      "ru": "оливковый",
+      "pl": "oliwkowy"
+    },
+    {
+      "id": "striped",
+      "cs": "pruhovaný",
+      "en": "striped",
+      "uk": "смугастий",
+      "ru": "полосатый",
+      "pl": "w paski"
+    },
+    {
+      "id": "checkered",
+      "cs": "kostkovaný",
+      "en": "checkered",
+      "uk": "картатий",
+      "ru": "клетчатый",
+      "pl": "w kratę"
+    },
+    {
+      "id": "polka-dot",
+      "cs": "puntíkatý",
+      "en": "polka-dot",
+      "uk": "у горошок",
+      "ru": "в горошек",
+      "pl": "w kropki"
+    },
+    {
+      "id": "colorful",
+      "cs": "barevný",
+      "en": "colorful",
+      "uk": "кольоровий",
+      "ru": "цветной",
+      "pl": "kolorowy"
+    },
+    {
+      "id": "plain-one-color",
+      "cs": "jednobarevný",
+      "en": "plain (one color)",
+      "uk": "однотонний",
+      "ru": "однотонный",
+      "pl": "jednokolorowy"
+    },
+    {
+      "id": "transparent",
+      "cs": "průhledný",
+      "en": "transparent",
+      "uk": "прозорий",
+      "ru": "прозрачный",
+      "pl": "przezroczysty"
+    },
+    {
+      "id": "shiny",
+      "cs": "lesklý",
+      "en": "shiny",
+      "uk": "блискучий",
+      "ru": "блестящий",
+      "pl": "błyszczący"
+    },
+    {
+      "id": "matte",
+      "cs": "matný",
+      "en": "matte",
+      "uk": "матовий",
+      "ru": "матовый",
+      "pl": "matowy"
+    },
+    {
+      "id": "colorless",
+      "cs": "bezbarvý",
+      "en": "colorless",
+      "uk": "безбарвний",
+      "ru": "бесцветный",
+      "pl": "bezbarwny"
     }
   ]
 }

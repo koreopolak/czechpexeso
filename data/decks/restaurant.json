@@ -1,0 +1,381 @@
+{
+  "id": "restaurant",
+  "order": 39,
+  "level": "A2",
+  "icon": "fork",
+  "title": {
+    "cs": "Kavárna a restaurace",
+    "en": "Café & Restaurant",
+    "uk": "Кафе та ресторан",
+    "ru": "Кафе и ресторан",
+    "pl": "Kawiarnia i restauracja"
+  },
+  "description": {
+    "en": "Ordering food and drinks when you eat out.",
+    "uk": "Замовлення їжі та напоїв у закладах.",
+    "ru": "Заказ еды и напитков в заведениях.",
+    "pl": "Zamawianie jedzenia i napojów na mieście."
+  },
+  "words": [
+    {
+      "id": "restaurant",
+      "cs": "restaurace",
+      "en": "restaurant",
+      "uk": "ресторан",
+      "ru": "ресторан",
+      "pl": "restauracja"
+    },
+    {
+      "id": "cafe",
+      "cs": "kavárna",
+      "en": "café",
+      "uk": "кав’ярня",
+      "ru": "кафе",
+      "pl": "kawiarnia"
+    },
+    {
+      "id": "pastry-shop",
+      "cs": "cukrárna",
+      "en": "pastry shop",
+      "uk": "кондитерська",
+      "ru": "кондитерская",
+      "pl": "cukiernia"
+    },
+    {
+      "id": "bistro",
+      "cs": "bistro",
+      "en": "bistro",
+      "uk": "бістро",
+      "ru": "бистро",
+      "pl": "bistro"
+    },
+    {
+      "id": "menu",
+      "cs": "jídelní lístek",
+      "en": "menu",
+      "uk": "меню",
+      "ru": "меню",
+      "pl": "menu"
+    },
+    {
+      "id": "drinks-menu",
+      "cs": "nápojový lístek",
+      "en": "drinks menu",
+      "uk": "меню напоїв",
+      "ru": "карта напитков",
+      "pl": "karta napojów"
+    },
+    {
+      "id": "table-for-two",
+      "cs": "stůl pro dva",
+      "en": "table for two",
+      "uk": "столик на двох",
+      "ru": "столик на двоих",
+      "pl": "stolik dla dwóch"
+    },
+    {
+      "id": "starter",
+      "cs": "předkrm",
+      "en": "starter",
+      "uk": "закуска",
+      "ru": "закуска",
+      "pl": "przystawka"
+    },
+    {
+      "id": "main-course",
+      "cs": "hlavní jídlo",
+      "en": "main course",
+      "uk": "основна страва",
+      "ru": "основное блюдо",
+      "pl": "danie główne"
+    },
+    {
+      "id": "dessert",
+      "cs": "dezert",
+      "en": "dessert",
+      "uk": "десерт",
+      "ru": "десерт",
+      "pl": "deser"
+    },
+    {
+      "id": "lunch-special",
+      "cs": "polední menu",
+      "en": "lunch special",
+      "uk": "бізнес-ланч",
+      "ru": "бизнес-ланч",
+      "pl": "zestaw obiadowy"
+    },
+    {
+      "id": "portion",
+      "cs": "porce",
+      "en": "portion",
+      "uk": "порція",
+      "ru": "порция",
+      "pl": "porcja"
+    },
+    {
+      "id": "side-dish",
+      "cs": "příloha",
+      "en": "side dish",
+      "uk": "гарнір",
+      "ru": "гарнир",
+      "pl": "dodatek"
+    },
+    {
+      "id": "bill",
+      "cs": "účet",
+      "en": "bill",
+      "uk": "рахунок",
+      "ru": "счёт",
+      "pl": "rachunek"
+    },
+    {
+      "id": "tip",
+      "cs": "spropitné",
+      "en": "tip",
+      "uk": "чайові",
+      "ru": "чаевые",
+      "pl": "napiwek"
+    },
+    {
+      "id": "waitress",
+      "cs": "servírka",
+      "en": "waitress",
+      "uk": "офіціантка",
+      "ru": "официантка",
+      "pl": "kelnerka"
+    },
+    {
+      "id": "taken-seat",
+      "cs": "obsazeno",
+      "en": "taken (seat)",
+      "uk": "зайнято",
+      "ru": "занято",
+      "pl": "zajęte"
+    },
+    {
+      "id": "free-seat",
+      "cs": "volno",
+      "en": "free (seat)",
+      "uk": "вільно",
+      "ru": "свободно",
+      "pl": "wolne"
+    },
+    {
+      "id": "vegetarian",
+      "cs": "vegetariánský",
+      "en": "vegetarian",
+      "uk": "вегетаріанський",
+      "ru": "вегетарианский",
+      "pl": "wegetariański"
+    },
+    {
+      "id": "vegan",
+      "cs": "veganský",
+      "en": "vegan",
+      "uk": "веганський",
+      "ru": "веганский",
+      "pl": "wegański"
+    },
+    {
+      "id": "gluten-free",
+      "cs": "bezlepkový",
+      "en": "gluten-free",
+      "uk": "безглютеновий",
+      "ru": "безглютеновый",
+      "pl": "bezglutenowy"
+    },
+    {
+      "id": "spicy",
+      "cs": "pálivý",
+      "en": "spicy",
+      "uk": "гострий",
+      "ru": "острый",
+      "pl": "ostry"
+    },
+    {
+      "id": "espresso",
+      "cs": "espresso",
+      "en": "espresso",
+      "uk": "еспресо",
+      "ru": "эспрессо",
+      "pl": "espresso"
+    },
+    {
+      "id": "cappuccino",
+      "cs": "kapučíno",
+      "en": "cappuccino",
+      "uk": "капучино",
+      "ru": "капучино",
+      "pl": "cappuccino"
+    },
+    {
+      "id": "tea-with-lemon",
+      "cs": "čaj s citronem",
+      "en": "tea with lemon",
+      "uk": "чай з лимоном",
+      "ru": "чай с лимоном",
+      "pl": "herbata z cytryną"
+    },
+    {
+      "id": "hot-chocolate",
+      "cs": "horká čokoláda",
+      "en": "hot chocolate",
+      "uk": "гарячий шоколад",
+      "ru": "горячий шоколад",
+      "pl": "gorąca czekolada"
+    },
+    {
+      "id": "draft-beer",
+      "cs": "točené pivo",
+      "en": "draft beer",
+      "uk": "розливне пиво",
+      "ru": "разливное пиво",
+      "pl": "piwo z beczki"
+    },
+    {
+      "id": "glass-of-wine",
+      "cs": "sklenka vína",
+      "en": "glass of wine",
+      "uk": "келих вина",
+      "ru": "бокал вина",
+      "pl": "kieliszek wina"
+    },
+    {
+      "id": "tap-water",
+      "cs": "voda z kohoutku",
+      "en": "tap water",
+      "uk": "вода з-під крана",
+      "ru": "водопроводная вода",
+      "pl": "woda z kranu"
+    },
+    {
+      "id": "with-ice",
+      "cs": "s ledem",
+      "en": "with ice",
+      "uk": "з льодом",
+      "ru": "со льдом",
+      "pl": "z lodem"
+    },
+    {
+      "id": "without-sugar",
+      "cs": "bez cukru",
+      "en": "without sugar",
+      "uk": "без цукру",
+      "ru": "без сахара",
+      "pl": "bez cukru"
+    },
+    {
+      "id": "go-takeaway",
+      "cs": "s sebou",
+      "en": "to go (takeaway)",
+      "uk": "з собою",
+      "ru": "с собой",
+      "pl": "na wynos"
+    },
+    {
+      "id": "beef-sirloin-in-cream-sauce",
+      "cs": "svíčková",
+      "en": "beef sirloin in cream sauce",
+      "uk": "свічкова",
+      "ru": "свичкова",
+      "pl": "polędwica w sosie śmietanowym"
+    },
+    {
+      "id": "goulash",
+      "cs": "guláš",
+      "en": "goulash",
+      "uk": "гуляш",
+      "ru": "гуляш",
+      "pl": "gulasz"
+    },
+    {
+      "id": "schnitzel",
+      "cs": "řízek",
+      "en": "schnitzel",
+      "uk": "шніцель",
+      "ru": "шницель",
+      "pl": "sznycel"
+    },
+    {
+      "id": "fried-cheese",
+      "cs": "smažený sýr",
+      "en": "fried cheese",
+      "uk": "смажений сир",
+      "ru": "жареный сыр",
+      "pl": "smażony ser"
+    },
+    {
+      "id": "trdelnik-pastry",
+      "cs": "trdelník",
+      "en": "trdelník (pastry)",
+      "uk": "трдельник",
+      "ru": "трдельник",
+      "pl": "trdelnik"
+    },
+    {
+      "id": "pork-dumplings-cabbage",
+      "cs": "vepřo knedlo zelo",
+      "en": "pork, dumplings & cabbage",
+      "uk": "свинина з кнедликами і капустою",
+      "ru": "свинина с кнедликами и капустой",
+      "pl": "wieprzowina z knedlikami i kapustą"
+    },
+    {
+      "id": "open-sandwich",
+      "cs": "chlebíček",
+      "en": "open sandwich",
+      "uk": "бутерброд",
+      "ru": "бутерброд",
+      "pl": "kanapka"
+    },
+    {
+      "id": "soup-of-the-day",
+      "cs": "polévka dne",
+      "en": "soup of the day",
+      "uk": "суп дня",
+      "ru": "суп дня",
+      "pl": "zupa dnia"
+    },
+    {
+      "id": "pastry-dessert",
+      "cs": "zákusek",
+      "en": "pastry (dessert)",
+      "uk": "тістечко",
+      "ru": "пирожное",
+      "pl": "ciastko"
+    },
+    {
+      "id": "napkin",
+      "cs": "ubrousek",
+      "en": "napkin",
+      "uk": "серветка",
+      "ru": "салфетка",
+      "pl": "serwetka"
+    },
+    {
+      "id": "toothpick",
+      "cs": "párátko",
+      "en": "toothpick",
+      "uk": "зубочистка",
+      "ru": "зубочистка",
+      "pl": "wykałaczka"
+    },
+    {
+      "id": "i-ll-have",
+      "cs": "dám si...",
+      "en": "I'll have...",
+      "uk": "я візьму...",
+      "ru": "я возьму...",
+      "pl": "poproszę..."
+    },
+    {
+      "id": "i-ll-pay-by-card",
+      "cs": "zaplatím kartou",
+      "en": "I'll pay by card",
+      "uk": "я заплачу карткою",
+      "ru": "я заплачу картой",
+      "pl": "zapłacę kartą"
+    }
+  ]
+}

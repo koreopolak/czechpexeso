@@ -1,7 +1,7 @@
 {
   "id": "travel",
-  "order": 8,
-  "level": "A1",
+  "order": 29,
+  "level": "A2",
   "icon": "plane",
   "title": {
     "cs": "Cestování",
@@ -192,6 +192,198 @@
       "uk": "зупинка",
       "ru": "остановка",
       "pl": "przystanek"
+    },
+    {
+      "id": "travel-agency",
+      "cs": "cestovní kancelář",
+      "en": "travel agency",
+      "uk": "турагентство",
+      "ru": "турагентство",
+      "pl": "biuro podróży"
+    },
+    {
+      "id": "trip",
+      "cs": "výlet",
+      "en": "trip",
+      "uk": "поїздка",
+      "ru": "поездка",
+      "pl": "wycieczka"
+    },
+    {
+      "id": "tourist",
+      "cs": "turista",
+      "en": "tourist",
+      "uk": "турист",
+      "ru": "турист",
+      "pl": "turysta"
+    },
+    {
+      "id": "guide",
+      "cs": "průvodce",
+      "en": "guide",
+      "uk": "гід",
+      "ru": "гид",
+      "pl": "przewodnik"
+    },
+    {
+      "id": "luggage",
+      "cs": "zavazadlo",
+      "en": "luggage",
+      "uk": "багаж",
+      "ru": "багаж",
+      "pl": "bagaż"
+    },
+    {
+      "id": "plane-ticket",
+      "cs": "letenka",
+      "en": "plane ticket",
+      "uk": "авіаквиток",
+      "ru": "авиабилет",
+      "pl": "bilet lotniczy"
+    },
+    {
+      "id": "departure",
+      "cs": "odlet",
+      "en": "departure",
+      "uk": "виліт",
+      "ru": "вылет",
+      "pl": "odlot"
+    },
+    {
+      "id": "arrival",
+      "cs": "přílet",
+      "en": "arrival",
+      "uk": "приліт",
+      "ru": "прилёт",
+      "pl": "przylot"
+    },
+    {
+      "id": "delay",
+      "cs": "zpoždění",
+      "en": "delay",
+      "uk": "затримка",
+      "ru": "задержка",
+      "pl": "opóźnienie"
+    },
+    {
+      "id": "customs",
+      "cs": "celnice",
+      "en": "customs",
+      "uk": "митниця",
+      "ru": "таможня",
+      "pl": "urząd celny"
+    },
+    {
+      "id": "border",
+      "cs": "hranice",
+      "en": "border",
+      "uk": "кордон",
+      "ru": "граница",
+      "pl": "granica"
+    },
+    {
+      "id": "visa",
+      "cs": "vízum",
+      "en": "visa",
+      "uk": "віза",
+      "ru": "виза",
+      "pl": "wiza"
+    },
+    {
+      "id": "reservation",
+      "cs": "rezervace",
+      "en": "reservation",
+      "uk": "бронювання",
+      "ru": "бронирование",
+      "pl": "rezerwacja"
+    },
+    {
+      "id": "platform",
+      "cs": "nástupiště",
+      "en": "platform",
+      "uk": "платформа",
+      "ru": "платформа",
+      "pl": "peron"
+    },
+    {
+      "id": "schedule",
+      "cs": "jízdní řád",
+      "en": "schedule",
+      "uk": "розклад руху",
+      "ru": "расписание движения",
+      "pl": "rozkład jazdy"
+    },
+    {
+      "id": "ticket-office",
+      "cs": "pokladna",
+      "en": "ticket office",
+      "uk": "каса",
+      "ru": "касса",
+      "pl": "kasa"
+    },
+    {
+      "id": "foreigner",
+      "cs": "cizinec",
+      "en": "foreigner",
+      "uk": "іноземець",
+      "ru": "иностранец",
+      "pl": "cudzoziemiec"
+    },
+    {
+      "id": "souvenir",
+      "cs": "suvenýr",
+      "en": "souvenir",
+      "uk": "сувенір",
+      "ru": "сувенир",
+      "pl": "pamiątka"
+    },
+    {
+      "id": "postcard",
+      "cs": "pohlednice",
+      "en": "postcard",
+      "uk": "листівка",
+      "ru": "открытка",
+      "pl": "pocztówka"
+    },
+    {
+      "id": "camera",
+      "cs": "fotoaparát",
+      "en": "camera",
+      "uk": "фотоапарат",
+      "ru": "фотоаппарат",
+      "pl": "aparat fotograficzny"
+    },
+    {
+      "id": "tent",
+      "cs": "stan",
+      "en": "tent",
+      "uk": "намет",
+      "ru": "палатка",
+      "pl": "namiot"
+    },
+    {
+      "id": "campsite",
+      "cs": "kemp",
+      "en": "campsite",
+      "uk": "кемпінг",
+      "ru": "кемпинг",
+      "pl": "kemping"
+    },
+    {
+      "id": "journey",
+      "cs": "cesta",
+      "en": "journey",
+      "uk": "подорож",
+      "ru": "путешествие",
+      "pl": "podróż"
+    },
+    {
+      "id": "direction",
+      "cs": "směr",
+      "en": "direction",
+      "uk": "напрямок",
+      "ru": "направление",
+      "pl": "kierunek"
     }
   ]
 }

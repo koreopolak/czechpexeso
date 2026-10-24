@@ -12,6 +12,8 @@
  *  - no two words share the same text in the same language
  *    (two identical-looking cards that don't match would confuse players)
  *  - each deck has enough words for the largest grid (18 pairs)
+ *  - the same word (same Czech + same English) is not in two decks
+ *  - level is A1, A2 or B1 (the deck screen groups decks by level)
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -30,6 +32,10 @@ const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"));
 const registry = fs.readFileSync(path.join(dir, "index.ts"), "utf8");
 const ids = new Set();
 const orders = new Set();
+/** "czech|english" → deck id, to catch the same word in two decks. */
+const everywhere = new Map();
+const LEVELS = ["A1", "A2", "B1"];
+let totalWords = 0;
 
 for (const file of files) {
   let deck;
@@ -50,6 +56,7 @@ for (const file of files) {
   else if (orders.has(deck.order)) warn.push(`${file}: order ${deck.order} is used by another deck`);
   orders.add(deck.order);
   if (typeof deck.icon !== "string") err(file, "icon must be a string");
+  if (!LEVELS.includes(deck.level)) err(file, `level must be one of ${LEVELS.join(", ")}`);
 
   for (const l of ["cs", ...LANGS]) if (!deck.title?.[l]) err(file, `title.${l} is missing`);
   for (const l of LANGS) if (!deck.description?.[l]) err(file, `description.${l} is missing`);
@@ -78,7 +85,19 @@ for (const file of files) {
       if (seenText[l].has(key)) err(file, `${where}: "${l}" text "${text}" is also used by ${seenText[l].get(key)}`);
       seenText[l].set(key, w.id);
     }
+    const both = `${String(w.cs).toLocaleLowerCase()}|${String(w.en).toLocaleLowerCase()}`;
+    if (everywhere.has(both)) err(file, `${where}: "${w.cs}" (${w.en}) is already in the "${everywhere.get(both)}" deck`);
+    else everywhere.set(both, deck.id);
   });
+  // A Czech card must not look like the translation card of a *different* word
+  // (e.g. Czech "my" = we next to English "my" = possessive).
+  for (const l of LANGS) {
+    deck.words.forEach((w) => {
+      const owner = seenText[l].get(String(w.cs).toLocaleLowerCase());
+      if (owner && owner !== w.id) err(file, `Czech "${w.cs}" (${w.id}) looks like the ${l} card of "${owner}"`);
+    });
+  }
+  totalWords += deck.words.length;
 }
 
 warn.forEach((w) => console.warn(`warning  ${w}`));
@@ -87,4 +106,4 @@ if (errors.length) {
   console.error(`\n${errors.length} problem(s) in ${files.length} deck file(s).`);
   process.exit(1);
 }
-console.log(`All ${files.length} decks are valid.`);
+console.log(`All ${files.length} decks are valid: ${totalWords} words, ${everywhere.size} unique.`);

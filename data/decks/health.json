@@ -1,0 +1,485 @@
+{
+  "id": "health",
+  "order": 44,
+  "level": "A2",
+  "icon": "plus",
+  "title": {
+    "cs": "Zdraví a u lékaře",
+    "en": "Health & Doctor",
+    "uk": "Здоров’я та лікар",
+    "ru": "Здоровье и врач",
+    "pl": "Zdrowie i lekarz"
+  },
+  "description": {
+    "en": "Symptoms, medicine and visiting the doctor.",
+    "uk": "Симптоми, ліки та візит до лікаря.",
+    "ru": "Симптомы, лекарства и визит к врачу.",
+    "pl": "Objawy, leki i wizyta u lekarza."
+  },
+  "words": [
+    {
+      "id": "health",
+      "cs": "zdraví",
+      "en": "health",
+      "uk": "здоров’я",
+      "ru": "здоровье",
+      "pl": "zdrowie"
+    },
+    {
+      "id": "illness",
+      "cs": "nemoc",
+      "en": "illness",
+      "uk": "хвороба",
+      "ru": "болезнь",
+      "pl": "choroba"
+    },
+    {
+      "id": "healthy",
+      "cs": "zdravý",
+      "en": "healthy",
+      "uk": "здоровий",
+      "ru": "здоровый",
+      "pl": "zdrowy"
+    },
+    {
+      "id": "sick",
+      "cs": "nemocný",
+      "en": "sick",
+      "uk": "хворий",
+      "ru": "больной",
+      "pl": "chory"
+    },
+    {
+      "id": "pain",
+      "cs": "bolest",
+      "en": "pain",
+      "uk": "біль",
+      "ru": "боль",
+      "pl": "ból"
+    },
+    {
+      "id": "headache",
+      "cs": "bolest hlavy",
+      "en": "headache",
+      "uk": "головний біль",
+      "ru": "головная боль",
+      "pl": "ból głowy"
+    },
+    {
+      "id": "toothache",
+      "cs": "bolest zubů",
+      "en": "toothache",
+      "uk": "зубний біль",
+      "ru": "зубная боль",
+      "pl": "ból zęba"
+    },
+    {
+      "id": "stomachache",
+      "cs": "bolest břicha",
+      "en": "stomachache",
+      "uk": "біль у животі",
+      "ru": "боль в животе",
+      "pl": "ból brzucha"
+    },
+    {
+      "id": "fever",
+      "cs": "horečka",
+      "en": "fever",
+      "uk": "гарячка",
+      "ru": "жар",
+      "pl": "gorączka"
+    },
+    {
+      "id": "cough",
+      "cs": "kašel",
+      "en": "cough",
+      "uk": "кашель",
+      "ru": "кашель",
+      "pl": "kaszel"
+    },
+    {
+      "id": "runny-nose",
+      "cs": "rýma",
+      "en": "runny nose",
+      "uk": "нежить",
+      "ru": "насморк",
+      "pl": "katar"
+    },
+    {
+      "id": "cold-illness",
+      "cs": "nachlazení",
+      "en": "cold (illness)",
+      "uk": "застуда",
+      "ru": "простуда",
+      "pl": "przeziębienie"
+    },
+    {
+      "id": "flu",
+      "cs": "chřipka",
+      "en": "flu",
+      "uk": "грип",
+      "ru": "грипп",
+      "pl": "grypa"
+    },
+    {
+      "id": "tonsillitis",
+      "cs": "angína",
+      "en": "tonsillitis",
+      "uk": "ангіна",
+      "ru": "ангина",
+      "pl": "angina"
+    },
+    {
+      "id": "diarrhea",
+      "cs": "průjem",
+      "en": "diarrhea",
+      "uk": "діарея",
+      "ru": "диарея",
+      "pl": "biegunka"
+    },
+    {
+      "id": "vomiting",
+      "cs": "zvracení",
+      "en": "vomiting",
+      "uk": "блювання",
+      "ru": "рвота",
+      "pl": "wymioty"
+    },
+    {
+      "id": "nausea",
+      "cs": "nevolnost",
+      "en": "nausea",
+      "uk": "нудота",
+      "ru": "тошнота",
+      "pl": "mdłości"
+    },
+    {
+      "id": "dizziness",
+      "cs": "závrať",
+      "en": "dizziness",
+      "uk": "запаморочення",
+      "ru": "головокружение",
+      "pl": "zawroty głowy"
+    },
+    {
+      "id": "allergy",
+      "cs": "alergie",
+      "en": "allergy",
+      "uk": "алергія",
+      "ru": "аллергия",
+      "pl": "alergia"
+    },
+    {
+      "id": "rash",
+      "cs": "vyrážka",
+      "en": "rash",
+      "uk": "висип",
+      "ru": "сыпь",
+      "pl": "wysypka"
+    },
+    {
+      "id": "injury",
+      "cs": "zranění",
+      "en": "injury",
+      "uk": "травма",
+      "ru": "травма",
+      "pl": "uraz"
+    },
+    {
+      "id": "fracture",
+      "cs": "zlomenina",
+      "en": "fracture",
+      "uk": "перелом",
+      "ru": "перелом",
+      "pl": "złamanie"
+    },
+    {
+      "id": "wound",
+      "cs": "rána",
+      "en": "wound",
+      "uk": "рана",
+      "ru": "рана",
+      "pl": "rana"
+    },
+    {
+      "id": "bruise",
+      "cs": "modřina",
+      "en": "bruise",
+      "uk": "синець",
+      "ru": "синяк",
+      "pl": "siniak"
+    },
+    {
+      "id": "burn",
+      "cs": "popálenina",
+      "en": "burn",
+      "uk": "опік",
+      "ru": "ожог",
+      "pl": "oparzenie"
+    },
+    {
+      "id": "medicine",
+      "cs": "léky",
+      "en": "medicine",
+      "uk": "ліки",
+      "ru": "лекарства",
+      "pl": "leki"
+    },
+    {
+      "id": "pill",
+      "cs": "prášek",
+      "en": "pill",
+      "uk": "пігулка",
+      "ru": "таблетка",
+      "pl": "tabletka"
+    },
+    {
+      "id": "prescription",
+      "cs": "recept",
+      "en": "prescription",
+      "uk": "рецепт",
+      "ru": "рецепт",
+      "pl": "recepta"
+    },
+    {
+      "id": "plaster",
+      "cs": "náplast",
+      "en": "plaster",
+      "uk": "пластир",
+      "ru": "пластырь",
+      "pl": "plaster"
+    },
+    {
+      "id": "bandage",
+      "cs": "obvaz",
+      "en": "bandage",
+      "uk": "бинт",
+      "ru": "бинт",
+      "pl": "bandaż"
+    },
+    {
+      "id": "thermometer",
+      "cs": "teploměr",
+      "en": "thermometer",
+      "uk": "термометр",
+      "ru": "градусник",
+      "pl": "termometr"
+    },
+    {
+      "id": "injection",
+      "cs": "injekce",
+      "en": "injection",
+      "uk": "укол",
+      "ru": "укол",
+      "pl": "zastrzyk"
+    },
+    {
+      "id": "vaccination",
+      "cs": "očkování",
+      "en": "vaccination",
+      "uk": "щеплення",
+      "ru": "прививка",
+      "pl": "szczepienie"
+    },
+    {
+      "id": "examination",
+      "cs": "vyšetření",
+      "en": "examination",
+      "uk": "обстеження",
+      "ru": "обследование",
+      "pl": "badanie"
+    },
+    {
+      "id": "waiting-room",
+      "cs": "čekárna",
+      "en": "waiting room",
+      "uk": "приймальня",
+      "ru": "приёмная",
+      "pl": "poczekalnia"
+    },
+    {
+      "id": "doctor-s-office",
+      "cs": "ordinace",
+      "en": "doctor's office",
+      "uk": "кабінет лікаря",
+      "ru": "кабинет врача",
+      "pl": "gabinet lekarski"
+    },
+    {
+      "id": "surgery",
+      "cs": "operace",
+      "en": "surgery",
+      "uk": "операція",
+      "ru": "операция",
+      "pl": "operacja"
+    },
+    {
+      "id": "patient",
+      "cs": "pacient",
+      "en": "patient",
+      "uk": "пацієнт",
+      "ru": "пациент",
+      "pl": "pacjent"
+    },
+    {
+      "id": "blood-pressure",
+      "cs": "krevní tlak",
+      "en": "blood pressure",
+      "uk": "кров’яний тиск",
+      "ru": "давление",
+      "pl": "ciśnienie krwi"
+    },
+    {
+      "id": "diet",
+      "cs": "dieta",
+      "en": "diet",
+      "uk": "дієта",
+      "ru": "диета",
+      "pl": "dieta"
+    },
+    {
+      "id": "sick-note",
+      "cs": "neschopenka",
+      "en": "sick note",
+      "uk": "лікарняний",
+      "ru": "больничный",
+      "pl": "zwolnienie lekarskie"
+    },
+    {
+      "id": "pregnant",
+      "cs": "těhotná",
+      "en": "pregnant",
+      "uk": "вагітна",
+      "ru": "беременная",
+      "pl": "w ciąży"
+    },
+    {
+      "id": "cough-2",
+      "cs": "kašlat",
+      "en": "to cough",
+      "uk": "кашляти",
+      "ru": "кашлять",
+      "pl": "kaszleć"
+    },
+    {
+      "id": "sneeze",
+      "cs": "kýchat",
+      "en": "to sneeze",
+      "uk": "чхати",
+      "ru": "чихать",
+      "pl": "kichać"
+    },
+    {
+      "id": "hurt",
+      "cs": "bolet",
+      "en": "to hurt",
+      "uk": "боліти",
+      "ru": "болеть",
+      "pl": "boleć"
+    },
+    {
+      "id": "treat",
+      "cs": "léčit",
+      "en": "to treat",
+      "uk": "лікувати",
+      "ru": "лечить",
+      "pl": "leczyć"
+    },
+    {
+      "id": "recover",
+      "cs": "uzdravit se",
+      "en": "to recover",
+      "uk": "одужати",
+      "ru": "выздороветь",
+      "pl": "wyzdrowieć"
+    },
+    {
+      "id": "fall-ill",
+      "cs": "onemocnět",
+      "en": "to fall ill",
+      "uk": "захворіти",
+      "ru": "заболеть",
+      "pl": "zachorować"
+    },
+    {
+      "id": "swallow",
+      "cs": "spolknout",
+      "en": "to swallow",
+      "uk": "ковтнути",
+      "ru": "проглотить",
+      "pl": "połknąć"
+    },
+    {
+      "id": "breathe",
+      "cs": "dýchat",
+      "en": "to breathe",
+      "uk": "дихати",
+      "ru": "дышать",
+      "pl": "oddychać"
+    },
+    {
+      "id": "contact-lenses",
+      "cs": "čočky",
+      "en": "contact lenses",
+      "uk": "контактні лінзи",
+      "ru": "контактные линзы",
+      "pl": "soczewki kontaktowe"
+    },
+    {
+      "id": "wheelchair",
+      "cs": "invalidní vozík",
+      "en": "wheelchair",
+      "uk": "інвалідний візок",
+      "ru": "инвалидная коляска",
+      "pl": "wózek inwalidzki"
+    },
+    {
+      "id": "crutches",
+      "cs": "berle",
+      "en": "crutches",
+      "uk": "милиці",
+      "ru": "костыли",
+      "pl": "kule"
+    },
+    {
+      "id": "cast",
+      "cs": "sádra",
+      "en": "cast",
+      "uk": "гіпс",
+      "ru": "гипс",
+      "pl": "gips"
+    },
+    {
+      "id": "weakness",
+      "cs": "slabost",
+      "en": "weakness",
+      "uk": "слабкість",
+      "ru": "слабость",
+      "pl": "osłabienie"
+    },
+    {
+      "id": "fatigue",
+      "cs": "únava",
+      "en": "fatigue",
+      "uk": "втома",
+      "ru": "усталость",
+      "pl": "zmęczenie"
+    },
+    {
+      "id": "insomnia",
+      "cs": "nespavost",
+      "en": "insomnia",
+      "uk": "безсоння",
+      "ru": "бессонница",
+      "pl": "bezsenność"
+    },
+    {
+      "id": "hygiene",
+      "cs": "hygiena",
+      "en": "hygiene",
+      "uk": "гігієна",
+      "ru": "гигиена",
+      "pl": "higiena"
+    }
+  ]
+}
