@@ -1,0 +1,197 @@
+{
+  "id": "nature",
+  "order": 9,
+  "level": "A1",
+  "icon": "leaf",
+  "title": {
+    "cs": "Příroda",
+    "en": "Nature",
+    "uk": "Природа",
+    "ru": "Природа",
+    "pl": "Przyroda"
+  },
+  "description": {
+    "en": "Weather, landscape and the sky.",
+    "uk": "Погода, краєвиди та небо.",
+    "ru": "Погода, пейзажи и небо.",
+    "pl": "Pogoda, krajobraz i niebo."
+  },
+  "words": [
+    {
+      "id": "tree",
+      "cs": "strom",
+      "en": "tree",
+      "uk": "дерево",
+      "ru": "дерево",
+      "pl": "drzewo"
+    },
+    {
+      "id": "flower",
+      "cs": "květina",
+      "en": "flower",
+      "uk": "квітка",
+      "ru": "цветок",
+      "pl": "kwiat"
+    },
+    {
+      "id": "forest",
+      "cs": "les",
+      "en": "forest",
+      "uk": "ліс",
+      "ru": "лес",
+      "pl": "las"
+    },
+    {
+      "id": "mountain",
+      "cs": "hora",
+      "en": "mountain",
+      "uk": "гора",
+      "ru": "гора",
+      "pl": "góra"
+    },
+    {
+      "id": "river",
+      "cs": "řeka",
+      "en": "river",
+      "uk": "річка",
+      "ru": "река",
+      "pl": "rzeka"
+    },
+    {
+      "id": "lake",
+      "cs": "jezero",
+      "en": "lake",
+      "uk": "озеро",
+      "ru": "озеро",
+      "pl": "jezioro"
+    },
+    {
+      "id": "sea",
+      "cs": "moře",
+      "en": "sea",
+      "uk": "море",
+      "ru": "море",
+      "pl": "morze"
+    },
+    {
+      "id": "sun",
+      "cs": "slunce",
+      "en": "sun",
+      "uk": "сонце",
+      "ru": "солнце",
+      "pl": "słońce"
+    },
+    {
+      "id": "moon",
+      "cs": "měsíc",
+      "en": "moon",
+      "uk": "місяць",
+      "ru": "луна",
+      "pl": "księżyc"
+    },
+    {
+      "id": "star",
+      "cs": "hvězda",
+      "en": "star",
+      "uk": "зірка",
+      "ru": "звезда",
+      "pl": "gwiazda"
+    },
+    {
+      "id": "sky",
+      "cs": "nebe",
+      "en": "sky",
+      "uk": "небо",
+      "ru": "небо",
+      "pl": "niebo"
+    },
+    {
+      "id": "cloud",
+      "cs": "mrak",
+      "en": "cloud",
+      "uk": "хмара",
+      "ru": "облако",
+      "pl": "chmura"
+    },
+    {
+      "id": "rain",
+      "cs": "déšť",
+      "en": "rain",
+      "uk": "дощ",
+      "ru": "дождь",
+      "pl": "deszcz"
+    },
+    {
+      "id": "snow",
+      "cs": "sníh",
+      "en": "snow",
+      "uk": "сніг",
+      "ru": "снег",
+      "pl": "śnieg"
+    },
+    {
+      "id": "wind",
+      "cs": "vítr",
+      "en": "wind",
+      "uk": "вітер",
+      "ru": "ветер",
+      "pl": "wiatr"
+    },
+    {
+      "id": "grass",
+      "cs": "tráva",
+      "en": "grass",
+      "uk": "трава",
+      "ru": "трава",
+      "pl": "trawa"
+    },
+    {
+      "id": "stone",
+      "cs": "kámen",
+      "en": "stone",
+      "uk": "камінь",
+      "ru": "камень",
+      "pl": "kamień"
+    },
+    {
+      "id": "island",
+      "cs": "ostrov",
+      "en": "island",
+      "uk": "острів",
+      "ru": "остров",
+      "pl": "wyspa"
+    },
+    {
+      "id": "field",
+      "cs": "pole",
+      "en": "field",
+      "uk": "поле",
+      "ru": "поле",
+      "pl": "pole"
+    },
+    {
+      "id": "meadow",
+      "cs": "louka",
+      "en": "meadow",
+      "uk": "луг",
+      "ru": "луг",
+      "pl": "łąka"
+    },
+    {
+      "id": "leaf",
+      "cs": "list",
+      "en": "leaf",
+      "uk": "листок",
+      "ru": "лист",
+      "pl": "liść"
+    },
+    {
+      "id": "earth",
+      "cs": "země",
+      "en": "earth",
+      "uk": "земля",
+      "ru": "земля",
+      "pl": "ziemia"
+    }
+  ]
+}

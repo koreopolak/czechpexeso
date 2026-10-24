@@ -1,0 +1,189 @@
+{
+  "id": "home",
+  "order": 11,
+  "level": "A1",
+  "icon": "house",
+  "title": {
+    "cs": "Domov",
+    "en": "Home",
+    "uk": "Дім",
+    "ru": "Дом",
+    "pl": "Dom"
+  },
+  "description": {
+    "en": "Rooms and things at home.",
+    "uk": "Кімнати та речі вдома.",
+    "ru": "Комнаты и вещи дома.",
+    "pl": "Pokoje i rzeczy w domu."
+  },
+  "words": [
+    {
+      "id": "house",
+      "cs": "dům",
+      "en": "house",
+      "uk": "будинок",
+      "ru": "дом",
+      "pl": "dom"
+    },
+    {
+      "id": "apartment",
+      "cs": "byt",
+      "en": "apartment",
+      "uk": "квартира",
+      "ru": "квартира",
+      "pl": "mieszkanie"
+    },
+    {
+      "id": "room",
+      "cs": "pokoj",
+      "en": "room",
+      "uk": "кімната",
+      "ru": "комната",
+      "pl": "pokój"
+    },
+    {
+      "id": "kitchen",
+      "cs": "kuchyně",
+      "en": "kitchen",
+      "uk": "кухня",
+      "ru": "кухня",
+      "pl": "kuchnia"
+    },
+    {
+      "id": "bathroom",
+      "cs": "koupelna",
+      "en": "bathroom",
+      "uk": "ванна кімната",
+      "ru": "ванная",
+      "pl": "łazienka"
+    },
+    {
+      "id": "bedroom",
+      "cs": "ložnice",
+      "en": "bedroom",
+      "uk": "спальня",
+      "ru": "спальня",
+      "pl": "sypialnia"
+    },
+    {
+      "id": "window",
+      "cs": "okno",
+      "en": "window",
+      "uk": "вікно",
+      "ru": "окно",
+      "pl": "okno"
+    },
+    {
+      "id": "door",
+      "cs": "dveře",
+      "en": "door",
+      "uk": "двері",
+      "ru": "дверь",
+      "pl": "drzwi"
+    },
+    {
+      "id": "table",
+      "cs": "stůl",
+      "en": "table",
+      "uk": "стіл",
+      "ru": "стол",
+      "pl": "stół"
+    },
+    {
+      "id": "chair",
+      "cs": "židle",
+      "en": "chair",
+      "uk": "стілець",
+      "ru": "стул",
+      "pl": "krzesło"
+    },
+    {
+      "id": "bed",
+      "cs": "postel",
+      "en": "bed",
+      "uk": "ліжко",
+      "ru": "кровать",
+      "pl": "łóżko"
+    },
+    {
+      "id": "wardrobe",
+      "cs": "skříň",
+      "en": "wardrobe",
+      "uk": "шафа",
+      "ru": "шкаф",
+      "pl": "szafa"
+    },
+    {
+      "id": "lamp",
+      "cs": "lampa",
+      "en": "lamp",
+      "uk": "лампа",
+      "ru": "лампа",
+      "pl": "lampa"
+    },
+    {
+      "id": "key",
+      "cs": "klíč",
+      "en": "key",
+      "uk": "ключ",
+      "ru": "ключ",
+      "pl": "klucz"
+    },
+    {
+      "id": "sofa",
+      "cs": "gauč",
+      "en": "sofa",
+      "uk": "диван",
+      "ru": "диван",
+      "pl": "kanapa"
+    },
+    {
+      "id": "fridge",
+      "cs": "lednička",
+      "en": "fridge",
+      "uk": "холодильник",
+      "ru": "холодильник",
+      "pl": "lodówka"
+    },
+    {
+      "id": "garden",
+      "cs": "zahrada",
+      "en": "garden",
+      "uk": "сад",
+      "ru": "сад",
+      "pl": "ogród"
+    },
+    {
+      "id": "stairs",
+      "cs": "schody",
+      "en": "stairs",
+      "uk": "сходи",
+      "ru": "лестница",
+      "pl": "schody"
+    },
+    {
+      "id": "roof",
+      "cs": "střecha",
+      "en": "roof",
+      "uk": "дах",
+      "ru": "крыша",
+      "pl": "dach"
+    },
+    {
+      "id": "mirror",
+      "cs": "zrcadlo",
+      "en": "mirror",
+      "uk": "дзеркало",
+      "ru": "зеркало",
+      "pl": "lustro"
+    },
+    {
+      "id": "floor",
+      "cs": "podlaha",
+      "en": "floor",
+      "uk": "підлога",
+      "ru": "пол",
+      "pl": "podłoga"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "clothes",
+  "order": 12,
+  "level": "A1",
+  "icon": "shirt",
+  "title": {
+    "cs": "Oblečení",
+    "en": "Clothes",
+    "uk": "Одяг",
+    "ru": "Одежда",
+    "pl": "Ubrania"
+  },
+  "description": {
+    "en": "What we wear every day.",
+    "uk": "Що ми носимо щодня.",
+    "ru": "Что мы носим каждый день.",
+    "pl": "Co nosimy na co dzień."
+  },
+  "words": [
+    {
+      "id": "t-shirt",
+      "cs": "tričko",
+      "en": "T-shirt",
+      "uk": "футболка",
+      "ru": "футболка",
+      "pl": "koszulka"
+    },
+    {
+      "id": "shirt",
+      "cs": "košile",
+      "en": "shirt",
+      "uk": "сорочка",
+      "ru": "рубашка",
+      "pl": "koszula"
+    },
+    {
+      "id": "pants",
+      "cs": "kalhoty",
+      "en": "pants",
+      "uk": "штани",
+      "ru": "брюки",
+      "pl": "spodnie"
+    },
+    {
+      "id": "skirt",
+      "cs": "sukně",
+      "en": "skirt",
+      "uk": "спідниця",
+      "ru": "юбка",
+      "pl": "spódnica"
+    },
+    {
+      "id": "dress",
+      "cs": "šaty",
+      "en": "dress",
+      "uk": "сукня",
+      "ru": "платье",
+      "pl": "sukienka"
+    },
+    {
+      "id": "jacket",
+      "cs": "bunda",
+      "en": "jacket",
+      "uk": "куртка",
+      "ru": "куртка",
+      "pl": "kurtka"
+    },
+    {
+      "id": "coat",
+      "cs": "kabát",
+      "en": "coat",
+      "uk": "пальто",
+      "ru": "пальто",
+      "pl": "płaszcz"
+    },
+    {
+      "id": "sweater",
+      "cs": "svetr",
+      "en": "sweater",
+      "uk": "светр",
+      "ru": "свитер",
+      "pl": "sweter"
+    },
+    {
+      "id": "shoes",
+      "cs": "boty",
+      "en": "shoes",
+      "uk": "взуття",
+      "ru": "обувь",
+      "pl": "buty"
+    },
+    {
+      "id": "socks",
+      "cs": "ponožky",
+      "en": "socks",
+      "uk": "шкарпетки",
+      "ru": "носки",
+      "pl": "skarpetki"
+    },
+    {
+      "id": "cap",
+      "cs": "čepice",
+      "en": "cap",
+      "uk": "шапка",
+      "ru": "шапка",
+      "pl": "czapka"
+    },
+    {
+      "id": "hat",
+      "cs": "klobouk",
+      "en": "hat",
+      "uk": "капелюх",
+      "ru": "шляпа",
+      "pl": "kapelusz"
+    },
+    {
+      "id": "scarf",
+      "cs": "šála",
+      "en": "scarf",
+      "uk": "шарф",
+      "ru": "шарф",
+      "pl": "szalik"
+    },
+    {
+      "id": "gloves",
+      "cs": "rukavice",
+      "en": "gloves",
+      "uk": "рукавички",
+      "ru": "перчатки",
+      "pl": "rękawiczki"
+    },
+    {
+      "id": "belt",
+      "cs": "pásek",
+      "en": "belt",
+      "uk": "пасок",
+      "ru": "ремень",
+      "pl": "pasek"
+    },
+    {
+      "id": "shorts",
+      "cs": "kraťasy",
+      "en": "shorts",
+      "uk": "шорти",
+      "ru": "шорты",
+      "pl": "szorty"
+    },
+    {
+      "id": "pajamas",
+      "cs": "pyžamo",
+      "en": "pajamas",
+      "uk": "піжама",
+      "ru": "пижама",
+      "pl": "piżama"
+    },
+    {
+      "id": "swimsuit",
+      "cs": "plavky",
+      "en": "swimsuit",
+      "uk": "купальник",
+      "ru": "купальник",
+      "pl": "strój kąpielowy"
+    },
+    {
+      "id": "jeans",
+      "cs": "džíny",
+      "en": "jeans",
+      "uk": "джинси",
+      "ru": "джинсы",
+      "pl": "dżinsy"
+    },
+    {
+      "id": "pocket",
+      "cs": "kapsa",
+      "en": "pocket",
+      "uk": "кишеня",
+      "ru": "карман",
+      "pl": "kieszeń"
+    },
+    {
+      "id": "umbrella",
+      "cs": "deštník",
+      "en": "umbrella",
+      "uk": "парасолька",
+      "ru": "зонт",
+      "pl": "parasol"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "numbers",
+  "order": 2,
+  "level": "A1",
+  "icon": "hash",
+  "title": {
+    "cs": "Čísla",
+    "en": "Numbers",
+    "uk": "Числа",
+    "ru": "Числа",
+    "pl": "Liczby"
+  },
+  "description": {
+    "en": "Count from one to a thousand.",
+    "uk": "Рахуємо від одного до тисячі.",
+    "ru": "Считаем от одного до тысячи.",
+    "pl": "Liczymy od jednego do tysiąca."
+  },
+  "words": [
+    {
+      "id": "one",
+      "cs": "jeden",
+      "en": "one",
+      "uk": "один",
+      "ru": "один",
+      "pl": "jeden"
+    },
+    {
+      "id": "two",
+      "cs": "dva",
+      "en": "two",
+      "uk": "два",
+      "ru": "два",
+      "pl": "dwa"
+    },
+    {
+      "id": "three",
+      "cs": "tři",
+      "en": "three",
+      "uk": "три",
+      "ru": "три",
+      "pl": "trzy"
+    },
+    {
+      "id": "four",
+      "cs": "čtyři",
+      "en": "four",
+      "uk": "чотири",
+      "ru": "четыре",
+      "pl": "cztery"
+    },
+    {
+      "id": "five",
+      "cs": "pět",
+      "en": "five",
+      "uk": "п’ять",
+      "ru": "пять",
+      "pl": "pięć"
+    },
+    {
+      "id": "six",
+      "cs": "šest",
+      "en": "six",
+      "uk": "шість",
+      "ru": "шесть",
+      "pl": "sześć"
+    },
+    {
+      "id": "seven",
+      "cs": "sedm",
+      "en": "seven",
+      "uk": "сім",
+      "ru": "семь",
+      "pl": "siedem"
+    },
+    {
+      "id": "eight",
+      "cs": "osm",
+      "en": "eight",
+      "uk": "вісім",
+      "ru": "восемь",
+      "pl": "osiem"
+    },
+    {
+      "id": "nine",
+      "cs": "devět",
+      "en": "nine",
+      "uk": "дев’ять",
+      "ru": "девять",
+      "pl": "dziewięć"
+    },
+    {
+      "id": "ten",
+      "cs": "deset",
+      "en": "ten",
+      "uk": "десять",
+      "ru": "десять",
+      "pl": "dziesięć"
+    },
+    {
+      "id": "eleven",
+      "cs": "jedenáct",
+      "en": "eleven",
+      "uk": "одинадцять",
+      "ru": "одиннадцать",
+      "pl": "jedenaście"
+    },
+    {
+      "id": "twelve",
+      "cs": "dvanáct",
+      "en": "twelve",
+      "uk": "дванадцять",
+      "ru": "двенадцать",
+      "pl": "dwanaście"
+    },
+    {
+      "id": "thirteen",
+      "cs": "třináct",
+      "en": "thirteen",
+      "uk": "тринадцять",
+      "ru": "тринадцать",
+      "pl": "trzynaście"
+    },
+    {
+      "id": "fourteen",
+      "cs": "čtrnáct",
+      "en": "fourteen",
+      "uk": "чотирнадцять",
+      "ru": "четырнадцать",
+      "pl": "czternaście"
+    },
+    {
+      "id": "fifteen",
+      "cs": "patnáct",
+      "en": "fifteen",
+      "uk": "п’ятнадцять",
+      "ru": "пятнадцать",
+      "pl": "piętnaście"
+    },
+    {
+      "id": "twenty",
+      "cs": "dvacet",
+      "en": "twenty",
+      "uk": "двадцять",
+      "ru": "двадцать",
+      "pl": "dwadzieścia"
+    },
+    {
+      "id": "thirty",
+      "cs": "třicet",
+      "en": "thirty",
+      "uk": "тридцять",
+      "ru": "тридцать",
+      "pl": "trzydzieści"
+    },
+    {
+      "id": "fifty",
+      "cs": "padesát",
+      "en": "fifty",
+      "uk": "п’ятдесят",
+      "ru": "пятьдесят",
+      "pl": "pięćdziesiąt"
+    },
+    {
+      "id": "one-hundred",
+      "cs": "sto",
+      "en": "one hundred",
+      "uk": "сто",
+      "ru": "сто",
+      "pl": "sto"
+    },
+    {
+      "id": "one-thousand",
+      "cs": "tisíc",
+      "en": "one thousand",
+      "uk": "тисяча",
+      "ru": "тысяча",
+      "pl": "tysiąc"
+    }
+  ]
+}

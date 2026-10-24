@@ -1,0 +1,181 @@
+{
+  "id": "family",
+  "order": 5,
+  "level": "A1",
+  "icon": "people",
+  "title": {
+    "cs": "Rodina",
+    "en": "Family",
+    "uk": "Сім’я",
+    "ru": "Семья",
+    "pl": "Rodzina"
+  },
+  "description": {
+    "en": "Parents, grandparents and relatives.",
+    "uk": "Батьки, бабусі, дідусі та родичі.",
+    "ru": "Родители, бабушки, дедушки и родственники.",
+    "pl": "Rodzice, dziadkowie i krewni."
+  },
+  "words": [
+    {
+      "id": "mom",
+      "cs": "máma",
+      "en": "mom",
+      "uk": "мама",
+      "ru": "мама",
+      "pl": "mama"
+    },
+    {
+      "id": "dad",
+      "cs": "táta",
+      "en": "dad",
+      "uk": "тато",
+      "ru": "папа",
+      "pl": "tata"
+    },
+    {
+      "id": "parents",
+      "cs": "rodiče",
+      "en": "parents",
+      "uk": "батьки",
+      "ru": "родители",
+      "pl": "rodzice"
+    },
+    {
+      "id": "son",
+      "cs": "syn",
+      "en": "son",
+      "uk": "син",
+      "ru": "сын",
+      "pl": "syn"
+    },
+    {
+      "id": "daughter",
+      "cs": "dcera",
+      "en": "daughter",
+      "uk": "донька",
+      "ru": "дочь",
+      "pl": "córka"
+    },
+    {
+      "id": "brother",
+      "cs": "bratr",
+      "en": "brother",
+      "uk": "брат",
+      "ru": "брат",
+      "pl": "brat"
+    },
+    {
+      "id": "sister",
+      "cs": "sestra",
+      "en": "sister",
+      "uk": "сестра",
+      "ru": "сестра",
+      "pl": "siostra"
+    },
+    {
+      "id": "grandmother",
+      "cs": "babička",
+      "en": "grandmother",
+      "uk": "бабуся",
+      "ru": "бабушка",
+      "pl": "babcia"
+    },
+    {
+      "id": "grandfather",
+      "cs": "dědeček",
+      "en": "grandfather",
+      "uk": "дідусь",
+      "ru": "дедушка",
+      "pl": "dziadek"
+    },
+    {
+      "id": "husband",
+      "cs": "manžel",
+      "en": "husband",
+      "uk": "чоловік",
+      "ru": "муж",
+      "pl": "mąż"
+    },
+    {
+      "id": "wife",
+      "cs": "manželka",
+      "en": "wife",
+      "uk": "дружина",
+      "ru": "жена",
+      "pl": "żona"
+    },
+    {
+      "id": "uncle",
+      "cs": "strýc",
+      "en": "uncle",
+      "uk": "дядько",
+      "ru": "дядя",
+      "pl": "wujek"
+    },
+    {
+      "id": "aunt",
+      "cs": "teta",
+      "en": "aunt",
+      "uk": "тітка",
+      "ru": "тётя",
+      "pl": "ciocia"
+    },
+    {
+      "id": "male-cousin",
+      "cs": "bratranec",
+      "en": "male cousin",
+      "uk": "двоюрідний брат",
+      "ru": "двоюродный брат",
+      "pl": "kuzyn"
+    },
+    {
+      "id": "female-cousin",
+      "cs": "sestřenice",
+      "en": "female cousin",
+      "uk": "двоюрідна сестра",
+      "ru": "двоюродная сестра",
+      "pl": "kuzynka"
+    },
+    {
+      "id": "child",
+      "cs": "dítě",
+      "en": "child",
+      "uk": "дитина",
+      "ru": "ребёнок",
+      "pl": "dziecko"
+    },
+    {
+      "id": "baby",
+      "cs": "miminko",
+      "en": "baby",
+      "uk": "немовля",
+      "ru": "младенец",
+      "pl": "niemowlę"
+    },
+    {
+      "id": "family",
+      "cs": "rodina",
+      "en": "family",
+      "uk": "сім’я",
+      "ru": "семья",
+      "pl": "rodzina"
+    },
+    {
+      "id": "grandson",
+      "cs": "vnuk",
+      "en": "grandson",
+      "uk": "онук",
+      "ru": "внук",
+      "pl": "wnuk"
+    },
+    {
+      "id": "granddaughter",
+      "cs": "vnučka",
+      "en": "granddaughter",
+      "uk": "онука",
+      "ru": "внучка",
+      "pl": "wnuczka"
+    }
+  ]
+}

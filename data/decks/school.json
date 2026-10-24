@@ -1,0 +1,181 @@
+{
+  "id": "school",
+  "order": 6,
+  "level": "A1",
+  "icon": "book",
+  "title": {
+    "cs": "Škola",
+    "en": "School",
+    "uk": "Школа",
+    "ru": "Школа",
+    "pl": "Szkoła"
+  },
+  "description": {
+    "en": "Classroom objects and school life.",
+    "uk": "Шкільне приладдя та шкільне життя.",
+    "ru": "Школьные принадлежности и школьная жизнь.",
+    "pl": "Przybory szkolne i życie w szkole."
+  },
+  "words": [
+    {
+      "id": "school",
+      "cs": "škola",
+      "en": "school",
+      "uk": "школа",
+      "ru": "школа",
+      "pl": "szkoła"
+    },
+    {
+      "id": "teacher",
+      "cs": "učitel",
+      "en": "teacher",
+      "uk": "вчитель",
+      "ru": "учитель",
+      "pl": "nauczyciel"
+    },
+    {
+      "id": "pupil",
+      "cs": "žák",
+      "en": "pupil",
+      "uk": "учень",
+      "ru": "ученик",
+      "pl": "uczeń"
+    },
+    {
+      "id": "book",
+      "cs": "kniha",
+      "en": "book",
+      "uk": "книга",
+      "ru": "книга",
+      "pl": "książka"
+    },
+    {
+      "id": "notebook",
+      "cs": "sešit",
+      "en": "notebook",
+      "uk": "зошит",
+      "ru": "тетрадь",
+      "pl": "zeszyt"
+    },
+    {
+      "id": "pen",
+      "cs": "pero",
+      "en": "pen",
+      "uk": "ручка",
+      "ru": "ручка",
+      "pl": "długopis"
+    },
+    {
+      "id": "pencil",
+      "cs": "tužka",
+      "en": "pencil",
+      "uk": "олівець",
+      "ru": "карандаш",
+      "pl": "ołówek"
+    },
+    {
+      "id": "school-desk",
+      "cs": "lavice",
+      "en": "school desk",
+      "uk": "парта",
+      "ru": "парта",
+      "pl": "ławka"
+    },
+    {
+      "id": "blackboard",
+      "cs": "tabule",
+      "en": "blackboard",
+      "uk": "дошка",
+      "ru": "доска",
+      "pl": "tablica"
+    },
+    {
+      "id": "classroom",
+      "cs": "třída",
+      "en": "classroom",
+      "uk": "клас",
+      "ru": "класс",
+      "pl": "klasa"
+    },
+    {
+      "id": "lesson",
+      "cs": "lekce",
+      "en": "lesson",
+      "uk": "урок",
+      "ru": "урок",
+      "pl": "lekcja"
+    },
+    {
+      "id": "homework",
+      "cs": "domácí úkol",
+      "en": "homework",
+      "uk": "домашнє завдання",
+      "ru": "домашнее задание",
+      "pl": "zadanie domowe"
+    },
+    {
+      "id": "exam",
+      "cs": "zkouška",
+      "en": "exam",
+      "uk": "іспит",
+      "ru": "экзамен",
+      "pl": "egzamin"
+    },
+    {
+      "id": "ruler",
+      "cs": "pravítko",
+      "en": "ruler",
+      "uk": "лінійка",
+      "ru": "линейка",
+      "pl": "linijka"
+    },
+    {
+      "id": "backpack",
+      "cs": "batoh",
+      "en": "backpack",
+      "uk": "рюкзак",
+      "ru": "рюкзак",
+      "pl": "plecak"
+    },
+    {
+      "id": "eraser",
+      "cs": "guma",
+      "en": "eraser",
+      "uk": "гумка",
+      "ru": "ластик",
+      "pl": "gumka"
+    },
+    {
+      "id": "scissors",
+      "cs": "nůžky",
+      "en": "scissors",
+      "uk": "ножиці",
+      "ru": "ножницы",
+      "pl": "nożyczki"
+    },
+    {
+      "id": "math",
+      "cs": "matematika",
+      "en": "math",
+      "uk": "математика",
+      "ru": "математика",
+      "pl": "matematyka"
+    },
+    {
+      "id": "break",
+      "cs": "přestávka",
+      "en": "break",
+      "uk": "перерва",
+      "ru": "перемена",
+      "pl": "przerwa"
+    },
+    {
+      "id": "grade",
+      "cs": "známka",
+      "en": "grade",
+      "uk": "оцінка",
+      "ru": "оценка",
+      "pl": "ocena"
+    }
+  ]
+}

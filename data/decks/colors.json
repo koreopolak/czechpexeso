@@ -1,0 +1,181 @@
+{
+  "id": "colors",
+  "order": 1,
+  "level": "A1",
+  "icon": "palette",
+  "title": {
+    "cs": "Barvy",
+    "en": "Colors",
+    "uk": "Кольори",
+    "ru": "Цвета",
+    "pl": "Kolory"
+  },
+  "description": {
+    "en": "Basic colors and shades.",
+    "uk": "Основні кольори та відтінки.",
+    "ru": "Основные цвета и оттенки.",
+    "pl": "Podstawowe kolory i odcienie."
+  },
+  "words": [
+    {
+      "id": "red",
+      "cs": "červený",
+      "en": "red",
+      "uk": "червоний",
+      "ru": "красный",
+      "pl": "czerwony"
+    },
+    {
+      "id": "blue",
+      "cs": "modrý",
+      "en": "blue",
+      "uk": "синій",
+      "ru": "синий",
+      "pl": "niebieski"
+    },
+    {
+      "id": "green",
+      "cs": "zelený",
+      "en": "green",
+      "uk": "зелений",
+      "ru": "зелёный",
+      "pl": "zielony"
+    },
+    {
+      "id": "yellow",
+      "cs": "žlutý",
+      "en": "yellow",
+      "uk": "жовтий",
+      "ru": "жёлтый",
+      "pl": "żółty"
+    },
+    {
+      "id": "black",
+      "cs": "černý",
+      "en": "black",
+      "uk": "чорний",
+      "ru": "чёрный",
+      "pl": "czarny"
+    },
+    {
+      "id": "white",
+      "cs": "bílý",
+      "en": "white",
+      "uk": "білий",
+      "ru": "белый",
+      "pl": "biały"
+    },
+    {
+      "id": "gray",
+      "cs": "šedý",
+      "en": "gray",
+      "uk": "сірий",
+      "ru": "серый",
+      "pl": "szary"
+    },
+    {
+      "id": "brown",
+      "cs": "hnědý",
+      "en": "brown",
+      "uk": "коричневий",
+      "ru": "коричневый",
+      "pl": "brązowy"
+    },
+    {
+      "id": "orange",
+      "cs": "oranžový",
+      "en": "orange",
+      "uk": "помаранчевий",
+      "ru": "оранжевый",
+      "pl": "pomarańczowy"
+    },
+    {
+      "id": "pink",
+      "cs": "růžový",
+      "en": "pink",
+      "uk": "рожевий",
+      "ru": "розовый",
+      "pl": "różowy"
+    },
+    {
+      "id": "purple",
+      "cs": "fialový",
+      "en": "purple",
+      "uk": "фіолетовий",
+      "ru": "фиолетовый",
+      "pl": "fioletowy"
+    },
+    {
+      "id": "light-blue",
+      "cs": "světle modrý",
+      "en": "light blue",
+      "uk": "блакитний",
+      "ru": "голубой",
+      "pl": "błękitny"
+    },
+    {
+      "id": "golden",
+      "cs": "zlatý",
+      "en": "golden",
+      "uk": "золотий",
+      "ru": "золотой",
+      "pl": "złoty"
+    },
+    {
+      "id": "silver",
+      "cs": "stříbrný",
+      "en": "silver",
+      "uk": "срібний",
+      "ru": "серебряный",
+      "pl": "srebrny"
+    },
+    {
+      "id": "beige",
+      "cs": "béžový",
+      "en": "beige",
+      "uk": "бежевий",
+      "ru": "бежевый",
+      "pl": "beżowy"
+    },
+    {
+      "id": "turquoise",
+      "cs": "tyrkysový",
+      "en": "turquoise",
+      "uk": "бірюзовий",
+      "ru": "бирюзовый",
+      "pl": "turkusowy"
+    },
+    {
+      "id": "dark",
+      "cs": "tmavý",
+      "en": "dark",
+      "uk": "темний",
+      "ru": "тёмный",
+      "pl": "ciemny"
+    },
+    {
+      "id": "light",
+      "cs": "světlý",
+      "en": "light",
+      "uk": "світлий",
+      "ru": "светлый",
+      "pl": "jasny"
+    },
+    {
+      "id": "color",
+      "cs": "barva",
+      "en": "color",
+      "uk": "колір",
+      "ru": "цвет",
+      "pl": "kolor"
+    },
+    {
+      "id": "rainbow",
+      "cs": "duha",
+      "en": "rainbow",
+      "uk": "веселка",
+      "ru": "радуга",
+      "pl": "tęcza"
+    }
+  ]
+}

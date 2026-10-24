@@ -1,0 +1,197 @@
+{
+  "id": "animals",
+  "order": 3,
+  "level": "A1",
+  "icon": "paw",
+  "title": {
+    "cs": "Zvířata",
+    "en": "Animals",
+    "uk": "Тварини",
+    "ru": "Животные",
+    "pl": "Zwierzęta"
+  },
+  "description": {
+    "en": "Pets, farm and wild animals.",
+    "uk": "Домашні та дикі тварини.",
+    "ru": "Домашние и дикие животные.",
+    "pl": "Zwierzęta domowe, gospodarskie i dzikie."
+  },
+  "words": [
+    {
+      "id": "dog",
+      "cs": "pes",
+      "en": "dog",
+      "uk": "собака",
+      "ru": "собака",
+      "pl": "pies"
+    },
+    {
+      "id": "cat",
+      "cs": "kočka",
+      "en": "cat",
+      "uk": "кіт",
+      "ru": "кошка",
+      "pl": "kot"
+    },
+    {
+      "id": "horse",
+      "cs": "kůň",
+      "en": "horse",
+      "uk": "кінь",
+      "ru": "лошадь",
+      "pl": "koń"
+    },
+    {
+      "id": "cow",
+      "cs": "kráva",
+      "en": "cow",
+      "uk": "корова",
+      "ru": "корова",
+      "pl": "krowa"
+    },
+    {
+      "id": "pig",
+      "cs": "prase",
+      "en": "pig",
+      "uk": "свиня",
+      "ru": "свинья",
+      "pl": "świnia"
+    },
+    {
+      "id": "sheep",
+      "cs": "ovce",
+      "en": "sheep",
+      "uk": "вівця",
+      "ru": "овца",
+      "pl": "owca"
+    },
+    {
+      "id": "goat",
+      "cs": "koza",
+      "en": "goat",
+      "uk": "коза",
+      "ru": "коза",
+      "pl": "koza"
+    },
+    {
+      "id": "hen",
+      "cs": "slepice",
+      "en": "hen",
+      "uk": "курка",
+      "ru": "курица",
+      "pl": "kura"
+    },
+    {
+      "id": "duck",
+      "cs": "kachna",
+      "en": "duck",
+      "uk": "качка",
+      "ru": "утка",
+      "pl": "kaczka"
+    },
+    {
+      "id": "rabbit",
+      "cs": "králík",
+      "en": "rabbit",
+      "uk": "кролик",
+      "ru": "кролик",
+      "pl": "królik"
+    },
+    {
+      "id": "mouse",
+      "cs": "myš",
+      "en": "mouse",
+      "uk": "миша",
+      "ru": "мышь",
+      "pl": "mysz"
+    },
+    {
+      "id": "bird",
+      "cs": "pták",
+      "en": "bird",
+      "uk": "птах",
+      "ru": "птица",
+      "pl": "ptak"
+    },
+    {
+      "id": "fish",
+      "cs": "ryba",
+      "en": "fish",
+      "uk": "риба",
+      "ru": "рыба",
+      "pl": "ryba"
+    },
+    {
+      "id": "bear",
+      "cs": "medvěd",
+      "en": "bear",
+      "uk": "ведмідь",
+      "ru": "медведь",
+      "pl": "niedźwiedź"
+    },
+    {
+      "id": "wolf",
+      "cs": "vlk",
+      "en": "wolf",
+      "uk": "вовк",
+      "ru": "волк",
+      "pl": "wilk"
+    },
+    {
+      "id": "fox",
+      "cs": "liška",
+      "en": "fox",
+      "uk": "лисиця",
+      "ru": "лиса",
+      "pl": "lis"
+    },
+    {
+      "id": "lion",
+      "cs": "lev",
+      "en": "lion",
+      "uk": "лев",
+      "ru": "лев",
+      "pl": "lew"
+    },
+    {
+      "id": "elephant",
+      "cs": "slon",
+      "en": "elephant",
+      "uk": "слон",
+      "ru": "слон",
+      "pl": "słoń"
+    },
+    {
+      "id": "monkey",
+      "cs": "opice",
+      "en": "monkey",
+      "uk": "мавпа",
+      "ru": "обезьяна",
+      "pl": "małpa"
+    },
+    {
+      "id": "frog",
+      "cs": "žába",
+      "en": "frog",
+      "uk": "жаба",
+      "ru": "лягушка",
+      "pl": "żaba"
+    },
+    {
+      "id": "hedgehog",
+      "cs": "ježek",
+      "en": "hedgehog",
+      "uk": "їжак",
+      "ru": "ёжик",
+      "pl": "jeż"
+    },
+    {
+      "id": "owl",
+      "cs": "sova",
+      "en": "owl",
+      "uk": "сова",
+      "ru": "сова",
+      "pl": "sowa"
+    }
+  ]
+}

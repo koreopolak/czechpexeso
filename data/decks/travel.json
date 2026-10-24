@@ -1,0 +1,197 @@
+{
+  "id": "travel",
+  "order": 8,
+  "level": "A1",
+  "icon": "plane",
+  "title": {
+    "cs": "Cestování",
+    "en": "Travel",
+    "uk": "Подорожі",
+    "ru": "Путешествия",
+    "pl": "Podróże"
+  },
+  "description": {
+    "en": "Tickets, transport and directions.",
+    "uk": "Квитки, транспорт і напрямки.",
+    "ru": "Билеты, транспорт и направления.",
+    "pl": "Bilety, transport i kierunki."
+  },
+  "words": [
+    {
+      "id": "train",
+      "cs": "vlak",
+      "en": "train",
+      "uk": "потяг",
+      "ru": "поезд",
+      "pl": "pociąg"
+    },
+    {
+      "id": "bus",
+      "cs": "autobus",
+      "en": "bus",
+      "uk": "автобус",
+      "ru": "автобус",
+      "pl": "autobus"
+    },
+    {
+      "id": "airplane",
+      "cs": "letadlo",
+      "en": "airplane",
+      "uk": "літак",
+      "ru": "самолёт",
+      "pl": "samolot"
+    },
+    {
+      "id": "airport",
+      "cs": "letiště",
+      "en": "airport",
+      "uk": "аеропорт",
+      "ru": "аэропорт",
+      "pl": "lotnisko"
+    },
+    {
+      "id": "train-station",
+      "cs": "nádraží",
+      "en": "train station",
+      "uk": "вокзал",
+      "ru": "вокзал",
+      "pl": "dworzec"
+    },
+    {
+      "id": "ticket",
+      "cs": "jízdenka",
+      "en": "ticket",
+      "uk": "квиток",
+      "ru": "билет",
+      "pl": "bilet"
+    },
+    {
+      "id": "passport",
+      "cs": "pas",
+      "en": "passport",
+      "uk": "паспорт",
+      "ru": "паспорт",
+      "pl": "paszport"
+    },
+    {
+      "id": "suitcase",
+      "cs": "kufr",
+      "en": "suitcase",
+      "uk": "валіза",
+      "ru": "чемодан",
+      "pl": "walizka"
+    },
+    {
+      "id": "hotel",
+      "cs": "hotel",
+      "en": "hotel",
+      "uk": "готель",
+      "ru": "гостиница",
+      "pl": "hotel"
+    },
+    {
+      "id": "map",
+      "cs": "mapa",
+      "en": "map",
+      "uk": "мапа",
+      "ru": "карта",
+      "pl": "mapa"
+    },
+    {
+      "id": "street",
+      "cs": "ulice",
+      "en": "street",
+      "uk": "вулиця",
+      "ru": "улица",
+      "pl": "ulica"
+    },
+    {
+      "id": "bridge",
+      "cs": "most",
+      "en": "bridge",
+      "uk": "міст",
+      "ru": "мост",
+      "pl": "most"
+    },
+    {
+      "id": "car",
+      "cs": "auto",
+      "en": "car",
+      "uk": "автомобіль",
+      "ru": "машина",
+      "pl": "samochód"
+    },
+    {
+      "id": "bicycle",
+      "cs": "kolo",
+      "en": "bicycle",
+      "uk": "велосипед",
+      "ru": "велосипед",
+      "pl": "rower"
+    },
+    {
+      "id": "tram",
+      "cs": "tramvaj",
+      "en": "tram",
+      "uk": "трамвай",
+      "ru": "трамвай",
+      "pl": "tramwaj"
+    },
+    {
+      "id": "vacation",
+      "cs": "dovolená",
+      "en": "vacation",
+      "uk": "відпустка",
+      "ru": "отпуск",
+      "pl": "urlop"
+    },
+    {
+      "id": "left",
+      "cs": "vlevo",
+      "en": "left",
+      "uk": "ліворуч",
+      "ru": "налево",
+      "pl": "w lewo"
+    },
+    {
+      "id": "right",
+      "cs": "vpravo",
+      "en": "right",
+      "uk": "праворуч",
+      "ru": "направо",
+      "pl": "w prawo"
+    },
+    {
+      "id": "straight-ahead",
+      "cs": "rovně",
+      "en": "straight ahead",
+      "uk": "прямо",
+      "ru": "прямо",
+      "pl": "prosto"
+    },
+    {
+      "id": "exit",
+      "cs": "východ",
+      "en": "exit",
+      "uk": "вихід",
+      "ru": "выход",
+      "pl": "wyjście"
+    },
+    {
+      "id": "entrance",
+      "cs": "vchod",
+      "en": "entrance",
+      "uk": "вхід",
+      "ru": "вход",
+      "pl": "wejście"
+    },
+    {
+      "id": "bus-stop",
+      "cs": "zastávka",
+      "en": "bus stop",
+      "uk": "зупинка",
+      "ru": "остановка",
+      "pl": "przystanek"
+    }
+  ]
+}

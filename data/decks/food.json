@@ -1,0 +1,197 @@
+{
+  "id": "food",
+  "order": 4,
+  "level": "A1",
+  "icon": "cup",
+  "title": {
+    "cs": "Jídlo a pití",
+    "en": "Food & Drinks",
+    "uk": "Їжа та напої",
+    "ru": "Еда и напитки",
+    "pl": "Jedzenie i napoje"
+  },
+  "description": {
+    "en": "Everyday food and drinks.",
+    "uk": "Повсякденна їжа та напої.",
+    "ru": "Повседневная еда и напитки.",
+    "pl": "Codzienne jedzenie i napoje."
+  },
+  "words": [
+    {
+      "id": "bread",
+      "cs": "chléb",
+      "en": "bread",
+      "uk": "хліб",
+      "ru": "хлеб",
+      "pl": "chleb"
+    },
+    {
+      "id": "water",
+      "cs": "voda",
+      "en": "water",
+      "uk": "вода",
+      "ru": "вода",
+      "pl": "woda"
+    },
+    {
+      "id": "milk",
+      "cs": "mléko",
+      "en": "milk",
+      "uk": "молоко",
+      "ru": "молоко",
+      "pl": "mleko"
+    },
+    {
+      "id": "cheese",
+      "cs": "sýr",
+      "en": "cheese",
+      "uk": "сир",
+      "ru": "сыр",
+      "pl": "ser"
+    },
+    {
+      "id": "butter",
+      "cs": "máslo",
+      "en": "butter",
+      "uk": "вершкове масло",
+      "ru": "сливочное масло",
+      "pl": "masło"
+    },
+    {
+      "id": "egg",
+      "cs": "vejce",
+      "en": "egg",
+      "uk": "яйце",
+      "ru": "яйцо",
+      "pl": "jajko"
+    },
+    {
+      "id": "meat",
+      "cs": "maso",
+      "en": "meat",
+      "uk": "м’ясо",
+      "ru": "мясо",
+      "pl": "mięso"
+    },
+    {
+      "id": "apple",
+      "cs": "jablko",
+      "en": "apple",
+      "uk": "яблуко",
+      "ru": "яблоко",
+      "pl": "jabłko"
+    },
+    {
+      "id": "pear",
+      "cs": "hruška",
+      "en": "pear",
+      "uk": "груша",
+      "ru": "груша",
+      "pl": "gruszka"
+    },
+    {
+      "id": "potato",
+      "cs": "brambora",
+      "en": "potato",
+      "uk": "картопля",
+      "ru": "картофель",
+      "pl": "ziemniak"
+    },
+    {
+      "id": "soup",
+      "cs": "polévka",
+      "en": "soup",
+      "uk": "суп",
+      "ru": "суп",
+      "pl": "zupa"
+    },
+    {
+      "id": "rice",
+      "cs": "rýže",
+      "en": "rice",
+      "uk": "рис",
+      "ru": "рис",
+      "pl": "ryż"
+    },
+    {
+      "id": "salt",
+      "cs": "sůl",
+      "en": "salt",
+      "uk": "сіль",
+      "ru": "соль",
+      "pl": "sól"
+    },
+    {
+      "id": "sugar",
+      "cs": "cukr",
+      "en": "sugar",
+      "uk": "цукор",
+      "ru": "сахар",
+      "pl": "cukier"
+    },
+    {
+      "id": "coffee",
+      "cs": "káva",
+      "en": "coffee",
+      "uk": "кава",
+      "ru": "кофе",
+      "pl": "kawa"
+    },
+    {
+      "id": "tea",
+      "cs": "čaj",
+      "en": "tea",
+      "uk": "чай",
+      "ru": "чай",
+      "pl": "herbata"
+    },
+    {
+      "id": "juice",
+      "cs": "džus",
+      "en": "juice",
+      "uk": "сік",
+      "ru": "сок",
+      "pl": "sok"
+    },
+    {
+      "id": "cake",
+      "cs": "dort",
+      "en": "cake",
+      "uk": "торт",
+      "ru": "торт",
+      "pl": "tort"
+    },
+    {
+      "id": "tomato",
+      "cs": "rajče",
+      "en": "tomato",
+      "uk": "помідор",
+      "ru": "помидор",
+      "pl": "pomidor"
+    },
+    {
+      "id": "carrot",
+      "cs": "mrkev",
+      "en": "carrot",
+      "uk": "морква",
+      "ru": "морковь",
+      "pl": "marchew"
+    },
+    {
+      "id": "ice-cream",
+      "cs": "zmrzlina",
+      "en": "ice cream",
+      "uk": "морозиво",
+      "ru": "мороженое",
+      "pl": "lody"
+    },
+    {
+      "id": "fruit",
+      "cs": "ovoce",
+      "en": "fruit",
+      "uk": "фрукти",
+      "ru": "фрукты",
+      "pl": "owoce"
+    }
+  ]
+}

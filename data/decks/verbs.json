@@ -1,0 +1,213 @@
+{
+  "id": "verbs",
+  "order": 7,
+  "level": "A1",
+  "icon": "spark",
+  "title": {
+    "cs": "Základní slovesa",
+    "en": "Basic Verbs",
+    "uk": "Базові дієслова",
+    "ru": "Базовые глаголы",
+    "pl": "Podstawowe czasowniki"
+  },
+  "description": {
+    "en": "The most useful Czech verbs.",
+    "uk": "Найкорисніші чеські дієслова.",
+    "ru": "Самые полезные чешские глаголы.",
+    "pl": "Najprzydatniejsze czeskie czasowniki."
+  },
+  "words": [
+    {
+      "id": "be",
+      "cs": "být",
+      "en": "to be",
+      "uk": "бути",
+      "ru": "быть",
+      "pl": "być"
+    },
+    {
+      "id": "have",
+      "cs": "mít",
+      "en": "to have",
+      "uk": "мати",
+      "ru": "иметь",
+      "pl": "mieć"
+    },
+    {
+      "id": "go-on-foot",
+      "cs": "jít",
+      "en": "to go (on foot)",
+      "uk": "йти",
+      "ru": "идти",
+      "pl": "iść"
+    },
+    {
+      "id": "go-by-vehicle",
+      "cs": "jet",
+      "en": "to go (by vehicle)",
+      "uk": "їхати",
+      "ru": "ехать",
+      "pl": "jechać"
+    },
+    {
+      "id": "eat",
+      "cs": "jíst",
+      "en": "to eat",
+      "uk": "їсти",
+      "ru": "есть",
+      "pl": "jeść"
+    },
+    {
+      "id": "drink",
+      "cs": "pít",
+      "en": "to drink",
+      "uk": "пити",
+      "ru": "пить",
+      "pl": "pić"
+    },
+    {
+      "id": "sleep",
+      "cs": "spát",
+      "en": "to sleep",
+      "uk": "спати",
+      "ru": "спать",
+      "pl": "spać"
+    },
+    {
+      "id": "speak",
+      "cs": "mluvit",
+      "en": "to speak",
+      "uk": "говорити",
+      "ru": "говорить",
+      "pl": "mówić"
+    },
+    {
+      "id": "see",
+      "cs": "vidět",
+      "en": "to see",
+      "uk": "бачити",
+      "ru": "видеть",
+      "pl": "widzieć"
+    },
+    {
+      "id": "hear",
+      "cs": "slyšet",
+      "en": "to hear",
+      "uk": "чути",
+      "ru": "слышать",
+      "pl": "słyszeć"
+    },
+    {
+      "id": "do",
+      "cs": "dělat",
+      "en": "to do",
+      "uk": "робити",
+      "ru": "делать",
+      "pl": "robić"
+    },
+    {
+      "id": "write",
+      "cs": "psát",
+      "en": "to write",
+      "uk": "писати",
+      "ru": "писать",
+      "pl": "pisać"
+    },
+    {
+      "id": "read",
+      "cs": "číst",
+      "en": "to read",
+      "uk": "читати",
+      "ru": "читать",
+      "pl": "czytać"
+    },
+    {
+      "id": "play",
+      "cs": "hrát",
+      "en": "to play",
+      "uk": "грати",
+      "ru": "играть",
+      "pl": "grać"
+    },
+    {
+      "id": "know",
+      "cs": "vědět",
+      "en": "to know",
+      "uk": "знати",
+      "ru": "знать",
+      "pl": "wiedzieć"
+    },
+    {
+      "id": "want",
+      "cs": "chtít",
+      "en": "to want",
+      "uk": "хотіти",
+      "ru": "хотеть",
+      "pl": "chcieć"
+    },
+    {
+      "id": "be-able",
+      "cs": "moct",
+      "en": "to be able",
+      "uk": "могти",
+      "ru": "мочь",
+      "pl": "móc"
+    },
+    {
+      "id": "give",
+      "cs": "dát",
+      "en": "to give",
+      "uk": "дати",
+      "ru": "дать",
+      "pl": "dać"
+    },
+    {
+      "id": "take",
+      "cs": "vzít",
+      "en": "to take",
+      "uk": "взяти",
+      "ru": "взять",
+      "pl": "wziąć"
+    },
+    {
+      "id": "live",
+      "cs": "bydlet",
+      "en": "to live",
+      "uk": "жити",
+      "ru": "жить",
+      "pl": "mieszkać"
+    },
+    {
+      "id": "work",
+      "cs": "pracovat",
+      "en": "to work",
+      "uk": "працювати",
+      "ru": "работать",
+      "pl": "pracować"
+    },
+    {
+      "id": "learn",
+      "cs": "učit se",
+      "en": "to learn",
+      "uk": "вчитися",
+      "ru": "учиться",
+      "pl": "uczyć się"
+    },
+    {
+      "id": "love",
+      "cs": "milovat",
+      "en": "to love",
+      "uk": "любити",
+      "ru": "любить",
+      "pl": "kochać"
+    },
+    {
+      "id": "understand",
+      "cs": "rozumět",
+      "en": "to understand",
+      "uk": "розуміти",
+      "ru": "понимать",
+      "pl": "rozumieć"
+    }
+  ]
+}

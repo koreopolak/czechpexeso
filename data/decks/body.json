@@ -1,0 +1,181 @@
+{
+  "id": "body",
+  "order": 10,
+  "level": "A1",
+  "icon": "hand",
+  "title": {
+    "cs": "Tělo",
+    "en": "Body",
+    "uk": "Тіло",
+    "ru": "Тело",
+    "pl": "Ciało"
+  },
+  "description": {
+    "en": "Parts of the body.",
+    "uk": "Частини тіла.",
+    "ru": "Части тела.",
+    "pl": "Części ciała."
+  },
+  "words": [
+    {
+      "id": "head",
+      "cs": "hlava",
+      "en": "head",
+      "uk": "голова",
+      "ru": "голова",
+      "pl": "głowa"
+    },
+    {
+      "id": "eye",
+      "cs": "oko",
+      "en": "eye",
+      "uk": "око",
+      "ru": "глаз",
+      "pl": "oko"
+    },
+    {
+      "id": "ear",
+      "cs": "ucho",
+      "en": "ear",
+      "uk": "вухо",
+      "ru": "ухо",
+      "pl": "ucho"
+    },
+    {
+      "id": "nose",
+      "cs": "nos",
+      "en": "nose",
+      "uk": "ніс",
+      "ru": "нос",
+      "pl": "nos"
+    },
+    {
+      "id": "mouth",
+      "cs": "ústa",
+      "en": "mouth",
+      "uk": "рот",
+      "ru": "рот",
+      "pl": "usta"
+    },
+    {
+      "id": "tooth",
+      "cs": "zub",
+      "en": "tooth",
+      "uk": "зуб",
+      "ru": "зуб",
+      "pl": "ząb"
+    },
+    {
+      "id": "hair",
+      "cs": "vlasy",
+      "en": "hair",
+      "uk": "волосся",
+      "ru": "волосы",
+      "pl": "włosy"
+    },
+    {
+      "id": "hand",
+      "cs": "ruka",
+      "en": "hand",
+      "uk": "рука",
+      "ru": "рука",
+      "pl": "ręka"
+    },
+    {
+      "id": "leg",
+      "cs": "noha",
+      "en": "leg",
+      "uk": "нога",
+      "ru": "нога",
+      "pl": "noga"
+    },
+    {
+      "id": "finger",
+      "cs": "prst",
+      "en": "finger",
+      "uk": "палець",
+      "ru": "палец",
+      "pl": "palec"
+    },
+    {
+      "id": "heart",
+      "cs": "srdce",
+      "en": "heart",
+      "uk": "серце",
+      "ru": "сердце",
+      "pl": "serce"
+    },
+    {
+      "id": "belly",
+      "cs": "břicho",
+      "en": "belly",
+      "uk": "живіт",
+      "ru": "живот",
+      "pl": "brzuch"
+    },
+    {
+      "id": "back",
+      "cs": "záda",
+      "en": "back",
+      "uk": "спина",
+      "ru": "спина",
+      "pl": "plecy"
+    },
+    {
+      "id": "neck",
+      "cs": "krk",
+      "en": "neck",
+      "uk": "шия",
+      "ru": "шея",
+      "pl": "szyja"
+    },
+    {
+      "id": "shoulder",
+      "cs": "rameno",
+      "en": "shoulder",
+      "uk": "плече",
+      "ru": "плечо",
+      "pl": "ramię"
+    },
+    {
+      "id": "knee",
+      "cs": "koleno",
+      "en": "knee",
+      "uk": "коліно",
+      "ru": "колено",
+      "pl": "kolano"
+    },
+    {
+      "id": "face",
+      "cs": "obličej",
+      "en": "face",
+      "uk": "обличчя",
+      "ru": "лицо",
+      "pl": "twarz"
+    },
+    {
+      "id": "tongue",
+      "cs": "jazyk",
+      "en": "tongue",
+      "uk": "язик",
+      "ru": "язык",
+      "pl": "język"
+    },
+    {
+      "id": "body",
+      "cs": "tělo",
+      "en": "body",
+      "uk": "тіло",
+      "ru": "тело",
+      "pl": "ciało"
+    },
+    {
+      "id": "elbow",
+      "cs": "loket",
+      "en": "elbow",
+      "uk": "лікоть",
+      "ru": "локоть",
+      "pl": "łokieć"
+    }
+  ]
+}
