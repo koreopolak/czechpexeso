@@ -27,9 +27,10 @@ export default function PrivacyPage() {
         board size and sound. We do not use advertising or tracking cookies.
       </p>
 
-      <h2>If you create an account</h2>
+      <h2>If you sign in</h2>
+      <p>Sign-in uses your Google account. We receive only what Google shares for sign-in: your name and email address.</p>
       <ul>
-        <li>Your email address, to sign you in with a one-time link or code — or, if you choose Google, the name and email address Google shares with us.</li>
+        <li>Your email address, to identify your account.</li>
         <li>Authentication cookies that keep you signed in.</li>
         <li>Your subscription status (plan, renewal date) if you buy Premium.</li>
         <li>A copy of your game progress (scores, history and words played), so it can sync between your devices.</li>
@@ -44,10 +45,9 @@ export default function PrivacyPage() {
       <h2>Service providers</h2>
       <ul>
         <li>Supabase — account sign-in and database (hosted in the EU).</li>
-        <li>Google — only if you choose “Continue with Google” to sign in.</li>
+        <li>Google — sign-in only.</li>
         <li>Stripe — payments and invoices.</li>
         <li>Vercel — website hosting.</li>
-        <li>Our email provider — delivery of sign-in emails.</li>
       </ul>
       <p>Each provider processes data on our behalf under a data processing agreement.</p>
 

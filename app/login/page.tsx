@@ -25,7 +25,7 @@ export default async function LoginPage({ searchParams }: { searchParams: Promis
             <p className="mt-3 text-center text-muted">{t("login.why")}</p>
             {params.error && (
               <p className="mt-6 rounded-2xl bg-surface p-4 text-sm" role="alert">
-                {params.error === "oauth" ? t("common.error") : t("login.linkError")}
+                {t("common.error")}
               </p>
             )}
             <LoginForm next={next} />

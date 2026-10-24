@@ -11,7 +11,7 @@ with a light Premium subscription through Stripe.
 - **Sound:** synthesised flip / match / mismatch / win effects (no audio files)
 - **Progress:** words played per deck, stars, accuracy, history, daily streak; export/import as JSON
 - **Free vs Premium:** free players get 5 games a day; Premium adds unlimited games, the daily challenge, full history and a Premium badge
-- **Accounts:** Google sign-in or passwordless email (magic link + 6-digit code) with Supabase; progress syncs across devices for every signed-in player
+- **Accounts:** "Continue with Google" sign-in through Supabase (no passwords, no email service to run); progress syncs across devices for every signed-in player
 - **Payments:** Stripe Checkout (monthly + yearly), Customer Portal, webhooks
 - **SEO:** server-rendered landing page, metadata, Open Graph image, JSON-LD, sitemap, robots
 
@@ -60,7 +60,7 @@ app/                     Next.js App Router pages and API routes
   api/stripe/*           checkout, success, portal, webhook
   api/progress           Cloud progress sync (signed-in players)
   api/account/delete     Account deletion (GDPR)
-  auth/callback|signout  Google / magic-link landing, sign-out
+  auth/callback|signout  Google sign-in landing, sign-out
 components/              UI (game/ holds the board, cards, win dialog)
 data/decks/*.json        Word decks + index.ts registry
 lib/
@@ -93,7 +93,6 @@ Copy `.env.example` to `.env.local` locally; add the same keys in Vercel → Pro
 | `NEXT_PUBLIC_LEGAL_COMPANY_ID` | optional | Company ID (IČO) if you have one |
 | `NEXT_PUBLIC_SUPABASE_URL` | accounts | Supabase → Project Settings → API → Project URL |
 | `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` | accounts | Supabase → API keys → publishable key (or legacy `NEXT_PUBLIC_SUPABASE_ANON_KEY`) |
-| `NEXT_PUBLIC_AUTH_GOOGLE` | optional | `true` shows "Continue with Google" (set up the provider first, section 4) |
 | `SUPABASE_SECRET_KEY` | accounts + payments | Supabase → API keys → secret key (or legacy `SUPABASE_SERVICE_ROLE_KEY`). **Server only.** |
 | `STRIPE_SECRET_KEY` | payments | Stripe → Developers → API keys (`sk_test_…` / `sk_live_…`) |
 | `STRIPE_WEBHOOK_SECRET` | payments | Stripe → Webhooks → your endpoint → Signing secret (`whsec_…`) |
@@ -108,44 +107,41 @@ both price IDs and the Supabase secret key are set. `NEXT_PUBLIC_*` values are b
 
 ---
 
-## 4. Connect Supabase (accounts, subscription status, cloud sync)
+## 4. Connect Google sign-in (accounts, subscription status, cloud sync)
 
-1. Create a project at [supabase.com](https://supabase.com) — pick an **EU region** (e.g. Frankfurt) for GDPR.
-2. **SQL Editor → New query**, paste `supabase/migrations/0001_init.sql`, run it.
-3. **Authentication → Sign In / Providers → Email**: keep Email enabled. "Confirm email" can stay on (the magic link confirms it).
+Sign-in is **Google only**, handled by Supabase. There are no passwords and no sign-in emails, so you don't need an email service.
+
+**Supabase (about 5 minutes)**
+
+1. Create a project at [supabase.com](https://supabase.com). Pick an **EU region** (e.g. Frankfurt) for GDPR.
+2. **SQL Editor → New query**: paste `supabase/migrations/0001_init.sql` and run it.
+3. **Authentication → Sign In / Providers → Email**: turn **off**. The site doesn't use it, and leaving it off stops anyone
+   from creating email accounts through Supabase's API.
 4. **Authentication → URL Configuration**
-   - Site URL: `http://localhost:3000` for now (later `https://czechpexeso.net`)
-   - Redirect URLs: `http://localhost:3000/auth/callback**` (later also `https://czechpexeso.net/auth/callback**`)
-5. **Authentication → Emails → Templates**: use this body for **both** "Magic Link" and "Confirm signup", so the link
-   works in any browser and the email also contains a code (useful when the email is opened on another device):
+   - Site URL: `https://czechpexeso.net`
+   - Redirect URLs: `https://czechpexeso.net/auth/callback**` and, for local testing, `http://localhost:3000/auth/callback**`
+5. **Project Settings → API keys**: copy the Project URL, the publishable key and the secret key (see the table in section 3).
+   Locally they go in `.env.local`; on the live site, in Vercel → Settings → Environment Variables (then redeploy).
 
-   ```html
-   <h2>Sign in to Czech Pexeso</h2>
-   <p><a href="{{ .RedirectTo }}&token_hash={{ .TokenHash }}&type=email">Sign in</a></p>
-   <p>Or enter this code on the sign-in page: <strong>{{ .Token }}</strong></p>
-   <p>If you didn't ask to sign in, you can ignore this email.</p>
-   ```
+**Google (about 10 minutes)**
 
-6. Copy the URL and keys into `.env.local` (see table above) and restart `npm run dev`.
+1. [Google Cloud Console](https://console.cloud.google.com) → create a project (e.g. *Czech Pexeso*).
+2. **APIs & Services → OAuth consent screen** (called *Google Auth Platform* in newer consoles): User type **External**,
+   app name *Czech Pexeso*, your support email, authorized domain `czechpexeso.net`. Only the basic scopes are needed
+   (`openid`, `email`, `profile`), so Google doesn't require a review. Add links to
+   `https://czechpexeso.net/privacy` and `https://czechpexeso.net/terms`, then **Publish app** (until then only test
+   users you list can sign in).
+3. **Credentials → Create credentials → OAuth client ID → Web application**
+   - Authorized JavaScript origins: `https://czechpexeso.net` and `http://localhost:3000`
+   - Authorized redirect URI: the callback URL shown in Supabase on the Google provider page,
+     `https://<your-project-ref>.supabase.co/auth/v1/callback`
+4. Copy the **Client ID** and **Client secret** into Supabase → **Authentication → Sign In / Providers → Google**, enable it, save.
 
-### Sign in with Google
+The sign-in page now shows **Continue with Google**. Progress syncs for every signed-in player; set
+`FEATURES.syncForEveryone = false` in `lib/config.ts` to make sync Premium-only.
 
-1. [Google Cloud Console](https://console.cloud.google.com) → create a project → **APIs & Services → OAuth consent screen**:
-   External, app name *Czech Pexeso*, your support email, authorized domain `czechpexeso.net`, scopes `openid`,
-   `email`, `profile`. Publish the app when you go live.
-2. **Credentials → Create credentials → OAuth client ID → Web application**
-   - Authorized JavaScript origins: `http://localhost:3000` and `https://czechpexeso.net`
-   - Authorized redirect URI: `https://<your-project-ref>.supabase.co/auth/v1/callback` (shown in Supabase on the Google provider page)
-3. Supabase → **Authentication → Sign In / Providers → Google** → enable, paste the Client ID and Client Secret, save.
-4. Set `NEXT_PUBLIC_AUTH_GOOGLE=true` and restart. The sign-in page now shows **Continue with Google**.
-
-Someone who signs in with Google and later with email (same address) gets the same account — Supabase links them.
-Progress syncs for every signed-in player; set `FEATURES.syncForEveryone = false` in `lib/config.ts` to make sync Premium-only.
-
-> **Email delivery:** Supabase's built-in mailer is for testing only (tiny hourly limit, and it only delivers to your
-> team's addresses). Before launch, add custom SMTP under **Authentication → Emails → SMTP Settings** — e.g.
-> [Resend](https://resend.com) (free tier is plenty to start): verify `czechpexeso.net` in Resend, then use host
-> `smtp.resend.com`, port `465`, user `resend`, password = your Resend API key, sender `login@czechpexeso.net`.
+> Google's sign-in screen shows the Supabase address (`…supabase.co`) as the site being signed in to. To show
+> `czechpexeso.net` instead, Supabase offers a paid custom-domain add-on; it's optional.
 
 ---
 
@@ -259,8 +255,8 @@ At your domain registrar, create the DNS records Vercel shows — usually an `A`
 
 **4. Point Supabase at the real domain**
 Authentication → URL Configuration: Site URL `https://czechpexeso.net`; Redirect URLs add
-`https://czechpexeso.net/auth/callback**`. Set up custom SMTP (section 4) and verify the domain with your email provider
-(it gives you SPF/DKIM DNS records to add at the registrar).
+`https://czechpexeso.net/auth/callback**`. In Google Cloud, make sure `https://czechpexeso.net` is an authorized
+JavaScript origin and the consent screen is published.
 
 **5. Switch Stripe to live**
 Activate your Stripe account (business details, bank account, statement descriptor e.g. `CZECHPEXESO`, support email).
@@ -274,7 +270,7 @@ Put the live `STRIPE_SECRET_KEY`, `STRIPE_WEBHOOK_SECRET` and price IDs into Ver
 **6. Final checks**
 - Fill in `NEXT_PUBLIC_LEGAL_*` and have the Privacy Policy and Terms reviewed (templates in `app/privacy`, `app/terms`).
 - Make `hello@czechpexeso.net` receive mail (registrar forwarding, Cloudflare Email Routing, or your mail provider).
-- Smoke test on the live site: sign in with Google, by link and by code, subscribe, play past the free limit, play the daily challenge,
+- Smoke test on the live site: sign in with Google on two devices, check progress syncs, subscribe, play past the free limit, play the daily challenge,
   cancel in the portal, delete a test account.
 - Google Search Console: verify the domain (DNS TXT) and submit `https://czechpexeso.net/sitemap.xml`.
 

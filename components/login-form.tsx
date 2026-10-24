@@ -1,15 +1,11 @@
 "use client";
 
 /**
- * Sign-in with Google, or passwordless email: Supabase emails a magic link
- * *and* a one-time code. The link is easiest on the same device; the code works
- * when the email is opened somewhere else (or in an in-app browser).
+ * Sign-in with Google (via Supabase). There is no email/password sign-in, so
+ * no email service has to be set up — see README section 4.
  */
-import { useRouter } from "next/navigation";
 import { useState } from "react";
-import { Icon } from "@/components/icons";
 import { useT } from "@/components/providers";
-import { googleAuthEnabled } from "@/lib/env";
 import { supabaseBrowser } from "@/lib/supabase/client";
 
 function GoogleLogo() {
@@ -25,10 +21,6 @@ function GoogleLogo() {
 
 export function LoginForm({ next }: { next: string }) {
   const t = useT();
-  const router = useRouter();
-  const [step, setStep] = useState<"email" | "code">("email");
-  const [email, setEmail] = useState("");
-  const [code, setCode] = useState("");
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -48,125 +40,19 @@ export function LoginForm({ next }: { next: string }) {
     }
   };
 
-  const send = async (e: React.FormEvent) => {
-    e.preventDefault();
-    const supabase = supabaseBrowser();
-    if (!supabase) return;
-    setBusy(true);
-    setError(null);
-    const { error } = await supabase.auth.signInWithOtp({
-      email: email.trim(),
-      options: { emailRedirectTo: `${window.location.origin}/auth/callback?next=${encodeURIComponent(next)}` },
-    });
-    setBusy(false);
-    if (error) {
-      setError(error.status === 429 ? t("login.rateLimited") : t("common.error"));
-      return;
-    }
-    setStep("code");
-  };
-
-  const verify = async (e: React.FormEvent) => {
-    e.preventDefault();
-    const supabase = supabaseBrowser();
-    if (!supabase) return;
-    setBusy(true);
-    setError(null);
-    const { error } = await supabase.auth.verifyOtp({ email: email.trim(), token: code.trim(), type: "email" });
-    if (error) {
-      setBusy(false);
-      setError(t("login.badCode"));
-      return;
-    }
-    router.replace(next);
-    router.refresh();
-  };
-
-  if (step === "code") {
-    return (
-      <form onSubmit={verify} className="mt-8">
-        <div className="mx-auto grid size-14 place-items-center rounded-2xl bg-surface">
-          <Icon name="check" size={26} />
-        </div>
-        <h2 className="mt-4 text-center text-2xl font-semibold">{t("login.sentTitle")}</h2>
-        <p className="mt-2 text-center text-muted">{t("login.sentText", { email: email.trim() })}</p>
-        <label htmlFor="code" className="sr-only">
-          {t("login.code")}
-        </label>
-        <input
-          id="code"
-          className="field mt-6 text-center text-2xl font-semibold tracking-[0.4em] tabular-nums"
-          inputMode="numeric"
-          autoComplete="one-time-code"
-          pattern="[0-9]{6,10}"
-          maxLength={10}
-          placeholder="••••••"
-          value={code}
-          onChange={(e) => setCode(e.target.value.replace(/\D/g, ""))}
-          required
-          autoFocus
-        />
-        {error && (
-          <p className="mt-3 text-sm text-danger" role="alert">
-            {error}
-          </p>
-        )}
-        <button type="submit" className="btn mt-4 w-full" disabled={busy || code.length < 6}>
-          {busy ? t("login.verifying") : t("login.verify")}
-        </button>
-        <button
-          type="button"
-          className="btn btn-ghost mt-2 w-full"
-          onClick={() => {
-            setStep("email");
-            setCode("");
-            setError(null);
-          }}
-        >
-          {t("login.again")}
-        </button>
-      </form>
-    );
-  }
-
   return (
-    <form onSubmit={send} className="mt-8">
-      {googleAuthEnabled && (
-        <>
-          <button type="button" className="btn btn-outline w-full gap-3" onClick={google} disabled={busy}>
-            <GoogleLogo />
-            {t("login.google")}
-          </button>
-          <div className="my-6 flex items-center gap-3 text-sm text-muted" aria-hidden="true">
-            <span className="h-px flex-1 bg-line" />
-            {t("login.or")}
-            <span className="h-px flex-1 bg-line" />
-          </div>
-        </>
-      )}
-      <label htmlFor="email" className="text-sm font-medium">
-        {t("login.email")}
-      </label>
-      <p className="mt-0.5 text-sm text-muted">{t("login.lead")}</p>
-      <input
-        id="email"
-        type="email"
-        className="field mt-2"
-        autoComplete="email"
-        placeholder="you@example.com"
-        value={email}
-        onChange={(e) => setEmail(e.target.value)}
-        required
-        autoFocus
-      />
+    <div className="mt-8">
+      <button type="button" className="btn btn-lg w-full gap-3" onClick={google} disabled={busy}>
+        <span className="grid size-7 place-items-center rounded-full bg-white">
+          <GoogleLogo />
+        </span>
+        {t("login.google")}
+      </button>
       {error && (
-        <p className="mt-3 text-sm text-danger" role="alert">
+        <p className="mt-3 text-center text-sm text-danger" role="alert">
           {error}
         </p>
       )}
-      <button type="submit" className="btn mt-4 w-full" disabled={busy}>
-        {busy ? t("login.sending") : t("login.send")}
-      </button>
-    </form>
+    </div>
   );
 }
