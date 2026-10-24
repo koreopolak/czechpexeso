@@ -8,21 +8,12 @@ const securityHeaders = [
   { key: "Strict-Transport-Security", value: "max-age=63072000; includeSubDomains; preload" },
 ];
 
+// The www → czechpexeso.net redirect lives in Vercel (Project → Settings →
+// Domains), not here: two redirect rules that disagree cause an endless loop.
 const nextConfig: NextConfig = {
   poweredByHeader: false,
   async headers() {
     return [{ source: "/:path*", headers: securityHeaders }];
-  },
-  async redirects() {
-    // www → apex, so there is one canonical domain for SEO.
-    return [
-      {
-        source: "/:path*",
-        has: [{ type: "host", value: "www.czechpexeso.net" }],
-        destination: "https://czechpexeso.net/:path*",
-        permanent: true,
-      },
-    ];
   },
 };
 

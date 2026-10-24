@@ -250,7 +250,10 @@ Vercel → Add New → Project → import the repository → add all environment
 `NEXT_PUBLIC_SITE_URL=https://czechpexeso.net`) → Deploy.
 
 **3. Connect the domain**
-Vercel → Project → Settings → Domains → add `czechpexeso.net` and `www.czechpexeso.net` (set www to redirect to the apex).
+Vercel → Project → Settings → Domains → add `czechpexeso.net` and `www.czechpexeso.net`. Make `czechpexeso.net` the main
+domain (*Connect to an environment → Production*) and set `www.czechpexeso.net` to *Redirect to* `czechpexeso.net` (308).
+Don't keep Vercel's default of redirecting the bare domain to www: the site's links, sitemap and sign-in/payment URLs all
+use `https://czechpexeso.net`.
 At your domain registrar, create the DNS records Vercel shows — usually an `A` record for `@` → `76.76.21.21` and a
 `CNAME` for `www` → the `…vercel-dns.com` target — or switch the domain's nameservers to Vercel. HTTPS is issued automatically.
 
