@@ -17,7 +17,8 @@ export default function PrivacyPage() {
       <p>
         {SITE.domain} (“{SITE.name}”, “we”) is run by {LEGAL.operator}
         {LEGAL.address ? `, ${LEGAL.address}` : ""}
-        {LEGAL.companyId ? ` (ID ${LEGAL.companyId})` : ""}. Contact: <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+        {LEGAL.companyId ? ` (business registration no. ${LEGAL.companyId})` : ""}, {LEGAL.country}. Contact:{" "}
+        <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
       </p>
 
       <h2>Playing without an account</h2>
@@ -53,6 +54,13 @@ export default function PrivacyPage() {
       </ul>
       <p>Each provider processes data on our behalf under a data processing agreement.</p>
 
+      <h2>International transfers</h2>
+      <p>
+        We run the site from {LEGAL.country}; our providers may also process data in the EU, the United States and other countries.
+        The European Commission recognises the Republic of Korea as ensuring an adequate level of data protection. Transfers to other
+        countries rely on our providers’ standard contractual clauses.
+      </p>
+
       <h2>Legal bases</h2>
       <p>
         We process account and subscription data to provide the service you asked for (contract), keep billing records because the
@@ -68,8 +76,9 @@ export default function PrivacyPage() {
       <h2>Your rights</h2>
       <p>
         You can access, correct, export or delete your data. Use “Delete my account” on your account page to erase your account and
-        synced progress at once, or export your progress from the Progress page. You may also complain to your data protection
-        authority — in the Czech Republic, the Office for Personal Data Protection (ÚOOÚ).
+        synced progress at once, or export your progress from the Progress page. You may also complain to a data protection
+        authority: in the Republic of Korea, the Personal Information Protection Commission (PIPC); if you live in the EU or the UK,
+        the data protection authority of your country.
       </p>
 
       <h2>Children</h2>

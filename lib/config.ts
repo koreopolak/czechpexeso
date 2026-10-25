@@ -17,7 +17,7 @@ export const LEGAL = {
   operator: process.env.NEXT_PUBLIC_LEGAL_OPERATOR || "the operator of czechpexeso.net",
   address: process.env.NEXT_PUBLIC_LEGAL_ADDRESS || "",
   companyId: process.env.NEXT_PUBLIC_LEGAL_COMPANY_ID || "",
-  country: "the Czech Republic",
+  country: "the Republic of Korea",
   updated: "25 October 2026",
 } as const;
 

@@ -90,7 +90,7 @@ Copy `.env.example` to `.env.local` locally; add the same keys in Vercel → Pro
 | `NEXT_PUBLIC_SUPPORT_EMAIL` | optional | Shown in footer/legal pages (default `hello@czechpexeso.net`) |
 | `NEXT_PUBLIC_LEGAL_OPERATOR` | production | Your name or company, shown on /privacy and /terms |
 | `NEXT_PUBLIC_LEGAL_ADDRESS` | production | Your business address |
-| `NEXT_PUBLIC_LEGAL_COMPANY_ID` | optional | Company ID (IČO) if you have one |
+| `NEXT_PUBLIC_LEGAL_COMPANY_ID` | optional | Business registration number (사업자등록번호) if you have one |
 | `NEXT_PUBLIC_SUPABASE_URL` | accounts | Supabase → Project Settings → API → Project URL |
 | `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` | accounts | Supabase → API keys → publishable key (or legacy `NEXT_PUBLIC_SUPABASE_ANON_KEY`) |
 | `SUPABASE_SECRET_KEY` | accounts + payments | Supabase → API keys → secret key (or legacy `SUPABASE_SERVICE_ROLE_KEY`). **Server only.** |
