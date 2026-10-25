@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useLayoutEffect, useRef, useState } from "react";
+import { useCallback, useLayoutEffect, useRef, useState, type CSSProperties } from "react";
 import { MemoryCard } from "@/components/game/memory-card";
 import { useT } from "@/components/providers";
 import type { Card } from "@/lib/game/engine";
@@ -77,8 +77,9 @@ export function Board({ cards, count, words, lang, open, found, lastMatch, misma
             const card = cards?.[i];
             const word = card ? words.get(card.pairId) : undefined;
             if (!card || !word) {
+              // Kept invisible: they only hold the layout until the real cards are dealt in.
               return (
-                <div key={i} className="mcard" style={{ width: layout.cardW, height: layout.cardH }}>
+                <div key={i} className="mcard invisible" style={{ width: layout.cardW, height: layout.cardH }}>
                   <span className="mcard-inner">
                     <span className="mcard-face mcard-back">
                       <span className="mcard-mark">č</span>
@@ -96,7 +97,7 @@ export function Board({ cards, count, words, lang, open, found, lastMatch, misma
                 ? t(card.side === "cs" ? "game.cardCzech" : "game.cardTranslation", { word: text })
                 : t("game.cardHidden", { n: i + 1 });
             return (
-              <div key={card.key}>
+              <div key={card.key} className="mcard-deal" style={{ "--i": i } as CSSProperties}>
                 <MemoryCard
                   ref={(el) => {
                     cardRefs.current[i] = el;

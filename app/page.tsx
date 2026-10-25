@@ -1,5 +1,6 @@
 import { headers } from "next/headers";
 import Link from "next/link";
+import type { CSSProperties } from "react";
 import { Icon } from "@/components/icons";
 import { FEATURES, LIMITS, SITE } from "@/lib/config";
 import { getDeck, listDecks, TOTAL_DECK_COUNT } from "@/lib/decks";
@@ -31,9 +32,9 @@ function HeroBoard({ lang }: { lang: SourceLang }) {
     { text: w("fox").cs, side: "cs" },
   ];
   return (
-    <div className="grid grid-cols-4 gap-2.5 sm:gap-3" aria-hidden="true">
+    <div className="hero-board grid grid-cols-4 gap-2.5 sm:gap-3" aria-hidden="true">
       {cells.map((c, i) => (
-        <div key={i} className="mcard aspect-[4/5]" data-open={!!c} data-found={c?.found ?? false}>
+        <div key={i} className="mcard aspect-[4/5]" data-open={!!c} data-found={c?.found ?? false} style={{ "--i": i } as CSSProperties}>
           <span className="mcard-inner block">
             <span className="mcard-face mcard-back">
               <span className="mcard-mark">č</span>
@@ -112,10 +113,14 @@ export default async function HomePage() {
       {/* Hero */}
       <section className="container-page grid items-center gap-12 pb-20 pt-12 sm:pt-20 lg:grid-cols-[1.1fr_1fr] lg:gap-16">
         <div>
-          <p className="kicker">{t("home.kicker")}</p>
-          <h1 className="mt-4 text-5xl font-bold leading-[1.02] tracking-tight text-balance sm:text-6xl lg:text-7xl">{t("home.title")}</h1>
-          <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted text-pretty">{t("home.lead")}</p>
-          <div className="mt-8 flex flex-wrap gap-3">
+          <p className="kicker reveal">{t("home.kicker")}</p>
+          <h1 className="reveal mt-4 text-5xl font-bold leading-[1.02] tracking-tight text-balance sm:text-6xl lg:text-7xl" style={{ "--i": 1 } as CSSProperties}>
+            {t("home.title")}
+          </h1>
+          <p className="reveal mt-6 max-w-xl text-lg leading-relaxed text-muted text-pretty" style={{ "--i": 2 } as CSSProperties}>
+            {t("home.lead")}
+          </p>
+          <div className="reveal mt-8 flex flex-wrap gap-3" style={{ "--i": 3 } as CSSProperties}>
             <Link href="/play" className="btn btn-lg">
               {t("home.cta")}
               <Icon name="arrow-right" size={18} />
@@ -130,7 +135,9 @@ export default async function HomePage() {
               </Link>
             )}
           </div>
-          <p className="mt-5 text-sm text-muted">{t("home.note")}</p>
+          <p className="reveal mt-5 text-sm text-muted" style={{ "--i": 4 } as CSSProperties}>
+            {t("home.note")}
+          </p>
         </div>
         <div className="mx-auto w-full max-w-md lg:max-w-none">
           <HeroBoard lang={sourceLang} />
@@ -145,7 +152,7 @@ export default async function HomePage() {
           </h2>
           <ol className="mt-10 grid gap-8 sm:grid-cols-3">
             {([1, 2, 3] as const).map((n) => (
-              <li key={n}>
+              <li key={n} className="scroll-reveal">
                 <span className="text-sm font-semibold tabular-nums text-muted">0{n}</span>
                 <h3 className="mt-2 text-xl font-semibold">{t(`home.how${n}Title` as MessageKey)}</h3>
                 <p className="mt-2 leading-relaxed text-muted">{t(`home.how${n}Text` as MessageKey)}</p>
@@ -166,7 +173,7 @@ export default async function HomePage() {
           </div>
           <ul className="grid grid-cols-2 gap-3">
             {SOURCE_LANGS.map((l) => (
-              <li key={l} className="panel flex items-center justify-between p-5">
+              <li key={l} className="panel scroll-reveal flex items-center justify-between p-5">
                 <div>
                   <p className="text-xs font-bold tracking-widest text-muted">{LANG_CODES[l]}</p>
                   <p className="mt-1 font-semibold" lang={l}>
@@ -195,7 +202,7 @@ export default async function HomePage() {
         </h2>
         <ul className="mt-10 grid gap-px overflow-hidden rounded-3xl border border-line bg-line sm:grid-cols-2 lg:grid-cols-3">
           {features.map((f) => (
-            <li key={f.title} className="bg-bg p-7">
+            <li key={f.title} className="scroll-reveal bg-bg p-7">
               <Icon name={f.icon} size={22} />
               <h3 className="mt-4 font-semibold">{t(f.title)}</h3>
               <p className="mt-1.5 text-sm leading-relaxed text-muted">{t(f.text)}</p>
@@ -215,7 +222,7 @@ export default async function HomePage() {
             <li key={d.id}>
               <Link
                 href={`/play/${d.id}`}
-                className="flex items-center gap-2 rounded-full border border-line py-2 pl-3 pr-4 transition-colors hover:border-fg"
+                className="flex items-center gap-2 rounded-full border border-line py-2 pl-3 pr-4 transition-[border-color,transform] duration-300 ease-[var(--ease-spring)] hover:-translate-y-0.5 hover:border-fg"
               >
                 <Icon name={d.icon} size={18} />
                 <span className="font-semibold" lang="cs">
@@ -238,7 +245,7 @@ export default async function HomePage() {
 
       {/* Pricing teaser */}
       <section className="container-page pb-20">
-        <div className="flex flex-col gap-6 rounded-3xl bg-invert p-8 text-invert-fg sm:p-12 lg:flex-row lg:items-center lg:justify-between">
+        <div className="scroll-reveal flex flex-col gap-6 rounded-3xl bg-invert p-8 text-invert-fg sm:p-12 lg:flex-row lg:items-center lg:justify-between">
           <div className="max-w-2xl">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
               {t(FEATURES.premiumForSale ? "home.pricingTitle" : "home.pricingTitleFree")}

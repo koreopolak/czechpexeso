@@ -183,7 +183,7 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
 
       <div className="mx-auto mt-8 grid max-w-4xl gap-4 md:grid-cols-2">
         {/* Free */}
-        <section className="panel flex flex-col p-7 sm:p-8" aria-labelledby="plan-free">
+        <section className="panel reveal flex flex-col p-7 sm:p-8" aria-labelledby="plan-free">
           <h2 id="plan-free" className="text-xl font-semibold">
             {t("pricing.freeName")}
           </h2>
@@ -203,7 +203,11 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
         </section>
 
         {/* Premium */}
-        <section className="flex flex-col rounded-[1.25rem] bg-invert p-7 text-invert-fg sm:p-8" aria-labelledby="plan-premium">
+        <section
+          className="reveal flex flex-col rounded-[1.25rem] bg-invert p-7 text-invert-fg sm:p-8"
+          style={{ "--i": 2 } as React.CSSProperties}
+          aria-labelledby="plan-premium"
+        >
           <div className="flex items-center justify-between">
             <h2 id="plan-premium" className="flex items-center gap-2 text-xl font-semibold">
               <Icon name="sparkle" size={18} filled strokeWidth={0} /> {t("pricing.premiumName")}

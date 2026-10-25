@@ -48,7 +48,7 @@ export function Modal({
       className={`m-auto w-[calc(100%-2rem)] ${wide ? "max-w-xl" : "max-w-md"} max-h-[calc(100dvh-2rem)] overflow-visible rounded-3xl bg-transparent p-0 text-fg backdrop:bg-black/45 backdrop:backdrop-blur-[2px]`}
     >
       {open && (
-        <div className="rise relative max-h-[calc(100dvh-2rem)] overflow-y-auto rounded-3xl border border-line bg-bg p-6 shadow-soft sm:p-8">
+        <div className="pop-in relative max-h-[calc(100dvh-2rem)] overflow-y-auto rounded-3xl border border-line bg-bg p-6 shadow-soft sm:p-8">
           {dismissible && (
             <button type="button" onClick={onClose} className="btn btn-ghost btn-icon absolute right-3 top-3" aria-label={t("common.close")}>
               <Icon name="close" size={18} />

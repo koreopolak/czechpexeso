@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import type { CSSProperties } from "react";
 import { Icon } from "@/components/icons";
 import { PlayOptions } from "@/components/play-options";
 import { useEntitlement, usePrefs, useT } from "@/components/providers";
@@ -38,7 +39,7 @@ export function WordsBar({
         aria-valuenow={played}
         className="block h-1.5 w-full overflow-hidden rounded-full bg-surface-2"
       >
-        <span className="block h-full rounded-full bg-fg transition-[width] duration-500" style={{ width: `${pct}%` }} />
+        <span className="block h-full rounded-full bg-fg transition-[width] duration-700 ease-[var(--ease-out)]" style={{ width: `${pct}%` }} />
       </span>
     </span>
   );
@@ -100,14 +101,14 @@ export function DeckPicker({ decks, today }: { decks: DeckMeta[]; today: string 
           <ul className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
             {decks
               .filter((d) => d.level === level)
-              .map((d) => {
+              .map((d, i) => {
                 const stats = progress.decks[d.id];
                 const played = hydrated ? wordsPlayed(progress, d.id, d.wordIds) : 0;
                 return (
-                  <li key={d.id}>
+                  <li key={d.id} className="reveal" style={{ "--i": i } as CSSProperties}>
                     <Link
                       href={`/play/${d.id}`}
-                      className="group relative flex h-full flex-col rounded-3xl border border-line p-4 transition-all hover:-translate-y-0.5 hover:border-fg hover:shadow-soft sm:p-5"
+                      className="group relative flex h-full flex-col rounded-3xl border border-line p-4 transition-[transform,border-color,box-shadow] duration-300 ease-[var(--ease-spring)] hover:-translate-y-1 hover:border-fg hover:shadow-soft active:scale-[0.98] sm:p-5"
                     >
                       <span className="flex items-start justify-between">
                         <span className="grid size-10 place-items-center rounded-xl bg-invert text-invert-fg">

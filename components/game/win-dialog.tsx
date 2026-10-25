@@ -94,19 +94,27 @@ export function WinDialog({
       <Modal open={open} onClose={onClose} title={t("game.winTitle")} wide>
         <div className="text-center">
           <Stars value={result.stars} size={44} animate label={t("game.stars", { n: result.stars })} />
-          <h2 className="mt-4 text-4xl font-bold tracking-tight" lang="cs">
+          <h2 className="reveal mt-4 text-4xl font-bold tracking-tight" lang="cs" style={{ "--i": 4 } as React.CSSProperties}>
             {t("game.winTitle")}
           </h2>
           <p className="mt-1 text-muted">{t("game.winSubtitle")}</p>
           {nextStarMs !== null && (
             <p className="mt-3 text-sm font-medium">{t("game.nextStar", { time: formatTime(nextStarMs) })}</p>
           )}
-          {anyBest && <p className="chip chip-solid mx-auto mt-4">{t("game.newBest")}</p>}
+          {anyBest && (
+            <p className="pop-in chip chip-solid mx-auto mt-4" style={{ animationDelay: "0.6s" }}>
+              {t("game.newBest")}
+            </p>
+          )}
         </div>
 
         <dl className="mt-6 grid grid-cols-4 gap-2 text-center">
-          {stats.map((s) => (
-            <div key={s.label} className={`rounded-2xl px-1 py-3 ${s.best ? "bg-invert text-invert-fg" : "bg-surface"}`}>
+          {stats.map((s, i) => (
+            <div
+              key={s.label}
+              style={{ "--i": 6 + i } as React.CSSProperties}
+              className={`reveal rounded-2xl px-1 py-3 ${s.best ? "bg-invert text-invert-fg" : "bg-surface"}`}
+            >
               <dt className={`text-[11px] font-semibold uppercase tracking-wide ${s.best ? "opacity-70" : "text-muted"}`}>{s.label}</dt>
               <dd className="mt-1 text-xl font-bold tabular-nums">{s.value}</dd>
             </div>
