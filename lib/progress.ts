@@ -26,6 +26,8 @@ export type GameRecord = {
   at: number;
   /** YYYY-MM-DD for daily challenges. */
   daily?: string;
+  /** Words on the board as "deckId.wordId" (Review). Kept on the newest LIMITS.reviewGames games only. */
+  words?: string[];
 };
 
 export type DeckStats = {
@@ -109,7 +111,7 @@ export function recordGame(p: Progress, rec: GameRecord): { progress: Progress; 
     progress: {
       ...p,
       decks: { ...p.decks, [rec.deckId]: stats },
-      history: [rec, ...p.history].slice(0, LIMITS.maxHistory),
+      history: trimHistory([rec, ...p.history]),
       daily,
       // The daily challenge is free: it doesn't use up one of the day's free games.
       playsByDay: rec.daily ? p.playsByDay : pruneDays({ ...p.playsByDay, [today]: (p.playsByDay[today] ?? 0) + 1 }),
@@ -135,6 +137,16 @@ export function markWordsPlayed(p: Progress, deckId: string, wordIds: string[]):
 export function wordsPlayed(p: Progress, deckId: string, deckWordIds?: readonly string[]): number {
   const ids = p.decks[deckId]?.words ?? [];
   return deckWordIds ? ids.filter((id) => deckWordIds.includes(id)).length : ids.length;
+}
+
+/** Caps the history (newest first) and drops word lists from games too old to review. */
+function trimHistory(history: GameRecord[]): GameRecord[] {
+  return history.slice(0, LIMITS.maxHistory).map((r, i) => {
+    if (i < LIMITS.reviewGames || !r.words) return r;
+    const old = { ...r };
+    delete old.words;
+    return old;
+  });
 }
 
 function pruneDays(days: Record<string, number>): Record<string, number> {
@@ -221,8 +233,12 @@ function mergeDeck(a: DeckStats | undefined, b: DeckStats | undefined, fromHisto
 
 export function mergeProgress(a: Progress, b: Progress): Progress {
   const byId = new Map<string, GameRecord>();
-  for (const r of [...a.history, ...b.history]) byId.set(r.id, r);
-  const history = [...byId.values()].sort((m, n) => n.at - m.at).slice(0, LIMITS.maxHistory);
+  for (const r of [...a.history, ...b.history]) {
+    // Same game on both sides: don't lose its word list if one copy lacks it.
+    const words = r.words ?? byId.get(r.id)?.words;
+    byId.set(r.id, words ? { ...r, words } : r);
+  }
+  const history = trimHistory([...byId.values()].sort((m, n) => n.at - m.at));
 
   const deckIds = new Set([...Object.keys(a.decks), ...Object.keys(b.decks)]);
   const decks: Record<string, DeckStats> = {};
@@ -257,14 +273,21 @@ export function parseProgress(value: unknown): Progress | null {
   if (!value || typeof value !== "object") return null;
   const v = value as Partial<Progress>;
   if (v.v !== 1 || typeof v.decks !== "object" || !Array.isArray(v.history)) return null;
-  const history = v.history.filter(
-    (r): r is GameRecord =>
-      !!r && typeof r.id === "string" && typeof r.deckId === "string" && typeof r.moves === "number" && typeof r.at === "number",
-  );
+  const history = v.history
+    .filter(
+      (r): r is GameRecord =>
+        !!r && typeof r.id === "string" && typeof r.deckId === "string" && typeof r.moves === "number" && typeof r.at === "number",
+    )
+    .map((r) => {
+      if (r.words === undefined) return r;
+      const { words, ...rest } = r;
+      // A board has at most 18 pairs; anything else isn't ours.
+      return Array.isArray(words) ? { ...rest, words: words.filter((w) => typeof w === "string").slice(0, 36) } : rest;
+    });
   return {
     v: 1,
     decks: normalizeDecks(v.decks),
-    history: history.slice(0, LIMITS.maxHistory),
+    history: trimHistory(history),
     daily: (v.daily && typeof v.daily === "object" ? v.daily : {}) as Record<string, DailyResult>,
     playsByDay: (v.playsByDay && typeof v.playsByDay === "object" ? v.playsByDay : {}) as Record<string, number>,
     updatedAt: typeof v.updatedAt === "number" ? v.updatedAt : 0,

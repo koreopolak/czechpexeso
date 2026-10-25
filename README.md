@@ -5,12 +5,12 @@ Every pair is a Czech word and its translation. Minimal black-and-white design, 
 with Premium (monthly, yearly or lifetime) sold through Paddle.
 
 - **Game:** 4×3, 4×4, 6×4 and 6×6 boards, move counter, optional timer, stars for speed (separate limits per board size), score with streak bonus, best scores
-- **Learning:** Czech pronunciation (Web Speech API) after each match, "last pair" bar, word list, end-of-game review
+- **Learning:** Czech pronunciation (Web Speech API) after each match, "last pair" bar, word list, end-of-game review; Premium **Review** of the words from recent games as word radio (Czech → translation → Czech on a loop, with a sleep timer), flashcards or a typing game
 - **Decks:** 135 themed decks (7,000+ words, grouped by level A1–B2) in JSON, all free to play, easy to extend; each deck shows how many of its words you have played
 - **Interface:** English, Ukrainian, Russian, Polish (auto-detected, switchable); light/dark/system theme
 - **Sound:** synthesised flip / match / mismatch / win effects (no audio files)
 - **Progress:** words played per deck, stars, accuracy, history, daily streak; export/import as JSON
-- **Free vs Premium:** free players get 5 games a day plus the daily challenge (a 6×6 board, the same for everyone, not counted toward the 5); Premium adds unlimited games, full history and a Premium badge. `FEATURES.premiumForSale` in `lib/config.ts` turns Premium sales on or off (currently off: the pricing page shows Premium as unavailable)
+- **Free vs Premium:** free players get 5 games a day plus the daily challenge (a 6×6 board, the same for everyone, not counted toward the 5); Premium adds unlimited games, Review (word radio, flashcards, typing), full history and a Premium badge. `FEATURES.premiumForSale` in `lib/config.ts` turns Premium sales on or off (currently off: the pricing page shows Premium as unavailable)
 - **Accounts:** "Continue with Google" sign-in through Supabase (no passwords, no email service to run); progress syncs across devices for every signed-in player
 - **Payments:** Paddle (Merchant of Record: handles VAT/sales tax, invoices and refunds) — overlay checkout for monthly, yearly and lifetime plans, local-currency prices, customer portal, webhooks
 - **SEO:** server-rendered landing page, metadata, Open Graph image, JSON-LD, sitemap, robots
@@ -54,11 +54,13 @@ app/                     Next.js App Router pages and API routes
   page.tsx               Landing page (SEO)
   play/                  Deck selection and /play/[deckId] game
   daily/                 Daily challenge (free, 6×6)
+  review/                Review of recent games (Premium): word radio, flashcards, typing
   progress/ settings/    Progress overview, settings
   pricing/ login/ account/
   privacy/ terms/ refunds/  Legal templates
   api/paddle/*           checkout, success, portal, webhook
   api/progress           Cloud progress sync (signed-in players)
+  api/review             Words for Review (Premium; history stores only word ids)
   api/account/delete     Account deletion (GDPR)
   auth/callback|signout  Google sign-in landing, sign-out
 components/              UI (game/ holds the board, cards, win dialog)
@@ -67,6 +69,7 @@ lib/
   game/engine.ts         Pure game logic (deal, flip, scoring) — unit tested
   game/layout.ts         Fits the board to any screen
   progress.ts            Progress model, records, merge (local ⇄ cloud)
+  review.ts              Review helpers (recent words, answer checking) — unit tested
   i18n/                  Interface strings (en, uk, ru, pl)
   paddle.ts auth.ts      Billing and entitlement (server only); billing.ts holds the tested pure parts
   config.ts              Free limits, star times, sync switch, fallback prices, legal details

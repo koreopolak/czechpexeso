@@ -28,6 +28,8 @@ export const LIMITS = {
   freeHistoryVisible: 10,
   /** Hard cap of stored history entries (local and cloud). */
   maxHistory: 500,
+  /** Recent games that keep their word list for Review (older entries drop it to keep progress small). */
+  reviewGames: 30,
 } as const;
 
 export const FEATURES = {

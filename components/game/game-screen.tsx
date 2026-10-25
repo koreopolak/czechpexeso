@@ -135,11 +135,13 @@ export function GameScreen({ mode, deck, daily, nextHref }: Props) {
         score: result.score,
         at: Date.now(),
         daily: daily?.date,
+        // For Review (daily ids are already "deck.word").
+        words: round.words.map((w) => (mode === "daily" ? w.id : `${deck.id}.${w.id}`)),
       });
       setWin({ result, bests });
       later(() => setShowWin(true), 700);
     },
-    [daily, deck.id, grid, lang, later, mode, prefs.timer],
+    [daily, deck.id, grid, lang, later, mode, prefs.timer, round.words],
   );
 
   const onFlip = useCallback(

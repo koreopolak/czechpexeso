@@ -518,6 +518,107 @@ body {
   }
 }
 
+/* ---------------------------------------------------------------------------
+   Review: flashcards and word radio
+--------------------------------------------------------------------------- */
+.fcard {
+  perspective: 1400px;
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  user-select: none;
+  border-radius: 1.5rem;
+}
+.fcard-inner {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform var(--dur-slow) var(--ease-flip);
+}
+.fcard[data-flipped="true"] .fcard-inner {
+  transform: rotateY(180deg);
+}
+.fcard-face {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1.5rem;
+  border-radius: 1.5rem;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  text-align: center;
+}
+.fcard-front {
+  background: var(--bg);
+  color: var(--fg);
+  border: 1.5px solid var(--fg);
+  transition:
+    transform var(--dur) var(--ease-spring),
+    box-shadow var(--dur) var(--ease-out);
+}
+.fcard-back {
+  background: var(--invert-bg);
+  color: var(--invert-fg);
+  transform: rotateY(180deg);
+  box-shadow: var(--shadow);
+}
+.fcard-lang {
+  position: absolute;
+  top: 1rem;
+  left: 1.25rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  opacity: 0.55;
+}
+.fcard-word {
+  font-size: clamp(1.75rem, 7vw, 2.75rem);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+@media (hover: hover) {
+  .fcard:not([data-flipped="true"]):hover .fcard-front {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow);
+  }
+}
+.fcard:not([data-flipped="true"]):active .fcard-front {
+  transform: scale(0.98);
+  transition-duration: 0.08s;
+}
+
+/* Word radio: a small equaliser that dances while words are playing. */
+.radio-bar {
+  height: 30%;
+  opacity: 0.5;
+  transition:
+    height var(--dur) var(--ease-out),
+    opacity var(--dur) var(--ease-out);
+}
+.radio-bar[data-on="true"] {
+  opacity: 1;
+  animation: radio-bar 0.9s ease-in-out infinite alternate;
+  animation-delay: calc(var(--b, 0) * -0.23s);
+}
+@keyframes radio-bar {
+  0% {
+    height: 20%;
+  }
+  50% {
+    height: 100%;
+  }
+  100% {
+    height: 45%;
+  }
+}
+
 /* Home page: the preview board flips its cards open in turn. */
 .hero-board .mcard[data-open="true"] .mcard-inner {
   animation: hero-flip 0.7s var(--ease-flip) backwards;

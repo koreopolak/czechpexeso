@@ -35,6 +35,17 @@ export function nextDeckId(id: string): string | undefined {
 
 export const TOTAL_DECK_COUNT = DECKS.length;
 
+let byQualifiedId: Map<string, Word> | null = null;
+
+/**
+ * Words for "deckId.wordId" ids (as stored in game history), in the order
+ * asked. Unknown ids (words since removed from a deck) are skipped.
+ */
+export function wordsByIds(ids: readonly string[]): Word[] {
+  byQualifiedId ??= new Map(DECKS.flatMap((d) => d.words.map((w) => [`${d.id}.${w.id}`, { ...w, id: `${d.id}.${w.id}` }] as const)));
+  return ids.flatMap((id) => byQualifiedId?.get(id) ?? []);
+}
+
 /** Today's date key in the daily challenge time zone. */
 export function todayKey(now = new Date()): string {
   return dayKey(now, DAILY_TIME_ZONE);

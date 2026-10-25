@@ -6,6 +6,7 @@
  * an English voice.
  */
 import { useSyncExternalStore } from "react";
+import type { SourceLang } from "@/lib/types";
 
 export type VoiceStatus = "unsupported" | "loading" | "missing" | "ready";
 type VoiceState = { status: VoiceStatus; name: string | null };
@@ -14,12 +15,17 @@ function supported() {
   return typeof window !== "undefined" && "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
 }
 
-export function findCzechVoice(): SpeechSynthesisVoice | null {
+/** Best installed voice for a language ("cs", "en", "uk", …), or null. */
+export function findVoice(lang: "cs" | SourceLang): SpeechSynthesisVoice | null {
   if (!supported()) return null;
-  const voices = window.speechSynthesis.getVoices().filter((v) => v.lang.toLowerCase().replace("_", "-").startsWith("cs"));
+  const voices = window.speechSynthesis.getVoices().filter((v) => v.lang.toLowerCase().replace("_", "-").startsWith(lang));
   // Prefer higher-quality voices when several are installed.
   const rank = (v: SpeechSynthesisVoice) => (/(natural|neural|premium|enhanced|online)/i.test(v.name) ? 0 : 1);
   return voices.sort((a, b) => rank(a) - rank(b))[0] ?? null;
+}
+
+export function findCzechVoice(): SpeechSynthesisVoice | null {
+  return findVoice("cs");
 }
 
 export function speakCzech(text: string, rate = 0.9) {
@@ -33,6 +39,36 @@ export function speakCzech(text: string, rate = 0.9) {
   u.rate = rate;
   synth.speak(u);
   return true;
+}
+
+/**
+ * Says `text` and resolves when it has been spoken (or interrupted).
+ * Resolves false straight away when no voice speaks the language.
+ * A timeout guards against browsers that never fire `end`.
+ */
+export function speakAndWait(text: string, lang: "cs" | SourceLang, rate = 0.9): Promise<boolean> {
+  const voice = findVoice(lang);
+  if (!voice) return Promise.resolve(false);
+  return new Promise((resolve) => {
+    let timer = 0;
+    const done = () => {
+      window.clearTimeout(timer);
+      resolve(true);
+    };
+    const u = new SpeechSynthesisUtterance(text);
+    u.voice = voice;
+    u.lang = voice.lang;
+    u.rate = rate;
+    u.onend = done;
+    u.onerror = done;
+    timer = window.setTimeout(done, (2500 + text.length * 180) / rate);
+    window.speechSynthesis.cancel();
+    window.speechSynthesis.speak(u);
+  });
+}
+
+export function stopSpeaking() {
+  if (supported()) window.speechSynthesis.cancel();
 }
 
 // Voices load asynchronously, so availability is a tiny external store.

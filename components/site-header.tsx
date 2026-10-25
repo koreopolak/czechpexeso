@@ -6,12 +6,14 @@ import { useState } from "react";
 import { Icon } from "@/components/icons";
 import { Logo } from "@/components/logo";
 import { useEntitlement, useI18n, usePrefs } from "@/components/providers";
+import { FEATURES } from "@/lib/config";
 import type { MessageKey } from "@/lib/i18n/translate";
 import { LANG_CODES, LANG_NAMES, UI_LOCALES } from "@/lib/types";
 
-const NAV: { href: string; key: MessageKey }[] = [
+const NAV: { href: string; key: MessageKey; premium?: boolean }[] = [
   { href: "/play", key: "nav.play" },
   { href: "/daily", key: "nav.daily" },
+  { href: "/review", key: "nav.review", premium: true },
   { href: "/progress", key: "nav.progress" },
   { href: "/pricing", key: "nav.pricing" },
 ];
@@ -35,6 +37,10 @@ export function SiteHeader() {
   const open = openOn === pathname;
 
   const active = (href: string) => pathname === href || pathname.startsWith(`${href}/`);
+  // Premium-only pages are listed for Premium players, and for everyone while Premium is on sale.
+  const nav = NAV.filter((n) => !n.premium || premium || FEATURES.premiumForSale);
+  // Five links don't fit beside the controls on a tablet, so the menu button stays until lg.
+  const wide = nav.length > 4;
 
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-bg/90 backdrop-blur supports-[backdrop-filter]:bg-bg/75">
@@ -44,8 +50,8 @@ export function SiteHeader() {
       <div className="container-page flex h-16 items-center gap-4">
         <Logo />
 
-        <nav className="ml-6 hidden items-center gap-1 md:flex" aria-label="Main">
-          {NAV.map((n) => (
+        <nav className={`ml-6 hidden items-center gap-1 ${wide ? "lg:flex" : "md:flex"}`} aria-label="Main">
+          {nav.map((n) => (
             <Link
               key={n.href}
               href={n.href}
@@ -84,20 +90,30 @@ export function SiteHeader() {
 
           {authEnabled &&
             (user ? (
-              <Link href="/account" className="btn btn-outline btn-sm gap-2" aria-label={t("nav.account")}>
-                {premium ? <PremiumBadge className="-ml-1.5" /> : <Icon name="user" size={18} />}
-                <span className="hidden max-w-32 truncate lg:inline">{user.email}</span>
+              // Icon-only circle on small screens; the email joins it on wide ones. Premium shows as a star.
+              <Link
+                href="/account"
+                className="btn btn-outline btn-sm gap-2 max-xl:w-9 max-xl:px-0"
+                aria-label={premium ? `${t("nav.account")} · ${t("common.premium")}` : t("nav.account")}
+                title={premium ? `${t("nav.account")} · ${t("common.premium")}` : t("nav.account")}
+              >
+                {premium ? <Icon name="sparkle" size={18} filled strokeWidth={0} /> : <Icon name="user" size={18} />}
+                <span className="hidden max-w-32 truncate xl:inline">{user.email}</span>
               </Link>
             ) : (
               <Link href="/login" className="btn btn-sm hidden sm:inline-flex">
                 {t("nav.signIn")}
               </Link>
             ))}
-          {!authEnabled && premium && <PremiumBadge />}
+          {!authEnabled && premium && (
+            <span className="grid size-9 place-items-center" title={t("common.premium")} aria-label={t("common.premium")} role="img">
+              <Icon name="sparkle" size={18} filled strokeWidth={0} />
+            </span>
+          )}
 
           <button
             type="button"
-            className="btn btn-ghost btn-icon md:hidden"
+            className={`btn btn-ghost btn-icon ${wide ? "lg:hidden" : "md:hidden"}`}
             aria-expanded={open}
             aria-controls="mobile-nav"
             aria-label={t("nav.menu")}
@@ -109,9 +125,9 @@ export function SiteHeader() {
       </div>
 
       {open && (
-        <nav id="mobile-nav" className="border-t border-line md:hidden" aria-label="Main">
+        <nav id="mobile-nav" className={`border-t border-line ${wide ? "lg:hidden" : "md:hidden"}`} aria-label="Main">
           <div className="container-page flex flex-col gap-1 py-3">
-            {[...NAV, { href: "/settings", key: "nav.settings" as MessageKey }].map((n) => (
+            {[...nav, { href: "/settings", key: "nav.settings" as MessageKey }].map((n) => (
               <Link
                 key={n.href}
                 href={n.href}

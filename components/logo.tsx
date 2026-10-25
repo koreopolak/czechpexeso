@@ -5,9 +5,9 @@ export function LogoMark({ size = 28 }: { size?: number }) {
   return (
     <svg width={size} height={size} viewBox="0 0 32 32" aria-hidden="true">
       <rect x="1" y="1" width="30" height="30" rx="8" fill="var(--fg)" />
-      <path d="M11.2 7.8l4.8 3.4 4.8-3.4" fill="none" stroke="var(--brand-red)" strokeWidth="2.6" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M12.4 6.4l3.6 2.8 3.6-2.8" fill="none" stroke="var(--brand-red)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
       <path
-        d="M21.6 22.6a7.6 7.6 0 0 1-5.1 1.9c-4.4 0-7.4-3-7.4-7s3-7 7.4-7c2 0 3.8.7 5.1 1.9"
+        d="M21 15.2A6 6 0 1 0 21 24.2"
         fill="none"
         stroke="var(--bg)"
         strokeWidth="2.8"

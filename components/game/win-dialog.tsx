@@ -3,11 +3,13 @@
 import Link from "next/link";
 import { useMemo } from "react";
 import { WordList } from "@/components/game/word-list";
+import { Icon } from "@/components/icons";
 import { Modal } from "@/components/modal";
-import { useI18n } from "@/components/providers";
+import { useEntitlement, useI18n } from "@/components/providers";
 import { Stars } from "@/components/stars";
 import { formatTime, starLimits, type GameResult } from "@/lib/game/engine";
 import type { NewBests } from "@/lib/progress";
+import { reviewHref } from "@/lib/review";
 import type { SourceLang, Word } from "@/lib/types";
 
 function Confetti() {
@@ -75,6 +77,7 @@ export function WinDialog({
   extra?: React.ReactNode;
 }) {
   const { t } = useI18n();
+  const { premium } = useEntitlement();
   if (!result) return null;
   const anyBest = bests && (bests.score || bests.moves || bests.time || bests.stars);
   // Stars rate speed: tell the player what time earns the next one.
@@ -143,6 +146,12 @@ export function WinDialog({
           </summary>
           <WordList words={words} lang={lang} />
         </details>
+        {premium && (
+          // The game is already saved, so "last game" is this one.
+          <Link href={reviewHref(1)} className="mt-3 flex items-center justify-center gap-2 py-1.5 text-sm font-semibold hover:underline">
+            <Icon name="cards" size={16} /> {t("review.fromGame")}
+          </Link>
+        )}
       </Modal>
     </>
   );

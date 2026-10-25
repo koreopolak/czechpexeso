@@ -228,6 +228,7 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
           <p className="mt-1 h-5 text-sm opacity-70">{subline}</p>
           <ul className="mt-6 flex-1 space-y-3 text-[0.95rem]">
             <Feature strong>{t("pricing.p1")}</Feature>
+            <Feature>{t("pricing.p7")}</Feature>
             <Feature>{t("pricing.p3")}</Feature>
             <Feature>{t("pricing.p4")}</Feature>
             {!FEATURES.syncForEveryone && <Feature>{t("pricing.p6")}</Feature>}
