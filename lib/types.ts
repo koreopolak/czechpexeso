@@ -72,10 +72,12 @@ export function pairsForGrid(grid: GridSize): number {
 export type Entitlement = {
   /** Supabase is configured on this deployment. */
   authEnabled: boolean;
-  /** Stripe is configured on this deployment. */
+  /** Paddle is configured on this deployment. */
   billingEnabled: boolean;
   user: { id: string; email: string } | null;
   premium: boolean;
+  /** Bought lifetime Premium (one-time payment). */
+  lifetime: boolean;
   subscription: SubscriptionInfo | null;
 };
 

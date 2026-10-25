@@ -1,3 +1,4 @@
+import { headers } from "next/headers";
 import Link from "next/link";
 import { Icon } from "@/components/icons";
 import { LIMITS, SITE } from "@/lib/config";
@@ -5,7 +6,7 @@ import { getDeck, listDecks, TOTAL_DECK_COUNT } from "@/lib/decks";
 import { formatPrice } from "@/lib/format";
 import type { MessageKey } from "@/lib/i18n";
 import { getPrefs, getT } from "@/lib/i18n/server";
-import { getPlanPrices } from "@/lib/stripe";
+import { getPlanPrices } from "@/lib/paddle";
 import { LANG_CODES, LANG_NAMES, SOURCE_LANGS, type SourceLang } from "@/lib/types";
 
 /** How many deck chips the landing page shows before "+N more". */
@@ -53,7 +54,8 @@ function HeroBoard({ lang }: { lang: SourceLang }) {
 }
 
 export default async function HomePage() {
-  const [{ t, locale }, { sourceLang }, prices] = await Promise.all([getT(), getPrefs(), getPlanPrices()]);
+  const country = (await headers()).get("x-vercel-ip-country");
+  const [{ t, locale }, { sourceLang }, prices] = await Promise.all([getT(), getPrefs(), getPlanPrices(country)]);
   const decks = listDecks();
   const dog = getDeck("animals")!.words.find((w) => w.id === "dog")!;
 

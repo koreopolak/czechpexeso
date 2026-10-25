@@ -25,6 +25,9 @@ export async function SiteFooter() {
           <Link href="/terms" className="hover:underline">
             {t("footer.terms")}
           </Link>
+          <Link href="/refunds" className="hover:underline">
+            {t("footer.refunds")}
+          </Link>
           <a href={`mailto:${SITE.supportEmail}`} className="hover:underline">
             {t("footer.contact")}
           </a>

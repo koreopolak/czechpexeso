@@ -11,16 +11,17 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "validate:decks": "node scripts/validate-decks.mjs",
-    "stripe:setup": "node scripts/stripe-setup.mjs"
+    "paddle:setup": "node scripts/paddle-setup.mjs"
   },
   "dependencies": {
+    "@paddle/paddle-js": "^1.6.5",
+    "@paddle/paddle-node-sdk": "^3.10.0",
     "@supabase/ssr": "^0.12.7",
     "@supabase/supabase-js": "^2.118.0",
     "next": "^16.4.3",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
-    "server-only": "^0.0.1",
-    "stripe": "^23.0.1"
+    "server-only": "^0.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.3",

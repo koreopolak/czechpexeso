@@ -11,14 +11,14 @@ export const SITE = {
 
 /**
  * Shown on the Privacy and Terms pages. Fill these in before going live —
- * Stripe and EU consumer law require identifying who runs the site.
+ * Paddle and EU consumer law require identifying who runs the site.
  */
 export const LEGAL = {
   operator: process.env.NEXT_PUBLIC_LEGAL_OPERATOR || "the operator of czechpexeso.net",
   address: process.env.NEXT_PUBLIC_LEGAL_ADDRESS || "",
   companyId: process.env.NEXT_PUBLIC_LEGAL_COMPANY_ID || "",
   country: "the Czech Republic",
-  updated: "24 October 2026",
+  updated: "25 October 2026",
 } as const;
 
 export const LIMITS = {
@@ -51,13 +51,15 @@ export const STAR_SECONDS: Record<string, readonly [number, number]> = {
 };
 
 /**
- * Shown on the pricing page when Stripe is not configured or a price can't be
- * fetched. When Stripe is configured the real amount/currency come from Stripe.
+ * Shown on the pricing page when Paddle is not configured or prices can't be
+ * fetched. When Paddle is configured the real amounts (in the visitor's local
+ * currency) come from Paddle.
  */
 export const FALLBACK_PRICES = {
-  month: { amount: 399, currency: "eur" },
-  year: { amount: 2999, currency: "eur" },
-} as const;
+  month: { amount: 299, currency: "eur" },
+  year: { amount: 1499, currency: "eur" },
+  lifetime: { amount: 4499, currency: "eur" },
+};
 
 /** The daily challenge resets at midnight in this time zone. */
 export const DAILY_TIME_ZONE = "Europe/Prague";

@@ -12,17 +12,30 @@ export default function TermsPage() {
 
       <h2>The service</h2>
       <p>
-        {SITE.name} ({SITE.domain}) is a memory game for learning Czech vocabulary, run by {LEGAL.operator}. Some decks are free;
-        Premium unlocks all decks and extra features described on the <a href="/pricing">pricing page</a>.
+        {SITE.name} ({SITE.domain}) is a memory game for learning Czech vocabulary, run by {LEGAL.operator}. All decks are free to
+        play with a daily game limit; Premium removes the limit and adds the extra features described on the{" "}
+        <a href="/pricing">pricing page</a>.
       </p>
 
-      <h2>Premium subscription</h2>
+      <h2>Premium</h2>
       <ul>
-        <li>Premium is billed monthly or yearly in advance through Stripe and renews automatically until you cancel.</li>
-        <li>You can cancel at any time from your account page. Premium then stays active until the end of the paid period.</li>
         <li>
-          Money-back guarantee: if you are not happy, write to <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a> within
-          14 days of your first payment and we will refund it in full. This does not limit your statutory rights as a consumer.
+          Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders.
+          Paddle provides all customer service inquiries and handles returns. Paddle’s{" "}
+          <a href="https://www.paddle.com/legal/checkout-buyer-terms">buyer terms</a> apply to your purchase.
+        </li>
+        <li>
+          Premium is available as a monthly or yearly subscription, billed in advance, which renews automatically until you cancel, or
+          as a one-time lifetime purchase, which never renews.
+        </li>
+        <li>You can cancel a subscription at any time from your account page. Premium then stays active until the end of the paid period.</li>
+        <li>
+          Lifetime Premium gives you Premium for as long as {SITE.domain} offers it, on the account you bought it with. If you buy it
+          while subscribed, your subscription stops renewing automatically.
+        </li>
+        <li>
+          Money-back guarantee: you can get a full refund within 14 days of a purchase — see the <a href="/refunds">refund policy</a>.
+          This does not limit your statutory rights as a consumer.
         </li>
         <li>We will tell you by email at least 30 days before any price change takes effect for your subscription.</li>
       </ul>

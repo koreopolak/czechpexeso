@@ -42,9 +42,12 @@ export default async function AccountPage({ searchParams }: { searchParams: Prom
         </div>
         <div className="flex flex-wrap items-center justify-between gap-2 py-4">
           <dt className="text-muted">{t("account.plan")}</dt>
-          <dd>{ent.premium ? <PremiumBadge /> : <span className="font-medium">{t("pricing.freeName")}</span>}</dd>
+          <dd className="flex items-center gap-2">
+            {ent.premium ? <PremiumBadge /> : <span className="font-medium">{t("pricing.freeName")}</span>}
+            {ent.lifetime && <span className="font-medium">· {t("pricing.lifetime")}</span>}
+          </dd>
         </div>
-        {sub && statusKey && (
+        {sub && statusKey && !(ent.lifetime && sub.status === "canceled") && (
           <div className="flex flex-wrap items-center justify-between gap-2 py-4">
             <dt className="text-muted">{t("account.status")}</dt>
             <dd className="text-right">
@@ -63,11 +66,11 @@ export default async function AccountPage({ searchParams }: { searchParams: Prom
       </dl>
 
       <div className="mt-8 flex flex-col gap-3">
-        {ent.billingEnabled && sub ? (
-          <form action="/api/stripe/portal" method="post" className="panel flex flex-col gap-3 p-5 sm:flex-row sm:items-center sm:justify-between">
-            <p className="text-sm text-muted">{t("account.manageHint")}</p>
+        {ent.billingEnabled && (sub || ent.lifetime) ? (
+          <form action="/api/paddle/portal" method="post" className="panel flex flex-col gap-3 p-5 sm:flex-row sm:items-center sm:justify-between">
+            <p className="text-sm text-muted">{t(sub && sub.status !== "canceled" ? "account.manageHint" : "account.billingHint")}</p>
             <button type="submit" className="btn shrink-0">
-              {t("account.manage")}
+              {t(sub && sub.status !== "canceled" ? "account.manage" : "pricing.manageBilling")}
             </button>
           </form>
         ) : null}

@@ -4,7 +4,7 @@ import { listDecks } from "@/lib/decks";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
-  const pages = ["", "/play", "/pricing", "/daily", "/privacy", "/terms"].map((p) => ({
+  const pages = ["", "/play", "/pricing", "/daily", "/privacy", "/terms", "/refunds"].map((p) => ({
     url: `${SITE.url}${p}`,
     lastModified: now,
     changeFrequency: p === "" || p === "/play" ? ("weekly" as const) : ("monthly" as const),

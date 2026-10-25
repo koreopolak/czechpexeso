@@ -38,15 +38,17 @@ export default function PrivacyPage() {
 
       <h2>Payments</h2>
       <p>
-        Payments are processed by Stripe. We never see or store your full card details. Stripe shares with us only what we need to
-        manage your subscription (for example the plan, status and the last four digits of the card shown on invoices).
+        Orders are processed by Paddle.com, our reseller and the Merchant of Record for all purchases. Paddle collects your payment
+        and billing details under its own privacy notice (<a href="https://www.paddle.com/legal/privacy">paddle.com/legal/privacy</a>)
+        and handles taxes and invoices. We never see or store your card details; Paddle shares with us only what we need to manage
+        your Premium plan (for example the plan, its status and renewal date).
       </p>
 
       <h2>Service providers</h2>
       <ul>
         <li>Supabase — account sign-in and database (hosted in the EU).</li>
         <li>Google — sign-in only.</li>
-        <li>Stripe — payments and invoices.</li>
+        <li>Paddle — checkout, payments, taxes and invoices (as Merchant of Record).</li>
         <li>Vercel — website hosting.</li>
       </ul>
       <p>Each provider processes data on our behalf under a data processing agreement.</p>

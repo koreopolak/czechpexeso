@@ -28,6 +28,6 @@ export async function proxy(request: NextRequest) {
 }
 
 export const config = {
-  // Skip static files, images and the Stripe webhook (it has no session).
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|icon.svg|api/stripe/webhook|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|txt|xml|json)$).*)"],
+  // Skip static files, images and the Paddle webhook (it has no session).
+  matcher: ["/((?!_next/static|_next/image|favicon.ico|icon.svg|api/paddle/webhook|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|txt|xml|json)$).*)"],
 };
