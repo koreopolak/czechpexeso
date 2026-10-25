@@ -55,11 +55,13 @@ export type Progress = {
   daily: Record<string, DailyResult>;
   /** Finished games per local day, used for the free daily limit. */
   playsByDay: Record<string, number>;
+  /** Speed typing (Review): best score per round length in seconds ("30", "60", "120"). */
+  speedBest: Record<string, number>;
   updatedAt: number;
 };
 
 export function emptyProgress(): Progress {
-  return { v: 1, decks: {}, history: [], daily: {}, playsByDay: {}, updatedAt: 0 };
+  return { v: 1, decks: {}, history: [], daily: {}, playsByDay: {}, speedBest: {}, updatedAt: 0 };
 }
 
 export function emptyDeckStats(): DeckStats {
@@ -119,6 +121,14 @@ export function recordGame(p: Progress, rec: GameRecord): { progress: Progress; 
     },
     bests,
   };
+}
+
+/** Saves a speed typing score; `best` is true when it beats the old best for this round length. */
+export function recordSpeed(p: Progress, seconds: number, score: number): { progress: Progress; best: boolean } {
+  const key = String(seconds);
+  const prev = p.speedBest[key] ?? 0;
+  if (score <= prev) return { progress: p, best: false };
+  return { progress: { ...p, speedBest: { ...p.speedBest, [key]: score }, updatedAt: Date.now() }, best: true };
 }
 
 /** Remembers that these words were matched. Returns the same object when nothing is new. */
@@ -254,7 +264,10 @@ export function mergeProgress(a: Progress, b: Progress): Progress {
   const playsByDay: Record<string, number> = { ...a.playsByDay };
   for (const [k, v] of Object.entries(b.playsByDay)) playsByDay[k] = Math.max(playsByDay[k] ?? 0, v);
 
-  return { v: 1, decks, history, daily, playsByDay: pruneDays(playsByDay), updatedAt: Math.max(a.updatedAt, b.updatedAt) };
+  const speedBest: Record<string, number> = { ...a.speedBest };
+  for (const [k, v] of Object.entries(b.speedBest)) speedBest[k] = Math.max(speedBest[k] ?? 0, v);
+
+  return { v: 1, decks, history, daily, playsByDay: pruneDays(playsByDay), speedBest, updatedAt: Math.max(a.updatedAt, b.updatedAt) };
 }
 
 function normalizeDecks(value: unknown): Record<string, DeckStats> {
@@ -290,6 +303,12 @@ export function parseProgress(value: unknown): Progress | null {
     history: trimHistory(history),
     daily: (v.daily && typeof v.daily === "object" ? v.daily : {}) as Record<string, DailyResult>,
     playsByDay: (v.playsByDay && typeof v.playsByDay === "object" ? v.playsByDay : {}) as Record<string, number>,
+    // Older saves have no speed typing scores.
+    speedBest: Object.fromEntries(
+      Object.entries(v.speedBest && typeof v.speedBest === "object" ? v.speedBest : {}).filter(
+        ([k, n]) => /^[0-9]+$/.test(k) && typeof n === "number" && Number.isFinite(n) && n >= 0,
+      ),
+    ),
     updatedAt: typeof v.updatedAt === "number" ? v.updatedAt : 0,
   };
 }

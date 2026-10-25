@@ -704,6 +704,22 @@ body {
   }
 }
 
+/* A wrong typed answer: a quick sideways shake. */
+.input-shake {
+  animation: input-shake 0.35s var(--ease-out);
+}
+@keyframes input-shake {
+  20% {
+    transform: translateX(-6px);
+  }
+  45% {
+    transform: translateX(5px);
+  }
+  70% {
+    transform: translateX(-3px);
+  }
+}
+
 /* Dialogs scale in over a fading backdrop. */
 .pop-in {
   animation: pop-in 0.38s var(--ease-spring) both;

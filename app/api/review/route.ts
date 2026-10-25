@@ -1,5 +1,4 @@
 import { getEntitlement } from "@/lib/auth";
-import { LIMITS } from "@/lib/config";
 import { wordsByIds } from "@/lib/decks";
 import { sameOrigin } from "@/lib/http";
 import { WORD_ID } from "@/lib/review";
@@ -9,7 +8,8 @@ import { WORD_ID } from "@/lib/review";
  * Game history stores only word ids; this returns the words with all their
  * translations so the browser doesn't need every deck.
  */
-const MAX_IDS = LIMITS.reviewGames * 18;
+// "All" can be every word on the site.
+const MAX_IDS = 10_000;
 
 export async function POST(req: Request) {
   if (!sameOrigin(req)) return new Response("Forbidden", { status: 403 });

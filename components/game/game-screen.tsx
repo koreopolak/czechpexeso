@@ -34,17 +34,21 @@ import {
 import { dailyStreak, gamesToday, type NewBests } from "@/lib/progress";
 import { progressStore } from "@/lib/progress-store";
 import { sfx, type SoundName } from "@/lib/sound";
+import { fitGrid } from "@/lib/review";
 import { speakCzech, useCzechVoice } from "@/lib/speech";
 import { LANG_TAGS, pairsForGrid, type GridSize, type SourceLang, type Word } from "@/lib/types";
 
 export type GameDeck = { id: string; title: Record<SourceLang | "cs", string>; words: Word[] };
 
 type Props = {
-  mode: "deck" | "daily";
+  /** "review": a pexeso of Review words (Premium); word ids are "deck.word", like the daily's. */
+  mode: "deck" | "daily" | "review";
   deck: GameDeck;
   /** Daily challenge only: date key and seed for a fixed card order. */
   daily?: { date: string; seed: number };
   nextHref?: string;
+  /** Where the back arrow and "all decks" lead. */
+  backHref?: string;
 };
 
 const BOTTOM_BAR = 84;
@@ -62,13 +66,14 @@ function newId() {
     : `${Date.now().toString(36)}-${Math.random().toString(36).slice(2)}`;
 }
 
-export function GameScreen({ mode, deck, daily, nextHref }: Props) {
+export function GameScreen({ mode, deck, daily, nextHref, backHref = "/play" }: Props) {
   const { t } = useI18n();
   const router = useRouter();
   const { prefs, sourceLang: lang, setPrefs } = usePrefs();
   const { premium } = useEntitlement();
   const voice = useCzechVoice();
-  const grid: GridSize = mode === "daily" ? DAILY_GRID : prefs.grid;
+  // A review board shrinks to fit when there are too few words for the usual size.
+  const grid: GridSize = mode === "daily" ? DAILY_GRID : mode === "review" ? (fitGrid(prefs.grid, deck.words.length) ?? "4x3") : prefs.grid;
 
   const overLimit = useCallback(
     () => mode === "deck" && !premium && LIMITS.freeGamesPerDay > 0 && gamesToday(progressStore.get()) >= LIMITS.freeGamesPerDay,
@@ -124,7 +129,7 @@ export function GameScreen({ mode, deck, daily, nextHref }: Props) {
       const result = resultOf(state, prefs.timer);
       const bests = progressStore.record({
         id: newId(),
-        deckId: mode === "daily" ? "daily" : deck.id,
+        deckId: mode === "deck" ? deck.id : mode,
         lang,
         grid,
         pairs: result.pairs,
@@ -136,7 +141,7 @@ export function GameScreen({ mode, deck, daily, nextHref }: Props) {
         at: Date.now(),
         daily: daily?.date,
         // For Review (daily ids are already "deck.word").
-        words: round.words.map((w) => (mode === "daily" ? w.id : `${deck.id}.${w.id}`)),
+        words: round.words.map((w) => (mode === "deck" ? `${deck.id}.${w.id}` : w.id)),
       });
       setWin({ result, bests });
       later(() => setShowWin(true), 700);
@@ -165,8 +170,8 @@ export function GameScreen({ mode, deck, daily, nextHref }: Props) {
         const word = wordMap.get(state.lastMatch ?? "");
         play(event === "win" ? "win" : "match");
         if (word) {
-          // Count the word as played for its deck (daily ids look like "deck.word").
-          const [deckId, wordId] = mode === "daily" ? word.id.split(".") : [deck.id, word.id];
+          // Count the word as played for its deck (daily and review ids look like "deck.word").
+          const [deckId, wordId] = mode === "deck" ? [deck.id, word.id] : word.id.split(".");
           progressStore.markWords(deckId, [wordId]);
           setAnnounce(t("game.matched", { cs: word.cs, tr: word[lang] }));
           if (prefs.speak) later(() => speakCzech(word.cs, prefs.speechRate), event === "win" ? 450 : 120);
@@ -197,14 +202,14 @@ export function GameScreen({ mode, deck, daily, nextHref }: Props) {
   const pairs = game.cards.length / 2;
   const last = game.lastMatch ? wordMap.get(game.lastMatch) : undefined;
   const timeMs = game.status === "playing" ? Math.max(0, elapsed(game, Math.max(now, game.runningSince ?? 0))) : game.elapsedMs;
-  const title = mode === "daily" ? t("daily.title") : deck.title[lang];
+  const title = mode === "daily" ? t("daily.title") : mode === "review" ? t("review.pexeso") : deck.title[lang];
   const streak = mode === "daily" && daily ? dailyStreak(progressStore.get(), daily.date) : 0;
 
   return (
     <div className="container-page flex flex-col pb-2 pt-3 sm:pt-4">
       {/* Top bar */}
       <div className="flex items-center gap-2">
-        <Link href="/play" className="btn btn-ghost btn-icon -ml-2" aria-label={t("game.decks")} title={t("game.decks")}>
+        <Link href={backHref} className="btn btn-ghost btn-icon -ml-2" aria-label={t("game.decks")} title={t("game.decks")}>
           <Icon name="arrow-left" />
         </Link>
         <div className="min-w-0 flex-1">
@@ -314,7 +319,7 @@ export function GameScreen({ mode, deck, daily, nextHref }: Props) {
         onPlayAgain={startRound}
         onClose={() => setShowWin(false)}
         nextHref={nextHref}
-        backHref="/play"
+        backHref={backHref}
         extra={
           mode === "daily" && streak > 0 ? (
             <p className="mt-4 flex items-center justify-center gap-2 text-sm font-semibold">

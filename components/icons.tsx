@@ -480,6 +480,15 @@ const paths = {
       <path d="M5.5 21h13" />
     </>
   ),
+  grid: (
+    <>
+      <rect x="4" y="4" width="7" height="7" rx="2" />
+      <rect x="13" y="4" width="7" height="7" rx="2" />
+      <rect x="4" y="13" width="7" height="7" rx="2" />
+      <rect x="13" y="13" width="7" height="7" rx="2" />
+    </>
+  ),
+  bolt: <path d="M13 2.5L4.5 13.5H11l-1 8 8.5-11H12z" />,
   compass: (
     <>
       <circle cx="12" cy="12" r="9" />

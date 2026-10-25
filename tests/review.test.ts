@@ -1,7 +1,21 @@
 import { describe, expect, it } from "vitest";
 import { LIMITS } from "@/lib/config";
-import { emptyProgress, mergeProgress, parseProgress, recordGame, type GameRecord } from "@/lib/progress";
-import { checkAnswer, normalizeAnswer, recentWordIds, requeue, reviewHref, stripDiacritics, WORD_ID } from "@/lib/review";
+import { emptyProgress, markWordsPlayed, mergeProgress, parseProgress, recordGame, recordSpeed, type GameRecord } from "@/lib/progress";
+import {
+  allPlayedWordIds,
+  checkAnswer,
+  DEFAULT_SCOPE,
+  fitGrid,
+  normalizeAnswer,
+  parseScope,
+  PEXESO_MIN_WORDS,
+  recentWordIds,
+  requeue,
+  reviewHref,
+  stripDiacritics,
+  WORD_ID,
+  wordsPerMinute,
+} from "@/lib/review";
 
 let n = 0;
 function game(over: Partial<GameRecord> = {}): GameRecord {
@@ -105,5 +119,66 @@ describe("ids and links", () => {
   it("builds review links", () => {
     expect(reviewHref(1)).toBe("/review?games=1");
     expect(reviewHref(5, "typing")).toBe("/review?games=5&mode=typing");
+  });
+});
+
+describe("review scope: every word ever played", () => {
+  it("parses ?games=", () => {
+    expect(parseScope("all")).toBe("all");
+    expect(parseScope("10")).toBe(10);
+    expect(parseScope("7")).toBe(DEFAULT_SCOPE);
+    expect(parseScope(undefined)).toBe(DEFAULT_SCOPE);
+    expect(reviewHref("all", "speed")).toBe("/review?games=all&mode=speed");
+  });
+
+  it("collects every matched word from the deck word lists, qualified and without duplicates", () => {
+    let p = emptyProgress();
+    p = markWordsPlayed(p, "colors", ["red", "blue"]);
+    p = markWordsPlayed(p, "animals", ["dog"]);
+    p = markWordsPlayed(p, "colors", ["red"]);
+    expect(allPlayedWordIds(p.decks).sort()).toEqual(["animals.dog", "colors.blue", "colors.red"]);
+    expect(allPlayedWordIds({})).toEqual([]);
+  });
+});
+
+describe("fitGrid", () => {
+  it("keeps the preferred board when there are enough words, otherwise shrinks", () => {
+    expect(fitGrid("6x6", 40)).toBe("6x6");
+    expect(fitGrid("6x6", 12)).toBe("6x4");
+    expect(fitGrid("6x6", 9)).toBe("4x4");
+    expect(fitGrid("4x4", 100)).toBe("4x4");
+    expect(fitGrid("6x6", PEXESO_MIN_WORDS)).toBe("4x3");
+    expect(fitGrid("6x6", PEXESO_MIN_WORDS - 1)).toBeNull();
+  });
+});
+
+describe("speed typing", () => {
+  it("reports words per minute", () => {
+    expect(wordsPerMinute(15, 30)).toBe(30);
+    expect(wordsPerMinute(7, 60)).toBe(7);
+    expect(wordsPerMinute(5, 120)).toBe(2.5);
+    expect(wordsPerMinute(3, 0)).toBe(0);
+  });
+
+  it("keeps the best score per round length", () => {
+    let r = recordSpeed(emptyProgress(), 60, 12);
+    expect(r.best).toBe(true);
+    r = recordSpeed(r.progress, 60, 9);
+    expect(r.best).toBe(false);
+    expect(r.progress.speedBest["60"]).toBe(12);
+    r = recordSpeed(r.progress, 30, 5);
+    expect(r.progress.speedBest).toEqual({ "60": 12, "30": 5 });
+    expect(recordSpeed(emptyProgress(), 60, 0).best).toBe(false);
+  });
+
+  it("merges bests across devices and accepts saves without them", () => {
+    const a = recordSpeed(emptyProgress(), 60, 12).progress;
+    const b = recordSpeed(recordSpeed(emptyProgress(), 60, 15).progress, 120, 20).progress;
+    expect(mergeProgress(a, b).speedBest).toEqual({ "60": 15, "120": 20 });
+
+    const old = JSON.parse(JSON.stringify(emptyProgress()));
+    delete old.speedBest;
+    expect(parseProgress(old)?.speedBest).toEqual({});
+    expect(parseProgress({ ...old, speedBest: { "60": 9, bad: 3, "30": "x" } })?.speedBest).toEqual({ "60": 9 });
   });
 });

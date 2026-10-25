@@ -50,6 +50,7 @@ export function SessionDone({
   backHref,
   onRestart,
   onPractiseMissed,
+  extra,
 }: {
   result: string;
   missed: Word[];
@@ -57,6 +58,8 @@ export function SessionDone({
   backHref: string;
   onRestart: () => void;
   onPractiseMissed: () => void;
+  /** Shown under the result line (e.g. speed typing stats). */
+  extra?: ReactNode;
 }) {
   const { t } = useI18n();
   return (
@@ -71,6 +74,7 @@ export function SessionDone({
       <p className="reveal mt-5 text-lg font-semibold" style={{ "--i": 4 } as React.CSSProperties}>
         {result}
       </p>
+      {extra}
 
       <div className="mt-7 flex flex-col gap-2 sm:flex-row">
         {missed.length > 0 ? (

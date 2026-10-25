@@ -147,7 +147,14 @@ export function ProgressView({ decks, today }: { decks: DeckMeta[]; today: strin
           <ul className="mt-4 divide-y divide-line border-y border-line text-sm">
             {visible.map((g) => {
               const d = deckById.get(g.deckId);
-              const name = g.deckId === "daily" ? t("progress.daily") : d ? `${d.title.cs} · ${d.title[sourceLang]}` : g.deckId;
+              const name =
+                g.deckId === "daily"
+                  ? t("progress.daily")
+                  : g.deckId === "review"
+                    ? `${t("review.title")} · ${t("review.pexeso")}`
+                    : d
+                      ? `${d.title.cs} · ${d.title[sourceLang]}`
+                      : g.deckId;
               return (
                 <li key={g.id} className="flex flex-wrap items-center gap-x-4 gap-y-1 py-3">
                   <span className="w-28 shrink-0 text-muted tabular-nums">{formatShortDate(g.at, locale)}</span>

@@ -2,14 +2,26 @@
  * Review (Premium): pure helpers for going over the words of recent games.
  * The UI lives in components/review/.
  */
-import type { GameRecord } from "@/lib/progress";
-import type { Word } from "@/lib/types";
+import type { DeckStats, GameRecord } from "@/lib/progress";
+import { GRID_SIZES, pairsForGrid, type GridSize, type Word } from "@/lib/types";
 
-export const REVIEW_MODES = ["radio", "flashcards", "typing"] as const;
+export const REVIEW_MODES = ["pexeso", "flashcards", "typing", "speed", "radio"] as const;
 export type ReviewMode = (typeof REVIEW_MODES)[number];
 
-/** How many recent games to review: the choices offered on the Review page. */
-export const REVIEW_SCOPES = [1, 5, 10, 30] as const;
+/**
+ * What to review: the words of the last 1, 5, 10 or 30 games, or "all" —
+ * every word ever played. The choices offered on the Review page.
+ */
+export const REVIEW_SCOPES = [1, 5, 10, 30, "all"] as const;
+export type ReviewScope = (typeof REVIEW_SCOPES)[number];
+export const DEFAULT_SCOPE: ReviewScope = 5;
+
+/** Reads the ?games= parameter: "all" or one of the numbers; anything else → the default. */
+export function parseScope(value: unknown): ReviewScope {
+  if (value === "all") return "all";
+  const n = Number(value);
+  return (REVIEW_SCOPES as readonly unknown[]).includes(n) ? (n as ReviewScope) : DEFAULT_SCOPE;
+}
 
 export function isReviewMode(v: unknown): v is ReviewMode {
   return typeof v === "string" && (REVIEW_MODES as readonly string[]).includes(v);
@@ -25,6 +37,41 @@ export const WORD_ID = /^[a-z0-9-]+\.[a-z0-9-]+$/;
 export function recentWordIds(history: readonly GameRecord[], games: number): { ids: string[]; games: number } {
   const recent = history.filter((r) => r.words && r.words.length > 0).slice(0, games);
   return { ids: [...new Set(recent.flatMap((r) => r.words ?? []))], games: recent.length };
+}
+
+/**
+ * Every word ever matched, as "deckId.wordId", from the per-deck word lists
+ * that drive the deck progress bars (daily and review games file their words
+ * under the word's own deck).
+ */
+export function allPlayedWordIds(decks: Readonly<Record<string, Pick<DeckStats, "words">>>): string[] {
+  const ids = Object.entries(decks).flatMap(([deckId, s]) => s.words.map((w) => `${deckId}.${w}`));
+  return [...new Set(ids)].filter((id) => WORD_ID.test(id));
+}
+
+/** Pexeso needs this many words for its smallest board (4×3). */
+export const PEXESO_MIN_WORDS = pairsForGrid(GRID_SIZES[0]);
+
+/**
+ * The board for a review pexeso: the player's usual size, or the largest
+ * smaller one that `available` words can fill. null when even 4×3 can't.
+ */
+export function fitGrid(preferred: GridSize, available: number): GridSize | null {
+  const upTo = GRID_SIZES.slice(0, GRID_SIZES.indexOf(preferred) + 1);
+  return [...upTo].reverse().find((g) => pairsForGrid(g) <= available) ?? null;
+}
+
+// ---------------------------------------------------------------------------
+// Speed typing
+// ---------------------------------------------------------------------------
+
+/** Round lengths in seconds. */
+export const SPEED_DURATIONS = [30, 60, 120] as const;
+export type SpeedDuration = (typeof SPEED_DURATIONS)[number];
+
+/** Correct words per minute, to one decimal. */
+export function wordsPerMinute(correct: number, seconds: number): number {
+  return seconds > 0 ? Math.round((correct / seconds) * 600) / 10 : 0;
 }
 
 /** Fisher–Yates shuffle (copy). */
@@ -83,7 +130,7 @@ export function checkAnswer(input: string, word: Pick<Word, "cs">): AnswerCheck 
 /** Letters with diacritics that a non-Czech keyboard usually lacks. */
 export const CZECH_LETTERS = ["á", "č", "ď", "é", "ě", "í", "ň", "ó", "ř", "š", "ť", "ú", "ů", "ý", "ž"] as const;
 
-/** Link to the Review page for the last `games` games, optionally straight into a mode. */
-export function reviewHref(games: number, mode?: ReviewMode): string {
+/** Link to the Review page for a scope (last N games, or "all"), optionally straight into a mode. */
+export function reviewHref(games: ReviewScope, mode?: ReviewMode): string {
   return `/review?games=${games}${mode ? `&mode=${mode}` : ""}`;
 }

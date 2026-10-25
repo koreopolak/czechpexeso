@@ -1,29 +1,45 @@
 "use client";
 
 /**
- * Review (Premium): the words of recent games, practised three ways —
- * word radio, flashcards and typing. History stores only word ids, so the
- * words themselves come from /api/review.
+ * Review (Premium): the words of recent games — or every word ever played —
+ * practised five ways: pexeso, flashcards, typing, speed typing and word
+ * radio. Progress stores only word ids, so the words themselves come from
+ * /api/review.
  */
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { GameLoader } from "@/components/game/game-loader";
 import { WordList } from "@/components/game/word-list";
 import { Icon, type IconName } from "@/components/icons";
 import { useEntitlement, useI18n, usePrefs } from "@/components/providers";
 import { Flashcards } from "@/components/review/flashcards";
+import { SpeedTyping } from "@/components/review/speed-typing";
 import { TypingGame } from "@/components/review/typing-game";
 import { WordRadio } from "@/components/review/word-radio";
 import { FEATURES } from "@/lib/config";
 import type { MessageKey } from "@/lib/i18n/translate";
 import { useHydrated, useProgress } from "@/lib/progress-store";
-import { recentWordIds, REVIEW_MODES, REVIEW_SCOPES, reviewHref, type ReviewMode } from "@/lib/review";
+import {
+  allPlayedWordIds,
+  PEXESO_MIN_WORDS,
+  recentWordIds,
+  REVIEW_MODES,
+  REVIEW_SCOPES,
+  reviewHref,
+  type ReviewMode,
+  type ReviewScope,
+} from "@/lib/review";
 import type { Word } from "@/lib/types";
 
 const MODES: Record<ReviewMode, { icon: IconName; title: MessageKey; text: MessageKey }> = {
-  radio: { icon: "headphones", title: "review.radio", text: "review.radioText" },
+  pexeso: { icon: "grid", title: "review.pexeso", text: "review.pexesoText" },
   flashcards: { icon: "cards", title: "review.flashcards", text: "review.flashcardsText" },
   typing: { icon: "keyboard", title: "review.typing", text: "review.typingText" },
+  speed: { icon: "bolt", title: "review.speedTyping", text: "review.speedTypingText" },
+  radio: { icon: "headphones", title: "review.radio", text: "review.radioText" },
 };
+
+const MODE_GRID = "grid gap-3 sm:grid-cols-2 lg:grid-cols-3";
 
 // Words already fetched this visit; null marks ids the server no longer knows.
 const wordCache = new Map<string, Word | null>();
@@ -57,7 +73,8 @@ function useReviewWords(ids: string[] | null): { words: Word[] | null; failed: b
   return { words: ids.flatMap((id) => wordCache.get(id) ?? []), failed: false };
 }
 
-function ModeCard({ mode, href, i }: { mode: ReviewMode; href?: string; i: number }) {
+/** A mode card: a link when the mode can start, otherwise a plain card (with `note` saying why not). */
+function ModeCard({ mode, href, i, note }: { mode: ReviewMode; href?: string; i: number; note?: string }) {
   const { t } = useI18n();
   const m = MODES[mode];
   // Icon beside the text on phones, above it on wider screens.
@@ -72,6 +89,7 @@ function ModeCard({ mode, href, i }: { mode: ReviewMode; href?: string; i: numbe
           {href && <Icon name="arrow-right" size={18} className="shrink-0 transition-transform group-hover:translate-x-0.5" />}
         </span>
         <span className="mt-1 block text-sm leading-relaxed text-muted sm:mt-1.5">{t(m.text)}</span>
+        {note && <span className="mt-2 block text-xs font-semibold">{note}</span>}
       </span>
     </>
   );
@@ -124,7 +142,7 @@ function Locked() {
           </Link>
         )}
       </div>
-      <div className="mt-3 grid gap-3 sm:grid-cols-3">
+      <div className={`mt-3 ${MODE_GRID}`}>
         {REVIEW_MODES.map((m, i) => (
           <ModeCard key={m} mode={m} i={i} />
         ))}
@@ -133,13 +151,17 @@ function Locked() {
   );
 }
 
-export function ReviewView({ mode, games }: { mode: ReviewMode | null; games: number }) {
+export function ReviewView({ mode, games }: { mode: ReviewMode | null; games: ReviewScope }) {
   const { t } = useI18n();
   const { sourceLang: lang } = usePrefs();
   const { premium } = useEntitlement();
   const progress = useProgress();
   const hydrated = useHydrated();
-  const recent = useMemo(() => recentWordIds(progress.history, games), [progress.history, games]);
+  const recent = useMemo(
+    () =>
+      games === "all" ? { ids: allPlayedWordIds(progress.decks), games: progress.history.length } : recentWordIds(progress.history, games),
+    [progress.decks, progress.history, games],
+  );
   const { words, failed } = useReviewWords(premium && hydrated && recent.ids.length > 0 ? recent.ids : null);
 
   if (!premium) return <Locked />;
@@ -151,7 +173,18 @@ export function ReviewView({ mode, games }: { mode: ReviewMode | null; games: nu
     const props = { words, lang, backHref: reviewHref(games) };
     if (mode === "radio") return <WordRadio {...props} />;
     if (mode === "flashcards") return <Flashcards {...props} />;
-    return <TypingGame {...props} />;
+    if (mode === "typing") return <TypingGame {...props} />;
+    if (mode === "speed") return <SpeedTyping {...props} />;
+    if (words.length >= PEXESO_MIN_WORDS) {
+      const title = t("review.title");
+      return (
+        <GameLoader
+          mode="review"
+          deck={{ id: "review", title: { cs: "Opakování", en: title, uk: title, ru: title, pl: title }, words }}
+          backHref={props.backHref}
+        />
+      );
+    }
   }
   if (mode && loading) {
     return (
@@ -176,18 +209,21 @@ export function ReviewView({ mode, games }: { mode: ReviewMode | null; games: nu
               key={n}
               href={reviewHref(n, mode ?? undefined)}
               aria-current={n === games ? "true" : undefined}
-              aria-label={t("common.games", { n })}
+              aria-label={n === "all" ? t("review.allLabel") : t("common.games", { n })}
+              title={n === "all" ? t("review.allLabel") : undefined}
               className="min-w-11 text-center tabular-nums"
               scroll={false}
               replace
             >
-              {n}
+              {n === "all" ? t("review.all") : n}
             </Link>
           ))}
         </div>
         {words && words.length > 0 && (
           <p className="text-sm text-muted">
-            {t("review.summary", { words: t("common.words", { n: words.length }), games: t("common.games", { n: recent.games }) })}
+            {games === "all"
+              ? t("review.summaryAll", { words: t("common.words", { n: words.length }) })
+              : t("review.summary", { words: t("common.words", { n: words.length }), games: t("common.games", { n: recent.games }) })}
           </p>
         )}
       </div>
@@ -207,7 +243,7 @@ export function ReviewView({ mode, games }: { mode: ReviewMode | null; games: nu
           {t("common.error")}
         </p>
       ) : loading ? (
-        <div className="mt-6 grid gap-3 sm:grid-cols-3" aria-busy="true">
+        <div className={`mt-6 ${MODE_GRID}`} aria-busy="true">
           {REVIEW_MODES.map((m) => (
             <div key={m} className="h-48 animate-pulse rounded-[1.25rem] bg-surface" />
           ))}
@@ -215,10 +251,14 @@ export function ReviewView({ mode, games }: { mode: ReviewMode | null; games: nu
       ) : (
         words && (
           <>
-            <div className="mt-6 grid gap-3 sm:grid-cols-3">
-              {REVIEW_MODES.map((m, i) => (
-                <ModeCard key={m} mode={m} href={reviewHref(games, m)} i={i} />
-              ))}
+            <div className={`mt-6 ${MODE_GRID}`}>
+              {REVIEW_MODES.map((m, i) =>
+                m === "pexeso" && words.length < PEXESO_MIN_WORDS ? (
+                  <ModeCard key={m} mode={m} i={i} note={t("review.pexesoNeeds", { n: PEXESO_MIN_WORDS })} />
+                ) : (
+                  <ModeCard key={m} mode={m} href={reviewHref(games, m)} i={i} />
+                ),
+              )}
             </div>
             <details className="group mt-8 rounded-2xl border border-line px-4 py-1 sm:px-5">
               <summary className="flex cursor-pointer list-none items-center justify-between py-3 font-semibold">

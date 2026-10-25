@@ -6,7 +6,7 @@
  * (components/progress-sync.tsx).
  */
 import { useSyncExternalStore } from "react";
-import { emptyProgress, markWordsPlayed, parseProgress, recordGame, type GameRecord, type Progress } from "@/lib/progress";
+import { emptyProgress, markWordsPlayed, parseProgress, recordGame, recordSpeed, type GameRecord, type Progress } from "@/lib/progress";
 import { readJSON, removeKey, writeJSON } from "@/lib/storage";
 
 const KEY = "cp:progress:v1";
@@ -36,6 +36,12 @@ export const progressStore = {
     const result = recordGame(load(), rec);
     progressStore.set(result.progress);
     return result.bests;
+  },
+  /** Saves a speed typing score; returns true for a new personal best. */
+  recordSpeed(seconds: number, score: number) {
+    const result = recordSpeed(load(), seconds, score);
+    if (result.progress !== load()) progressStore.set(result.progress);
+    return result.best;
   },
   /** Records matched words for the deck progress bars. */
   markWords(deckId: string, wordIds: string[]) {
