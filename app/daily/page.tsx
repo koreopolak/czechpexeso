@@ -1,7 +1,5 @@
 import type { Metadata } from "next";
 import { DailyGate } from "@/components/daily-gate";
-import { Paywall } from "@/components/paywall";
-import { getEntitlement } from "@/lib/auth";
 import { DAILY_TIME_ZONE } from "@/lib/config";
 import { dailyChallenge, todayKey } from "@/lib/decks";
 import { getT } from "@/lib/i18n/server";
@@ -25,15 +23,9 @@ function nextReset(now = new Date()): number {
   return now.getTime() + (86400 - secondsIntoDay) * 1000;
 }
 
+/** Free for everyone: the same 6×6 board for every player, all day. */
 export default async function DailyPage() {
-  const [{ t }, { premium }] = await Promise.all([getT(), getEntitlement()]);
-
-  if (!premium) {
-    return (
-      <Paywall icon="calendar" title={t("daily.lockedTitle")} text={t("daily.lockedText")} cta={t("paywall.cta")} back={t("paywall.back")} />
-    );
-  }
-
+  const { t } = await getT();
   const date = todayKey();
   const { seed, words } = dailyChallenge(date);
   const title = { cs: "Denní výzva", en: t("daily.title"), uk: t("daily.title"), ru: t("daily.title"), pl: t("daily.title") };

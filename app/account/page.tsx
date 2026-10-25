@@ -5,6 +5,7 @@ import { ActivationWatcher, DeleteAccountButton } from "@/components/account-cli
 import { Icon } from "@/components/icons";
 import { PremiumBadge } from "@/components/site-header";
 import { getEntitlement } from "@/lib/auth";
+import { FEATURES } from "@/lib/config";
 import { formatDate } from "@/lib/format";
 import type { MessageKey } from "@/lib/i18n";
 import { getT } from "@/lib/i18n/server";
@@ -74,7 +75,7 @@ export default async function AccountPage({ searchParams }: { searchParams: Prom
             </button>
           </form>
         ) : null}
-        {!ent.premium && (
+        {!ent.premium && FEATURES.premiumForSale && (
           <Link href="/pricing" className="btn btn-lg">
             <Icon name="sparkle" size={16} filled strokeWidth={0} /> {t("account.upgrade")}
           </Link>

@@ -52,6 +52,12 @@ describe("recordGame", () => {
     p = recordGame(p, game({ deckId: "daily", daily: "2026-10-01", score: 999 })).progress;
     expect(p.daily["2026-10-01"].score).toBe(500);
   });
+
+  it("doesn't count the daily challenge toward the free games of the day", () => {
+    let p = recordGame(emptyProgress(), game()).progress;
+    p = recordGame(p, game({ deckId: "daily", daily: "2026-10-01" })).progress;
+    expect(Object.values(p.playsByDay)).toEqual([1]);
+  });
 });
 
 describe("dailyStreak", () => {

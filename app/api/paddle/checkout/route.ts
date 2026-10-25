@@ -1,5 +1,6 @@
 import { getEntitlement, requireUser } from "@/lib/auth";
 import { isPlan } from "@/lib/billing";
+import { FEATURES } from "@/lib/config";
 import { billingEnabled } from "@/lib/env.server";
 import { sameOrigin } from "@/lib/http";
 import { createCheckoutTransaction } from "@/lib/paddle";
@@ -10,7 +11,7 @@ import { createCheckoutTransaction } from "@/lib/paddle";
  */
 export async function POST(req: Request) {
   if (!sameOrigin(req)) return new Response("Forbidden", { status: 403 });
-  if (!billingEnabled) return Response.json({ error: "disabled" }, { status: 503 });
+  if (!billingEnabled || !FEATURES.premiumForSale) return Response.json({ error: "disabled" }, { status: 503 });
 
   const user = await requireUser();
   if (!user) return Response.json({ redirect: "/login?next=/pricing" }, { status: 401 });

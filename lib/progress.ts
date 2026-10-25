@@ -111,7 +111,8 @@ export function recordGame(p: Progress, rec: GameRecord): { progress: Progress; 
       decks: { ...p.decks, [rec.deckId]: stats },
       history: [rec, ...p.history].slice(0, LIMITS.maxHistory),
       daily,
-      playsByDay: pruneDays({ ...p.playsByDay, [today]: (p.playsByDay[today] ?? 0) + 1 }),
+      // The daily challenge is free: it doesn't use up one of the day's free games.
+      playsByDay: rec.daily ? p.playsByDay : pruneDays({ ...p.playsByDay, [today]: (p.playsByDay[today] ?? 0) + 1 }),
       updatedAt: Date.now(),
     },
     bests,

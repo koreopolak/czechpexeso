@@ -5,12 +5,12 @@ import { Icon } from "@/components/icons";
 import { PlayOptions } from "@/components/play-options";
 import { useEntitlement, usePrefs, useT } from "@/components/providers";
 import { Stars } from "@/components/stars";
-import { LIMITS } from "@/lib/config";
+import { FEATURES, LIMITS } from "@/lib/config";
 import { dailyStreak, gamesToday, wordsPlayed } from "@/lib/progress";
 import { useHydrated, useProgress } from "@/lib/progress-store";
 import type { DeckMeta } from "@/lib/types";
 
-const LEVELS = ["A1", "A2", "B1"] as const;
+const LEVELS = ["A1", "A2", "B1", "B2"] as const;
 
 /** How many of the deck's words the player has ever matched. */
 export function WordsBar({
@@ -75,12 +75,8 @@ export function DeckPicker({ decks, today }: { decks: DeckMeta[]; today: string 
         <span className="min-w-0 flex-1">
           <span className="flex flex-wrap items-center gap-2">
             <span className="text-lg font-semibold">{t("daily.title")}</span>
-            {!premium && (
-              <span className="chip">
-                <Icon name="lock" size={12} /> {t("common.premium")}
-              </span>
-            )}
-            {premium && hydrated && dailyDone && (
+            <span className="chip">{t("daily.free")}</span>
+            {hydrated && dailyDone && (
               <span className="chip chip-solid">
                 <Icon name="check" size={12} /> {t("daily.done")}
               </span>
@@ -88,7 +84,7 @@ export function DeckPicker({ decks, today }: { decks: DeckMeta[]; today: string 
           </span>
           <span className="mt-0.5 block text-sm text-muted">
             {t("daily.cardText")}
-            {premium && hydrated && streak > 0 && ` · ${t("daily.streak")}: ${t("common.days", { n: streak })}`}
+            {hydrated && streak > 0 && ` · ${t("daily.streak")}: ${t("common.days", { n: streak })}`}
           </span>
         </span>
         <Icon name="arrow-right" className="shrink-0 transition-transform group-hover:translate-x-0.5" />
@@ -148,7 +144,7 @@ export function DeckPicker({ decks, today }: { decks: DeckMeta[]; today: string 
         </section>
       ))}
 
-      {limited && (
+      {limited && FEATURES.premiumForSale && (
         <div className="mt-8 flex flex-col items-start gap-4 rounded-3xl bg-invert p-6 text-invert-fg sm:flex-row sm:items-center sm:justify-between sm:p-8">
           <div>
             <p className="text-xl font-semibold">{t("decks.unlockTitle")}</p>

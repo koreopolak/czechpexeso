@@ -59,7 +59,7 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
   // Load Paddle.js up front: it also opens checkout links from Paddle emails
   // (for example "update payment method"), which point at this page.
   useEffect(() => {
-    if (!billingEnabled || !publicEnv.paddleClientToken) return;
+    if (!FEATURES.premiumForSale || !billingEnabled || !publicEnv.paddleClientToken) return;
     const onClose = () => setBusy(false);
     closeListeners.add(onClose);
     loadPaddle().catch((e) => console.error("[paddle] could not load Paddle.js", e));
@@ -122,6 +122,15 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
         )}
       </form>
     );
+  } else if (!FEATURES.premiumForSale) {
+    action = (
+      <>
+        <button type="button" className="btn w-full border-invert-fg bg-invert-fg text-invert" disabled>
+          {t("pricing.unavailable")}
+        </button>
+        <p className="mt-3 text-sm opacity-70">{t("pricing.unavailableText")}</p>
+      </>
+    );
   } else if (!billingEnabled || !authEnabled) {
     action = (
       <>
@@ -183,6 +192,7 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
           <ul className="mt-6 flex-1 space-y-3 text-[0.95rem]">
             <Feature strong>{t("pricing.free1", { n: totalDecks })}</Feature>
             <Feature>{t("pricing.free2")}</Feature>
+            <Feature>{t("pricing.freeDaily")}</Feature>
             {LIMITS.freeGamesPerDay > 0 && <Feature>{t("pricing.free3", { n: LIMITS.freeGamesPerDay })}</Feature>}
             <Feature>{t("pricing.free4", { n: LIMITS.freeHistoryVisible })}</Feature>
             {authEnabled && FEATURES.syncForEveryone && <Feature>{t("pricing.free5")}</Feature>}
@@ -198,8 +208,13 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
             <h2 id="plan-premium" className="flex items-center gap-2 text-xl font-semibold">
               <Icon name="sparkle" size={18} filled strokeWidth={0} /> {t("pricing.premiumName")}
             </h2>
-            {plan === "year" && saving > 0 && <span className="chip border-invert-fg/30">{t("pricing.save", { n: saving })}</span>}
-            {plan === "lifetime" && <span className="chip border-invert-fg/30">{t("pricing.payOnce")}</span>}
+            {!FEATURES.premiumForSale ? (
+              <span className="chip border-invert-fg/30">{t("pricing.unavailable")}</span>
+            ) : plan === "year" && saving > 0 ? (
+              <span className="chip border-invert-fg/30">{t("pricing.save", { n: saving })}</span>
+            ) : plan === "lifetime" ? (
+              <span className="chip border-invert-fg/30">{t("pricing.payOnce")}</span>
+            ) : null}
           </div>
           <p className="mt-1 opacity-70">{t("pricing.premiumLead")}</p>
           <p className="mt-6 flex items-baseline gap-2">
@@ -209,7 +224,6 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
           <p className="mt-1 h-5 text-sm opacity-70">{subline}</p>
           <ul className="mt-6 flex-1 space-y-3 text-[0.95rem]">
             <Feature strong>{t("pricing.p1")}</Feature>
-            <Feature>{t("pricing.p2")}</Feature>
             <Feature>{t("pricing.p3")}</Feature>
             <Feature>{t("pricing.p4")}</Feature>
             {!FEATURES.syncForEveryone && <Feature>{t("pricing.p6")}</Feature>}
@@ -218,12 +232,14 @@ export function PricingPlans({ prices, totalDecks }: { prices: PlanPrices; total
           <div className="mt-8">{action}</div>
         </section>
       </div>
-      <p className="mt-8 text-center text-sm text-muted">
-        {t("pricing.note")}{" "}
-        <Link href="/refunds" className="underline">
-          {t("footer.refunds")}
-        </Link>
-      </p>
+      {FEATURES.premiumForSale && (
+        <p className="mt-8 text-center text-sm text-muted">
+          {t("pricing.note")}{" "}
+          <Link href="/refunds" className="underline">
+            {t("footer.refunds")}
+          </Link>
+        </p>
+      )}
     </>
   );
 }

@@ -36,6 +36,12 @@ export const FEATURES = {
    * to make cloud sync a Premium-only feature again.
    */
   syncForEveryone: true,
+  /**
+   * Whether Premium can be bought. While false, the pricing page shows Premium
+   * as currently unavailable, checkout is refused and upgrade prompts are
+   * hidden; existing Premium players keep their plan.
+   */
+  premiumForSale: false,
 } as const;
 
 /**
@@ -61,6 +67,11 @@ export const FALLBACK_PRICES = {
   lifetime: { amount: 4499, currency: "eur" },
 };
 
-/** The daily challenge resets at midnight in this time zone. */
+/**
+ * The daily challenge: free for everyone, not counted toward the free game
+ * limit, always on a 6×6 board (18 pairs), the same board for every player.
+ * It resets at midnight in this time zone.
+ */
 export const DAILY_TIME_ZONE = "Europe/Prague";
-export const DAILY_PAIRS = 8;
+export const DAILY_GRID = "6x6" as const;
+export const DAILY_PAIRS = 18;

@@ -10,7 +10,7 @@ with Premium (monthly, yearly or lifetime) sold through Paddle.
 - **Interface:** English, Ukrainian, Russian, Polish (auto-detected, switchable); light/dark/system theme
 - **Sound:** synthesised flip / match / mismatch / win effects (no audio files)
 - **Progress:** words played per deck, stars, accuracy, history, daily streak; export/import as JSON
-- **Free vs Premium:** free players get 5 games a day; Premium adds unlimited games, the daily challenge, full history and a Premium badge
+- **Free vs Premium:** free players get 5 games a day plus the daily challenge (a 6×6 board, the same for everyone, not counted toward the 5); Premium adds unlimited games, full history and a Premium badge. `FEATURES.premiumForSale` in `lib/config.ts` turns Premium sales on or off (currently off: the pricing page shows Premium as unavailable)
 - **Accounts:** "Continue with Google" sign-in through Supabase (no passwords, no email service to run); progress syncs across devices for every signed-in player
 - **Payments:** Paddle (Merchant of Record: handles VAT/sales tax, invoices and refunds) — overlay checkout for monthly, yearly and lifetime plans, local-currency prices, customer portal, webhooks
 - **SEO:** server-rendered landing page, metadata, Open Graph image, JSON-LD, sitemap, robots
@@ -53,7 +53,7 @@ Other scripts:
 app/                     Next.js App Router pages and API routes
   page.tsx               Landing page (SEO)
   play/                  Deck selection and /play/[deckId] game
-  daily/                 Daily challenge (Premium)
+  daily/                 Daily challenge (free, 6×6)
   progress/ settings/    Progress overview, settings
   pricing/ login/ account/
   privacy/ terms/ refunds/  Legal templates

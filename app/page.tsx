@@ -1,7 +1,7 @@
 import { headers } from "next/headers";
 import Link from "next/link";
 import { Icon } from "@/components/icons";
-import { LIMITS, SITE } from "@/lib/config";
+import { FEATURES, LIMITS, SITE } from "@/lib/config";
 import { getDeck, listDecks, TOTAL_DECK_COUNT } from "@/lib/decks";
 import { formatPrice } from "@/lib/format";
 import type { MessageKey } from "@/lib/i18n";
@@ -77,12 +77,16 @@ export default async function HomePage() {
       description: t("home.metaDescription"),
       offers: [
         { "@type": "Offer", price: "0", priceCurrency: prices.month.currency.toUpperCase(), name: t("pricing.freeName") },
-        {
-          "@type": "Offer",
-          price: (prices.month.amount / 100).toFixed(2),
-          priceCurrency: prices.month.currency.toUpperCase(),
-          name: `Premium — ${t("pricing.monthly")}`,
-        },
+        ...(FEATURES.premiumForSale
+          ? [
+              {
+                "@type": "Offer",
+                price: (prices.month.amount / 100).toFixed(2),
+                priceCurrency: prices.month.currency.toUpperCase(),
+                name: `Premium — ${t("pricing.monthly")}`,
+              },
+            ]
+          : []),
       ],
     },
     {
@@ -116,9 +120,15 @@ export default async function HomePage() {
               {t("home.cta")}
               <Icon name="arrow-right" size={18} />
             </Link>
-            <Link href="/pricing" className="btn btn-lg btn-outline">
-              {t("home.ctaSecondary")}
-            </Link>
+            {FEATURES.premiumForSale ? (
+              <Link href="/pricing" className="btn btn-lg btn-outline">
+                {t("home.ctaSecondary")}
+              </Link>
+            ) : (
+              <Link href="/daily" className="btn btn-lg btn-outline">
+                {t("daily.play")}
+              </Link>
+            )}
           </div>
           <p className="mt-5 text-sm text-muted">{t("home.note")}</p>
         </div>
@@ -230,15 +240,21 @@ export default async function HomePage() {
       <section className="container-page pb-20">
         <div className="flex flex-col gap-6 rounded-3xl bg-invert p-8 text-invert-fg sm:p-12 lg:flex-row lg:items-center lg:justify-between">
           <div className="max-w-2xl">
-            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">{t("home.pricingTitle")}</h2>
-            <p className="mt-3 text-lg opacity-75">{t("home.pricingText")}</p>
+            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
+              {t(FEATURES.premiumForSale ? "home.pricingTitle" : "home.pricingTitleFree")}
+            </h2>
+            <p className="mt-3 text-lg opacity-75">{t(FEATURES.premiumForSale ? "home.pricingText" : "home.pricingTextFree")}</p>
             <p className="mt-4 text-sm opacity-60">
-              {t("pricing.free3", { n: LIMITS.freeGamesPerDay })} · Premium{" "}
-              {formatPrice(prices.month.amount, prices.month.currency, locale)} {t("pricing.perMonth")}
+              {t("pricing.free3", { n: LIMITS.freeGamesPerDay })} · {t("pricing.freeDaily")}
+              {FEATURES.premiumForSale &&
+                ` · Premium ${formatPrice(prices.month.amount, prices.month.currency, locale)} ${t("pricing.perMonth")}`}
             </p>
           </div>
-          <Link href="/pricing" className="btn btn-lg shrink-0 border-invert-fg bg-invert-fg text-invert">
-            {t("home.pricingCta")}
+          <Link
+            href={FEATURES.premiumForSale ? "/pricing" : "/play"}
+            className="btn btn-lg shrink-0 border-invert-fg bg-invert-fg text-invert"
+          >
+            {t(FEATURES.premiumForSale ? "home.pricingCta" : "home.cta")}
           </Link>
         </div>
       </section>

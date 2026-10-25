@@ -15,7 +15,7 @@ import { WordList } from "@/components/game/word-list";
 import { Icon } from "@/components/icons";
 import { Modal } from "@/components/modal";
 import { useEntitlement, useI18n, usePrefs } from "@/components/providers";
-import { LIMITS } from "@/lib/config";
+import { DAILY_GRID, FEATURES, LIMITS } from "@/lib/config";
 import {
   buildCards,
   elapsed,
@@ -68,7 +68,7 @@ export function GameScreen({ mode, deck, daily, nextHref }: Props) {
   const { prefs, sourceLang: lang, setPrefs } = usePrefs();
   const { premium } = useEntitlement();
   const voice = useCzechVoice();
-  const grid: GridSize = mode === "daily" ? "4x4" : prefs.grid;
+  const grid: GridSize = mode === "daily" ? DAILY_GRID : prefs.grid;
 
   const overLimit = useCallback(
     () => mode === "deck" && !premium && LIMITS.freeGamesPerDay > 0 && gamesToday(progressStore.get()) >= LIMITS.freeGamesPerDay,
@@ -328,10 +328,17 @@ export function GameScreen({ mode, deck, daily, nextHref }: Props) {
             <Icon name="clock" size={26} />
           </div>
           <h2 className="mt-4 text-2xl font-semibold">{t("game.limitTitle")}</h2>
-          <p className="mt-2 text-muted">{t("game.limitText", { n: LIMITS.freeGamesPerDay })}</p>
+          <p className="mt-2 text-muted">
+            {t(FEATURES.premiumForSale ? "game.limitText" : "game.limitTextFree", { n: LIMITS.freeGamesPerDay })}
+          </p>
           <div className="mt-6 flex flex-col gap-2">
-            <Link href="/pricing" className="btn">
-              {t("game.limitCta")}
+            {FEATURES.premiumForSale && (
+              <Link href="/pricing" className="btn">
+                {t("game.limitCta")}
+              </Link>
+            )}
+            <Link href="/daily" className={FEATURES.premiumForSale ? "btn btn-outline" : "btn"}>
+              <Icon name="calendar" size={16} /> {t("game.limitDaily")}
             </Link>
             <Link href="/play" className="btn btn-ghost">
               {t("game.limitBack")}
