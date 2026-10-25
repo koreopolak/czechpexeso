@@ -296,6 +296,118 @@
       "uk": "безбарвний",
       "ru": "бесцветный",
       "pl": "bezbarwny"
+    },
+    {
+      "id": "azure",
+      "cs": "azurový",
+      "en": "azure",
+      "uk": "лазуровий",
+      "ru": "лазурный",
+      "pl": "lazurowy"
+    },
+    {
+      "id": "emerald-green",
+      "cs": "smaragdový",
+      "en": "emerald green",
+      "uk": "смарагдовий",
+      "ru": "изумрудный",
+      "pl": "szmaragdowy"
+    },
+    {
+      "id": "crimson",
+      "cs": "karmínový",
+      "en": "crimson",
+      "uk": "кармінний",
+      "ru": "малиновый",
+      "pl": "karmazynowy"
+    },
+    {
+      "id": "pastel",
+      "cs": "pastelový",
+      "en": "pastel",
+      "uk": "пастельний",
+      "ru": "пастельный",
+      "pl": "pastelowy"
+    },
+    {
+      "id": "neon",
+      "cs": "neonový",
+      "en": "neon",
+      "uk": "неоновий",
+      "ru": "неоновый",
+      "pl": "neonowy"
+    },
+    {
+      "id": "vivid",
+      "cs": "sytý",
+      "en": "vivid",
+      "uk": "насичений",
+      "ru": "насыщенный",
+      "pl": "nasycony"
+    },
+    {
+      "id": "pale",
+      "cs": "bledý",
+      "en": "pale",
+      "uk": "блідий",
+      "ru": "бледный",
+      "pl": "blady"
+    },
+    {
+      "id": "shade-of-colour",
+      "cs": "odstín",
+      "en": "shade (of colour)",
+      "uk": "відтінок",
+      "ru": "оттенок",
+      "pl": "odcień"
+    },
+    {
+      "id": "black-and-white",
+      "cs": "černobílý",
+      "en": "black-and-white",
+      "uk": "чорно-білий",
+      "ru": "чёрно-белый",
+      "pl": "czarno-biały"
+    },
+    {
+      "id": "chestnut-brown",
+      "cs": "kaštanový",
+      "en": "chestnut brown",
+      "uk": "каштановий",
+      "ru": "каштановый",
+      "pl": "kasztanowy"
+    },
+    {
+      "id": "lemon-yellow",
+      "cs": "citronový",
+      "en": "lemon yellow",
+      "uk": "лимонний",
+      "ru": "лимонный",
+      "pl": "cytrynowy"
+    },
+    {
+      "id": "brick-red",
+      "cs": "cihlový",
+      "en": "brick red",
+      "uk": "цегляний",
+      "ru": "кирпичный",
+      "pl": "ceglasty"
+    },
+    {
+      "id": "coral",
+      "cs": "korálový",
+      "en": "coral",
+      "uk": "кораловий",
+      "ru": "коралловый",
+      "pl": "koralowy"
+    },
+    {
+      "id": "sand-coloured",
+      "cs": "pískový",
+      "en": "sand-coloured",
+      "uk": "пісочний",
+      "ru": "песочный",
+      "pl": "piaskowy"
     }
   ]
 }

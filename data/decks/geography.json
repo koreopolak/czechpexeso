@@ -1,0 +1,285 @@
+{
+  "id": "geography",
+  "order": 221,
+  "level": "B1",
+  "icon": "mountain",
+  "title": {
+    "cs": "Zeměpis",
+    "en": "Geography",
+    "uk": "Географія",
+    "ru": "География",
+    "pl": "Geografia"
+  },
+  "description": {
+    "en": "Landforms, maps and the shape of the world.",
+    "uk": "Форми рельєфу, карти й будова світу.",
+    "ru": "Формы рельефа, карты и устройство мира.",
+    "pl": "Formy terenu, mapy i kształt świata."
+  },
+  "words": [
+    {
+      "id": "mountain-range",
+      "cs": "pohoří",
+      "en": "mountain range",
+      "uk": "гірський хребет",
+      "ru": "горный хребет",
+      "pl": "pasmo górskie"
+    },
+    {
+      "id": "highlands",
+      "cs": "vrchovina",
+      "en": "highlands",
+      "uk": "височина",
+      "ru": "возвышенность",
+      "pl": "wyżyna"
+    },
+    {
+      "id": "lowland",
+      "cs": "nížina",
+      "en": "lowland",
+      "uk": "низовина",
+      "ru": "низменность",
+      "pl": "nizina"
+    },
+    {
+      "id": "plateau",
+      "cs": "náhorní plošina",
+      "en": "plateau",
+      "uk": "плато",
+      "ru": "плато",
+      "pl": "płaskowyż"
+    },
+    {
+      "id": "basin-valley",
+      "cs": "kotlina",
+      "en": "basin (valley)",
+      "uk": "улоговина",
+      "ru": "котловина",
+      "pl": "kotlina"
+    },
+    {
+      "id": "canyon",
+      "cs": "kaňon",
+      "en": "canyon",
+      "uk": "каньйон",
+      "ru": "каньон",
+      "pl": "kanion"
+    },
+    {
+      "id": "river-delta",
+      "cs": "delta",
+      "en": "(river) delta",
+      "uk": "дельта",
+      "ru": "дельта",
+      "pl": "delta"
+    },
+    {
+      "id": "tributary",
+      "cs": "přítok",
+      "en": "tributary",
+      "uk": "притока",
+      "ru": "приток",
+      "pl": "dopływ"
+    },
+    {
+      "id": "river-basin",
+      "cs": "povodí",
+      "en": "river basin",
+      "uk": "басейн річки",
+      "ru": "бассейн реки",
+      "pl": "dorzecze"
+    },
+    {
+      "id": "strait",
+      "cs": "průliv",
+      "en": "strait",
+      "uk": "протока",
+      "ru": "пролив",
+      "pl": "cieśnina"
+    },
+    {
+      "id": "archipelago",
+      "cs": "souostroví",
+      "en": "archipelago",
+      "uk": "архіпелаг",
+      "ru": "архипелаг",
+      "pl": "archipelag"
+    },
+    {
+      "id": "cape",
+      "cs": "mys",
+      "en": "cape",
+      "uk": "мис",
+      "ru": "мыс",
+      "pl": "przylądek"
+    },
+    {
+      "id": "lagoon",
+      "cs": "laguna",
+      "en": "lagoon",
+      "uk": "лагуна",
+      "ru": "лагуна",
+      "pl": "laguna"
+    },
+    {
+      "id": "equator",
+      "cs": "rovník",
+      "en": "equator",
+      "uk": "екватор",
+      "ru": "экватор",
+      "pl": "równik"
+    },
+    {
+      "id": "north-pole",
+      "cs": "severní pól",
+      "en": "North Pole",
+      "uk": "Північний полюс",
+      "ru": "Северный полюс",
+      "pl": "biegun północny"
+    },
+    {
+      "id": "south-pole",
+      "cs": "jižní pól",
+      "en": "South Pole",
+      "uk": "Південний полюс",
+      "ru": "Южный полюс",
+      "pl": "biegun południowy"
+    },
+    {
+      "id": "latitude",
+      "cs": "zeměpisná šířka",
+      "en": "latitude",
+      "uk": "географічна широта",
+      "ru": "географическая широта",
+      "pl": "szerokość geograficzna"
+    },
+    {
+      "id": "longitude",
+      "cs": "zeměpisná délka",
+      "en": "longitude",
+      "uk": "географічна довгота",
+      "ru": "географическая долгота",
+      "pl": "długość geograficzna"
+    },
+    {
+      "id": "altitude",
+      "cs": "nadmořská výška",
+      "en": "altitude",
+      "uk": "висота над рівнем моря",
+      "ru": "высота над уровнем моря",
+      "pl": "wysokość nad poziomem morza"
+    },
+    {
+      "id": "temperate-zone",
+      "cs": "mírné pásmo",
+      "en": "temperate zone",
+      "uk": "помірний пояс",
+      "ru": "умеренный пояс",
+      "pl": "strefa umiarkowana"
+    },
+    {
+      "id": "tropics",
+      "cs": "tropy",
+      "en": "tropics",
+      "uk": "тропіки",
+      "ru": "тропики",
+      "pl": "tropiki"
+    },
+    {
+      "id": "arctic-circle",
+      "cs": "polární kruh",
+      "en": "Arctic Circle",
+      "uk": "полярне коло",
+      "ru": "полярный круг",
+      "pl": "koło podbiegunowe"
+    },
+    {
+      "id": "territory",
+      "cs": "území",
+      "en": "territory",
+      "uk": "територія",
+      "ru": "территория",
+      "pl": "terytorium"
+    },
+    {
+      "id": "region",
+      "cs": "region",
+      "en": "region",
+      "uk": "регіон",
+      "ru": "регион",
+      "pl": "region"
+    },
+    {
+      "id": "province",
+      "cs": "provincie",
+      "en": "province",
+      "uk": "провінція",
+      "ru": "провинция",
+      "pl": "prowincja"
+    },
+    {
+      "id": "metropolis",
+      "cs": "metropole",
+      "en": "metropolis",
+      "uk": "мегаполіс",
+      "ru": "мегаполис",
+      "pl": "metropolia"
+    },
+    {
+      "id": "countryside",
+      "cs": "venkov",
+      "en": "countryside",
+      "uk": "сільська місцевість",
+      "ru": "сельская местность",
+      "pl": "wieś"
+    },
+    {
+      "id": "earth-s-crust",
+      "cs": "zemská kůra",
+      "en": "Earth’s crust",
+      "uk": "земна кора",
+      "ru": "земная кора",
+      "pl": "skorupa ziemska"
+    },
+    {
+      "id": "mineral-resources",
+      "cs": "nerostné suroviny",
+      "en": "mineral resources",
+      "uk": "корисні копалини",
+      "ru": "полезные ископаемые",
+      "pl": "surowce mineralne"
+    },
+    {
+      "id": "fertile",
+      "cs": "úrodný",
+      "en": "fertile",
+      "uk": "родючий",
+      "ru": "плодородный",
+      "pl": "żyzny"
+    },
+    {
+      "id": "densely-populated",
+      "cs": "hustě osídlený",
+      "en": "densely populated",
+      "uk": "густонаселений",
+      "ru": "густонаселённый",
+      "pl": "gęsto zaludniony"
+    },
+    {
+      "id": "sparsely-populated",
+      "cs": "řídce osídlený",
+      "en": "sparsely populated",
+      "uk": "малонаселений",
+      "ru": "малонаселённый",
+      "pl": "słabo zaludniony"
+    },
+    {
+      "id": "contour-line",
+      "cs": "vrstevnice",
+      "en": "contour line",
+      "uk": "горизонталь",
+      "ru": "горизонталь",
+      "pl": "poziomica"
+    }
+  ]
+}

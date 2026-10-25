@@ -1,0 +1,213 @@
+{
+  "id": "appliances",
+  "order": 141,
+  "level": "A2",
+  "icon": "sliders",
+  "title": {
+    "cs": "Spotřebiče",
+    "en": "Home Appliances",
+    "uk": "Побутова техніка",
+    "ru": "Бытовая техника",
+    "pl": "Sprzęt AGD"
+  },
+  "description": {
+    "en": "Kitchen gadgets and household machines.",
+    "uk": "Кухонні гаджети й побутові прилади.",
+    "ru": "Кухонные гаджеты и бытовые приборы.",
+    "pl": "Gadżety kuchenne i urządzenia domowe."
+  },
+  "words": [
+    {
+      "id": "robot-vacuum",
+      "cs": "robotický vysavač",
+      "en": "robot vacuum",
+      "uk": "робот-пилосос",
+      "ru": "робот-пылесос",
+      "pl": "robot sprzątający"
+    },
+    {
+      "id": "air-purifier",
+      "cs": "čistička vzduchu",
+      "en": "air purifier",
+      "uk": "очищувач повітря",
+      "ru": "очиститель воздуха",
+      "pl": "oczyszczacz powietrza"
+    },
+    {
+      "id": "dehumidifier",
+      "cs": "odvlhčovač",
+      "en": "dehumidifier",
+      "uk": "осушувач повітря",
+      "ru": "осушитель воздуха",
+      "pl": "osuszacz powietrza"
+    },
+    {
+      "id": "water-heater",
+      "cs": "bojler",
+      "en": "water heater",
+      "uk": "бойлер",
+      "ru": "бойлер",
+      "pl": "bojler"
+    },
+    {
+      "id": "induction-hob",
+      "cs": "indukční deska",
+      "en": "induction hob",
+      "uk": "індукційна плита",
+      "ru": "индукционная плита",
+      "pl": "płyta indukcyjna"
+    },
+    {
+      "id": "cooker-hood",
+      "cs": "digestoř",
+      "en": "cooker hood",
+      "uk": "витяжка",
+      "ru": "вытяжка",
+      "pl": "okap kuchenny"
+    },
+    {
+      "id": "deep-fryer",
+      "cs": "fritéza",
+      "en": "deep fryer",
+      "uk": "фритюрниця",
+      "ru": "фритюрница",
+      "pl": "frytkownica"
+    },
+    {
+      "id": "air-fryer",
+      "cs": "horkovzdušná fritéza",
+      "en": "air fryer",
+      "uk": "аерогриль",
+      "ru": "аэрогриль",
+      "pl": "frytkownica beztłuszczowa"
+    },
+    {
+      "id": "slow-cooker",
+      "cs": "pomalý hrnec",
+      "en": "slow cooker",
+      "uk": "повільноварка",
+      "ru": "медленноварка",
+      "pl": "wolnowar"
+    },
+    {
+      "id": "bread-maker",
+      "cs": "domácí pekárna",
+      "en": "bread maker",
+      "uk": "хлібопічка",
+      "ru": "хлебопечка",
+      "pl": "wypiekacz do chleba"
+    },
+    {
+      "id": "waffle-maker",
+      "cs": "vaflovač",
+      "en": "waffle maker",
+      "uk": "вафельниця",
+      "ru": "вафельница",
+      "pl": "gofrownica"
+    },
+    {
+      "id": "sandwich-toaster",
+      "cs": "sendvičovač",
+      "en": "sandwich toaster",
+      "uk": "сендвічниця",
+      "ru": "сэндвичница",
+      "pl": "opiekacz"
+    },
+    {
+      "id": "juicer",
+      "cs": "odšťavňovač",
+      "en": "juicer",
+      "uk": "соковижималка",
+      "ru": "соковыжималка",
+      "pl": "sokowirówka"
+    },
+    {
+      "id": "food-processor",
+      "cs": "kuchyňský robot",
+      "en": "food processor",
+      "uk": "кухонний комбайн",
+      "ru": "кухонный комбайн",
+      "pl": "robot kuchenny"
+    },
+    {
+      "id": "hand-blender",
+      "cs": "tyčový mixér",
+      "en": "hand blender",
+      "uk": "зануруваний блендер",
+      "ru": "погружной блендер",
+      "pl": "blender ręczny"
+    },
+    {
+      "id": "electric-toothbrush",
+      "cs": "elektrický zubní kartáček",
+      "en": "electric toothbrush",
+      "uk": "електрична зубна щітка",
+      "ru": "электрическая зубная щётка",
+      "pl": "szczoteczka elektryczna"
+    },
+    {
+      "id": "trimmer",
+      "cs": "zastřihovač",
+      "en": "trimmer",
+      "uk": "тример",
+      "ru": "триммер",
+      "pl": "trymer"
+    },
+    {
+      "id": "bathroom-scales",
+      "cs": "osobní váha",
+      "en": "bathroom scales",
+      "uk": "ваги для підлоги",
+      "ru": "напольные весы",
+      "pl": "waga łazienkowa"
+    },
+    {
+      "id": "garment-steamer",
+      "cs": "napařovač",
+      "en": "garment steamer",
+      "uk": "відпарювач",
+      "ru": "отпариватель",
+      "pl": "parownica do ubrań"
+    },
+    {
+      "id": "smart-speaker",
+      "cs": "chytrý reproduktor",
+      "en": "smart speaker",
+      "uk": "розумна колонка",
+      "ru": "умная колонка",
+      "pl": "inteligentny głośnik"
+    },
+    {
+      "id": "appliance",
+      "cs": "spotřebič",
+      "en": "appliance",
+      "uk": "побутовий прилад",
+      "ru": "бытовой прибор",
+      "pl": "urządzenie AGD"
+    },
+    {
+      "id": "energy-label",
+      "cs": "energetický štítek",
+      "en": "energy label",
+      "uk": "енергетична етикетка",
+      "ru": "энергетическая этикетка",
+      "pl": "etykieta energetyczna"
+    },
+    {
+      "id": "power-consumption",
+      "cs": "příkon",
+      "en": "power consumption",
+      "uk": "споживана потужність",
+      "ru": "потребляемая мощность",
+      "pl": "pobór mocy"
+    },
+    {
+      "id": "user-manual",
+      "cs": "návod k obsluze",
+      "en": "user manual",
+      "uk": "інструкція з експлуатації",
+      "ru": "инструкция по эксплуатации",
+      "pl": "instrukcja obsługi"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "verbs-change",
+  "order": 241,
+  "level": "B1",
+  "icon": "restart",
+  "title": {
+    "cs": "Slovesa změny",
+    "en": "Verbs of Change",
+    "uk": "Дієслова змін",
+    "ru": "Глаголы изменения",
+    "pl": "Czasowniki zmiany"
+  },
+  "description": {
+    "en": "Breaking, melting, growing and fading.",
+    "uk": "Ламатися, танути, рости й вицвітати.",
+    "ru": "Ломаться, таять, расти и выцветать.",
+    "pl": "Psuć się, topnieć, rosnąć i blaknąć."
+  },
+  "words": [
+    {
+      "id": "break-get-broken",
+      "cs": "rozbít se",
+      "en": "to break (get broken)",
+      "uk": "розбитися",
+      "ru": "разбиться",
+      "pl": "rozbić się"
+    },
+    {
+      "id": "break-a-bone",
+      "cs": "zlomit",
+      "en": "to break (a bone)",
+      "uk": "зламати",
+      "ru": "сломать",
+      "pl": "złamać"
+    },
+    {
+      "id": "tear",
+      "cs": "roztrhnout",
+      "en": "to tear",
+      "uk": "розірвати",
+      "ru": "разорвать",
+      "pl": "rozerwać"
+    },
+    {
+      "id": "spill",
+      "cs": "rozlít",
+      "en": "to spill",
+      "uk": "розлити",
+      "ru": "пролить",
+      "pl": "rozlać"
+    },
+    {
+      "id": "scatter",
+      "cs": "rozsypat",
+      "en": "to scatter",
+      "uk": "розсипати",
+      "ru": "рассыпать",
+      "pl": "rozsypać"
+    },
+    {
+      "id": "crumple",
+      "cs": "zmačkat",
+      "en": "to crumple",
+      "uk": "зім’яти",
+      "ru": "смять",
+      "pl": "zgnieść"
+    },
+    {
+      "id": "bend",
+      "cs": "ohnout",
+      "en": "to bend",
+      "uk": "зігнути",
+      "ru": "согнуть",
+      "pl": "zgiąć"
+    },
+    {
+      "id": "straighten",
+      "cs": "narovnat",
+      "en": "to straighten",
+      "uk": "випрямити",
+      "ru": "выпрямить",
+      "pl": "wyprostować"
+    },
+    {
+      "id": "burn-something",
+      "cs": "spálit",
+      "en": "to burn (something)",
+      "uk": "спалити",
+      "ru": "сжечь",
+      "pl": "spalić"
+    },
+    {
+      "id": "melt",
+      "cs": "roztát",
+      "en": "to melt",
+      "uk": "розтанути",
+      "ru": "растаять",
+      "pl": "stopnieć"
+    },
+    {
+      "id": "freeze",
+      "cs": "zmrznout",
+      "en": "to freeze",
+      "uk": "замерзнути",
+      "ru": "замёрзнуть",
+      "pl": "zamarznąć"
+    },
+    {
+      "id": "evaporate",
+      "cs": "vypařit se",
+      "en": "to evaporate",
+      "uk": "випаруватися",
+      "ru": "испариться",
+      "pl": "wyparować"
+    },
+    {
+      "id": "rust",
+      "cs": "zrezivět",
+      "en": "to rust",
+      "uk": "заіржавіти",
+      "ru": "заржаветь",
+      "pl": "zardzewieć"
+    },
+    {
+      "id": "enlarge",
+      "cs": "zvětšit",
+      "en": "to enlarge",
+      "uk": "збільшити",
+      "ru": "увеличить",
+      "pl": "powiększyć"
+    },
+    {
+      "id": "shrink",
+      "cs": "zmenšit",
+      "en": "to shrink",
+      "uk": "зменшити",
+      "ru": "уменьшить",
+      "pl": "pomniejszyć"
+    },
+    {
+      "id": "soak",
+      "cs": "namočit",
+      "en": "to soak",
+      "uk": "намочити",
+      "ru": "намочить",
+      "pl": "namoczyć"
+    },
+    {
+      "id": "dirty",
+      "cs": "zašpinit",
+      "en": "to dirty",
+      "uk": "забруднити",
+      "ru": "запачкать",
+      "pl": "ubrudzić"
+    },
+    {
+      "id": "darken",
+      "cs": "ztmavnout",
+      "en": "to darken",
+      "uk": "потемніти",
+      "ru": "потемнеть",
+      "pl": "ściemnieć"
+    },
+    {
+      "id": "get-younger",
+      "cs": "omládnout",
+      "en": "to get younger",
+      "uk": "помолодшати",
+      "ru": "помолодеть",
+      "pl": "odmłodnieć"
+    },
+    {
+      "id": "get-fat",
+      "cs": "ztloustnout",
+      "en": "to get fat",
+      "uk": "погладшати",
+      "ru": "потолстеть",
+      "pl": "utyć"
+    },
+    {
+      "id": "get-rich",
+      "cs": "zbohatnout",
+      "en": "to get rich",
+      "uk": "розбагатіти",
+      "ru": "разбогатеть",
+      "pl": "wzbogacić się"
+    },
+    {
+      "id": "become-poor",
+      "cs": "zchudnout",
+      "en": "to become poor",
+      "uk": "зубожіти",
+      "ru": "обеднеть",
+      "pl": "zubożeć"
+    },
+    {
+      "id": "get-stronger",
+      "cs": "zesílit",
+      "en": "to get stronger",
+      "uk": "посилитися",
+      "ru": "усилиться",
+      "pl": "nasilić się"
+    },
+    {
+      "id": "get-weaker",
+      "cs": "zeslábnout",
+      "en": "to get weaker",
+      "uk": "ослабнути",
+      "ru": "ослабеть",
+      "pl": "osłabnąć"
+    },
+    {
+      "id": "become-cheaper",
+      "cs": "zlevnit",
+      "en": "to become cheaper",
+      "uk": "подешевшати",
+      "ru": "подешеветь",
+      "pl": "potanieć"
+    },
+    {
+      "id": "go-up-in-price",
+      "cs": "zdražit",
+      "en": "to go up in price",
+      "uk": "подорожчати",
+      "ru": "подорожать",
+      "pl": "podrożeć"
+    },
+    {
+      "id": "fade",
+      "cs": "vyblednout",
+      "en": "to fade",
+      "uk": "вицвісти",
+      "ru": "выцвести",
+      "pl": "wyblaknąć"
+    }
+  ]
+}

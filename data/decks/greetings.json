@@ -344,6 +344,206 @@
       "uk": "пан",
       "ru": "господин",
       "pl": "pan"
+    },
+    {
+      "id": "good-morning",
+      "cs": "dobré ráno",
+      "en": "good morning",
+      "uk": "доброго ранку",
+      "ru": "доброе утро",
+      "pl": "dzień dobry (rano)"
+    },
+    {
+      "id": "have-a-nice-day",
+      "cs": "mějte se hezky",
+      "en": "have a nice day",
+      "uk": "гарного дня",
+      "ru": "хорошего дня",
+      "pl": "miłego dnia"
+    },
+    {
+      "id": "how-are-you-formal",
+      "cs": "jak se máte?",
+      "en": "how are you? (formal)",
+      "uk": "як ви поживаєте?",
+      "ru": "как поживаете?",
+      "pl": "jak się pan ma?"
+    },
+    {
+      "id": "what-s-new",
+      "cs": "co je nového?",
+      "en": "what’s new?",
+      "uk": "що нового?",
+      "ru": "что нового?",
+      "pl": "co nowego?"
+    },
+    {
+      "id": "it-s-ok-so-so",
+      "cs": "ujde to",
+      "en": "it’s OK (so-so)",
+      "uk": "так собі",
+      "ru": "так себе",
+      "pl": "może być"
+    },
+    {
+      "id": "sorry-informal",
+      "cs": "promiň",
+      "en": "sorry (informal)",
+      "uk": "вибач",
+      "ru": "извини",
+      "pl": "przepraszam cię"
+    },
+    {
+      "id": "my-pleasure",
+      "cs": "rádo se stalo",
+      "en": "my pleasure",
+      "uk": "із задоволенням",
+      "ru": "рад был помочь",
+      "pl": "cała przyjemność po mojej stronie"
+    },
+    {
+      "id": "excuse-me-may-i-pass",
+      "cs": "s dovolením",
+      "en": "excuse me (may I pass)",
+      "uk": "дозвольте",
+      "ru": "разрешите",
+      "pl": "za pozwoleniem"
+    },
+    {
+      "id": "watch-out",
+      "cs": "pozor!",
+      "en": "watch out!",
+      "uk": "обережно!",
+      "ru": "осторожно!",
+      "pl": "uwaga!"
+    },
+    {
+      "id": "wait",
+      "cs": "počkej",
+      "en": "wait",
+      "uk": "зачекай",
+      "ru": "подожди",
+      "pl": "poczekaj"
+    },
+    {
+      "id": "come-here",
+      "cs": "pojď sem",
+      "en": "come here",
+      "uk": "іди сюди",
+      "ru": "иди сюда",
+      "pl": "chodź tutaj"
+    },
+    {
+      "id": "never-mind",
+      "cs": "nevadí",
+      "en": "never mind",
+      "uk": "нічого страшного",
+      "ru": "ничего страшного",
+      "pl": "nic nie szkodzi"
+    },
+    {
+      "id": "that-s-a-pity",
+      "cs": "to je škoda",
+      "en": "that’s a pity",
+      "uk": "шкода",
+      "ru": "жаль",
+      "pl": "szkoda"
+    },
+    {
+      "id": "it-doesn-t-matter",
+      "cs": "to je jedno",
+      "en": "it doesn’t matter",
+      "uk": "все одно",
+      "ru": "всё равно",
+      "pl": "wszystko jedno"
+    },
+    {
+      "id": "sure",
+      "cs": "jasně",
+      "en": "sure",
+      "uk": "ясно",
+      "ru": "ясно",
+      "pl": "jasne"
+    },
+    {
+      "id": "all-right",
+      "cs": "v pořádku",
+      "en": "all right",
+      "uk": "гаразд",
+      "ru": "в порядке",
+      "pl": "w porządku"
+    },
+    {
+      "id": "have-a-nice-weekend",
+      "cs": "hezký víkend",
+      "en": "have a nice weekend",
+      "uk": "гарних вихідних",
+      "ru": "хороших выходных",
+      "pl": "miłego weekendu"
+    },
+    {
+      "id": "merry-christmas",
+      "cs": "veselé Vánoce",
+      "en": "Merry Christmas",
+      "uk": "веселого Різдва",
+      "ru": "счастливого Рождества",
+      "pl": "Wesołych Świąt"
+    },
+    {
+      "id": "happy-new-year",
+      "cs": "šťastný nový rok",
+      "en": "Happy New Year",
+      "uk": "з Новим роком",
+      "ru": "с Новым годом",
+      "pl": "Szczęśliwego Nowego Roku"
+    },
+    {
+      "id": "get-well-soon",
+      "cs": "brzy se uzdrav",
+      "en": "get well soon",
+      "uk": "одужуй швидше",
+      "ru": "выздоравливай",
+      "pl": "wracaj szybko do zdrowia"
+    },
+    {
+      "id": "farewell",
+      "cs": "sbohem",
+      "en": "farewell",
+      "uk": "прощавай",
+      "ru": "прощай",
+      "pl": "żegnaj"
+    },
+    {
+      "id": "where-are-you-from",
+      "cs": "odkud jste?",
+      "en": "where are you from?",
+      "uk": "звідки ви?",
+      "ru": "откуда вы?",
+      "pl": "skąd pan jest?"
+    },
+    {
+      "id": "what-time-is-it",
+      "cs": "kolik je hodin?",
+      "en": "what time is it?",
+      "uk": "котра година?",
+      "ru": "который час?",
+      "pl": "która godzina?"
+    },
+    {
+      "id": "i-understand",
+      "cs": "rozumím",
+      "en": "I understand",
+      "uk": "я розумію",
+      "ru": "я понимаю",
+      "pl": "rozumiem"
+    },
+    {
+      "id": "i-have-no-time",
+      "cs": "nemám čas",
+      "en": "I have no time",
+      "uk": "у мене немає часу",
+      "ru": "у меня нет времени",
+      "pl": "nie mam czasu"
     }
   ]
 }

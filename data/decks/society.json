@@ -1,6 +1,6 @@
 {
   "id": "society",
-  "order": 66,
+  "order": 207,
   "level": "B1",
   "icon": "bank",
   "title": {
@@ -408,6 +408,206 @@
       "uk": "протестувати",
       "ru": "протестовать",
       "pl": "protestować"
+    },
+    {
+      "id": "non-profit-organisation",
+      "cs": "nezisková organizace",
+      "en": "non-profit organisation",
+      "uk": "неприбуткова організація",
+      "ru": "некоммерческая организация",
+      "pl": "organizacja non-profit"
+    },
+    {
+      "id": "charity",
+      "cs": "charita",
+      "en": "charity",
+      "uk": "благодійність",
+      "ru": "благотворительность",
+      "pl": "dobroczynność"
+    },
+    {
+      "id": "social-worker",
+      "cs": "sociální pracovník",
+      "en": "social worker",
+      "uk": "соціальний працівник",
+      "ru": "социальный работник",
+      "pl": "pracownik socjalny"
+    },
+    {
+      "id": "homeless-person",
+      "cs": "bezdomovec",
+      "en": "homeless person",
+      "uk": "безхатько",
+      "ru": "бездомный",
+      "pl": "bezdomny"
+    },
+    {
+      "id": "pension",
+      "cs": "důchod",
+      "en": "pension",
+      "uk": "пенсія",
+      "ru": "пенсия",
+      "pl": "emerytura"
+    },
+    {
+      "id": "inequality",
+      "cs": "nerovnost",
+      "en": "inequality",
+      "uk": "нерівність",
+      "ru": "неравенство",
+      "pl": "nierówność"
+    },
+    {
+      "id": "discrimination",
+      "cs": "diskriminace",
+      "en": "discrimination",
+      "uk": "дискримінація",
+      "ru": "дискриминация",
+      "pl": "dyskryminacja"
+    },
+    {
+      "id": "racism",
+      "cs": "rasismus",
+      "en": "racism",
+      "uk": "расизм",
+      "ru": "расизм",
+      "pl": "rasizm"
+    },
+    {
+      "id": "prejudice",
+      "cs": "předsudek",
+      "en": "prejudice",
+      "uk": "упередження",
+      "ru": "предрассудок",
+      "pl": "uprzedzenie"
+    },
+    {
+      "id": "tolerance",
+      "cs": "tolerance",
+      "en": "tolerance",
+      "uk": "толерантність",
+      "ru": "терпимость",
+      "pl": "tolerancja"
+    },
+    {
+      "id": "integration",
+      "cs": "integrace",
+      "en": "integration",
+      "uk": "інтеграція",
+      "ru": "интеграция",
+      "pl": "integracja"
+    },
+    {
+      "id": "multicultural",
+      "cs": "multikulturní",
+      "en": "multicultural",
+      "uk": "мультикультурний",
+      "ru": "мультикультурный",
+      "pl": "wielokulturowy"
+    },
+    {
+      "id": "young-people",
+      "cs": "mládež",
+      "en": "young people",
+      "uk": "молодь",
+      "ru": "молодёжь",
+      "pl": "młodzież"
+    },
+    {
+      "id": "senior-citizens",
+      "cs": "senioři",
+      "en": "senior citizens",
+      "uk": "люди похилого віку",
+      "ru": "пожилые люди",
+      "pl": "seniorzy"
+    },
+    {
+      "id": "middle-class",
+      "cs": "střední třída",
+      "en": "middle class",
+      "uk": "середній клас",
+      "ru": "средний класс",
+      "pl": "klasa średnia"
+    },
+    {
+      "id": "standard-of-living",
+      "cs": "životní úroveň",
+      "en": "standard of living",
+      "uk": "рівень життя",
+      "ru": "уровень жизни",
+      "pl": "poziom życia"
+    },
+    {
+      "id": "petition",
+      "cs": "petice",
+      "en": "petition",
+      "uk": "петиція",
+      "ru": "петиция",
+      "pl": "petycja"
+    },
+    {
+      "id": "activist",
+      "cs": "aktivista",
+      "en": "activist",
+      "uk": "активіст",
+      "ru": "активист",
+      "pl": "aktywista"
+    },
+    {
+      "id": "movement",
+      "cs": "hnutí",
+      "en": "movement",
+      "uk": "рух",
+      "ru": "движение",
+      "pl": "ruch"
+    },
+    {
+      "id": "protest-2",
+      "cs": "protest",
+      "en": "protest",
+      "uk": "протест",
+      "ru": "протест",
+      "pl": "protest"
+    },
+    {
+      "id": "crime-rate",
+      "cs": "kriminalita",
+      "en": "crime rate",
+      "uk": "злочинність",
+      "ru": "преступность",
+      "pl": "przestępczość"
+    },
+    {
+      "id": "public-opinion",
+      "cs": "veřejné mínění",
+      "en": "public opinion",
+      "uk": "громадська думка",
+      "ru": "общественное мнение",
+      "pl": "opinia ogółu"
+    },
+    {
+      "id": "taboo",
+      "cs": "tabu",
+      "en": "taboo",
+      "uk": "табу",
+      "ru": "табу",
+      "pl": "tabu"
+    },
+    {
+      "id": "feminism",
+      "cs": "feminismus",
+      "en": "feminism",
+      "uk": "фемінізм",
+      "ru": "феминизм",
+      "pl": "feminizm"
+    },
+    {
+      "id": "human-rights",
+      "cs": "lidská práva",
+      "en": "human rights",
+      "uk": "права людини",
+      "ru": "права человека",
+      "pl": "prawa człowieka"
     }
   ]
 }

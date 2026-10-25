@@ -1,0 +1,349 @@
+{
+  "id": "tools",
+  "order": 223,
+  "level": "B1",
+  "icon": "hammer",
+  "title": {
+    "cs": "Nářadí a dílna",
+    "en": "Tools & DIY",
+    "uk": "Інструменти та майстерня",
+    "ru": "Инструменты и мастерская",
+    "pl": "Narzędzia i warsztat"
+  },
+  "description": {
+    "en": "Tools, materials and fixing things yourself.",
+    "uk": "Інструменти, матеріали й ремонт своїми руками.",
+    "ru": "Инструменты, материалы и ремонт своими руками.",
+    "pl": "Narzędzia, materiały i naprawy na własną rękę."
+  },
+  "words": [
+    {
+      "id": "adjustable-spanner",
+      "cs": "francouzský klíč",
+      "en": "adjustable spanner",
+      "uk": "розвідний ключ",
+      "ru": "разводной ключ",
+      "pl": "klucz nastawny"
+    },
+    {
+      "id": "spanner",
+      "cs": "maticový klíč",
+      "en": "spanner",
+      "uk": "гайковий ключ",
+      "ru": "гаечный ключ",
+      "pl": "klucz płaski"
+    },
+    {
+      "id": "nut-for-a-bolt",
+      "cs": "matice",
+      "en": "nut (for a bolt)",
+      "uk": "гайка",
+      "ru": "гайка",
+      "pl": "nakrętka"
+    },
+    {
+      "id": "washer",
+      "cs": "podložka",
+      "en": "washer",
+      "uk": "шайба",
+      "ru": "шайба",
+      "pl": "podkładka"
+    },
+    {
+      "id": "wall-plug",
+      "cs": "hmoždinka",
+      "en": "wall plug",
+      "uk": "дюбель",
+      "ru": "дюбель",
+      "pl": "kołek rozporowy"
+    },
+    {
+      "id": "wood-screw",
+      "cs": "vrut",
+      "en": "wood screw",
+      "uk": "шуруп",
+      "ru": "шуруп",
+      "pl": "wkręt"
+    },
+    {
+      "id": "rasp",
+      "cs": "rašple",
+      "en": "rasp",
+      "uk": "рашпіль",
+      "ru": "рашпиль",
+      "pl": "tarnik"
+    },
+    {
+      "id": "chisel",
+      "cs": "dláto",
+      "en": "chisel",
+      "uk": "долото",
+      "ru": "долото",
+      "pl": "dłuto"
+    },
+    {
+      "id": "plane-tool",
+      "cs": "hoblík",
+      "en": "plane (tool)",
+      "uk": "рубанок",
+      "ru": "рубанок",
+      "pl": "strug"
+    },
+    {
+      "id": "vice",
+      "cs": "svěrák",
+      "en": "vice",
+      "uk": "лещата",
+      "ru": "тиски",
+      "pl": "imadło"
+    },
+    {
+      "id": "clamp",
+      "cs": "svěrka",
+      "en": "clamp",
+      "uk": "струбцина",
+      "ru": "струбцина",
+      "pl": "ścisk"
+    },
+    {
+      "id": "spirit-level",
+      "cs": "vodováha",
+      "en": "spirit level",
+      "uk": "будівельний рівень",
+      "ru": "строительный уровень",
+      "pl": "poziomica"
+    },
+    {
+      "id": "set-square",
+      "cs": "úhelník",
+      "en": "set square",
+      "uk": "кутник",
+      "ru": "угольник",
+      "pl": "kątownik"
+    },
+    {
+      "id": "soldering-iron",
+      "cs": "pájka",
+      "en": "soldering iron",
+      "uk": "паяльник",
+      "ru": "паяльник",
+      "pl": "lutownica"
+    },
+    {
+      "id": "welding-machine",
+      "cs": "svářečka",
+      "en": "welding machine",
+      "uk": "зварювальний апарат",
+      "ru": "сварочный аппарат",
+      "pl": "spawarka"
+    },
+    {
+      "id": "grinder",
+      "cs": "bruska",
+      "en": "grinder",
+      "uk": "шліфувальна машина",
+      "ru": "шлифовальная машина",
+      "pl": "szlifierka"
+    },
+    {
+      "id": "angle-grinder",
+      "cs": "úhlová bruska",
+      "en": "angle grinder",
+      "uk": "болгарка",
+      "ru": "болгарка",
+      "pl": "szlifierka kątowa"
+    },
+    {
+      "id": "circular-saw",
+      "cs": "kotoučová pila",
+      "en": "circular saw",
+      "uk": "циркулярна пила",
+      "ru": "циркулярная пила",
+      "pl": "piła tarczowa"
+    },
+    {
+      "id": "chainsaw",
+      "cs": "motorová pila",
+      "en": "chainsaw",
+      "uk": "бензопила",
+      "ru": "бензопила",
+      "pl": "piła łańcuchowa"
+    },
+    {
+      "id": "cordless-screwdriver",
+      "cs": "akušroubovák",
+      "en": "cordless screwdriver",
+      "uk": "акумуляторний шуруповерт",
+      "ru": "аккумуляторный шуруповёрт",
+      "pl": "wkrętarka akumulatorowa"
+    },
+    {
+      "id": "drill-bit",
+      "cs": "vrták",
+      "en": "drill bit",
+      "uk": "свердло",
+      "ru": "сверло",
+      "pl": "wiertło"
+    },
+    {
+      "id": "sandpaper",
+      "cs": "brusný papír",
+      "en": "sandpaper",
+      "uk": "наждачний папір",
+      "ru": "наждачная бумага",
+      "pl": "papier ścierny"
+    },
+    {
+      "id": "coat-of-paint",
+      "cs": "nátěr",
+      "en": "coat of paint",
+      "uk": "шар фарби",
+      "ru": "слой краски",
+      "pl": "powłoka"
+    },
+    {
+      "id": "varnish",
+      "cs": "lak",
+      "en": "varnish",
+      "uk": "лак",
+      "ru": "лак",
+      "pl": "lakier"
+    },
+    {
+      "id": "paint-thinner",
+      "cs": "ředidlo",
+      "en": "paint thinner",
+      "uk": "розчинник",
+      "ru": "растворитель",
+      "pl": "rozcieńczalnik"
+    },
+    {
+      "id": "sealant",
+      "cs": "tmel",
+      "en": "sealant",
+      "uk": "герметик",
+      "ru": "герметик",
+      "pl": "uszczelniacz"
+    },
+    {
+      "id": "silicone",
+      "cs": "silikon",
+      "en": "silicone",
+      "uk": "силікон",
+      "ru": "силикон",
+      "pl": "silikon"
+    },
+    {
+      "id": "extension-cord",
+      "cs": "prodlužovačka",
+      "en": "extension cord",
+      "uk": "подовжувач",
+      "ru": "удлинитель",
+      "pl": "przedłużacz"
+    },
+    {
+      "id": "plug",
+      "cs": "zástrčka",
+      "en": "plug",
+      "uk": "штепсельна вилка",
+      "ru": "штепсельная вилка",
+      "pl": "wtyczka"
+    },
+    {
+      "id": "work-gloves",
+      "cs": "pracovní rukavice",
+      "en": "work gloves",
+      "uk": "робочі рукавиці",
+      "ru": "рабочие перчатки",
+      "pl": "rękawice robocze"
+    },
+    {
+      "id": "safety-goggles",
+      "cs": "ochranné brýle",
+      "en": "safety goggles",
+      "uk": "захисні окуляри",
+      "ru": "защитные очки",
+      "pl": "okulary ochronne"
+    },
+    {
+      "id": "toolbox",
+      "cs": "bedna na nářadí",
+      "en": "toolbox",
+      "uk": "ящик для інструментів",
+      "ru": "ящик для инструментов",
+      "pl": "skrzynka na narzędzia"
+    },
+    {
+      "id": "assemble",
+      "cs": "montovat",
+      "en": "to assemble",
+      "uk": "збирати",
+      "ru": "собирать",
+      "pl": "montować"
+    },
+    {
+      "id": "dismantle",
+      "cs": "demontovat",
+      "en": "to dismantle",
+      "uk": "розбирати",
+      "ru": "разбирать",
+      "pl": "demontować"
+    },
+    {
+      "id": "sand",
+      "cs": "brousit",
+      "en": "to sand",
+      "uk": "шліфувати",
+      "ru": "шлифовать",
+      "pl": "szlifować"
+    },
+    {
+      "id": "plane-wood",
+      "cs": "hoblovat",
+      "en": "to plane (wood)",
+      "uk": "стругати",
+      "ru": "строгать",
+      "pl": "strugać"
+    },
+    {
+      "id": "varnish-2",
+      "cs": "lakovat",
+      "en": "to varnish",
+      "uk": "лакувати",
+      "ru": "лакировать",
+      "pl": "lakierować"
+    },
+    {
+      "id": "solder",
+      "cs": "pájet",
+      "en": "to solder",
+      "uk": "паяти",
+      "ru": "паять",
+      "pl": "lutować"
+    },
+    {
+      "id": "saw",
+      "cs": "řezat",
+      "en": "to saw",
+      "uk": "різати",
+      "ru": "пилить",
+      "pl": "ciąć"
+    },
+    {
+      "id": "tighten",
+      "cs": "utáhnout",
+      "en": "to tighten",
+      "uk": "затягнути",
+      "ru": "затянуть",
+      "pl": "dokręcić"
+    },
+    {
+      "id": "loosen",
+      "cs": "povolit",
+      "en": "to loosen",
+      "uk": "послабити",
+      "ru": "ослабить",
+      "pl": "poluzować"
+    }
+  ]
+}

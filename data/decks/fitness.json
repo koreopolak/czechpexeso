@@ -1,0 +1,245 @@
+{
+  "id": "fitness",
+  "order": 237,
+  "level": "B1",
+  "icon": "ball",
+  "title": {
+    "cs": "Fitness a výživa",
+    "en": "Fitness & Nutrition",
+    "uk": "Фітнес і харчування",
+    "ru": "Фитнес и питание",
+    "pl": "Fitness i odżywianie"
+  },
+  "description": {
+    "en": "Training, healthy eating and staying in shape.",
+    "uk": "Тренування, здорове харчування й гарна форма.",
+    "ru": "Тренировки, здоровое питание и хорошая форма.",
+    "pl": "Trening, zdrowe jedzenie i dobra forma."
+  },
+  "words": [
+    {
+      "id": "fitness-condition",
+      "cs": "kondice",
+      "en": "fitness (condition)",
+      "uk": "фізична форма",
+      "ru": "физическая форма",
+      "pl": "kondycja"
+    },
+    {
+      "id": "endurance",
+      "cs": "vytrvalost",
+      "en": "endurance",
+      "uk": "витривалість",
+      "ru": "выносливость",
+      "pl": "wytrzymałość"
+    },
+    {
+      "id": "stretching",
+      "cs": "protahování",
+      "en": "stretching",
+      "uk": "розтяжка",
+      "ru": "растяжка",
+      "pl": "rozciąganie"
+    },
+    {
+      "id": "squat",
+      "cs": "dřep",
+      "en": "squat",
+      "uk": "присідання",
+      "ru": "приседание",
+      "pl": "przysiad"
+    },
+    {
+      "id": "press-up",
+      "cs": "klik",
+      "en": "press-up",
+      "uk": "віджимання",
+      "ru": "отжимание",
+      "pl": "pompka"
+    },
+    {
+      "id": "sit-ups",
+      "cs": "sedy-lehy",
+      "en": "sit-ups",
+      "uk": "скручування",
+      "ru": "скручивания",
+      "pl": "brzuszki"
+    },
+    {
+      "id": "dumbbell",
+      "cs": "činka",
+      "en": "dumbbell",
+      "uk": "гантель",
+      "ru": "гантель",
+      "pl": "hantel"
+    },
+    {
+      "id": "treadmill",
+      "cs": "běžecký pás",
+      "en": "treadmill",
+      "uk": "бігова доріжка",
+      "ru": "беговая дорожка",
+      "pl": "bieżnia"
+    },
+    {
+      "id": "exercise-bike",
+      "cs": "rotoped",
+      "en": "exercise bike",
+      "uk": "велотренажер",
+      "ru": "велотренажёр",
+      "pl": "rowerek stacjonarny"
+    },
+    {
+      "id": "personal-trainer",
+      "cs": "osobní trenér",
+      "en": "personal trainer",
+      "uk": "персональний тренер",
+      "ru": "персональный тренер",
+      "pl": "trener personalny"
+    },
+    {
+      "id": "pilates",
+      "cs": "pilates",
+      "en": "Pilates",
+      "uk": "пілатес",
+      "ru": "пилатес",
+      "pl": "pilates"
+    },
+    {
+      "id": "aerobics",
+      "cs": "aerobik",
+      "en": "aerobics",
+      "uk": "аеробіка",
+      "ru": "аэробика",
+      "pl": "aerobik"
+    },
+    {
+      "id": "protein",
+      "cs": "bílkoviny",
+      "en": "protein",
+      "uk": "білки",
+      "ru": "белки",
+      "pl": "białko"
+    },
+    {
+      "id": "carbohydrates",
+      "cs": "sacharidy",
+      "en": "carbohydrates",
+      "uk": "вуглеводи",
+      "ru": "углеводы",
+      "pl": "węglowodany"
+    },
+    {
+      "id": "fats",
+      "cs": "tuky",
+      "en": "fats",
+      "uk": "жири",
+      "ru": "жиры",
+      "pl": "tłuszcze"
+    },
+    {
+      "id": "fibre",
+      "cs": "vláknina",
+      "en": "fibre",
+      "uk": "клітковина",
+      "ru": "клетчатка",
+      "pl": "błonnik"
+    },
+    {
+      "id": "dietary-supplement",
+      "cs": "doplněk stravy",
+      "en": "dietary supplement",
+      "uk": "харчова добавка",
+      "ru": "пищевая добавка",
+      "pl": "suplement diety"
+    },
+    {
+      "id": "meal-plan",
+      "cs": "jídelníček",
+      "en": "meal plan",
+      "uk": "раціон",
+      "ru": "рацион",
+      "pl": "jadłospis"
+    },
+    {
+      "id": "lose-weight",
+      "cs": "hubnout",
+      "en": "to lose weight",
+      "uk": "худнути",
+      "ru": "худеть",
+      "pl": "chudnąć"
+    },
+    {
+      "id": "gain-weight",
+      "cs": "přibrat",
+      "en": "to gain weight",
+      "uk": "набрати вагу",
+      "ru": "набрать вес",
+      "pl": "przytyć"
+    },
+    {
+      "id": "overweight",
+      "cs": "nadváha",
+      "en": "overweight",
+      "uk": "надмірна вага",
+      "ru": "лишний вес",
+      "pl": "nadwaga"
+    },
+    {
+      "id": "underweight",
+      "cs": "podváha",
+      "en": "underweight",
+      "uk": "недостатня вага",
+      "ru": "недостаточный вес",
+      "pl": "niedowaga"
+    },
+    {
+      "id": "healthy-lifestyle",
+      "cs": "zdravý životní styl",
+      "en": "healthy lifestyle",
+      "uk": "здоровий спосіб життя",
+      "ru": "здоровый образ жизни",
+      "pl": "zdrowy styl życia"
+    },
+    {
+      "id": "work-up-a-sweat",
+      "cs": "zpotit se",
+      "en": "to work up a sweat",
+      "uk": "спітніти",
+      "ru": "вспотеть",
+      "pl": "spocić się"
+    },
+    {
+      "id": "muscle-soreness",
+      "cs": "svalovka",
+      "en": "muscle soreness",
+      "uk": "крепатура",
+      "ru": "крепатура",
+      "pl": "zakwasy"
+    },
+    {
+      "id": "pull-a-muscle",
+      "cs": "natáhnout si sval",
+      "en": "to pull a muscle",
+      "uk": "розтягнути м’яз",
+      "ru": "растянуть мышцу",
+      "pl": "naciągnąć mięsień"
+    },
+    {
+      "id": "recovery-after-exercise",
+      "cs": "regenerace",
+      "en": "recovery (after exercise)",
+      "uk": "відновлення",
+      "ru": "восстановление",
+      "pl": "regeneracja"
+    },
+    {
+      "id": "hydration-routine",
+      "cs": "pitný režim",
+      "en": "hydration routine",
+      "uk": "питний режим",
+      "ru": "питьевой режим",
+      "pl": "nawodnienie"
+    }
+  ]
+}

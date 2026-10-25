@@ -1,0 +1,237 @@
+{
+  "id": "quantities",
+  "order": 140,
+  "level": "A2",
+  "icon": "ruler",
+  "title": {
+    "cs": "Množství a počty",
+    "en": "Quantities",
+    "uk": "Кількість",
+    "ru": "Количество",
+    "pl": "Ilości"
+  },
+  "description": {
+    "en": "How much, how many and how often.",
+    "uk": "Скільки, як багато і як часто.",
+    "ru": "Сколько, как много и как часто.",
+    "pl": "Ile, jak dużo i jak często."
+  },
+  "words": [
+    {
+      "id": "a-little-bit",
+      "cs": "trocha",
+      "en": "a little bit",
+      "uk": "трішечки",
+      "ru": "немножко",
+      "pl": "odrobina"
+    },
+    {
+      "id": "lots",
+      "cs": "spousta",
+      "en": "lots",
+      "uk": "купа",
+      "ru": "куча",
+      "pl": "mnóstwo"
+    },
+    {
+      "id": "plenty",
+      "cs": "dostatek",
+      "en": "plenty",
+      "uk": "достаток",
+      "ru": "достаток",
+      "pl": "dostatek"
+    },
+    {
+      "id": "the-rest",
+      "cs": "zbytek",
+      "en": "the rest",
+      "uk": "решта",
+      "ru": "остаток",
+      "pl": "reszta"
+    },
+    {
+      "id": "whole",
+      "cs": "celek",
+      "en": "whole",
+      "uk": "ціле",
+      "ru": "целое",
+      "pl": "całość"
+    },
+    {
+      "id": "amount-of-money",
+      "cs": "částka",
+      "en": "amount (of money)",
+      "uk": "сума",
+      "ru": "сумма",
+      "pl": "kwota"
+    },
+    {
+      "id": "on-average",
+      "cs": "průměrně",
+      "en": "on average",
+      "uk": "в середньому",
+      "ru": "в среднем",
+      "pl": "średnio"
+    },
+    {
+      "id": "at-the-most",
+      "cs": "maximálně",
+      "en": "at the most",
+      "uk": "щонайбільше",
+      "ru": "максимум",
+      "pl": "maksymalnie"
+    },
+    {
+      "id": "at-least",
+      "cs": "alespoň",
+      "en": "at least",
+      "uk": "принаймні",
+      "ru": "хотя бы",
+      "pl": "przynajmniej"
+    },
+    {
+      "id": "roughly",
+      "cs": "zhruba",
+      "en": "roughly",
+      "uk": "приблизно",
+      "ru": "примерно",
+      "pl": "mniej więcej"
+    },
+    {
+      "id": "more-than",
+      "cs": "více než",
+      "en": "more than",
+      "uk": "більше ніж",
+      "ru": "больше чем",
+      "pl": "więcej niż"
+    },
+    {
+      "id": "less-than",
+      "cs": "méně než",
+      "en": "less than",
+      "uk": "менше ніж",
+      "ru": "меньше чем",
+      "pl": "mniej niż"
+    },
+    {
+      "id": "several",
+      "cs": "několik",
+      "en": "several",
+      "uk": "кілька",
+      "ru": "несколько",
+      "pl": "kilka"
+    },
+    {
+      "id": "many",
+      "cs": "mnoho",
+      "en": "many",
+      "uk": "багато",
+      "ru": "много",
+      "pl": "wiele"
+    },
+    {
+      "id": "both",
+      "cs": "oba",
+      "en": "both",
+      "uk": "обидва",
+      "ru": "оба",
+      "pl": "obaj"
+    },
+    {
+      "id": "everybody",
+      "cs": "všichni",
+      "en": "everybody",
+      "uk": "усі",
+      "ru": "все",
+      "pl": "wszyscy"
+    },
+    {
+      "id": "individual-adj",
+      "cs": "jednotlivý",
+      "en": "individual (adj.)",
+      "uk": "окремий",
+      "ru": "отдельный",
+      "pl": "pojedynczy"
+    },
+    {
+      "id": "individual-person",
+      "cs": "jednotlivec",
+      "en": "individual (person)",
+      "uk": "індивід",
+      "ru": "индивид",
+      "pl": "jednostka"
+    },
+    {
+      "id": "hundreds",
+      "cs": "stovky",
+      "en": "hundreds",
+      "uk": "сотні",
+      "ru": "сотни",
+      "pl": "setki"
+    },
+    {
+      "id": "thousands",
+      "cs": "tisíce",
+      "en": "thousands",
+      "uk": "тисячі",
+      "ru": "тысячи",
+      "pl": "tysiące"
+    },
+    {
+      "id": "millions",
+      "cs": "miliony",
+      "en": "millions",
+      "uk": "мільйони",
+      "ru": "миллионы",
+      "pl": "miliony"
+    },
+    {
+      "id": "countless-number",
+      "cs": "nespočet",
+      "en": "countless number",
+      "uk": "незліченна кількість",
+      "ru": "бесчисленное множество",
+      "pl": "niezliczona ilość"
+    },
+    {
+      "id": "several-times",
+      "cs": "vícekrát",
+      "en": "several times",
+      "uk": "кілька разів",
+      "ru": "несколько раз",
+      "pl": "kilka razy"
+    },
+    {
+      "id": "for-the-first-time",
+      "cs": "poprvé",
+      "en": "for the first time",
+      "uk": "вперше",
+      "ru": "впервые",
+      "pl": "po raz pierwszy"
+    },
+    {
+      "id": "for-the-last-time",
+      "cs": "naposledy",
+      "en": "for the last time",
+      "uk": "востаннє",
+      "ru": "в последний раз",
+      "pl": "po raz ostatni"
+    },
+    {
+      "id": "every-time",
+      "cs": "pokaždé",
+      "en": "every time",
+      "uk": "щоразу",
+      "ru": "каждый раз",
+      "pl": "za każdym razem"
+    },
+    {
+      "id": "mostly",
+      "cs": "většinou",
+      "en": "mostly",
+      "uk": "здебільшого",
+      "ru": "в основном",
+      "pl": "przeważnie"
+    }
+  ]
+}

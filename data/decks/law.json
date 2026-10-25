@@ -1,0 +1,429 @@
+{
+  "id": "law",
+  "order": 304,
+  "level": "B2",
+  "icon": "scale",
+  "title": {
+    "cs": "Právo a soud",
+    "en": "Law & Justice",
+    "uk": "Право і суд",
+    "ru": "Право и суд",
+    "pl": "Prawo i sąd"
+  },
+  "description": {
+    "en": "Courts, crimes, trials and the law.",
+    "uk": "Суди, злочини, процеси й закони.",
+    "ru": "Суды, преступления, процессы и законы.",
+    "pl": "Sądy, przestępstwa, procesy i prawo."
+  },
+  "words": [
+    {
+      "id": "legal-proceedings",
+      "cs": "soudní řízení",
+      "en": "legal proceedings",
+      "uk": "судовий процес",
+      "ru": "судебный процесс",
+      "pl": "postępowanie sądowe"
+    },
+    {
+      "id": "lawsuit",
+      "cs": "žaloba",
+      "en": "lawsuit",
+      "uk": "позов",
+      "ru": "иск",
+      "pl": "pozew"
+    },
+    {
+      "id": "plaintiff",
+      "cs": "žalobce",
+      "en": "plaintiff",
+      "uk": "позивач",
+      "ru": "истец",
+      "pl": "powód"
+    },
+    {
+      "id": "defendant",
+      "cs": "obžalovaný",
+      "en": "defendant",
+      "uk": "обвинувачений",
+      "ru": "обвиняемый",
+      "pl": "oskarżony"
+    },
+    {
+      "id": "defence-lawyer",
+      "cs": "obhájce",
+      "en": "defence lawyer",
+      "uk": "захисник у суді",
+      "ru": "защитник в суде",
+      "pl": "obrońca"
+    },
+    {
+      "id": "public-prosecutor",
+      "cs": "státní zástupce",
+      "en": "public prosecutor",
+      "uk": "прокурор",
+      "ru": "прокурор",
+      "pl": "prokurator"
+    },
+    {
+      "id": "attorney",
+      "cs": "advokát",
+      "en": "attorney",
+      "uk": "адвокат",
+      "ru": "адвокат",
+      "pl": "adwokat"
+    },
+    {
+      "id": "jury",
+      "cs": "porota",
+      "en": "jury",
+      "uk": "присяжні",
+      "ru": "присяжные",
+      "pl": "ława przysięgłych"
+    },
+    {
+      "id": "verdict",
+      "cs": "rozsudek",
+      "en": "verdict",
+      "uk": "вирок",
+      "ru": "приговор",
+      "pl": "wyrok"
+    },
+    {
+      "id": "guilt",
+      "cs": "vina",
+      "en": "guilt",
+      "uk": "вина",
+      "ru": "вина",
+      "pl": "wina"
+    },
+    {
+      "id": "innocence",
+      "cs": "nevina",
+      "en": "innocence",
+      "uk": "невинуватість",
+      "ru": "невиновность",
+      "pl": "niewinność"
+    },
+    {
+      "id": "charge-accusation",
+      "cs": "obvinění",
+      "en": "charge (accusation)",
+      "uk": "обвинувачення",
+      "ru": "обвинение",
+      "pl": "oskarżenie"
+    },
+    {
+      "id": "testimony",
+      "cs": "svědectví",
+      "en": "testimony",
+      "uk": "свідчення",
+      "ru": "показания",
+      "pl": "zeznanie"
+    },
+    {
+      "id": "oath",
+      "cs": "přísaha",
+      "en": "oath",
+      "uk": "присяга",
+      "ru": "присяга",
+      "pl": "przysięga"
+    },
+    {
+      "id": "interrogation",
+      "cs": "výslech",
+      "en": "interrogation",
+      "uk": "допит",
+      "ru": "допрос",
+      "pl": "przesłuchanie"
+    },
+    {
+      "id": "arrest",
+      "cs": "zatknout",
+      "en": "to arrest",
+      "uk": "заарештувати",
+      "ru": "арестовать",
+      "pl": "aresztować"
+    },
+    {
+      "id": "arrest-2",
+      "cs": "zatčení",
+      "en": "arrest",
+      "uk": "арешт",
+      "ru": "арест",
+      "pl": "aresztowanie"
+    },
+    {
+      "id": "suspended-sentence",
+      "cs": "podmínka",
+      "en": "suspended sentence",
+      "uk": "умовний термін",
+      "ru": "условный срок",
+      "pl": "wyrok w zawieszeniu"
+    },
+    {
+      "id": "sentence",
+      "cs": "odsoudit",
+      "en": "to sentence",
+      "uk": "засудити",
+      "ru": "осудить",
+      "pl": "skazać"
+    },
+    {
+      "id": "acquit",
+      "cs": "osvobodit",
+      "en": "to acquit",
+      "uk": "виправдати",
+      "ru": "оправдать",
+      "pl": "uniewinnić"
+    },
+    {
+      "id": "appeal",
+      "cs": "odvolat se",
+      "en": "to appeal",
+      "uk": "оскаржити",
+      "ru": "обжаловать",
+      "pl": "odwołać się"
+    },
+    {
+      "id": "criminal-offence",
+      "cs": "trestný čin",
+      "en": "criminal offence",
+      "uk": "кримінальний злочин",
+      "ru": "уголовное преступление",
+      "pl": "czyn karalny"
+    },
+    {
+      "id": "misdemeanour",
+      "cs": "přestupek",
+      "en": "misdemeanour",
+      "uk": "адміністративне правопорушення",
+      "ru": "административное правонарушение",
+      "pl": "wykroczenie"
+    },
+    {
+      "id": "fraud",
+      "cs": "podvod",
+      "en": "fraud",
+      "uk": "шахрайство",
+      "ru": "мошенничество",
+      "pl": "oszustwo"
+    },
+    {
+      "id": "bribe",
+      "cs": "úplatek",
+      "en": "bribe",
+      "uk": "хабар",
+      "ru": "взятка",
+      "pl": "łapówka"
+    },
+    {
+      "id": "murder",
+      "cs": "vražda",
+      "en": "murder",
+      "uk": "вбивство",
+      "ru": "убийство",
+      "pl": "morderstwo"
+    },
+    {
+      "id": "murderer",
+      "cs": "vrah",
+      "en": "murderer",
+      "uk": "вбивця",
+      "ru": "убийца",
+      "pl": "morderca"
+    },
+    {
+      "id": "robbery",
+      "cs": "loupež",
+      "en": "robbery",
+      "uk": "пограбування",
+      "ru": "ограбление",
+      "pl": "rabunek"
+    },
+    {
+      "id": "kidnapping",
+      "cs": "únos",
+      "en": "kidnapping",
+      "uk": "викрадення",
+      "ru": "похищение",
+      "pl": "porwanie"
+    },
+    {
+      "id": "blackmail",
+      "cs": "vydírání",
+      "en": "blackmail",
+      "uk": "шантаж",
+      "ru": "шантаж",
+      "pl": "szantaż"
+    },
+    {
+      "id": "smuggling",
+      "cs": "pašování",
+      "en": "smuggling",
+      "uk": "контрабанда",
+      "ru": "контрабанда",
+      "pl": "przemyt"
+    },
+    {
+      "id": "drugs",
+      "cs": "drogy",
+      "en": "drugs",
+      "uk": "наркотики",
+      "ru": "наркотики",
+      "pl": "narkotyki"
+    },
+    {
+      "id": "forgery",
+      "cs": "padělek",
+      "en": "forgery",
+      "uk": "підробка",
+      "ru": "подделка",
+      "pl": "podróbka"
+    },
+    {
+      "id": "vandalism",
+      "cs": "vandalismus",
+      "en": "vandalism",
+      "uk": "вандалізм",
+      "ru": "вандализм",
+      "pl": "wandalizm"
+    },
+    {
+      "id": "cybercrime",
+      "cs": "kyberkriminalita",
+      "en": "cybercrime",
+      "uk": "кіберзлочинність",
+      "ru": "киберпреступность",
+      "pl": "cyberprzestępczość"
+    },
+    {
+      "id": "offender",
+      "cs": "pachatel",
+      "en": "offender",
+      "uk": "правопорушник",
+      "ru": "преступник",
+      "pl": "sprawca"
+    },
+    {
+      "id": "suspect",
+      "cs": "podezřelý",
+      "en": "suspect",
+      "uk": "підозрюваний",
+      "ru": "подозреваемый",
+      "pl": "podejrzany"
+    },
+    {
+      "id": "alibi",
+      "cs": "alibi",
+      "en": "alibi",
+      "uk": "алібі",
+      "ru": "алиби",
+      "pl": "alibi"
+    },
+    {
+      "id": "fingerprints",
+      "cs": "otisky prstů",
+      "en": "fingerprints",
+      "uk": "відбитки пальців",
+      "ru": "отпечатки пальцев",
+      "pl": "odciski palców"
+    },
+    {
+      "id": "life-imprisonment",
+      "cs": "doživotí",
+      "en": "life imprisonment",
+      "uk": "довічне ув’язнення",
+      "ru": "пожизненное заключение",
+      "pl": "dożywocie"
+    },
+    {
+      "id": "death-penalty",
+      "cs": "trest smrti",
+      "en": "death penalty",
+      "uk": "смертна кара",
+      "ru": "смертная казнь",
+      "pl": "kara śmierci"
+    },
+    {
+      "id": "amnesty",
+      "cs": "amnestie",
+      "en": "amnesty",
+      "uk": "амністія",
+      "ru": "амнистия",
+      "pl": "amnestia"
+    },
+    {
+      "id": "pardon",
+      "cs": "milost",
+      "en": "pardon",
+      "uk": "помилування",
+      "ru": "помилование",
+      "pl": "ułaskawienie"
+    },
+    {
+      "id": "civil-law",
+      "cs": "občanské právo",
+      "en": "civil law",
+      "uk": "цивільне право",
+      "ru": "гражданское право",
+      "pl": "prawo cywilne"
+    },
+    {
+      "id": "criminal-law",
+      "cs": "trestní právo",
+      "en": "criminal law",
+      "uk": "кримінальне право",
+      "ru": "уголовное право",
+      "pl": "prawo karne"
+    },
+    {
+      "id": "code-of-law",
+      "cs": "zákoník",
+      "en": "code (of law)",
+      "uk": "кодекс",
+      "ru": "кодекс",
+      "pl": "kodeks"
+    },
+    {
+      "id": "section-of-a-law",
+      "cs": "paragraf",
+      "en": "section (of a law)",
+      "uk": "параграф",
+      "ru": "параграф",
+      "pl": "paragraf"
+    },
+    {
+      "id": "regulation",
+      "cs": "nařízení",
+      "en": "regulation",
+      "uk": "постанова",
+      "ru": "постановление",
+      "pl": "rozporządzenie"
+    },
+    {
+      "id": "breach",
+      "cs": "porušit",
+      "en": "to breach",
+      "uk": "порушити",
+      "ru": "нарушить",
+      "pl": "naruszyć"
+    },
+    {
+      "id": "comply-with",
+      "cs": "dodržovat",
+      "en": "to comply with",
+      "uk": "дотримуватися",
+      "ru": "соблюдать",
+      "pl": "przestrzegać"
+    },
+    {
+      "id": "enforce",
+      "cs": "vymáhat",
+      "en": "to enforce",
+      "uk": "стягувати",
+      "ru": "взыскивать",
+      "pl": "egzekwować"
+    }
+  ]
+}

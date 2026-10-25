@@ -1,0 +1,293 @@
+{
+  "id": "internet",
+  "order": 232,
+  "level": "B1",
+  "icon": "laptop",
+  "title": {
+    "cs": "Internet a sociální sítě",
+    "en": "Internet & Social Media",
+    "uk": "Інтернет і соцмережі",
+    "ru": "Интернет и соцсети",
+    "pl": "Internet i media społecznościowe"
+  },
+  "description": {
+    "en": "Browsing, posting and staying safe online.",
+    "uk": "Перегляд, публікації й безпека в мережі.",
+    "ru": "Просмотр, публикации и безопасность в сети.",
+    "pl": "Przeglądanie, publikowanie i bezpieczeństwo w sieci."
+  },
+  "words": [
+    {
+      "id": "the-web",
+      "cs": "web",
+      "en": "the web",
+      "uk": "вебмережа",
+      "ru": "веб",
+      "pl": "sieć www"
+    },
+    {
+      "id": "home-page",
+      "cs": "domovská stránka",
+      "en": "home page",
+      "uk": "домашня сторінка",
+      "ru": "домашняя страница",
+      "pl": "strona główna"
+    },
+    {
+      "id": "look-up",
+      "cs": "vyhledat",
+      "en": "to look up",
+      "uk": "шукати в інтернеті",
+      "ru": "искать в интернете",
+      "pl": "wyszukać"
+    },
+    {
+      "id": "browse",
+      "cs": "procházet",
+      "en": "to browse",
+      "uk": "переглядати",
+      "ru": "просматривать",
+      "pl": "przeglądać"
+    },
+    {
+      "id": "surf-the-web",
+      "cs": "surfovat",
+      "en": "to surf the web",
+      "uk": "серфити",
+      "ru": "сёрфить",
+      "pl": "surfować"
+    },
+    {
+      "id": "profile",
+      "cs": "profil",
+      "en": "profile",
+      "uk": "профіль",
+      "ru": "профиль",
+      "pl": "profil"
+    },
+    {
+      "id": "profile-picture",
+      "cs": "profilová fotka",
+      "en": "profile picture",
+      "uk": "аватарка",
+      "ru": "аватарка",
+      "pl": "zdjęcie profilowe"
+    },
+    {
+      "id": "tag",
+      "cs": "označit",
+      "en": "to tag",
+      "uk": "позначити",
+      "ru": "отметить",
+      "pl": "oznaczyć"
+    },
+    {
+      "id": "hashtag",
+      "cs": "hashtag",
+      "en": "hashtag",
+      "uk": "хештег",
+      "ru": "хэштег",
+      "pl": "hashtag"
+    },
+    {
+      "id": "chat",
+      "cs": "chat",
+      "en": "chat",
+      "uk": "чат",
+      "ru": "чат",
+      "pl": "czat"
+    },
+    {
+      "id": "chat-online",
+      "cs": "chatovat",
+      "en": "to chat online",
+      "uk": "чатитися",
+      "ru": "переписываться в чате",
+      "pl": "czatować"
+    },
+    {
+      "id": "emoji",
+      "cs": "emoji",
+      "en": "emoji",
+      "uk": "емодзі",
+      "ru": "эмодзи",
+      "pl": "emoji"
+    },
+    {
+      "id": "meme",
+      "cs": "meme",
+      "en": "meme",
+      "uk": "мем",
+      "ru": "мем",
+      "pl": "mem"
+    },
+    {
+      "id": "viral",
+      "cs": "virální",
+      "en": "viral",
+      "uk": "вірусний",
+      "ru": "вирусный",
+      "pl": "wiralowy"
+    },
+    {
+      "id": "stream",
+      "cs": "streamovat",
+      "en": "to stream",
+      "uk": "транслювати",
+      "ru": "транслировать",
+      "pl": "streamować"
+    },
+    {
+      "id": "youtuber",
+      "cs": "youtuber",
+      "en": "YouTuber",
+      "uk": "ютубер",
+      "ru": "ютубер",
+      "pl": "youtuber"
+    },
+    {
+      "id": "blog",
+      "cs": "blog",
+      "en": "blog",
+      "uk": "блог",
+      "ru": "блог",
+      "pl": "blog"
+    },
+    {
+      "id": "blogger",
+      "cs": "bloger",
+      "en": "blogger",
+      "uk": "блогер",
+      "ru": "блогер",
+      "pl": "bloger"
+    },
+    {
+      "id": "cyberbullying",
+      "cs": "kyberšikana",
+      "en": "cyberbullying",
+      "uk": "кібербулінг",
+      "ru": "кибербуллинг",
+      "pl": "cyberprzemoc"
+    },
+    {
+      "id": "troll",
+      "cs": "troll",
+      "en": "troll",
+      "uk": "троль",
+      "ru": "тролль",
+      "pl": "troll"
+    },
+    {
+      "id": "fake-account",
+      "cs": "falešný účet",
+      "en": "fake account",
+      "uk": "фейковий акаунт",
+      "ru": "фейковый аккаунт",
+      "pl": "fałszywe konto"
+    },
+    {
+      "id": "privacy",
+      "cs": "soukromí",
+      "en": "privacy",
+      "uk": "приватність",
+      "ru": "конфиденциальность",
+      "pl": "prywatność"
+    },
+    {
+      "id": "personal-data",
+      "cs": "osobní údaje",
+      "en": "personal data",
+      "uk": "персональні дані",
+      "ru": "персональные данные",
+      "pl": "dane osobowe"
+    },
+    {
+      "id": "cookie-consent",
+      "cs": "souhlas s cookies",
+      "en": "cookie consent",
+      "uk": "згода на файли cookie",
+      "ru": "согласие на cookie",
+      "pl": "zgoda na pliki cookie"
+    },
+    {
+      "id": "login-details",
+      "cs": "přihlašovací údaje",
+      "en": "login details",
+      "uk": "облікові дані",
+      "ru": "учётные данные",
+      "pl": "dane logowania"
+    },
+    {
+      "id": "reset-a-password",
+      "cs": "obnovit heslo",
+      "en": "to reset a password",
+      "uk": "скинути пароль",
+      "ru": "сбросить пароль",
+      "pl": "zresetować hasło"
+    },
+    {
+      "id": "registration",
+      "cs": "registrace",
+      "en": "registration",
+      "uk": "реєстрація",
+      "ru": "регистрация",
+      "pl": "rejestracja"
+    },
+    {
+      "id": "notification",
+      "cs": "oznámení",
+      "en": "notification",
+      "uk": "сповіщення",
+      "ru": "уведомление",
+      "pl": "powiadomienie"
+    },
+    {
+      "id": "mobile-data",
+      "cs": "mobilní data",
+      "en": "mobile data",
+      "uk": "мобільний інтернет",
+      "ru": "мобильный интернет",
+      "pl": "dane komórkowe"
+    },
+    {
+      "id": "hotspot",
+      "cs": "hotspot",
+      "en": "hotspot",
+      "uk": "точка доступу",
+      "ru": "точка доступа",
+      "pl": "hotspot"
+    },
+    {
+      "id": "offline",
+      "cs": "offline",
+      "en": "offline",
+      "uk": "офлайн",
+      "ru": "офлайн",
+      "pl": "offline"
+    },
+    {
+      "id": "connect",
+      "cs": "připojit se",
+      "en": "to connect",
+      "uk": "підключитися",
+      "ru": "подключиться",
+      "pl": "połączyć się"
+    },
+    {
+      "id": "disconnect",
+      "cs": "odpojit se",
+      "en": "to disconnect",
+      "uk": "відключитися",
+      "ru": "отключиться",
+      "pl": "rozłączyć się"
+    },
+    {
+      "id": "connection-speed",
+      "cs": "rychlost připojení",
+      "en": "connection speed",
+      "uk": "швидкість з’єднання",
+      "ru": "скорость соединения",
+      "pl": "szybkość połączenia"
+    }
+  ]
+}

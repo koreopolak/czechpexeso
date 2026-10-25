@@ -1,0 +1,493 @@
+{
+  "id": "verbs-prefixed",
+  "order": 229,
+  "level": "B1",
+  "icon": "spark",
+  "title": {
+    "cs": "Slovesa s předponami",
+    "en": "Prefixed Verbs",
+    "uk": "Дієслова з префіксами",
+    "ru": "Глаголы с приставками",
+    "pl": "Czasowniki z przedrostkami"
+  },
+  "description": {
+    "en": "How prefixes change Czech verbs: dopsat, přepsat, zapsat…",
+    "uk": "Як префікси змінюють чеські дієслова: dopsat, přepsat, zapsat…",
+    "ru": "Как приставки меняют чешские глаголы: dopsat, přepsat, zapsat…",
+    "pl": "Jak przedrostki zmieniają czeskie czasowniki: dopsat, přepsat, zapsat…"
+  },
+  "words": [
+    {
+      "id": "rewrite",
+      "cs": "přepsat",
+      "en": "to rewrite",
+      "uk": "переписати",
+      "ru": "переписать",
+      "pl": "przepisać"
+    },
+    {
+      "id": "finish-writing",
+      "cs": "dopsat",
+      "en": "to finish writing",
+      "uk": "дописати",
+      "ru": "дописать",
+      "pl": "dopisać"
+    },
+    {
+      "id": "write-down",
+      "cs": "zapsat",
+      "en": "to write down",
+      "uk": "записати",
+      "ru": "записать",
+      "pl": "zapisać"
+    },
+    {
+      "id": "redo",
+      "cs": "předělat",
+      "en": "to redo",
+      "uk": "переробити",
+      "ru": "переделать",
+      "pl": "przerobić"
+    },
+    {
+      "id": "finish-a-task",
+      "cs": "dodělat",
+      "en": "to finish (a task)",
+      "uk": "доробити",
+      "ru": "доделать",
+      "pl": "dokończyć"
+    },
+    {
+      "id": "lose-money",
+      "cs": "prodělat",
+      "en": "to lose money",
+      "uk": "зазнати збитків",
+      "ru": "потерять деньги",
+      "pl": "stracić pieniądze"
+    },
+    {
+      "id": "publish",
+      "cs": "vydat",
+      "en": "to publish",
+      "uk": "видати",
+      "ru": "издать",
+      "pl": "wydać"
+    },
+    {
+      "id": "enter-data",
+      "cs": "zadat",
+      "en": "to enter (data)",
+      "uk": "ввести",
+      "ru": "ввести",
+      "pl": "wprowadzić"
+    },
+    {
+      "id": "hand-out",
+      "cs": "rozdat",
+      "en": "to hand out",
+      "uk": "роздати",
+      "ru": "раздать",
+      "pl": "rozdać"
+    },
+    {
+      "id": "give-up",
+      "cs": "vzdát se",
+      "en": "to give up",
+      "uk": "здатися",
+      "ru": "сдаться",
+      "pl": "poddać się"
+    },
+    {
+      "id": "hand-over",
+      "cs": "předat",
+      "en": "to hand over",
+      "uk": "передати",
+      "ru": "передать",
+      "pl": "przekazać"
+    },
+    {
+      "id": "add-say-in-addition",
+      "cs": "dodat",
+      "en": "to add (say in addition)",
+      "uk": "додати",
+      "ru": "добавить",
+      "pl": "dodać"
+    },
+    {
+      "id": "rebuild",
+      "cs": "přestavět",
+      "en": "to rebuild",
+      "uk": "перебудувати",
+      "ru": "перестроить",
+      "pl": "przebudować"
+    },
+    {
+      "id": "exhibit",
+      "cs": "vystavit",
+      "en": "to exhibit",
+      "uk": "виставити",
+      "ru": "выставить",
+      "pl": "wystawić"
+    },
+    {
+      "id": "put-together",
+      "cs": "sestavit",
+      "en": "to put together",
+      "uk": "скласти",
+      "ru": "составить",
+      "pl": "zestawić"
+    },
+    {
+      "id": "set-up",
+      "cs": "nastavit",
+      "en": "to set (up)",
+      "uk": "налаштувати",
+      "ru": "настроить",
+      "pl": "ustawić"
+    },
+    {
+      "id": "command",
+      "cs": "přikázat",
+      "en": "to command",
+      "uk": "наказати",
+      "ru": "приказать",
+      "pl": "rozkazać"
+    },
+    {
+      "id": "come-to-an-agreement",
+      "cs": "domluvit se",
+      "en": "to come to an agreement",
+      "uk": "домовитися",
+      "ru": "договориться",
+      "pl": "dogadać się"
+    },
+    {
+      "id": "talk-into",
+      "cs": "přemluvit",
+      "en": "to talk into",
+      "uk": "умовити",
+      "ru": "уговорить",
+      "pl": "namówić"
+    },
+    {
+      "id": "speak-up",
+      "cs": "promluvit",
+      "en": "to speak up",
+      "uk": "заговорити",
+      "ru": "заговорить",
+      "pl": "przemówić"
+    },
+    {
+      "id": "make-excuses",
+      "cs": "vymluvit se",
+      "en": "to make excuses",
+      "uk": "відговоритися",
+      "ru": "отговориться",
+      "pl": "wymówić się"
+    },
+    {
+      "id": "badmouth",
+      "cs": "pomluvit",
+      "en": "to badmouth",
+      "uk": "обмовити",
+      "ru": "оклеветать",
+      "pl": "obmówić"
+    },
+    {
+      "id": "bring-all-the-way",
+      "cs": "donést",
+      "en": "to bring (all the way)",
+      "uk": "донести",
+      "ru": "донести",
+      "pl": "donieść"
+    },
+    {
+      "id": "deliver-around",
+      "cs": "roznést",
+      "en": "to deliver (around)",
+      "uk": "рознести",
+      "ru": "разнести",
+      "pl": "roznieść"
+    },
+    {
+      "id": "summon",
+      "cs": "přivolat",
+      "en": "to summon",
+      "uk": "викликати",
+      "ru": "вызвать",
+      "pl": "wezwać"
+    },
+    {
+      "id": "provoke-cause",
+      "cs": "vyvolat",
+      "en": "to provoke (cause)",
+      "uk": "спричинити",
+      "ru": "вызвать (реакцию)",
+      "pl": "wywołać"
+    },
+    {
+      "id": "revoke",
+      "cs": "odvolat",
+      "en": "to revoke",
+      "uk": "відкликати",
+      "ru": "отозвать",
+      "pl": "odwołać"
+    },
+    {
+      "id": "throw-out",
+      "cs": "vyhodit",
+      "en": "to throw out",
+      "uk": "викинути",
+      "ru": "выбросить",
+      "pl": "wyrzucić"
+    },
+    {
+      "id": "throw-away",
+      "cs": "zahodit",
+      "en": "to throw away",
+      "uk": "викинути геть",
+      "ru": "выкинуть",
+      "pl": "odrzucić"
+    },
+    {
+      "id": "drop",
+      "cs": "shodit",
+      "en": "to drop",
+      "uk": "скинути",
+      "ru": "сбросить",
+      "pl": "zrzucić"
+    },
+    {
+      "id": "let-go",
+      "cs": "pustit",
+      "en": "to let go",
+      "uk": "відпустити",
+      "ru": "отпустить",
+      "pl": "puścić"
+    },
+    {
+      "id": "release",
+      "cs": "vypustit",
+      "en": "to release",
+      "uk": "випустити",
+      "ru": "выпустить",
+      "pl": "wypuścić"
+    },
+    {
+      "id": "launch-start",
+      "cs": "spustit",
+      "en": "to launch (start)",
+      "uk": "запустити",
+      "ru": "запустить",
+      "pl": "uruchomić"
+    },
+    {
+      "id": "climb-out",
+      "cs": "vylézt",
+      "en": "to climb out",
+      "uk": "вилізти",
+      "ru": "вылезти",
+      "pl": "wyleźć"
+    },
+    {
+      "id": "climb-down",
+      "cs": "slézt",
+      "en": "to climb down",
+      "uk": "злізти",
+      "ru": "слезть",
+      "pl": "zleźć"
+    },
+    {
+      "id": "crawl-into",
+      "cs": "zalézt",
+      "en": "to crawl into",
+      "uk": "залізти",
+      "ru": "залезть",
+      "pl": "wleźć"
+    },
+    {
+      "id": "get-enough-sleep",
+      "cs": "vyspat se",
+      "en": "to get enough sleep",
+      "uk": "виспатися",
+      "ru": "выспаться",
+      "pl": "wyspać się"
+    },
+    {
+      "id": "oversleep",
+      "cs": "zaspat",
+      "en": "to oversleep",
+      "uk": "проспати",
+      "ru": "проспать",
+      "pl": "zaspać"
+    },
+    {
+      "id": "stay-overnight",
+      "cs": "přespat",
+      "en": "to stay overnight",
+      "uk": "переночувати",
+      "ru": "переночевать",
+      "pl": "przenocować"
+    },
+    {
+      "id": "eat-up",
+      "cs": "sníst",
+      "en": "to eat up",
+      "uk": "з’їсти",
+      "ru": "съесть",
+      "pl": "zjeść"
+    },
+    {
+      "id": "overeat",
+      "cs": "přejíst se",
+      "en": "to overeat",
+      "uk": "переїсти",
+      "ru": "переесть",
+      "pl": "przejeść się"
+    },
+    {
+      "id": "eat-your-fill",
+      "cs": "najíst se",
+      "en": "to eat your fill",
+      "uk": "наїстися",
+      "ru": "наесться",
+      "pl": "najeść się"
+    },
+    {
+      "id": "drink-up",
+      "cs": "vypít",
+      "en": "to drink up",
+      "uk": "випити",
+      "ru": "выпить",
+      "pl": "wypić"
+    },
+    {
+      "id": "get-drunk",
+      "cs": "opít se",
+      "en": "to get drunk",
+      "uk": "напитися",
+      "ru": "напиться",
+      "pl": "upić się"
+    },
+    {
+      "id": "have-a-drink",
+      "cs": "napít se",
+      "en": "to have a drink",
+      "uk": "попити",
+      "ru": "попить",
+      "pl": "napić się"
+    },
+    {
+      "id": "learn-master",
+      "cs": "naučit se",
+      "en": "to learn (master)",
+      "uk": "вивчити",
+      "ru": "выучить",
+      "pl": "nauczyć się"
+    },
+    {
+      "id": "qualify-in-a-trade",
+      "cs": "vyučit se",
+      "en": "to qualify (in a trade)",
+      "uk": "здобути професію",
+      "ru": "получить профессию",
+      "pl": "wyuczyć się zawodu"
+    },
+    {
+      "id": "tutor",
+      "cs": "doučovat",
+      "en": "to tutor",
+      "uk": "репетиторствувати",
+      "ru": "репетиторствовать",
+      "pl": "udzielać korepetycji"
+    },
+    {
+      "id": "do-the-shopping",
+      "cs": "nakoupit",
+      "en": "to do the shopping",
+      "uk": "накупити",
+      "ru": "накупить",
+      "pl": "zrobić zakupy"
+    },
+    {
+      "id": "buy-more",
+      "cs": "přikoupit",
+      "en": "to buy more",
+      "uk": "докупити",
+      "ru": "докупить",
+      "pl": "dokupić"
+    },
+    {
+      "id": "pay-up",
+      "cs": "zaplatit",
+      "en": "to pay (up)",
+      "uk": "заплатити",
+      "ru": "заплатить",
+      "pl": "zapłacić"
+    },
+    {
+      "id": "pay-the-rest",
+      "cs": "doplatit",
+      "en": "to pay the rest",
+      "uk": "доплатити",
+      "ru": "доплатить",
+      "pl": "dopłacić"
+    },
+    {
+      "id": "overpay",
+      "cs": "přeplatit",
+      "en": "to overpay",
+      "uk": "переплатити",
+      "ru": "переплатить",
+      "pl": "przepłacić"
+    },
+    {
+      "id": "pay-out",
+      "cs": "vyplatit",
+      "en": "to pay out",
+      "uk": "виплатити",
+      "ru": "выплатить",
+      "pl": "wypłacić"
+    },
+    {
+      "id": "wait-a-moment",
+      "cs": "počkat",
+      "en": "to wait a moment",
+      "uk": "почекати",
+      "ru": "подождать",
+      "pl": "poczekać"
+    },
+    {
+      "id": "live-to-see",
+      "cs": "dočkat se",
+      "en": "to live to see",
+      "uk": "дочекатися",
+      "ru": "дождаться",
+      "pl": "doczekać się"
+    },
+    {
+      "id": "wait-and-see",
+      "cs": "vyčkat",
+      "en": "to wait and see",
+      "uk": "вичекати",
+      "ru": "выждать",
+      "pl": "odczekać"
+    },
+    {
+      "id": "wash-off",
+      "cs": "smýt",
+      "en": "to wash off",
+      "uk": "змити",
+      "ru": "смыть",
+      "pl": "zmyć"
+    },
+    {
+      "id": "unpack",
+      "cs": "vybalit",
+      "en": "to unpack",
+      "uk": "розпакувати",
+      "ru": "распаковать",
+      "pl": "rozpakować"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "space",
+  "order": 231,
+  "level": "B1",
+  "icon": "planet",
+  "title": {
+    "cs": "Vesmír",
+    "en": "Space",
+    "uk": "Космос",
+    "ru": "Космос",
+    "pl": "Kosmos"
+  },
+  "description": {
+    "en": "Planets, stars and space travel.",
+    "uk": "Планети, зорі й космічні подорожі.",
+    "ru": "Планеты, звёзды и космические полёты.",
+    "pl": "Planety, gwiazdy i podróże kosmiczne."
+  },
+  "words": [
+    {
+      "id": "mercury",
+      "cs": "Merkur",
+      "en": "Mercury",
+      "uk": "Меркурій",
+      "ru": "Меркурий",
+      "pl": "Merkury"
+    },
+    {
+      "id": "jupiter",
+      "cs": "Jupiter",
+      "en": "Jupiter",
+      "uk": "Юпітер",
+      "ru": "Юпитер",
+      "pl": "Jowisz"
+    },
+    {
+      "id": "saturn",
+      "cs": "Saturn",
+      "en": "Saturn",
+      "uk": "Сатурн",
+      "ru": "Сатурн",
+      "pl": "Saturn"
+    },
+    {
+      "id": "uranus",
+      "cs": "Uran",
+      "en": "Uranus",
+      "uk": "Уран",
+      "ru": "Уран",
+      "pl": "Uran"
+    },
+    {
+      "id": "neptune",
+      "cs": "Neptun",
+      "en": "Neptune",
+      "uk": "Нептун",
+      "ru": "Нептун",
+      "pl": "Neptun"
+    },
+    {
+      "id": "dwarf-planet",
+      "cs": "trpasličí planeta",
+      "en": "dwarf planet",
+      "uk": "карликова планета",
+      "ru": "карликовая планета",
+      "pl": "planeta karłowata"
+    },
+    {
+      "id": "asteroid",
+      "cs": "asteroid",
+      "en": "asteroid",
+      "uk": "астероїд",
+      "ru": "астероид",
+      "pl": "planetoida"
+    },
+    {
+      "id": "new-moon",
+      "cs": "nov",
+      "en": "new moon",
+      "uk": "молодик",
+      "ru": "новолуние",
+      "pl": "nów"
+    },
+    {
+      "id": "crescent-moon",
+      "cs": "srpek měsíce",
+      "en": "crescent moon",
+      "uk": "серп місяця",
+      "ru": "серп луны",
+      "pl": "sierp księżyca"
+    },
+    {
+      "id": "observatory",
+      "cs": "hvězdárna",
+      "en": "observatory",
+      "uk": "обсерваторія",
+      "ru": "обсерватория",
+      "pl": "obserwatorium"
+    },
+    {
+      "id": "planetarium",
+      "cs": "planetárium",
+      "en": "planetarium",
+      "uk": "планетарій",
+      "ru": "планетарий",
+      "pl": "planetarium"
+    },
+    {
+      "id": "spacesuit",
+      "cs": "skafandr",
+      "en": "spacesuit",
+      "uk": "скафандр",
+      "ru": "скафандр",
+      "pl": "skafander"
+    },
+    {
+      "id": "countdown",
+      "cs": "odpočítávání",
+      "en": "countdown",
+      "uk": "зворотний відлік",
+      "ru": "обратный отсчёт",
+      "pl": "odliczanie"
+    },
+    {
+      "id": "weightlessness",
+      "cs": "beztíže",
+      "en": "weightlessness",
+      "uk": "невагомість",
+      "ru": "невесомость",
+      "pl": "stan nieważkości"
+    },
+    {
+      "id": "alien",
+      "cs": "mimozemšťan",
+      "en": "alien",
+      "uk": "інопланетянин",
+      "ru": "инопланетянин",
+      "pl": "kosmita"
+    },
+    {
+      "id": "ufo",
+      "cs": "UFO",
+      "en": "UFO",
+      "uk": "НЛО",
+      "ru": "НЛО",
+      "pl": "UFO"
+    },
+    {
+      "id": "light-year",
+      "cs": "světelný rok",
+      "en": "light year",
+      "uk": "світловий рік",
+      "ru": "световой год",
+      "pl": "rok świetlny"
+    },
+    {
+      "id": "big-bang",
+      "cs": "velký třesk",
+      "en": "Big Bang",
+      "uk": "Великий вибух",
+      "ru": "Большой взрыв",
+      "pl": "Wielki Wybuch"
+    },
+    {
+      "id": "nebula",
+      "cs": "mlhovina",
+      "en": "nebula",
+      "uk": "туманність",
+      "ru": "туманность",
+      "pl": "mgławica"
+    },
+    {
+      "id": "supernova",
+      "cs": "supernova",
+      "en": "supernova",
+      "uk": "наднова",
+      "ru": "сверхновая",
+      "pl": "supernowa"
+    },
+    {
+      "id": "star-cluster",
+      "cs": "hvězdokupa",
+      "en": "star cluster",
+      "uk": "зоряне скупчення",
+      "ru": "звёздное скопление",
+      "pl": "gromada gwiazd"
+    },
+    {
+      "id": "the-plough-big-dipper",
+      "cs": "Velký vůz",
+      "en": "the Plough (Big Dipper)",
+      "uk": "Велика Ведмедиця",
+      "ru": "Большая Медведица",
+      "pl": "Wielki Wóz"
+    },
+    {
+      "id": "north-star",
+      "cs": "Polárka",
+      "en": "North Star",
+      "uk": "Полярна зоря",
+      "ru": "Полярная звезда",
+      "pl": "Gwiazda Polarna"
+    },
+    {
+      "id": "aurora",
+      "cs": "polární záře",
+      "en": "aurora",
+      "uk": "полярне сяйво",
+      "ru": "полярное сияние",
+      "pl": "zorza polarna"
+    },
+    {
+      "id": "shooting-star",
+      "cs": "padající hvězda",
+      "en": "shooting star",
+      "uk": "падаюча зірка",
+      "ru": "падающая звезда",
+      "pl": "spadająca gwiazda"
+    },
+    {
+      "id": "spacecraft",
+      "cs": "kosmická loď",
+      "en": "spacecraft",
+      "uk": "космічний корабель",
+      "ru": "космический корабль",
+      "pl": "statek kosmiczny"
+    },
+    {
+      "id": "moon-landing",
+      "cs": "přistání na Měsíci",
+      "en": "moon landing",
+      "uk": "висадка на Місяць",
+      "ru": "высадка на Луну",
+      "pl": "lądowanie na Księżycu"
+    },
+    {
+      "id": "atmosphere",
+      "cs": "atmosféra",
+      "en": "atmosphere",
+      "uk": "атмосфера",
+      "ru": "атмосфера",
+      "pl": "atmosfera"
+    },
+    {
+      "id": "orbit",
+      "cs": "obíhat",
+      "en": "to orbit",
+      "uk": "обертатися навколо",
+      "ru": "вращаться вокруг",
+      "pl": "krążyć wokół"
+    },
+    {
+      "id": "space-probe",
+      "cs": "sonda",
+      "en": "space probe",
+      "uk": "космічний зонд",
+      "ru": "космический зонд",
+      "pl": "sonda kosmiczna"
+    }
+  ]
+}

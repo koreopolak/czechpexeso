@@ -1,0 +1,181 @@
+{
+  "id": "travel-problems",
+  "order": 249,
+  "level": "B1",
+  "icon": "plane",
+  "title": {
+    "cs": "Problémy na cestách",
+    "en": "Travel Troubles",
+    "uk": "Проблеми в дорозі",
+    "ru": "Проблемы в поездке",
+    "pl": "Kłopoty w podróży"
+  },
+  "description": {
+    "en": "When a trip doesn’t go to plan.",
+    "uk": "Коли подорож іде не за планом.",
+    "ru": "Когда поездка идёт не по плану.",
+    "pl": "Gdy podróż nie idzie zgodnie z planem."
+  },
+  "words": [
+    {
+      "id": "miss-a-train",
+      "cs": "zmeškat",
+      "en": "to miss (a train)",
+      "uk": "спізнитися на",
+      "ru": "опоздать на",
+      "pl": "spóźnić się na"
+    },
+    {
+      "id": "blocked-card",
+      "cs": "zablokovaná karta",
+      "en": "blocked card",
+      "uk": "заблокована картка",
+      "ru": "заблокированная карта",
+      "pl": "zablokowana karta"
+    },
+    {
+      "id": "consulate",
+      "cs": "konzulát",
+      "en": "consulate",
+      "uk": "консульство",
+      "ru": "консульство",
+      "pl": "konsulat"
+    },
+    {
+      "id": "emergency-travel-document",
+      "cs": "náhradní cestovní doklad",
+      "en": "emergency travel document",
+      "uk": "тимчасовий проїзний документ",
+      "ru": "временный проездной документ",
+      "pl": "tymczasowy dokument podróży"
+    },
+    {
+      "id": "police-report",
+      "cs": "policejní protokol",
+      "en": "police report",
+      "uk": "поліцейський протокол",
+      "ru": "полицейский протокол",
+      "pl": "protokół policyjny"
+    },
+    {
+      "id": "pickpocket",
+      "cs": "kapsář",
+      "en": "pickpocket",
+      "uk": "кишеньковий злодій",
+      "ru": "карманник",
+      "pl": "kieszonkowiec"
+    },
+    {
+      "id": "swindler",
+      "cs": "podvodník",
+      "en": "swindler",
+      "uk": "шахрай",
+      "ru": "мошенник",
+      "pl": "oszust"
+    },
+    {
+      "id": "tourist-trap",
+      "cs": "turistická past",
+      "en": "tourist trap",
+      "uk": "туристична пастка",
+      "ru": "туристическая ловушка",
+      "pl": "pułapka na turystów"
+    },
+    {
+      "id": "overpriced",
+      "cs": "předražený",
+      "en": "overpriced",
+      "uk": "завищений у ціні",
+      "ru": "завышенный в цене",
+      "pl": "zbyt drogi"
+    },
+    {
+      "id": "travel-sickness",
+      "cs": "nevolnost z cestování",
+      "en": "travel sickness",
+      "uk": "заколисування",
+      "ru": "укачивание",
+      "pl": "choroba lokomocyjna"
+    },
+    {
+      "id": "seasickness",
+      "cs": "mořská nemoc",
+      "en": "seasickness",
+      "uk": "морська хвороба",
+      "ru": "морская болезнь",
+      "pl": "choroba morska"
+    },
+    {
+      "id": "dead-phone",
+      "cs": "vybitý telefon",
+      "en": "dead phone",
+      "uk": "розряджений телефон",
+      "ru": "разряженный телефон",
+      "pl": "rozładowany telefon"
+    },
+    {
+      "id": "overcrowded",
+      "cs": "přeplněný",
+      "en": "overcrowded",
+      "uk": "переповнений",
+      "ru": "переполненный",
+      "pl": "przepełniony"
+    },
+    {
+      "id": "diverted-flight",
+      "cs": "přesměrovaný let",
+      "en": "diverted flight",
+      "uk": "перенаправлений рейс",
+      "ru": "перенаправленный рейс",
+      "pl": "przekierowany lot"
+    },
+    {
+      "id": "get-stuck",
+      "cs": "uvíznout",
+      "en": "to get stuck",
+      "uk": "застрягти",
+      "ru": "застрять",
+      "pl": "utknąć"
+    },
+    {
+      "id": "alternative-accommodation",
+      "cs": "náhradní ubytování",
+      "en": "alternative accommodation",
+      "uk": "альтернативне житло",
+      "ru": "альтернативное жильё",
+      "pl": "zakwaterowanie zastępcze"
+    },
+    {
+      "id": "cancel-a-booking",
+      "cs": "stornovat",
+      "en": "to cancel (a booking)",
+      "uk": "анулювати бронювання",
+      "ru": "аннулировать бронь",
+      "pl": "anulować rezerwację"
+    },
+    {
+      "id": "delayed-train",
+      "cs": "zpožděný vlak",
+      "en": "delayed train",
+      "uk": "потяг, що запізнюється",
+      "ru": "опаздывающий поезд",
+      "pl": "opóźniony pociąg"
+    },
+    {
+      "id": "fake-taxi",
+      "cs": "falešný taxík",
+      "en": "fake taxi",
+      "uk": "фальшиве таксі",
+      "ru": "фальшивое такси",
+      "pl": "fałszywa taksówka"
+    },
+    {
+      "id": "currency-exchange-scam",
+      "cs": "směnárenský podvod",
+      "en": "currency exchange scam",
+      "uk": "шахрайство в обміннику",
+      "ru": "мошенничество в обменнике",
+      "pl": "oszustwo w kantorze"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "furniture",
-  "order": 40,
+  "order": 112,
   "level": "A2",
   "icon": "sofa",
   "title": {
@@ -416,6 +416,198 @@
       "uk": "туалетний папір",
       "ru": "туалетная бумага",
       "pl": "papier toaletowy"
+    },
+    {
+      "id": "sofa",
+      "cs": "pohovka",
+      "en": "sofa",
+      "uk": "диван",
+      "ru": "диван",
+      "pl": "sofa"
+    },
+    {
+      "id": "rocking-chair",
+      "cs": "houpací křeslo",
+      "en": "rocking chair",
+      "uk": "крісло-гойдалка",
+      "ru": "кресло-качалка",
+      "pl": "fotel bujany"
+    },
+    {
+      "id": "office-chair",
+      "cs": "kancelářská židle",
+      "en": "office chair",
+      "uk": "офісний стілець",
+      "ru": "офисный стул",
+      "pl": "krzesło biurowe"
+    },
+    {
+      "id": "shelving-unit",
+      "cs": "regál",
+      "en": "shelving unit",
+      "uk": "стелаж",
+      "ru": "стеллаж",
+      "pl": "regał"
+    },
+    {
+      "id": "display-cabinet",
+      "cs": "vitrína",
+      "en": "display cabinet",
+      "uk": "вітрина",
+      "ru": "витрина",
+      "pl": "witryna"
+    },
+    {
+      "id": "wardrobe",
+      "cs": "šatní skříň",
+      "en": "wardrobe",
+      "uk": "шафа для одягу",
+      "ru": "платяной шкаф",
+      "pl": "szafa na ubrania"
+    },
+    {
+      "id": "coffee-table",
+      "cs": "konferenční stolek",
+      "en": "coffee table",
+      "uk": "журнальний столик",
+      "ru": "журнальный столик",
+      "pl": "stolik kawowy"
+    },
+    {
+      "id": "bunk-bed",
+      "cs": "patrová postel",
+      "en": "bunk bed",
+      "uk": "двоярусне ліжко",
+      "ru": "двухъярусная кровать",
+      "pl": "łóżko piętrowe"
+    },
+    {
+      "id": "double-bed",
+      "cs": "manželská postel",
+      "en": "double bed",
+      "uk": "двоспальне ліжко",
+      "ru": "двуспальная кровать",
+      "pl": "łóżko małżeńskie"
+    },
+    {
+      "id": "desk-lamp",
+      "cs": "lampička",
+      "en": "desk lamp",
+      "uk": "настільна лампа",
+      "ru": "настольная лампа",
+      "pl": "lampka biurowa"
+    },
+    {
+      "id": "floor-lamp",
+      "cs": "stojací lampa",
+      "en": "floor lamp",
+      "uk": "торшер",
+      "ru": "торшер",
+      "pl": "lampa stojąca"
+    },
+    {
+      "id": "wall-clock",
+      "cs": "nástěnné hodiny",
+      "en": "wall clock",
+      "uk": "настінний годинник",
+      "ru": "настенные часы",
+      "pl": "zegar ścienny"
+    },
+    {
+      "id": "frame",
+      "cs": "rám",
+      "en": "frame",
+      "uk": "рамка",
+      "ru": "рамка",
+      "pl": "rama"
+    },
+    {
+      "id": "poster",
+      "cs": "plakát",
+      "en": "poster",
+      "uk": "плакат",
+      "ru": "плакат",
+      "pl": "plakat"
+    },
+    {
+      "id": "cushion",
+      "cs": "polštářek",
+      "en": "cushion",
+      "uk": "диванна подушка",
+      "ru": "диванная подушка",
+      "pl": "poduszka ozdobna"
+    },
+    {
+      "id": "bedspread",
+      "cs": "přehoz",
+      "en": "bedspread",
+      "uk": "покривало",
+      "ru": "покрывало",
+      "pl": "narzuta"
+    },
+    {
+      "id": "rug-mat",
+      "cs": "předložka",
+      "en": "bedside rug",
+      "uk": "приліжковий килимок",
+      "ru": "прикроватный коврик",
+      "pl": "dywanik przy łóżku"
+    },
+    {
+      "id": "air-freshener",
+      "cs": "osvěžovač vzduchu",
+      "en": "air freshener",
+      "uk": "освіжувач повітря",
+      "ru": "освежитель воздуха",
+      "pl": "odświeżacz powietrza"
+    },
+    {
+      "id": "humidifier",
+      "cs": "zvlhčovač",
+      "en": "humidifier",
+      "uk": "зволожувач",
+      "ru": "увлажнитель",
+      "pl": "nawilżacz"
+    },
+    {
+      "id": "fan",
+      "cs": "ventilátor",
+      "en": "fan",
+      "uk": "вентилятор",
+      "ru": "вентилятор",
+      "pl": "wentylator"
+    },
+    {
+      "id": "chest-box",
+      "cs": "truhla",
+      "en": "chest (box)",
+      "uk": "скриня",
+      "ru": "сундук",
+      "pl": "skrzynia"
+    },
+    {
+      "id": "dressing-table",
+      "cs": "toaletní stolek",
+      "en": "dressing table",
+      "uk": "туалетний столик",
+      "ru": "туалетный столик",
+      "pl": "toaletka"
+    },
+    {
+      "id": "living-room-suite",
+      "cs": "sedací souprava",
+      "en": "living-room suite",
+      "uk": "м’який куточок",
+      "ru": "мягкий уголок",
+      "pl": "komplet wypoczynkowy"
+    },
+    {
+      "id": "built-in-wardrobe",
+      "cs": "vestavěná skříň",
+      "en": "built-in wardrobe",
+      "uk": "вбудована шафа",
+      "ru": "встроенный шкаф",
+      "pl": "szafa wnękowa"
     }
   ]
 }

@@ -1,0 +1,229 @@
+{
+  "id": "careers",
+  "order": 236,
+  "level": "B1",
+  "icon": "briefcase",
+  "title": {
+    "cs": "Kariéra a hledání práce",
+    "en": "Careers & Job Hunting",
+    "uk": "Кар’єра та пошук роботи",
+    "ru": "Карьера и поиск работы",
+    "pl": "Kariera i szukanie pracy"
+  },
+  "description": {
+    "en": "Applications, skills and working conditions.",
+    "uk": "Заявки, навички й умови праці.",
+    "ru": "Заявки, навыки и условия труда.",
+    "pl": "Aplikacje, umiejętności i warunki pracy."
+  },
+  "words": [
+    {
+      "id": "cover-letter",
+      "cs": "motivační dopis",
+      "en": "cover letter",
+      "uk": "супровідний лист",
+      "ru": "сопроводительное письмо",
+      "pl": "list motywacyjny"
+    },
+    {
+      "id": "references",
+      "cs": "reference",
+      "en": "references",
+      "uk": "рекомендації",
+      "ru": "рекомендации",
+      "pl": "referencje"
+    },
+    {
+      "id": "letter-of-recommendation",
+      "cs": "doporučení",
+      "en": "letter of recommendation",
+      "uk": "рекомендаційний лист",
+      "ru": "рекомендательное письмо",
+      "pl": "list polecający"
+    },
+    {
+      "id": "work-experience",
+      "cs": "praxe",
+      "en": "work experience",
+      "uk": "практичний досвід",
+      "ru": "практический опыт",
+      "pl": "doświadczenie zawodowe"
+    },
+    {
+      "id": "internship",
+      "cs": "stáž",
+      "en": "internship",
+      "uk": "стажування",
+      "ru": "стажировка",
+      "pl": "staż"
+    },
+    {
+      "id": "temp-worker",
+      "cs": "brigádník",
+      "en": "temp worker",
+      "uk": "тимчасовий працівник",
+      "ru": "временный работник",
+      "pl": "pracownik tymczasowy"
+    },
+    {
+      "id": "employment-agency",
+      "cs": "agentura práce",
+      "en": "employment agency",
+      "uk": "кадрове агентство",
+      "ru": "кадровое агентство",
+      "pl": "agencja pracy"
+    },
+    {
+      "id": "vacancy",
+      "cs": "volné místo",
+      "en": "vacancy",
+      "uk": "вакансія",
+      "ru": "вакансия",
+      "pl": "wolne stanowisko"
+    },
+    {
+      "id": "starting-salary",
+      "cs": "nástupní plat",
+      "en": "starting salary",
+      "uk": "початкова зарплата",
+      "ru": "стартовая зарплата",
+      "pl": "wynagrodzenie początkowe"
+    },
+    {
+      "id": "working-conditions",
+      "cs": "pracovní podmínky",
+      "en": "working conditions",
+      "uk": "умови праці",
+      "ru": "условия труда",
+      "pl": "warunki pracy"
+    },
+    {
+      "id": "flexitime",
+      "cs": "pružná pracovní doba",
+      "en": "flexitime",
+      "uk": "гнучкий графік",
+      "ru": "гибкий график",
+      "pl": "elastyczny czas pracy"
+    },
+    {
+      "id": "notice-period",
+      "cs": "výpovědní lhůta",
+      "en": "notice period",
+      "uk": "термін попередження",
+      "ru": "срок уведомления",
+      "pl": "okres wypowiedzenia"
+    },
+    {
+      "id": "severance-pay",
+      "cs": "odstupné",
+      "en": "severance pay",
+      "uk": "вихідна допомога",
+      "ru": "выходное пособие",
+      "pl": "odprawa"
+    },
+    {
+      "id": "career-advancement",
+      "cs": "kariérní postup",
+      "en": "career advancement",
+      "uk": "кар’єрне зростання",
+      "ru": "карьерный рост",
+      "pl": "awans zawodowy"
+    },
+    {
+      "id": "qualified",
+      "cs": "kvalifikovaný",
+      "en": "qualified",
+      "uk": "кваліфікований",
+      "ru": "квалифицированный",
+      "pl": "wykwalifikowany"
+    },
+    {
+      "id": "unskilled",
+      "cs": "nekvalifikovaný",
+      "en": "unskilled",
+      "uk": "некваліфікований",
+      "ru": "неквалифицированный",
+      "pl": "niewykwalifikowany"
+    },
+    {
+      "id": "skilled-with-your-hands",
+      "cs": "zručný",
+      "en": "skilled (with your hands)",
+      "uk": "вправний",
+      "ru": "умелый",
+      "pl": "zdolny manualnie"
+    },
+    {
+      "id": "experienced",
+      "cs": "zkušený",
+      "en": "experienced",
+      "uk": "досвідчений",
+      "ru": "опытный",
+      "pl": "doświadczony"
+    },
+    {
+      "id": "beginner",
+      "cs": "začátečník",
+      "en": "beginner",
+      "uk": "початківець",
+      "ru": "новичок",
+      "pl": "początkujący"
+    },
+    {
+      "id": "expert",
+      "cs": "odborník",
+      "en": "expert",
+      "uk": "фахівець",
+      "ru": "специалист",
+      "pl": "ekspert"
+    },
+    {
+      "id": "newcomer",
+      "cs": "nováček",
+      "en": "newcomer",
+      "uk": "новачок",
+      "ru": "новенький",
+      "pl": "nowicjusz"
+    },
+    {
+      "id": "workaholic",
+      "cs": "workoholik",
+      "en": "workaholic",
+      "uk": "трудоголік",
+      "ru": "трудоголик",
+      "pl": "pracoholik"
+    },
+    {
+      "id": "teamwork",
+      "cs": "týmová práce",
+      "en": "teamwork",
+      "uk": "командна робота",
+      "ru": "командная работа",
+      "pl": "praca zespołowa"
+    },
+    {
+      "id": "workplace-accident",
+      "cs": "pracovní úraz",
+      "en": "workplace accident",
+      "uk": "нещасний випадок на виробництві",
+      "ru": "несчастный случай на производстве",
+      "pl": "wypadek przy pracy"
+    },
+    {
+      "id": "occupational-safety",
+      "cs": "bezpečnost práce",
+      "en": "occupational safety",
+      "uk": "охорона праці",
+      "ru": "охрана труда",
+      "pl": "bezpieczeństwo pracy"
+    },
+    {
+      "id": "collective-agreement",
+      "cs": "kolektivní smlouva",
+      "en": "collective agreement",
+      "uk": "колективний договір",
+      "ru": "коллективный договор",
+      "pl": "układ zbiorowy"
+    }
+  ]
+}

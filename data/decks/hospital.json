@@ -1,0 +1,341 @@
+{
+  "id": "hospital",
+  "order": 217,
+  "level": "B1",
+  "icon": "pill",
+  "title": {
+    "cs": "Nemocnice a léčba",
+    "en": "Hospital & Treatment",
+    "uk": "Лікарня та лікування",
+    "ru": "Больница и лечение",
+    "pl": "Szpital i leczenie"
+  },
+  "description": {
+    "en": "Wards, tests, medicines and the dentist.",
+    "uk": "Відділення, аналізи, ліки й стоматолог.",
+    "ru": "Отделения, анализы, лекарства и стоматолог.",
+    "pl": "Oddziały, badania, leki i dentysta."
+  },
+  "words": [
+    {
+      "id": "intensive-care-unit",
+      "cs": "jednotka intenzivní péče",
+      "en": "intensive care unit",
+      "uk": "реанімаційне відділення",
+      "ru": "отделение интенсивной терапии",
+      "pl": "oddział intensywnej terapii"
+    },
+    {
+      "id": "operating-theatre",
+      "cs": "operační sál",
+      "en": "operating theatre",
+      "uk": "операційна",
+      "ru": "операционная",
+      "pl": "sala operacyjna"
+    },
+    {
+      "id": "hospital-bed",
+      "cs": "lůžko",
+      "en": "hospital bed",
+      "uk": "лікарняне ліжко",
+      "ru": "больничная койка",
+      "pl": "łóżko szpitalne"
+    },
+    {
+      "id": "hospitalisation",
+      "cs": "hospitalizace",
+      "en": "hospitalisation",
+      "uk": "госпіталізація",
+      "ru": "госпитализация",
+      "pl": "hospitalizacja"
+    },
+    {
+      "id": "discharge-from-hospital",
+      "cs": "propuštění z nemocnice",
+      "en": "discharge from hospital",
+      "uk": "виписка з лікарні",
+      "ru": "выписка из больницы",
+      "pl": "wypis ze szpitala"
+    },
+    {
+      "id": "visiting-hours",
+      "cs": "návštěvní hodiny",
+      "en": "visiting hours",
+      "uk": "години відвідування",
+      "ru": "часы посещения",
+      "pl": "godziny odwiedzin"
+    },
+    {
+      "id": "head-physician",
+      "cs": "primář",
+      "en": "head physician",
+      "uk": "завідувач відділення",
+      "ru": "заведующий отделением",
+      "pl": "ordynator"
+    },
+    {
+      "id": "male-nurse",
+      "cs": "ošetřovatel",
+      "en": "male nurse",
+      "uk": "медбрат",
+      "ru": "медбрат",
+      "pl": "pielęgniarz"
+    },
+    {
+      "id": "treat-a-wound",
+      "cs": "ošetřit",
+      "en": "to treat (a wound)",
+      "uk": "обробити рану",
+      "ru": "обработать рану",
+      "pl": "opatrzyć"
+    },
+    {
+      "id": "general-anaesthetic",
+      "cs": "narkóza",
+      "en": "general anaesthetic",
+      "uk": "наркоз",
+      "ru": "наркоз",
+      "pl": "narkoza"
+    },
+    {
+      "id": "anaesthesia",
+      "cs": "anestezie",
+      "en": "anaesthesia",
+      "uk": "анестезія",
+      "ru": "анестезия",
+      "pl": "znieczulenie"
+    },
+    {
+      "id": "stitch",
+      "cs": "steh",
+      "en": "stitch",
+      "uk": "шов",
+      "ru": "шов",
+      "pl": "szew"
+    },
+    {
+      "id": "blood-transfusion",
+      "cs": "transfuze",
+      "en": "blood transfusion",
+      "uk": "переливання крові",
+      "ru": "переливание крови",
+      "pl": "transfuzja"
+    },
+    {
+      "id": "blood-donor",
+      "cs": "dárce krve",
+      "en": "blood donor",
+      "uk": "донор крові",
+      "ru": "донор крови",
+      "pl": "krwiodawca"
+    },
+    {
+      "id": "iv-drip",
+      "cs": "kapačka",
+      "en": "IV drip",
+      "uk": "крапельниця",
+      "ru": "капельница",
+      "pl": "kroplówka"
+    },
+    {
+      "id": "ultrasound",
+      "cs": "ultrazvuk",
+      "en": "ultrasound",
+      "uk": "УЗД",
+      "ru": "УЗИ",
+      "pl": "USG"
+    },
+    {
+      "id": "mri-scan",
+      "cs": "magnetická rezonance",
+      "en": "MRI scan",
+      "uk": "МРТ",
+      "ru": "МРТ",
+      "pl": "rezonans magnetyczny"
+    },
+    {
+      "id": "ecg",
+      "cs": "EKG",
+      "en": "ECG",
+      "uk": "ЕКГ",
+      "ru": "ЭКГ",
+      "pl": "EKG"
+    },
+    {
+      "id": "blood-type",
+      "cs": "krevní skupina",
+      "en": "blood type",
+      "uk": "група крові",
+      "ru": "группа крови",
+      "pl": "grupa krwi"
+    },
+    {
+      "id": "chronic",
+      "cs": "chronický",
+      "en": "chronic",
+      "uk": "хронічний",
+      "ru": "хронический",
+      "pl": "przewlekły"
+    },
+    {
+      "id": "acute",
+      "cs": "akutní",
+      "en": "acute",
+      "uk": "гострий",
+      "ru": "острый",
+      "pl": "ostry"
+    },
+    {
+      "id": "hereditary",
+      "cs": "dědičný",
+      "en": "hereditary",
+      "uk": "спадковий",
+      "ru": "наследственный",
+      "pl": "dziedziczny"
+    },
+    {
+      "id": "contagious",
+      "cs": "nakažlivý",
+      "en": "contagious",
+      "uk": "заразний",
+      "ru": "заразный",
+      "pl": "zaraźliwy"
+    },
+    {
+      "id": "prognosis",
+      "cs": "prognóza",
+      "en": "prognosis",
+      "uk": "прогноз",
+      "ru": "прогноз",
+      "pl": "rokowanie"
+    },
+    {
+      "id": "complication",
+      "cs": "komplikace",
+      "en": "complication",
+      "uk": "ускладнення",
+      "ru": "осложнение",
+      "pl": "powikłanie"
+    },
+    {
+      "id": "side-effects",
+      "cs": "vedlejší účinky",
+      "en": "side effects",
+      "uk": "побічні ефекти",
+      "ru": "побочные эффекты",
+      "pl": "skutki uboczne"
+    },
+    {
+      "id": "dosage",
+      "cs": "dávkování",
+      "en": "dosage",
+      "uk": "дозування",
+      "ru": "дозировка",
+      "pl": "dawkowanie"
+    },
+    {
+      "id": "package-leaflet",
+      "cs": "příbalový leták",
+      "en": "package leaflet",
+      "uk": "інструкція до ліків",
+      "ru": "инструкция к лекарству",
+      "pl": "ulotka"
+    },
+    {
+      "id": "tablet",
+      "cs": "tableta",
+      "en": "tablet",
+      "uk": "таблетка",
+      "ru": "таблетка",
+      "pl": "tabletka"
+    },
+    {
+      "id": "capsule",
+      "cs": "kapsle",
+      "en": "capsule",
+      "uk": "капсула",
+      "ru": "капсула",
+      "pl": "kapsułka"
+    },
+    {
+      "id": "suppository",
+      "cs": "čípek",
+      "en": "suppository",
+      "uk": "свічка",
+      "ru": "свеча",
+      "pl": "czopek"
+    },
+    {
+      "id": "inhaler",
+      "cs": "inhalátor",
+      "en": "inhaler",
+      "uk": "інгалятор",
+      "ru": "ингалятор",
+      "pl": "inhalator"
+    },
+    {
+      "id": "vaccinate",
+      "cs": "očkovat",
+      "en": "to vaccinate",
+      "uk": "вакцинувати",
+      "ru": "вакцинировать",
+      "pl": "szczepić"
+    },
+    {
+      "id": "medical-record",
+      "cs": "zdravotní karta",
+      "en": "medical record",
+      "uk": "медична картка",
+      "ru": "медицинская карта",
+      "pl": "karta pacjenta"
+    },
+    {
+      "id": "preventive-check-up",
+      "cs": "preventivní prohlídka",
+      "en": "preventive check-up",
+      "uk": "профілактичний огляд",
+      "ru": "профилактический осмотр",
+      "pl": "badanie profilaktyczne"
+    },
+    {
+      "id": "tooth-decay",
+      "cs": "zubní kaz",
+      "en": "tooth decay",
+      "uk": "карієс",
+      "ru": "кариес",
+      "pl": "próchnica"
+    },
+    {
+      "id": "filling",
+      "cs": "plomba",
+      "en": "filling",
+      "uk": "пломба",
+      "ru": "пломба",
+      "pl": "plomba"
+    },
+    {
+      "id": "braces-for-teeth",
+      "cs": "rovnátka",
+      "en": "braces (for teeth)",
+      "uk": "брекети",
+      "ru": "брекеты",
+      "pl": "aparat ortodontyczny"
+    },
+    {
+      "id": "dioptre",
+      "cs": "dioptrie",
+      "en": "dioptre",
+      "uk": "діоптрія",
+      "ru": "диоптрия",
+      "pl": "dioptria"
+    },
+    {
+      "id": "hearing-aid",
+      "cs": "naslouchátko",
+      "en": "hearing aid",
+      "uk": "слуховий апарат",
+      "ru": "слуховой аппарат",
+      "pl": "aparat słuchowy"
+    }
+  ]
+}

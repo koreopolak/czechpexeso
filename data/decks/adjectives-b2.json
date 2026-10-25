@@ -1,0 +1,565 @@
+{
+  "id": "adjectives-b2",
+  "order": 301,
+  "level": "B2",
+  "icon": "contrast",
+  "title": {
+    "cs": "Pokročilá přídavná jména",
+    "en": "Advanced Adjectives",
+    "uk": "Складніші прикметники",
+    "ru": "Сложные прилагательные",
+    "pl": "Zaawansowane przymiotniki"
+  },
+  "description": {
+    "en": "Adjectives for arguments, analysis and nuance.",
+    "uk": "Прикметники для аргументів, аналізу й нюансів.",
+    "ru": "Прилагательные для аргументов, анализа и нюансов.",
+    "pl": "Przymiotniki do argumentacji, analizy i niuansów."
+  },
+  "words": [
+    {
+      "id": "obvious",
+      "cs": "zřejmý",
+      "en": "obvious",
+      "uk": "очевидний",
+      "ru": "очевидный",
+      "pl": "oczywisty"
+    },
+    {
+      "id": "apparent",
+      "cs": "zjevný",
+      "en": "apparent",
+      "uk": "явний",
+      "ru": "явный",
+      "pl": "widoczny"
+    },
+    {
+      "id": "considerable",
+      "cs": "značný",
+      "en": "considerable",
+      "uk": "значний",
+      "ru": "значительный",
+      "pl": "znaczny"
+    },
+    {
+      "id": "slight",
+      "cs": "nepatrný",
+      "en": "slight",
+      "uk": "незначний",
+      "ru": "незначительный",
+      "pl": "nieznaczny"
+    },
+    {
+      "id": "fundamental",
+      "cs": "zásadní",
+      "en": "fundamental",
+      "uk": "принциповий",
+      "ru": "принципиальный",
+      "pl": "zasadniczy"
+    },
+    {
+      "id": "substantial",
+      "cs": "podstatný",
+      "en": "substantial",
+      "uk": "суттєвий",
+      "ru": "существенный",
+      "pl": "istotny"
+    },
+    {
+      "id": "marginal",
+      "cs": "okrajový",
+      "en": "marginal",
+      "uk": "другорядний",
+      "ru": "второстепенный",
+      "pl": "marginalny"
+    },
+    {
+      "id": "extensive",
+      "cs": "rozsáhlý",
+      "en": "extensive",
+      "uk": "масштабний",
+      "ru": "обширный",
+      "pl": "rozległy"
+    },
+    {
+      "id": "limited",
+      "cs": "omezený",
+      "en": "limited",
+      "uk": "обмежений",
+      "ru": "ограниченный",
+      "pl": "ograniczony"
+    },
+    {
+      "id": "unlimited",
+      "cs": "neomezený",
+      "en": "unlimited",
+      "uk": "необмежений",
+      "ru": "неограниченный",
+      "pl": "nieograniczony"
+    },
+    {
+      "id": "constant",
+      "cs": "stálý",
+      "en": "constant",
+      "uk": "постійний",
+      "ru": "постоянный",
+      "pl": "stały"
+    },
+    {
+      "id": "temporary",
+      "cs": "dočasný",
+      "en": "temporary",
+      "uk": "тимчасовий",
+      "ru": "временный",
+      "pl": "tymczasowy"
+    },
+    {
+      "id": "permanent",
+      "cs": "trvalý",
+      "en": "permanent",
+      "uk": "довготривалий",
+      "ru": "перманентный",
+      "pl": "trwały"
+    },
+    {
+      "id": "random",
+      "cs": "náhodný",
+      "en": "random",
+      "uk": "випадковий",
+      "ru": "случайный",
+      "pl": "przypadkowy"
+    },
+    {
+      "id": "deliberate",
+      "cs": "úmyslný",
+      "en": "deliberate",
+      "uk": "навмисний",
+      "ru": "умышленный",
+      "pl": "umyślny"
+    },
+    {
+      "id": "unexpected",
+      "cs": "nečekaný",
+      "en": "unexpected",
+      "uk": "несподіваний",
+      "ru": "неожиданный",
+      "pl": "nieoczekiwany"
+    },
+    {
+      "id": "predictable",
+      "cs": "předvídatelný",
+      "en": "predictable",
+      "uk": "передбачуваний",
+      "ru": "предсказуемый",
+      "pl": "przewidywalny"
+    },
+    {
+      "id": "trustworthy",
+      "cs": "důvěryhodný",
+      "en": "trustworthy",
+      "uk": "надійний",
+      "ru": "заслуживающий доверия",
+      "pl": "wiarygodny"
+    },
+    {
+      "id": "dubious",
+      "cs": "pochybný",
+      "en": "dubious",
+      "uk": "сумнівний",
+      "ru": "сомнительный",
+      "pl": "wątpliwy"
+    },
+    {
+      "id": "controversial",
+      "cs": "sporný",
+      "en": "controversial",
+      "uk": "спірний",
+      "ru": "спорный",
+      "pl": "sporny"
+    },
+    {
+      "id": "unambiguous",
+      "cs": "jednoznačný",
+      "en": "unambiguous",
+      "uk": "однозначний",
+      "ru": "однозначный",
+      "pl": "jednoznaczny"
+    },
+    {
+      "id": "ambiguous",
+      "cs": "mnohoznačný",
+      "en": "ambiguous",
+      "uk": "багатозначний",
+      "ru": "многозначный",
+      "pl": "wieloznaczny"
+    },
+    {
+      "id": "comprehensible",
+      "cs": "srozumitelný",
+      "en": "comprehensible",
+      "uk": "зрозумілий",
+      "ru": "понятный",
+      "pl": "zrozumiały"
+    },
+    {
+      "id": "incomprehensible",
+      "cs": "nesrozumitelný",
+      "en": "incomprehensible",
+      "uk": "незрозумілий",
+      "ru": "непонятный",
+      "pl": "niezrozumiały"
+    },
+    {
+      "id": "apt",
+      "cs": "výstižný",
+      "en": "apt",
+      "uk": "влучний",
+      "ru": "меткий",
+      "pl": "trafny"
+    },
+    {
+      "id": "concise",
+      "cs": "stručný",
+      "en": "concise",
+      "uk": "стислий",
+      "ru": "краткий",
+      "pl": "zwięzły"
+    },
+    {
+      "id": "detailed",
+      "cs": "podrobný",
+      "en": "detailed",
+      "uk": "докладний",
+      "ru": "подробный",
+      "pl": "szczegółowy"
+    },
+    {
+      "id": "thorough",
+      "cs": "důkladný",
+      "en": "thorough",
+      "uk": "ґрунтовний",
+      "ru": "основательный",
+      "pl": "gruntowny"
+    },
+    {
+      "id": "effective",
+      "cs": "efektivní",
+      "en": "effective",
+      "uk": "ефективний",
+      "ru": "эффективный",
+      "pl": "efektywny"
+    },
+    {
+      "id": "efficient",
+      "cs": "účinný",
+      "en": "efficient",
+      "uk": "дієвий",
+      "ru": "действенный",
+      "pl": "skuteczny"
+    },
+    {
+      "id": "ineffective",
+      "cs": "neúčinný",
+      "en": "ineffective",
+      "uk": "недієвий",
+      "ru": "неэффективный",
+      "pl": "nieskuteczny"
+    },
+    {
+      "id": "advantageous",
+      "cs": "výhodný",
+      "en": "advantageous",
+      "uk": "вигідний",
+      "ru": "выгодный",
+      "pl": "korzystny"
+    },
+    {
+      "id": "disadvantageous",
+      "cs": "nevýhodný",
+      "en": "disadvantageous",
+      "uk": "невигідний",
+      "ru": "невыгодный",
+      "pl": "niekorzystny"
+    },
+    {
+      "id": "profitable",
+      "cs": "ziskový",
+      "en": "profitable",
+      "uk": "прибутковий",
+      "ru": "прибыльный",
+      "pl": "zyskowny"
+    },
+    {
+      "id": "costly",
+      "cs": "nákladný",
+      "en": "costly",
+      "uk": "витратний",
+      "ru": "затратный",
+      "pl": "kosztowny"
+    },
+    {
+      "id": "beneficial",
+      "cs": "prospěšný",
+      "en": "beneficial",
+      "uk": "корисний",
+      "ru": "полезный",
+      "pl": "pożyteczny"
+    },
+    {
+      "id": "harmful",
+      "cs": "škodlivý",
+      "en": "harmful",
+      "uk": "шкідливий",
+      "ru": "вредный",
+      "pl": "szkodliwy"
+    },
+    {
+      "id": "harmless",
+      "cs": "neškodný",
+      "en": "harmless",
+      "uk": "нешкідливий",
+      "ru": "безвредный",
+      "pl": "nieszkodliwy"
+    },
+    {
+      "id": "risky",
+      "cs": "riskantní",
+      "en": "risky",
+      "uk": "ризикований",
+      "ru": "рискованный",
+      "pl": "ryzykowny"
+    },
+    {
+      "id": "cautious",
+      "cs": "opatrný",
+      "en": "cautious",
+      "uk": "обережний",
+      "ru": "осторожный",
+      "pl": "ostrożny"
+    },
+    {
+      "id": "reserved",
+      "cs": "zdrženlivý",
+      "en": "reserved",
+      "uk": "стриманий",
+      "ru": "сдержанный",
+      "pl": "powściągliwy"
+    },
+    {
+      "id": "adequate",
+      "cs": "přiměřený",
+      "en": "adequate",
+      "uk": "адекватний",
+      "ru": "адекватный",
+      "pl": "adekwatny"
+    },
+    {
+      "id": "excessive",
+      "cs": "nepřiměřený",
+      "en": "excessive",
+      "uk": "надмірний",
+      "ru": "чрезмерный",
+      "pl": "nadmierny"
+    },
+    {
+      "id": "justified",
+      "cs": "oprávněný",
+      "en": "justified",
+      "uk": "обґрунтований",
+      "ru": "обоснованный",
+      "pl": "uzasadniony"
+    },
+    {
+      "id": "unjustified",
+      "cs": "neoprávněný",
+      "en": "unjustified",
+      "uk": "необґрунтований",
+      "ru": "необоснованный",
+      "pl": "nieuzasadniony"
+    },
+    {
+      "id": "lawful",
+      "cs": "zákonný",
+      "en": "lawful",
+      "uk": "законний",
+      "ru": "законный",
+      "pl": "zgodny z prawem"
+    },
+    {
+      "id": "unlawful",
+      "cs": "protiprávní",
+      "en": "unlawful",
+      "uk": "протиправний",
+      "ru": "противоправный",
+      "pl": "bezprawny"
+    },
+    {
+      "id": "ethical",
+      "cs": "etický",
+      "en": "ethical",
+      "uk": "етичний",
+      "ru": "этичный",
+      "pl": "etyczny"
+    },
+    {
+      "id": "moral",
+      "cs": "morální",
+      "en": "moral",
+      "uk": "моральний",
+      "ru": "моральный",
+      "pl": "moralny"
+    },
+    {
+      "id": "cultural",
+      "cs": "kulturní",
+      "en": "cultural",
+      "uk": "культурний",
+      "ru": "культурный",
+      "pl": "kulturalny"
+    },
+    {
+      "id": "historical",
+      "cs": "historický",
+      "en": "historical",
+      "uk": "історичний",
+      "ru": "исторический",
+      "pl": "historyczny"
+    },
+    {
+      "id": "political",
+      "cs": "politický",
+      "en": "political",
+      "uk": "політичний",
+      "ru": "политический",
+      "pl": "polityczny"
+    },
+    {
+      "id": "social",
+      "cs": "sociální",
+      "en": "social",
+      "uk": "соціальний",
+      "ru": "социальный",
+      "pl": "społeczny"
+    },
+    {
+      "id": "economic",
+      "cs": "ekonomický",
+      "en": "economic",
+      "uk": "економічний",
+      "ru": "экономический",
+      "pl": "ekonomiczny"
+    },
+    {
+      "id": "technical",
+      "cs": "technický",
+      "en": "technical",
+      "uk": "технічний",
+      "ru": "технический",
+      "pl": "techniczny"
+    },
+    {
+      "id": "scientific",
+      "cs": "vědecký",
+      "en": "scientific",
+      "uk": "науковий",
+      "ru": "научный",
+      "pl": "naukowy"
+    },
+    {
+      "id": "abstract",
+      "cs": "abstraktní",
+      "en": "abstract",
+      "uk": "абстрактний",
+      "ru": "абстрактный",
+      "pl": "abstrakcyjny"
+    },
+    {
+      "id": "relative",
+      "cs": "relativní",
+      "en": "relative",
+      "uk": "відносний",
+      "ru": "относительный",
+      "pl": "względny"
+    },
+    {
+      "id": "absolute",
+      "cs": "absolutní",
+      "en": "absolute",
+      "uk": "абсолютний",
+      "ru": "абсолютный",
+      "pl": "absolutny"
+    },
+    {
+      "id": "probable",
+      "cs": "pravděpodobný",
+      "en": "probable",
+      "uk": "імовірний",
+      "ru": "вероятный",
+      "pl": "prawdopodobny"
+    },
+    {
+      "id": "unlikely",
+      "cs": "nepravděpodobný",
+      "en": "unlikely",
+      "uk": "малоймовірний",
+      "ru": "маловероятный",
+      "pl": "mało prawdopodobny"
+    },
+    {
+      "id": "potential",
+      "cs": "potenciální",
+      "en": "potential",
+      "uk": "потенційний",
+      "ru": "потенциальный",
+      "pl": "potencjalny"
+    },
+    {
+      "id": "fictitious",
+      "cs": "fiktivní",
+      "en": "fictitious",
+      "uk": "вигаданий",
+      "ru": "вымышленный",
+      "pl": "fikcyjny"
+    },
+    {
+      "id": "authentic",
+      "cs": "autentický",
+      "en": "authentic",
+      "uk": "автентичний",
+      "ru": "подлинный",
+      "pl": "autentyczny"
+    },
+    {
+      "id": "original",
+      "cs": "originální",
+      "en": "original",
+      "uk": "оригінальний",
+      "ru": "оригинальный",
+      "pl": "oryginalny"
+    },
+    {
+      "id": "innovative",
+      "cs": "inovativní",
+      "en": "innovative",
+      "uk": "інноваційний",
+      "ru": "инновационный",
+      "pl": "innowacyjny"
+    },
+    {
+      "id": "outdated",
+      "cs": "zastaralý",
+      "en": "outdated",
+      "uk": "застарілий",
+      "ru": "устаревший",
+      "pl": "przestarzały"
+    },
+    {
+      "id": "up-to-date",
+      "cs": "aktuální",
+      "en": "up-to-date",
+      "uk": "актуальний",
+      "ru": "актуальный",
+      "pl": "aktualny"
+    }
+  ]
+}

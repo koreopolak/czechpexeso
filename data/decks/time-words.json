@@ -1,0 +1,205 @@
+{
+  "id": "time-words",
+  "order": 323,
+  "level": "B2",
+  "icon": "clock",
+  "title": {
+    "cs": "Časová přídavná jména",
+    "en": "Time Adjectives",
+    "uk": "Прикметники часу",
+    "ru": "Прилагательные времени",
+    "pl": "Przymiotniki czasu"
+  },
+  "description": {
+    "en": "Long-term, belated, seasonal and more.",
+    "uk": "Довгостроковий, запізнілий, сезонний та інші.",
+    "ru": "Долгосрочный, запоздалый, сезонный и другие.",
+    "pl": "Długoterminowy, spóźniony, sezonowy i inne."
+  },
+  "words": [
+    {
+      "id": "long-term",
+      "cs": "dlouhodobý",
+      "en": "long-term",
+      "uk": "довгостроковий",
+      "ru": "долгосрочный",
+      "pl": "długoterminowy"
+    },
+    {
+      "id": "short-term",
+      "cs": "krátkodobý",
+      "en": "short-term",
+      "uk": "короткостроковий",
+      "ru": "краткосрочный",
+      "pl": "krótkoterminowy"
+    },
+    {
+      "id": "medium-term",
+      "cs": "střednědobý",
+      "en": "medium-term",
+      "uk": "середньостроковий",
+      "ru": "среднесрочный",
+      "pl": "średnioterminowy"
+    },
+    {
+      "id": "ongoing",
+      "cs": "průběžný",
+      "en": "ongoing",
+      "uk": "поточний",
+      "ru": "текущий",
+      "pl": "bieżący"
+    },
+    {
+      "id": "concurrent",
+      "cs": "souběžný",
+      "en": "concurrent",
+      "uk": "паралельний",
+      "ru": "параллельный",
+      "pl": "równoległy"
+    },
+    {
+      "id": "upcoming",
+      "cs": "nadcházející",
+      "en": "upcoming",
+      "uk": "найближчий",
+      "ru": "предстоящий",
+      "pl": "nadchodzący"
+    },
+    {
+      "id": "past-elapsed",
+      "cs": "uplynulý",
+      "en": "past (elapsed)",
+      "uk": "минулий",
+      "ru": "прошедший",
+      "pl": "miniony"
+    },
+    {
+      "id": "previous-to-date",
+      "cs": "dosavadní",
+      "en": "previous (to date)",
+      "uk": "дотеперішній",
+      "ru": "прежний",
+      "pl": "dotychczasowy"
+    },
+    {
+      "id": "immediate",
+      "cs": "okamžitý",
+      "en": "immediate",
+      "uk": "негайний",
+      "ru": "немедленный",
+      "pl": "natychmiastowy"
+    },
+    {
+      "id": "delayed",
+      "cs": "zpožděný",
+      "en": "delayed",
+      "uk": "затриманий",
+      "ru": "задержанный",
+      "pl": "opóźniony"
+    },
+    {
+      "id": "timely",
+      "cs": "včasný",
+      "en": "timely",
+      "uk": "своєчасний",
+      "ru": "своевременный",
+      "pl": "terminowy"
+    },
+    {
+      "id": "premature",
+      "cs": "předčasný",
+      "en": "premature",
+      "uk": "передчасний",
+      "ru": "преждевременный",
+      "pl": "przedwczesny"
+    },
+    {
+      "id": "belated",
+      "cs": "opožděný",
+      "en": "belated",
+      "uk": "запізнілий",
+      "ru": "запоздалый",
+      "pl": "spóźniony"
+    },
+    {
+      "id": "regular",
+      "cs": "pravidelný",
+      "en": "regular",
+      "uk": "регулярний",
+      "ru": "регулярный",
+      "pl": "regularny"
+    },
+    {
+      "id": "irregular",
+      "cs": "nepravidelný",
+      "en": "irregular",
+      "uk": "нерегулярний",
+      "ru": "нерегулярный",
+      "pl": "nieregularny"
+    },
+    {
+      "id": "occasional",
+      "cs": "občasný",
+      "en": "occasional",
+      "uk": "епізодичний",
+      "ru": "эпизодический",
+      "pl": "okazjonalny"
+    },
+    {
+      "id": "frequent",
+      "cs": "častý",
+      "en": "frequent",
+      "uk": "частий",
+      "ru": "частый",
+      "pl": "częsty"
+    },
+    {
+      "id": "eternal",
+      "cs": "věčný",
+      "en": "eternal",
+      "uk": "вічний",
+      "ru": "вечный",
+      "pl": "wieczny"
+    },
+    {
+      "id": "momentary",
+      "cs": "chvilkový",
+      "en": "momentary",
+      "uk": "миттєвий",
+      "ru": "мимолётный",
+      "pl": "chwilowy"
+    },
+    {
+      "id": "year-round",
+      "cs": "celoroční",
+      "en": "year-round",
+      "uk": "цілорічний",
+      "ru": "круглогодичный",
+      "pl": "całoroczny"
+    },
+    {
+      "id": "seasonal",
+      "cs": "sezónní",
+      "en": "seasonal",
+      "uk": "сезонний",
+      "ru": "сезонный",
+      "pl": "sezonowy"
+    },
+    {
+      "id": "weekend-adj",
+      "cs": "víkendový",
+      "en": "weekend (adj.)",
+      "uk": "вихідний (про день)",
+      "ru": "выходной",
+      "pl": "weekendowy"
+    },
+    {
+      "id": "everyday",
+      "cs": "každodenní",
+      "en": "everyday",
+      "uk": "повсякденний",
+      "ru": "повседневный",
+      "pl": "codzienny"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "id": "wildlife",
+  "order": 233,
+  "level": "B1",
+  "icon": "paw",
+  "title": {
+    "cs": "Divoká zvířata světa",
+    "en": "Wildlife",
+    "uk": "Дикі тварини світу",
+    "ru": "Дикие животные мира",
+    "pl": "Dzikie zwierzęta świata"
+  },
+  "description": {
+    "en": "Animals from jungles, deserts, mountains and seas.",
+    "uk": "Тварини джунглів, пустель, гір і морів.",
+    "ru": "Животные джунглей, пустынь, гор и морей.",
+    "pl": "Zwierzęta z dżungli, pustyń, gór i mórz."
+  },
+  "words": [
+    {
+      "id": "armadillo",
+      "cs": "pásovec",
+      "en": "armadillo",
+      "uk": "броненосець",
+      "ru": "броненосец",
+      "pl": "pancernik"
+    },
+    {
+      "id": "sloth",
+      "cs": "lenochod",
+      "en": "sloth",
+      "uk": "лінивець",
+      "ru": "ленивец",
+      "pl": "leniwiec"
+    },
+    {
+      "id": "anteater",
+      "cs": "mravenečník",
+      "en": "anteater",
+      "uk": "мурахоїд",
+      "ru": "муравьед",
+      "pl": "mrówkojad"
+    },
+    {
+      "id": "wildebeest",
+      "cs": "pakůň",
+      "en": "wildebeest",
+      "uk": "гну",
+      "ru": "гну",
+      "pl": "gnu"
+    },
+    {
+      "id": "antelope",
+      "cs": "antilopa",
+      "en": "antelope",
+      "uk": "антилопа",
+      "ru": "антилопа",
+      "pl": "antylopa"
+    },
+    {
+      "id": "gazelle",
+      "cs": "gazela",
+      "en": "gazelle",
+      "uk": "газель",
+      "ru": "газель",
+      "pl": "gazela"
+    },
+    {
+      "id": "bison",
+      "cs": "bizon",
+      "en": "bison",
+      "uk": "бізон",
+      "ru": "бизон",
+      "pl": "bizon"
+    },
+    {
+      "id": "koala",
+      "cs": "koala",
+      "en": "koala",
+      "uk": "коала",
+      "ru": "коала",
+      "pl": "koala"
+    },
+    {
+      "id": "platypus",
+      "cs": "ptakopysk",
+      "en": "platypus",
+      "uk": "качконіс",
+      "ru": "утконос",
+      "pl": "dziobak"
+    },
+    {
+      "id": "orangutan",
+      "cs": "orangutan",
+      "en": "orangutan",
+      "uk": "орангутан",
+      "ru": "орангутан",
+      "pl": "orangutan"
+    },
+    {
+      "id": "baboon",
+      "cs": "pavián",
+      "en": "baboon",
+      "uk": "павіан",
+      "ru": "павиан",
+      "pl": "pawian"
+    },
+    {
+      "id": "lemur",
+      "cs": "lemur",
+      "en": "lemur",
+      "uk": "лемур",
+      "ru": "лемур",
+      "pl": "lemur"
+    },
+    {
+      "id": "hyena",
+      "cs": "hyena",
+      "en": "hyena",
+      "uk": "гієна",
+      "ru": "гиена",
+      "pl": "hiena"
+    },
+    {
+      "id": "jackal",
+      "cs": "šakal",
+      "en": "jackal",
+      "uk": "шакал",
+      "ru": "шакал",
+      "pl": "szakal"
+    },
+    {
+      "id": "coyote",
+      "cs": "kojot",
+      "en": "coyote",
+      "uk": "койот",
+      "ru": "койот",
+      "pl": "kojot"
+    },
+    {
+      "id": "cougar",
+      "cs": "puma",
+      "en": "cougar",
+      "uk": "пума",
+      "ru": "пума",
+      "pl": "puma"
+    },
+    {
+      "id": "jaguar",
+      "cs": "jaguár",
+      "en": "jaguar",
+      "uk": "ягуар",
+      "ru": "ягуар",
+      "pl": "jaguar"
+    },
+    {
+      "id": "panther",
+      "cs": "panter",
+      "en": "panther",
+      "uk": "пантера",
+      "ru": "пантера",
+      "pl": "pantera"
+    },
+    {
+      "id": "condor",
+      "cs": "kondor",
+      "en": "condor",
+      "uk": "кондор",
+      "ru": "кондор",
+      "pl": "kondor"
+    },
+    {
+      "id": "albatross",
+      "cs": "albatros",
+      "en": "albatross",
+      "uk": "альбатрос",
+      "ru": "альбатрос",
+      "pl": "albatros"
+    },
+    {
+      "id": "toucan",
+      "cs": "tukan",
+      "en": "toucan",
+      "uk": "тукан",
+      "ru": "тукан",
+      "pl": "tukan"
+    },
+    {
+      "id": "cockatoo",
+      "cs": "kakadu",
+      "en": "cockatoo",
+      "uk": "какаду",
+      "ru": "какаду",
+      "pl": "kakadu"
+    },
+    {
+      "id": "emu",
+      "cs": "emu",
+      "en": "emu",
+      "uk": "ему",
+      "ru": "эму",
+      "pl": "emu"
+    },
+    {
+      "id": "alligator",
+      "cs": "aligátor",
+      "en": "alligator",
+      "uk": "алігатор",
+      "ru": "аллигатор",
+      "pl": "aligator"
+    },
+    {
+      "id": "monitor-lizard",
+      "cs": "varan",
+      "en": "monitor lizard",
+      "uk": "варан",
+      "ru": "варан",
+      "pl": "waran"
+    },
+    {
+      "id": "chameleon",
+      "cs": "chameleon",
+      "en": "chameleon",
+      "uk": "хамелеон",
+      "ru": "хамелеон",
+      "pl": "kameleon"
+    },
+    {
+      "id": "iguana",
+      "cs": "leguán",
+      "en": "iguana",
+      "uk": "ігуана",
+      "ru": "игуана",
+      "pl": "legwan"
+    },
+    {
+      "id": "cobra",
+      "cs": "kobra",
+      "en": "cobra",
+      "uk": "кобра",
+      "ru": "кобра",
+      "pl": "kobra"
+    },
+    {
+      "id": "python",
+      "cs": "krajta",
+      "en": "python",
+      "uk": "пітон",
+      "ru": "питон",
+      "pl": "pyton"
+    },
+    {
+      "id": "viper",
+      "cs": "zmije",
+      "en": "viper",
+      "uk": "гадюка",
+      "ru": "гадюка",
+      "pl": "żmija"
+    },
+    {
+      "id": "grass-snake",
+      "cs": "užovka",
+      "en": "grass snake",
+      "uk": "вуж",
+      "ru": "уж",
+      "pl": "zaskroniec"
+    },
+    {
+      "id": "salamander",
+      "cs": "mlok",
+      "en": "salamander",
+      "uk": "саламандра",
+      "ru": "саламандра",
+      "pl": "salamandra"
+    },
+    {
+      "id": "newt",
+      "cs": "čolek",
+      "en": "newt",
+      "uk": "тритон",
+      "ru": "тритон",
+      "pl": "traszka"
+    },
+    {
+      "id": "toad",
+      "cs": "ropucha",
+      "en": "toad",
+      "uk": "ропуха",
+      "ru": "жаба",
+      "pl": "ropucha"
+    },
+    {
+      "id": "tadpole",
+      "cs": "pulec",
+      "en": "tadpole",
+      "uk": "пуголовок",
+      "ru": "головастик",
+      "pl": "kijanka"
+    },
+    {
+      "id": "porcupine",
+      "cs": "dikobraz",
+      "en": "porcupine",
+      "uk": "дикобраз",
+      "ru": "дикобраз",
+      "pl": "jeżozwierz"
+    },
+    {
+      "id": "raccoon",
+      "cs": "mýval",
+      "en": "raccoon",
+      "uk": "єнот",
+      "ru": "енот",
+      "pl": "szop pracz"
+    },
+    {
+      "id": "skunk",
+      "cs": "skunk",
+      "en": "skunk",
+      "uk": "скунс",
+      "ru": "скунс",
+      "pl": "skunks"
+    },
+    {
+      "id": "arctic-fox",
+      "cs": "polární liška",
+      "en": "arctic fox",
+      "uk": "песець",
+      "ru": "песец",
+      "pl": "lis polarny"
+    },
+    {
+      "id": "reindeer",
+      "cs": "sob",
+      "en": "reindeer",
+      "uk": "північний олень",
+      "ru": "северный олень",
+      "pl": "renifer"
+    },
+    {
+      "id": "chamois",
+      "cs": "kamzík",
+      "en": "chamois",
+      "uk": "серна",
+      "ru": "серна",
+      "pl": "kozica"
+    },
+    {
+      "id": "ibex",
+      "cs": "kozorožec",
+      "en": "ibex",
+      "uk": "козеріг",
+      "ru": "козерог",
+      "pl": "koziorożec"
+    },
+    {
+      "id": "mouflon",
+      "cs": "muflon",
+      "en": "mouflon",
+      "uk": "муфлон",
+      "ru": "муфлон",
+      "pl": "muflon"
+    },
+    {
+      "id": "marmot",
+      "cs": "svišť",
+      "en": "marmot",
+      "uk": "бабак",
+      "ru": "сурок",
+      "pl": "świstak"
+    },
+    {
+      "id": "ground-squirrel",
+      "cs": "sysel",
+      "en": "ground squirrel",
+      "uk": "ховрах",
+      "ru": "суслик",
+      "pl": "suseł"
+    },
+    {
+      "id": "dormouse",
+      "cs": "plch",
+      "en": "dormouse",
+      "uk": "соня",
+      "ru": "соня",
+      "pl": "popielica"
+    },
+    {
+      "id": "shrew",
+      "cs": "rejsek",
+      "en": "shrew",
+      "uk": "землерийка",
+      "ru": "землеройка",
+      "pl": "ryjówka"
+    },
+    {
+      "id": "killer-whale",
+      "cs": "kosatka",
+      "en": "killer whale",
+      "uk": "косатка",
+      "ru": "косатка",
+      "pl": "orka"
+    },
+    {
+      "id": "piranha",
+      "cs": "piraňa",
+      "en": "piranha",
+      "uk": "піранья",
+      "ru": "пиранья",
+      "pl": "pirania"
+    },
+    {
+      "id": "swordfish",
+      "cs": "mečoun",
+      "en": "swordfish",
+      "uk": "риба-меч",
+      "ru": "рыба-меч",
+      "pl": "miecznik"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "housing",
-  "order": 63,
+  "order": 204,
   "level": "B1",
   "icon": "key",
   "title": {
@@ -336,6 +336,166 @@
       "uk": "замок",
       "ru": "замок",
       "pl": "zamek"
+    },
+    {
+      "id": "floor-area",
+      "cs": "podlahová plocha",
+      "en": "floor area",
+      "uk": "житлова площа",
+      "ru": "жилая площадь",
+      "pl": "powierzchnia mieszkania"
+    },
+    {
+      "id": "layout-of-a-flat",
+      "cs": "dispozice",
+      "en": "layout (of a flat)",
+      "uk": "планування",
+      "ru": "планировка",
+      "pl": "układ mieszkania"
+    },
+    {
+      "id": "new-build",
+      "cs": "novostavba",
+      "en": "new build",
+      "uk": "новобудова",
+      "ru": "новостройка",
+      "pl": "nowe budownictwo"
+    },
+    {
+      "id": "co-operative-flat",
+      "cs": "družstevní byt",
+      "en": "co-operative flat",
+      "uk": "кооперативна квартира",
+      "ru": "кооперативная квартира",
+      "pl": "mieszkanie spółdzielcze"
+    },
+    {
+      "id": "council-flat",
+      "cs": "obecní byt",
+      "en": "council flat",
+      "uk": "муніципальна квартира",
+      "ru": "муниципальная квартира",
+      "pl": "mieszkanie komunalne"
+    },
+    {
+      "id": "ownership",
+      "cs": "vlastnictví",
+      "en": "ownership",
+      "uk": "власність",
+      "ru": "собственность",
+      "pl": "własność"
+    },
+    {
+      "id": "land-registry",
+      "cs": "katastr nemovitostí",
+      "en": "land registry",
+      "uk": "кадастр нерухомості",
+      "ru": "кадастр недвижимости",
+      "pl": "księga wieczysta"
+    },
+    {
+      "id": "purchase-contract",
+      "cs": "kupní smlouva",
+      "en": "purchase contract",
+      "uk": "договір купівлі-продажу",
+      "ru": "договор купли-продажи",
+      "pl": "umowa kupna"
+    },
+    {
+      "id": "commission-fee",
+      "cs": "provize",
+      "en": "commission (fee)",
+      "uk": "комісія",
+      "ru": "комиссия",
+      "pl": "prowizja"
+    },
+    {
+      "id": "service-charges",
+      "cs": "služby",
+      "en": "service charges",
+      "uk": "плата за обслуговування будинку",
+      "ru": "плата за обслуживание дома",
+      "pl": "opłaty eksploatacyjne"
+    },
+    {
+      "id": "repair-fund",
+      "cs": "fond oprav",
+      "en": "repair fund",
+      "uk": "фонд ремонту",
+      "ru": "фонд ремонта",
+      "pl": "fundusz remontowy"
+    },
+    {
+      "id": "common-areas",
+      "cs": "společné prostory",
+      "en": "common areas",
+      "uk": "місця загального користування",
+      "ru": "места общего пользования",
+      "pl": "części wspólne"
+    },
+    {
+      "id": "cellar-storage-unit",
+      "cs": "sklepní kóje",
+      "en": "cellar storage unit",
+      "uk": "комірка в підвалі",
+      "ru": "кладовка в подвале",
+      "pl": "komórka lokatorska"
+    },
+    {
+      "id": "bike-storage-room",
+      "cs": "kolárna",
+      "en": "bike storage room",
+      "uk": "велосипедна кімната",
+      "ru": "велосипедная",
+      "pl": "rowerownia"
+    },
+    {
+      "id": "handover-report",
+      "cs": "předávací protokol",
+      "en": "handover report",
+      "uk": "акт приймання-передачі",
+      "ru": "акт приёма-передачи",
+      "pl": "protokół zdawczo-odbiorczy"
+    },
+    {
+      "id": "meter-readings",
+      "cs": "stav měřidel",
+      "en": "meter readings",
+      "uk": "показники лічильників",
+      "ru": "показания счётчиков",
+      "pl": "stan liczników"
+    },
+    {
+      "id": "safety-inspection",
+      "cs": "revize",
+      "en": "(safety) inspection",
+      "uk": "технічна перевірка",
+      "ru": "техническая проверка",
+      "pl": "przegląd"
+    },
+    {
+      "id": "move-in",
+      "cs": "nastěhovat se",
+      "en": "to move in",
+      "uk": "заселитися",
+      "ru": "въехать",
+      "pl": "wprowadzić się"
+    },
+    {
+      "id": "move-out",
+      "cs": "vystěhovat se",
+      "en": "to move out",
+      "uk": "виселитися",
+      "ru": "выехать",
+      "pl": "wyprowadzić się"
+    },
+    {
+      "id": "noise",
+      "cs": "hluk",
+      "en": "noise",
+      "uk": "шум",
+      "ru": "шум",
+      "pl": "hałas"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "measures",
-  "order": 51,
+  "order": 123,
   "level": "A2",
   "icon": "ruler",
   "title": {
@@ -360,6 +360,158 @@
       "uk": "вміст",
       "ru": "содержимое",
       "pl": "zawartość"
+    },
+    {
+      "id": "inch",
+      "cs": "palec",
+      "en": "inch",
+      "uk": "дюйм",
+      "ru": "дюйм",
+      "pl": "cal"
+    },
+    {
+      "id": "foot-unit",
+      "cs": "stopa",
+      "en": "foot (unit)",
+      "uk": "фут",
+      "ru": "фут",
+      "pl": "stopa"
+    },
+    {
+      "id": "mile",
+      "cs": "míle",
+      "en": "mile",
+      "uk": "миля",
+      "ru": "миля",
+      "pl": "mila"
+    },
+    {
+      "id": "hectare",
+      "cs": "hektar",
+      "en": "hectare",
+      "uk": "гектар",
+      "ru": "гектар",
+      "pl": "hektar"
+    },
+    {
+      "id": "square-metre",
+      "cs": "metr čtvereční",
+      "en": "square metre",
+      "uk": "квадратний метр",
+      "ru": "квадратный метр",
+      "pl": "metr kwadratowy"
+    },
+    {
+      "id": "cubic-metre",
+      "cs": "metr krychlový",
+      "en": "cubic metre",
+      "uk": "кубічний метр",
+      "ru": "кубический метр",
+      "pl": "metr sześcienny"
+    },
+    {
+      "id": "millilitre",
+      "cs": "mililitr",
+      "en": "millilitre",
+      "uk": "мілілітр",
+      "ru": "миллилитр",
+      "pl": "mililitr"
+    },
+    {
+      "id": "calorie",
+      "cs": "kalorie",
+      "en": "calorie",
+      "uk": "калорія",
+      "ru": "калория",
+      "pl": "kaloria"
+    },
+    {
+      "id": "degree-celsius",
+      "cs": "stupeň Celsia",
+      "en": "degree Celsius",
+      "uk": "градус Цельсія",
+      "ru": "градус Цельсия",
+      "pl": "stopień Celsjusza"
+    },
+    {
+      "id": "pound-weight",
+      "cs": "libra",
+      "en": "pound (weight)",
+      "uk": "фунт",
+      "ru": "фунт",
+      "pl": "funt"
+    },
+    {
+      "id": "dose",
+      "cs": "dávka",
+      "en": "dose",
+      "uk": "доза",
+      "ru": "доза",
+      "pl": "dawka"
+    },
+    {
+      "id": "part",
+      "cs": "díl",
+      "en": "part",
+      "uk": "частина",
+      "ru": "часть",
+      "pl": "część"
+    },
+    {
+      "id": "pile",
+      "cs": "hromada",
+      "en": "pile",
+      "uk": "купа",
+      "ru": "куча",
+      "pl": "stos"
+    },
+    {
+      "id": "row",
+      "cs": "řada",
+      "en": "row",
+      "uk": "ряд",
+      "ru": "ряд",
+      "pl": "rząd"
+    },
+    {
+      "id": "double-2",
+      "cs": "dvojitý",
+      "en": "double (adj.)",
+      "uk": "подвійний",
+      "ru": "двойной",
+      "pl": "podwójny"
+    },
+    {
+      "id": "triple",
+      "cs": "trojitý",
+      "en": "triple",
+      "uk": "потрійний",
+      "ru": "тройной",
+      "pl": "potrójny"
+    },
+    {
+      "id": "unit",
+      "cs": "jednotka",
+      "en": "unit",
+      "uk": "одиниця",
+      "ru": "единица",
+      "pl": "jednostka"
+    },
+    {
+      "id": "scale-of-a-map",
+      "cs": "měřítko",
+      "en": "scale (of a map)",
+      "uk": "масштаб",
+      "ru": "масштаб",
+      "pl": "skala"
+    },
+    {
+      "id": "tape-measure",
+      "cs": "svinovací metr",
+      "en": "tape measure",
+      "uk": "рулетка",
+      "ru": "рулетка",
+      "pl": "miarka zwijana"
     }
   ]
 }

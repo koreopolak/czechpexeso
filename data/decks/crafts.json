@@ -1,0 +1,213 @@
+{
+  "id": "crafts",
+  "order": 239,
+  "level": "B1",
+  "icon": "palette",
+  "title": {
+    "cs": "Řemesla a ruční práce",
+    "en": "Crafts & Handiwork",
+    "uk": "Ремесла та рукоділля",
+    "ru": "Ремёсла и рукоделие",
+    "pl": "Rzemiosło i rękodzieło"
+  },
+  "description": {
+    "en": "Traditional crafts and making things by hand.",
+    "uk": "Традиційні ремесла й речі, зроблені руками.",
+    "ru": "Традиционные ремёсла и вещи ручной работы.",
+    "pl": "Tradycyjne rzemiosła i wyroby ręczne."
+  },
+  "words": [
+    {
+      "id": "craft-trade",
+      "cs": "řemeslo",
+      "en": "craft (trade)",
+      "uk": "ремесло",
+      "ru": "ремесло",
+      "pl": "rzemiosło"
+    },
+    {
+      "id": "craftsman",
+      "cs": "řemeslník",
+      "en": "craftsman",
+      "uk": "ремісник",
+      "ru": "ремесленник",
+      "pl": "rzemieślnik"
+    },
+    {
+      "id": "handiwork",
+      "cs": "ruční práce",
+      "en": "handiwork",
+      "uk": "ручна робота",
+      "ru": "ручная работа",
+      "pl": "rękodzieło"
+    },
+    {
+      "id": "weaving",
+      "cs": "tkaní",
+      "en": "weaving",
+      "uk": "ткацтво",
+      "ru": "ткачество",
+      "pl": "tkactwo"
+    },
+    {
+      "id": "loom",
+      "cs": "tkalcovský stav",
+      "en": "loom",
+      "uk": "ткацький верстат",
+      "ru": "ткацкий станок",
+      "pl": "krosno"
+    },
+    {
+      "id": "potter-s-wheel",
+      "cs": "hrnčířský kruh",
+      "en": "potter’s wheel",
+      "uk": "гончарний круг",
+      "ru": "гончарный круг",
+      "pl": "koło garncarskie"
+    },
+    {
+      "id": "glaze",
+      "cs": "glazura",
+      "en": "glaze",
+      "uk": "глазур для кераміки",
+      "ru": "глазурь для керамики",
+      "pl": "szkliwo"
+    },
+    {
+      "id": "kiln",
+      "cs": "pec",
+      "en": "kiln",
+      "uk": "піч для випалу",
+      "ru": "печь для обжига",
+      "pl": "piec do wypalania"
+    },
+    {
+      "id": "woodcarver",
+      "cs": "řezbář",
+      "en": "woodcarver",
+      "uk": "різьбяр",
+      "ru": "резчик по дереву",
+      "pl": "rzeźbiarz w drewnie"
+    },
+    {
+      "id": "beads",
+      "cs": "korálky",
+      "en": "beads",
+      "uk": "намистини",
+      "ru": "бусины",
+      "pl": "koraliki"
+    },
+    {
+      "id": "thread-beads",
+      "cs": "navlékat",
+      "en": "to thread (beads)",
+      "uk": "нанизувати",
+      "ru": "нанизывать",
+      "pl": "nawlekać"
+    },
+    {
+      "id": "wire",
+      "cs": "drát",
+      "en": "wire",
+      "uk": "дріт",
+      "ru": "проволока",
+      "pl": "drut"
+    },
+    {
+      "id": "stencil",
+      "cs": "šablona",
+      "en": "stencil",
+      "uk": "трафарет",
+      "ru": "трафарет",
+      "pl": "szablon"
+    },
+    {
+      "id": "cut-out",
+      "cs": "vystřihnout",
+      "en": "to cut out",
+      "uk": "вирізати",
+      "ru": "вырезать",
+      "pl": "wyciąć"
+    },
+    {
+      "id": "glue-on",
+      "cs": "nalepit",
+      "en": "to glue on",
+      "uk": "приклеїти",
+      "ru": "приклеить",
+      "pl": "przykleić"
+    },
+    {
+      "id": "fold",
+      "cs": "složit",
+      "en": "to fold",
+      "uk": "скласти",
+      "ru": "сложить",
+      "pl": "złożyć"
+    },
+    {
+      "id": "tie-dye",
+      "cs": "batikování",
+      "en": "tie-dye",
+      "uk": "батик",
+      "ru": "батик",
+      "pl": "batik"
+    },
+    {
+      "id": "stained-glass",
+      "cs": "vitráž",
+      "en": "stained glass",
+      "uk": "вітраж",
+      "ru": "витраж",
+      "pl": "witraż"
+    },
+    {
+      "id": "gingerbread-maker",
+      "cs": "perníkář",
+      "en": "gingerbread maker",
+      "uk": "пряничник",
+      "ru": "пряничник",
+      "pl": "piernikarz"
+    },
+    {
+      "id": "tinker",
+      "cs": "dráteník",
+      "en": "tinker",
+      "uk": "лудильник",
+      "ru": "лудильщик",
+      "pl": "druciarz"
+    },
+    {
+      "id": "basket-maker",
+      "cs": "košíkář",
+      "en": "basket maker",
+      "uk": "кошикар",
+      "ru": "корзинщик",
+      "pl": "koszykarz"
+    },
+    {
+      "id": "basket",
+      "cs": "košík",
+      "en": "basket",
+      "uk": "кошик",
+      "ru": "корзинка",
+      "pl": "koszyk"
+    },
+    {
+      "id": "handmade-production",
+      "cs": "ruční výroba",
+      "en": "handmade production",
+      "uk": "ручне виробництво",
+      "ru": "ручное производство",
+      "pl": "produkcja ręczna"
+    },
+    {
+      "id": "traditional-craft",
+      "cs": "tradiční řemeslo",
+      "en": "traditional craft",
+      "uk": "традиційне ремесло",
+      "ru": "традиционное ремесло",
+      "pl": "tradycyjne rzemiosło"
+    }
+  ]
+}

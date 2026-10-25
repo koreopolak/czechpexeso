@@ -1,0 +1,205 @@
+{
+  "id": "education",
+  "order": 318,
+  "level": "B2",
+  "icon": "book",
+  "title": {
+    "cs": "Školství a vzdělávání",
+    "en": "Education System",
+    "uk": "Система освіти",
+    "ru": "Система образования",
+    "pl": "System edukacji"
+  },
+  "description": {
+    "en": "Schools, curricula and how education works.",
+    "uk": "Школи, навчальні плани й устрій освіти.",
+    "ru": "Школы, учебные планы и устройство образования.",
+    "pl": "Szkoły, programy i działanie edukacji."
+  },
+  "words": [
+    {
+      "id": "education-system",
+      "cs": "vzdělávací systém",
+      "en": "education system",
+      "uk": "система освіти",
+      "ru": "система образования",
+      "pl": "system edukacji"
+    },
+    {
+      "id": "tuition-fee",
+      "cs": "školné",
+      "en": "tuition fee",
+      "uk": "плата за навчання",
+      "ru": "плата за обучение",
+      "pl": "czesne"
+    },
+    {
+      "id": "compulsory-schooling",
+      "cs": "povinná školní docházka",
+      "en": "compulsory schooling",
+      "uk": "обов’язкове шкільне навчання",
+      "ru": "обязательное школьное обучение",
+      "pl": "obowiązek szkolny"
+    },
+    {
+      "id": "grammar-school",
+      "cs": "gymnázium",
+      "en": "grammar school",
+      "uk": "гімназія",
+      "ru": "гимназия",
+      "pl": "liceum ogólnokształcące"
+    },
+    {
+      "id": "vocational-school",
+      "cs": "odborná škola",
+      "en": "vocational school",
+      "uk": "професійна школа",
+      "ru": "профессиональная школа",
+      "pl": "szkoła branżowa"
+    },
+    {
+      "id": "apprentice-training-school",
+      "cs": "učiliště",
+      "en": "apprentice training school",
+      "uk": "профтехучилище",
+      "ru": "ПТУ",
+      "pl": "zasadnicza szkoła zawodowa"
+    },
+    {
+      "id": "apprentice",
+      "cs": "učeň",
+      "en": "apprentice",
+      "uk": "учень-підмайстер",
+      "ru": "ученик-подмастерье",
+      "pl": "uczeń zawodu"
+    },
+    {
+      "id": "curriculum",
+      "cs": "učební plán",
+      "en": "curriculum",
+      "uk": "навчальний план",
+      "ru": "учебный план",
+      "pl": "program nauczania"
+    },
+    {
+      "id": "remote-learning",
+      "cs": "distanční výuka",
+      "en": "remote learning",
+      "uk": "дистанційне навчання",
+      "ru": "дистанционное обучение",
+      "pl": "nauczanie zdalne"
+    },
+    {
+      "id": "homeschooling",
+      "cs": "domácí vzdělávání",
+      "en": "homeschooling",
+      "uk": "домашнє навчання",
+      "ru": "домашнее обучение",
+      "pl": "edukacja domowa"
+    },
+    {
+      "id": "inclusion",
+      "cs": "inkluze",
+      "en": "inclusion",
+      "uk": "інклюзія",
+      "ru": "инклюзия",
+      "pl": "inkluzja"
+    },
+    {
+      "id": "gifted-pupil",
+      "cs": "nadaný žák",
+      "en": "gifted pupil",
+      "uk": "обдарований учень",
+      "ru": "одарённый ученик",
+      "pl": "zdolny uczeń"
+    },
+    {
+      "id": "dyslexia",
+      "cs": "dyslexie",
+      "en": "dyslexia",
+      "uk": "дислексія",
+      "ru": "дислексия",
+      "pl": "dysleksja"
+    },
+    {
+      "id": "bullying",
+      "cs": "šikana",
+      "en": "bullying",
+      "uk": "цькування",
+      "ru": "травля",
+      "pl": "znęcanie się"
+    },
+    {
+      "id": "discipline",
+      "cs": "kázeň",
+      "en": "discipline",
+      "uk": "дисципліна",
+      "ru": "дисциплина",
+      "pl": "dyscyplina"
+    },
+    {
+      "id": "head-teacher-s-office",
+      "cs": "ředitelna",
+      "en": "head teacher’s office",
+      "uk": "кабінет директора",
+      "ru": "кабинет директора",
+      "pl": "gabinet dyrektora"
+    },
+    {
+      "id": "staff-room",
+      "cs": "sborovna",
+      "en": "staff room",
+      "uk": "учительська",
+      "ru": "учительская",
+      "pl": "pokój nauczycielski"
+    },
+    {
+      "id": "parents-evening",
+      "cs": "třídní schůzky",
+      "en": "parents’ evening",
+      "uk": "батьківські збори",
+      "ru": "родительское собрание",
+      "pl": "wywiadówka"
+    },
+    {
+      "id": "pupil-s-record-book",
+      "cs": "žákovská knížka",
+      "en": "pupil’s record book",
+      "uk": "щоденник учня",
+      "ru": "дневник ученика",
+      "pl": "dzienniczek ucznia"
+    },
+    {
+      "id": "entrance-exams-informal",
+      "cs": "přijímačky",
+      "en": "entrance exams (informal)",
+      "uk": "вступні іспити",
+      "ru": "вступительные экзамены",
+      "pl": "egzaminy wstępne"
+    },
+    {
+      "id": "academic-degree",
+      "cs": "akademický titul",
+      "en": "academic degree",
+      "uk": "науковий ступінь",
+      "ru": "учёная степень",
+      "pl": "tytuł naukowy"
+    },
+    {
+      "id": "academy-of-sciences",
+      "cs": "akademie věd",
+      "en": "academy of sciences",
+      "uk": "академія наук",
+      "ru": "академия наук",
+      "pl": "akademia nauk"
+    },
+    {
+      "id": "e-learning",
+      "cs": "e-learning",
+      "en": "e-learning",
+      "uk": "електронне навчання",
+      "ru": "электронное обучение",
+      "pl": "e-learning"
+    }
+  ]
+}

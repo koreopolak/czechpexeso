@@ -1,6 +1,6 @@
 {
   "id": "tech",
-  "order": 61,
+  "order": 202,
   "level": "B1",
   "icon": "laptop",
   "title": {
@@ -456,6 +456,294 @@
       "uk": "друкувати",
       "ru": "печатать",
       "pl": "drukować"
+    },
+    {
+      "id": "processor",
+      "cs": "procesor",
+      "en": "processor",
+      "uk": "процесор",
+      "ru": "процессор",
+      "pl": "procesor"
+    },
+    {
+      "id": "ram",
+      "cs": "operační paměť",
+      "en": "RAM",
+      "uk": "оперативна пам’ять",
+      "ru": "оперативная память",
+      "pl": "pamięć RAM"
+    },
+    {
+      "id": "hard-drive",
+      "cs": "pevný disk",
+      "en": "hard drive",
+      "uk": "жорсткий диск",
+      "ru": "жёсткий диск",
+      "pl": "dysk twardy"
+    },
+    {
+      "id": "graphics-card",
+      "cs": "grafická karta",
+      "en": "graphics card",
+      "uk": "відеокарта",
+      "ru": "видеокарта",
+      "pl": "karta graficzna"
+    },
+    {
+      "id": "monitor",
+      "cs": "monitor",
+      "en": "monitor",
+      "uk": "монітор",
+      "ru": "монитор",
+      "pl": "monitor"
+    },
+    {
+      "id": "webcam",
+      "cs": "webkamera",
+      "en": "webcam",
+      "uk": "вебкамера",
+      "ru": "веб-камера",
+      "pl": "kamera internetowa"
+    },
+    {
+      "id": "microphone",
+      "cs": "mikrofon",
+      "en": "microphone",
+      "uk": "мікрофон",
+      "ru": "микрофон",
+      "pl": "mikrofon"
+    },
+    {
+      "id": "router",
+      "cs": "router",
+      "en": "router",
+      "uk": "роутер",
+      "ru": "роутер",
+      "pl": "router"
+    },
+    {
+      "id": "operating-system",
+      "cs": "operační systém",
+      "en": "operating system",
+      "uk": "операційна система",
+      "ru": "операционная система",
+      "pl": "system operacyjny"
+    },
+    {
+      "id": "software",
+      "cs": "software",
+      "en": "software",
+      "uk": "програмне забезпечення",
+      "ru": "программное обеспечение",
+      "pl": "oprogramowanie"
+    },
+    {
+      "id": "code",
+      "cs": "kód",
+      "en": "code",
+      "uk": "код",
+      "ru": "код",
+      "pl": "kod"
+    },
+    {
+      "id": "programming",
+      "cs": "programování",
+      "en": "programming",
+      "uk": "програмування",
+      "ru": "программирование",
+      "pl": "programowanie"
+    },
+    {
+      "id": "algorithm",
+      "cs": "algoritmus",
+      "en": "algorithm",
+      "uk": "алгоритм",
+      "ru": "алгоритм",
+      "pl": "algorytm"
+    },
+    {
+      "id": "database",
+      "cs": "databáze",
+      "en": "database",
+      "uk": "база даних",
+      "ru": "база данных",
+      "pl": "baza danych"
+    },
+    {
+      "id": "server",
+      "cs": "server",
+      "en": "server",
+      "uk": "сервер",
+      "ru": "сервер",
+      "pl": "serwer"
+    },
+    {
+      "id": "back-up",
+      "cs": "zálohovat",
+      "en": "to back up",
+      "uk": "створити резервну копію",
+      "ru": "сделать резервную копию",
+      "pl": "zrobić kopię zapasową"
+    },
+    {
+      "id": "encryption",
+      "cs": "šifrování",
+      "en": "encryption",
+      "uk": "шифрування",
+      "ru": "шифрование",
+      "pl": "szyfrowanie"
+    },
+    {
+      "id": "hacker",
+      "cs": "hacker",
+      "en": "hacker",
+      "uk": "хакер",
+      "ru": "хакер",
+      "pl": "haker"
+    },
+    {
+      "id": "spam",
+      "cs": "spam",
+      "en": "spam",
+      "uk": "спам",
+      "ru": "спам",
+      "pl": "spam"
+    },
+    {
+      "id": "security",
+      "cs": "zabezpečení",
+      "en": "security",
+      "uk": "захист даних",
+      "ru": "защита данных",
+      "pl": "zabezpieczenie"
+    },
+    {
+      "id": "two-factor-authentication",
+      "cs": "dvoufázové ověření",
+      "en": "two-factor authentication",
+      "uk": "двофакторна автентифікація",
+      "ru": "двухфакторная аутентификация",
+      "pl": "uwierzytelnianie dwuskładnikowe"
+    },
+    {
+      "id": "e-mail-address",
+      "cs": "e-mailová adresa",
+      "en": "e-mail address",
+      "uk": "адреса електронної пошти",
+      "ru": "адрес электронной почты",
+      "pl": "adres e-mail"
+    },
+    {
+      "id": "at-sign",
+      "cs": "zavináč",
+      "en": "at sign (@)",
+      "uk": "равлик (@)",
+      "ru": "собака (@)",
+      "pl": "małpa (@)"
+    },
+    {
+      "id": "slash",
+      "cs": "lomítko",
+      "en": "slash",
+      "uk": "скісна риска",
+      "ru": "косая черта",
+      "pl": "ukośnik"
+    },
+    {
+      "id": "cursor",
+      "cs": "kurzor",
+      "en": "cursor",
+      "uk": "курсор",
+      "ru": "курсор",
+      "pl": "kursor"
+    },
+    {
+      "id": "icon",
+      "cs": "ikona",
+      "en": "icon",
+      "uk": "іконка",
+      "ru": "значок",
+      "pl": "ikona"
+    },
+    {
+      "id": "settings",
+      "cs": "nastavení",
+      "en": "settings",
+      "uk": "налаштування",
+      "ru": "настройки",
+      "pl": "ustawienia"
+    },
+    {
+      "id": "resolution",
+      "cs": "rozlišení",
+      "en": "resolution",
+      "uk": "роздільна здатність",
+      "ru": "разрешение",
+      "pl": "rozdzielczość"
+    },
+    {
+      "id": "brightness",
+      "cs": "jas",
+      "en": "brightness",
+      "uk": "яскравість",
+      "ru": "яркость",
+      "pl": "jasność"
+    },
+    {
+      "id": "volume",
+      "cs": "hlasitost",
+      "en": "volume",
+      "uk": "гучність",
+      "ru": "громкость",
+      "pl": "głośność"
+    },
+    {
+      "id": "touchscreen",
+      "cs": "dotyková obrazovka",
+      "en": "touchscreen",
+      "uk": "сенсорний екран",
+      "ru": "сенсорный экран",
+      "pl": "ekran dotykowy"
+    },
+    {
+      "id": "smartwatch",
+      "cs": "chytré hodinky",
+      "en": "smartwatch",
+      "uk": "розумний годинник",
+      "ru": "умные часы",
+      "pl": "smartwatch"
+    },
+    {
+      "id": "drone",
+      "cs": "dron",
+      "en": "drone",
+      "uk": "дрон",
+      "ru": "дрон",
+      "pl": "dron"
+    },
+    {
+      "id": "copy",
+      "cs": "kopírovat",
+      "en": "to copy",
+      "uk": "копіювати",
+      "ru": "копировать",
+      "pl": "kopiować"
+    },
+    {
+      "id": "paste",
+      "cs": "vložit",
+      "en": "to paste",
+      "uk": "вставити",
+      "ru": "вставить",
+      "pl": "wkleić"
+    },
+    {
+      "id": "scan",
+      "cs": "naskenovat",
+      "en": "to scan",
+      "uk": "відсканувати",
+      "ru": "отсканировать",
+      "pl": "zeskanować"
     }
   ]
 }

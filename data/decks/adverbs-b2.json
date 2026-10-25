@@ -1,0 +1,341 @@
+{
+  "id": "adverbs-b2",
+  "order": 315,
+  "level": "B2",
+  "icon": "arrows",
+  "title": {
+    "cs": "Pokročilá příslovce",
+    "en": "Advanced Adverbs",
+    "uk": "Складніші прислівники",
+    "ru": "Сложные наречия",
+    "pl": "Zaawansowane przysłówki"
+  },
+  "description": {
+    "en": "Say how, how often and how sure.",
+    "uk": "Як, як часто і наскільки впевнено.",
+    "ru": "Как, как часто и насколько уверенно.",
+    "pl": "Jak, jak często i jak pewnie."
+  },
+  "words": [
+    {
+      "id": "apparently",
+      "cs": "zřejmě",
+      "en": "apparently",
+      "uk": "очевидно",
+      "ru": "очевидно",
+      "pl": "najwyraźniej"
+    },
+    {
+      "id": "allegedly",
+      "cs": "údajně",
+      "en": "allegedly",
+      "uk": "нібито",
+      "ru": "якобы",
+      "pl": "rzekomo"
+    },
+    {
+      "id": "presumably",
+      "cs": "patrně",
+      "en": "presumably",
+      "uk": "мабуть",
+      "ru": "по-видимому",
+      "pl": "prawdopodobnie"
+    },
+    {
+      "id": "most-likely",
+      "cs": "nejspíš",
+      "en": "most likely",
+      "uk": "найімовірніше",
+      "ru": "скорее всего",
+      "pl": "najpewniej"
+    },
+    {
+      "id": "hardly",
+      "cs": "sotva",
+      "en": "hardly",
+      "uk": "ледве",
+      "ru": "едва",
+      "pl": "ledwo"
+    },
+    {
+      "id": "nearly",
+      "cs": "téměř",
+      "en": "nearly",
+      "uk": "майже",
+      "ru": "почти",
+      "pl": "niemal"
+    },
+    {
+      "id": "completely",
+      "cs": "zcela",
+      "en": "completely",
+      "uk": "цілком",
+      "ru": "вполне",
+      "pl": "całkowicie"
+    },
+    {
+      "id": "absolutely",
+      "cs": "naprosto",
+      "en": "absolutely",
+      "uk": "абсолютно",
+      "ru": "абсолютно",
+      "pl": "absolutnie"
+    },
+    {
+      "id": "totally",
+      "cs": "úplně",
+      "en": "totally",
+      "uk": "повністю",
+      "ru": "полностью",
+      "pl": "zupełnie"
+    },
+    {
+      "id": "partly",
+      "cs": "částečně",
+      "en": "partly",
+      "uk": "частково",
+      "ru": "частично",
+      "pl": "częściowo"
+    },
+    {
+      "id": "relatively",
+      "cs": "poměrně",
+      "en": "relatively",
+      "uk": "порівняно",
+      "ru": "сравнительно",
+      "pl": "stosunkowo"
+    },
+    {
+      "id": "considerably",
+      "cs": "značně",
+      "en": "considerably",
+      "uk": "значно",
+      "ru": "значительно",
+      "pl": "znacznie"
+    },
+    {
+      "id": "slightly",
+      "cs": "mírně",
+      "en": "slightly",
+      "uk": "злегка",
+      "ru": "слегка",
+      "pl": "lekko"
+    },
+    {
+      "id": "significantly",
+      "cs": "výrazně",
+      "en": "significantly",
+      "uk": "суттєво",
+      "ru": "существенно",
+      "pl": "wyraźnie"
+    },
+    {
+      "id": "immensely",
+      "cs": "nesmírně",
+      "en": "immensely",
+      "uk": "надзвичайно",
+      "ru": "чрезвычайно",
+      "pl": "niezmiernie"
+    },
+    {
+      "id": "particularly",
+      "cs": "obzvlášť",
+      "en": "particularly",
+      "uk": "особливо",
+      "ru": "особенно",
+      "pl": "szczególnie"
+    },
+    {
+      "id": "exclusively",
+      "cs": "výhradně",
+      "en": "exclusively",
+      "uk": "виключно",
+      "ru": "исключительно",
+      "pl": "wyłącznie"
+    },
+    {
+      "id": "predominantly",
+      "cs": "převážně",
+      "en": "predominantly",
+      "uk": "переважно",
+      "ru": "преимущественно",
+      "pl": "przeważnie"
+    },
+    {
+      "id": "as-a-rule",
+      "cs": "zpravidla",
+      "en": "as a rule",
+      "uk": "як правило",
+      "ru": "как правило",
+      "pl": "z reguły"
+    },
+    {
+      "id": "occasionally",
+      "cs": "občas",
+      "en": "occasionally",
+      "uk": "іноді",
+      "ru": "иногда",
+      "pl": "czasami"
+    },
+    {
+      "id": "constantly",
+      "cs": "neustále",
+      "en": "constantly",
+      "uk": "постійно",
+      "ru": "постоянно",
+      "pl": "nieustannie"
+    },
+    {
+      "id": "gradually",
+      "cs": "postupně",
+      "en": "gradually",
+      "uk": "поступово",
+      "ru": "постепенно",
+      "pl": "stopniowo"
+    },
+    {
+      "id": "abruptly",
+      "cs": "náhle",
+      "en": "abruptly",
+      "uk": "раптово",
+      "ru": "внезапно",
+      "pl": "nagle"
+    },
+    {
+      "id": "instantly",
+      "cs": "okamžitě",
+      "en": "instantly",
+      "uk": "негайно",
+      "ru": "немедленно",
+      "pl": "natychmiast"
+    },
+    {
+      "id": "so-far",
+      "cs": "dosud",
+      "en": "so far",
+      "uk": "досі",
+      "ru": "до сих пор",
+      "pl": "dotąd"
+    },
+    {
+      "id": "from-now-on",
+      "cs": "nadále",
+      "en": "from now on",
+      "uk": "надалі",
+      "ru": "впредь",
+      "pl": "nadal"
+    },
+    {
+      "id": "in-advance",
+      "cs": "předem",
+      "en": "in advance",
+      "uk": "заздалегідь",
+      "ru": "заранее",
+      "pl": "z góry"
+    },
+    {
+      "id": "retrospectively",
+      "cs": "zpětně",
+      "en": "retrospectively",
+      "uk": "заднім числом",
+      "ru": "задним числом",
+      "pl": "wstecz"
+    },
+    {
+      "id": "temporarily",
+      "cs": "dočasně",
+      "en": "temporarily",
+      "uk": "тимчасово",
+      "ru": "временно",
+      "pl": "tymczasowo"
+    },
+    {
+      "id": "permanently",
+      "cs": "trvale",
+      "en": "permanently",
+      "uk": "назавжди",
+      "ru": "навсегда",
+      "pl": "na stałe"
+    },
+    {
+      "id": "on-purpose",
+      "cs": "úmyslně",
+      "en": "on purpose",
+      "uk": "навмисно",
+      "ru": "нарочно",
+      "pl": "celowo"
+    },
+    {
+      "id": "by-chance",
+      "cs": "náhodou",
+      "en": "by chance",
+      "uk": "випадково",
+      "ru": "случайно",
+      "pl": "przypadkiem"
+    },
+    {
+      "id": "by-mistake",
+      "cs": "omylem",
+      "en": "by mistake",
+      "uk": "помилково",
+      "ru": "по ошибке",
+      "pl": "przez pomyłkę"
+    },
+    {
+      "id": "needlessly",
+      "cs": "zbytečně",
+      "en": "needlessly",
+      "uk": "даремно",
+      "ru": "зря",
+      "pl": "niepotrzebnie"
+    },
+    {
+      "id": "in-vain",
+      "cs": "marně",
+      "en": "in vain",
+      "uk": "марно",
+      "ru": "напрасно",
+      "pl": "na próżno"
+    },
+    {
+      "id": "definitely",
+      "cs": "rozhodně",
+      "en": "definitely",
+      "uk": "безперечно",
+      "ru": "безусловно",
+      "pl": "zdecydowanie"
+    },
+    {
+      "id": "anyway",
+      "cs": "stejně",
+      "en": "anyway",
+      "uk": "все одно",
+      "ru": "всё равно",
+      "pl": "i tak"
+    },
+    {
+      "id": "by-the-way",
+      "cs": "mimochodem",
+      "en": "by the way",
+      "uk": "до речі",
+      "ru": "кстати",
+      "pl": "przy okazji"
+    },
+    {
+      "id": "frankly",
+      "cs": "upřímně řečeno",
+      "en": "frankly",
+      "uk": "чесно кажучи",
+      "ru": "честно говоря",
+      "pl": "szczerze mówiąc"
+    },
+    {
+      "id": "thank-god",
+      "cs": "bohudík",
+      "en": "thank God",
+      "uk": "слава Богу",
+      "ru": "слава богу",
+      "pl": "dzięki Bogu"
+    }
+  ]
+}

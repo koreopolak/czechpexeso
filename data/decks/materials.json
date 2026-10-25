@@ -1,6 +1,6 @@
 {
   "id": "materials",
-  "order": 50,
+  "order": 122,
   "level": "A2",
   "icon": "cube",
   "title": {
@@ -376,6 +376,214 @@
       "uk": "центр",
       "ru": "центр",
       "pl": "środek"
+    },
+    {
+      "id": "lead-metal",
+      "cs": "olovo",
+      "en": "lead (metal)",
+      "uk": "свинець",
+      "ru": "свинец",
+      "pl": "ołów"
+    },
+    {
+      "id": "tin",
+      "cs": "cín",
+      "en": "tin",
+      "uk": "олово",
+      "ru": "олово",
+      "pl": "cyna"
+    },
+    {
+      "id": "zinc",
+      "cs": "zinek",
+      "en": "zinc",
+      "uk": "цинк",
+      "ru": "цинк",
+      "pl": "cynk"
+    },
+    {
+      "id": "brass",
+      "cs": "mosaz",
+      "en": "brass",
+      "uk": "латунь",
+      "ru": "латунь",
+      "pl": "mosiądz"
+    },
+    {
+      "id": "bronze",
+      "cs": "bronz",
+      "en": "bronze",
+      "uk": "бронза",
+      "ru": "бронза",
+      "pl": "brąz"
+    },
+    {
+      "id": "platinum",
+      "cs": "platina",
+      "en": "platinum",
+      "uk": "платина",
+      "ru": "платина",
+      "pl": "platyna"
+    },
+    {
+      "id": "stainless-steel",
+      "cs": "nerez",
+      "en": "stainless steel",
+      "uk": "нержавійна сталь",
+      "ru": "нержавеющая сталь",
+      "pl": "stal nierdzewna"
+    },
+    {
+      "id": "cast-iron",
+      "cs": "litina",
+      "en": "cast iron",
+      "uk": "чавун",
+      "ru": "чугун",
+      "pl": "żeliwo"
+    },
+    {
+      "id": "granite",
+      "cs": "žula",
+      "en": "granite",
+      "uk": "граніт",
+      "ru": "гранит",
+      "pl": "granit"
+    },
+    {
+      "id": "lime-building",
+      "cs": "vápno",
+      "en": "lime (building)",
+      "uk": "вапно",
+      "ru": "известь",
+      "pl": "wapno"
+    },
+    {
+      "id": "asphalt",
+      "cs": "asfalt",
+      "en": "asphalt",
+      "uk": "асфальт",
+      "ru": "асфальт",
+      "pl": "asfalt"
+    },
+    {
+      "id": "tar",
+      "cs": "dehet",
+      "en": "tar",
+      "uk": "дьоготь",
+      "ru": "дёготь",
+      "pl": "smoła"
+    },
+    {
+      "id": "resin",
+      "cs": "pryskyřice",
+      "en": "resin",
+      "uk": "живиця",
+      "ru": "смола",
+      "pl": "żywica"
+    },
+    {
+      "id": "cork",
+      "cs": "korek",
+      "en": "cork",
+      "uk": "корок",
+      "ru": "пробка",
+      "pl": "korek"
+    },
+    {
+      "id": "bamboo",
+      "cs": "bambus",
+      "en": "bamboo",
+      "uk": "бамбук",
+      "ru": "бамбук",
+      "pl": "bambus"
+    },
+    {
+      "id": "wicker",
+      "cs": "proutí",
+      "en": "wicker",
+      "uk": "лоза",
+      "ru": "лоза",
+      "pl": "wiklina"
+    },
+    {
+      "id": "linen",
+      "cs": "len",
+      "en": "linen",
+      "uk": "льон",
+      "ru": "лён",
+      "pl": "len"
+    },
+    {
+      "id": "velvet",
+      "cs": "samet",
+      "en": "velvet",
+      "uk": "оксамит",
+      "ru": "бархат",
+      "pl": "aksamit"
+    },
+    {
+      "id": "fleece",
+      "cs": "flís",
+      "en": "fleece",
+      "uk": "фліс",
+      "ru": "флис",
+      "pl": "polar"
+    },
+    {
+      "id": "polyester",
+      "cs": "polyester",
+      "en": "polyester",
+      "uk": "поліестер",
+      "ru": "полиэстер",
+      "pl": "poliester"
+    },
+    {
+      "id": "nylon",
+      "cs": "nylon",
+      "en": "nylon",
+      "uk": "нейлон",
+      "ru": "нейлон",
+      "pl": "nylon"
+    },
+    {
+      "id": "denim",
+      "cs": "džínovina",
+      "en": "denim",
+      "uk": "джинсова тканина",
+      "ru": "джинсовая ткань",
+      "pl": "dżins"
+    },
+    {
+      "id": "lace",
+      "cs": "krajka",
+      "en": "lace",
+      "uk": "мереживо",
+      "ru": "кружево",
+      "pl": "koronka"
+    },
+    {
+      "id": "fur-material",
+      "cs": "kožešina",
+      "en": "fur (material)",
+      "uk": "хутро",
+      "ru": "мех",
+      "pl": "futro"
+    },
+    {
+      "id": "foam",
+      "cs": "pěna",
+      "en": "foam",
+      "uk": "піна",
+      "ru": "пена",
+      "pl": "pianka"
+    },
+    {
+      "id": "polystyrene",
+      "cs": "polystyren",
+      "en": "polystyrene",
+      "uk": "пінопласт",
+      "ru": "пенопласт",
+      "pl": "styropian"
     }
   ]
 }

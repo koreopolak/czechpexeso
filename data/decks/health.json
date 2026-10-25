@@ -1,6 +1,6 @@
 {
   "id": "health",
-  "order": 44,
+  "order": 116,
   "level": "A2",
   "icon": "plus",
   "title": {
@@ -480,6 +480,278 @@
       "uk": "гігієна",
       "ru": "гигиена",
       "pl": "higiena"
+    },
+    {
+      "id": "medical-report",
+      "cs": "lékařská zpráva",
+      "en": "medical report",
+      "uk": "медичний висновок",
+      "ru": "медицинское заключение",
+      "pl": "wypis lekarski"
+    },
+    {
+      "id": "general-practitioner",
+      "cs": "praktický lékař",
+      "en": "general practitioner",
+      "uk": "терапевт",
+      "ru": "терапевт",
+      "pl": "lekarz rodzinny"
+    },
+    {
+      "id": "specialist",
+      "cs": "specialista",
+      "en": "specialist",
+      "uk": "фахівець",
+      "ru": "специалист",
+      "pl": "specjalista"
+    },
+    {
+      "id": "emergency-room",
+      "cs": "pohotovost",
+      "en": "emergency room",
+      "uk": "невідкладна допомога",
+      "ru": "неотложка",
+      "pl": "izba przyjęć"
+    },
+    {
+      "id": "x-ray",
+      "cs": "rentgen",
+      "en": "X-ray",
+      "uk": "рентген",
+      "ru": "рентген",
+      "pl": "rentgen"
+    },
+    {
+      "id": "blood-test",
+      "cs": "odběr krve",
+      "en": "blood test",
+      "uk": "аналіз крові",
+      "ru": "анализ крови",
+      "pl": "badanie krwi"
+    },
+    {
+      "id": "urine",
+      "cs": "moč",
+      "en": "urine",
+      "uk": "сеча",
+      "ru": "моча",
+      "pl": "mocz"
+    },
+    {
+      "id": "diagnosis",
+      "cs": "diagnóza",
+      "en": "diagnosis",
+      "uk": "діагноз",
+      "ru": "диагноз",
+      "pl": "diagnoza"
+    },
+    {
+      "id": "treatment",
+      "cs": "léčba",
+      "en": "treatment",
+      "uk": "лікування",
+      "ru": "лечение",
+      "pl": "leczenie"
+    },
+    {
+      "id": "therapy",
+      "cs": "terapie",
+      "en": "therapy",
+      "uk": "терапія",
+      "ru": "терапия",
+      "pl": "terapia"
+    },
+    {
+      "id": "rehabilitation",
+      "cs": "rehabilitace",
+      "en": "rehabilitation",
+      "uk": "реабілітація",
+      "ru": "реабилитация",
+      "pl": "rehabilitacja"
+    },
+    {
+      "id": "drops",
+      "cs": "kapky",
+      "en": "drops",
+      "uk": "краплі",
+      "ru": "капли",
+      "pl": "krople"
+    },
+    {
+      "id": "ointment",
+      "cs": "mast",
+      "en": "ointment",
+      "uk": "мазь",
+      "ru": "мазь",
+      "pl": "maść"
+    },
+    {
+      "id": "cough-syrup",
+      "cs": "sirup proti kašli",
+      "en": "cough syrup",
+      "uk": "сироп від кашлю",
+      "ru": "сироп от кашля",
+      "pl": "syrop na kaszel"
+    },
+    {
+      "id": "antibiotics",
+      "cs": "antibiotika",
+      "en": "antibiotics",
+      "uk": "антибіотики",
+      "ru": "антибиотики",
+      "pl": "antybiotyki"
+    },
+    {
+      "id": "vitamins",
+      "cs": "vitamíny",
+      "en": "vitamins",
+      "uk": "вітаміни",
+      "ru": "витамины",
+      "pl": "witaminy"
+    },
+    {
+      "id": "painkiller",
+      "cs": "lék proti bolesti",
+      "en": "painkiller",
+      "uk": "знеболювальне",
+      "ru": "обезболивающее",
+      "pl": "środek przeciwbólowy"
+    },
+    {
+      "id": "health-insurance-card",
+      "cs": "kartička pojištěnce",
+      "en": "health insurance card",
+      "uk": "картка застрахованої особи",
+      "ru": "карточка застрахованного",
+      "pl": "karta ubezpieczenia"
+    },
+    {
+      "id": "co-payment",
+      "cs": "doplatek",
+      "en": "co-payment",
+      "uk": "доплата",
+      "ru": "доплата",
+      "pl": "dopłata"
+    },
+    {
+      "id": "sore-throat",
+      "cs": "bolest v krku",
+      "en": "sore throat",
+      "uk": "біль у горлі",
+      "ru": "боль в горле",
+      "pl": "ból gardła"
+    },
+    {
+      "id": "blocked-nose",
+      "cs": "ucpaný nos",
+      "en": "blocked nose",
+      "uk": "закладений ніс",
+      "ru": "заложенный нос",
+      "pl": "zatkany nos"
+    },
+    {
+      "id": "heartburn",
+      "cs": "pálení žáhy",
+      "en": "heartburn",
+      "uk": "печія",
+      "ru": "изжога",
+      "pl": "zgaga"
+    },
+    {
+      "id": "migraine",
+      "cs": "migréna",
+      "en": "migraine",
+      "uk": "мігрень",
+      "ru": "мигрень",
+      "pl": "migrena"
+    },
+    {
+      "id": "heatstroke",
+      "cs": "úpal",
+      "en": "heatstroke",
+      "uk": "тепловий удар",
+      "ru": "тепловой удар",
+      "pl": "udar cieplny"
+    },
+    {
+      "id": "sunburn",
+      "cs": "spálení od slunce",
+      "en": "sunburn",
+      "uk": "сонячний опік",
+      "ru": "солнечный ожог",
+      "pl": "oparzenie słoneczne"
+    },
+    {
+      "id": "sprained-ankle",
+      "cs": "vymknutý kotník",
+      "en": "sprained ankle",
+      "uk": "вивих щиколотки",
+      "ru": "вывих лодыжки",
+      "pl": "skręcona kostka"
+    },
+    {
+      "id": "concussion",
+      "cs": "otřes mozku",
+      "en": "concussion",
+      "uk": "струс мозку",
+      "ru": "сотрясение мозга",
+      "pl": "wstrząśnienie mózgu"
+    },
+    {
+      "id": "sting",
+      "cs": "bodnutí",
+      "en": "sting",
+      "uk": "укус комахи",
+      "ru": "укус насекомого",
+      "pl": "użądlenie"
+    },
+    {
+      "id": "itching",
+      "cs": "svědění",
+      "en": "itching",
+      "uk": "свербіж",
+      "ru": "зуд",
+      "pl": "swędzenie"
+    },
+    {
+      "id": "swelling",
+      "cs": "otok",
+      "en": "swelling",
+      "uk": "набряк",
+      "ru": "отёк",
+      "pl": "obrzęk"
+    },
+    {
+      "id": "inflammation",
+      "cs": "zánět",
+      "en": "inflammation",
+      "uk": "запалення",
+      "ru": "воспаление",
+      "pl": "zapalenie"
+    },
+    {
+      "id": "infection",
+      "cs": "infekce",
+      "en": "infection",
+      "uk": "інфекція",
+      "ru": "инфекция",
+      "pl": "infekcja"
+    },
+    {
+      "id": "dehydration",
+      "cs": "dehydratace",
+      "en": "dehydration",
+      "uk": "зневоднення",
+      "ru": "обезвоживание",
+      "pl": "odwodnienie"
+    },
+    {
+      "id": "nosebleed",
+      "cs": "krvácení z nosu",
+      "en": "nosebleed",
+      "uk": "кровотеча з носа",
+      "ru": "кровотечение из носа",
+      "pl": "krwotok z nosa"
     }
   ]
 }

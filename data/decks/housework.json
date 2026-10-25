@@ -1,6 +1,6 @@
 {
   "id": "housework",
-  "order": 41,
+  "order": 113,
   "level": "A2",
   "icon": "broom",
   "title": {
@@ -392,6 +392,182 @@
       "uk": "шити",
       "ru": "шить",
       "pl": "szyć"
+    },
+    {
+      "id": "duster",
+      "cs": "prachovka",
+      "en": "duster",
+      "uk": "ганчірка для пилу",
+      "ru": "тряпка для пыли",
+      "pl": "ściereczka do kurzu"
+    },
+    {
+      "id": "clothes-peg",
+      "cs": "kolíček na prádlo",
+      "en": "clothes peg",
+      "uk": "прищіпка",
+      "ru": "прищепка",
+      "pl": "spinacz do bielizny"
+    },
+    {
+      "id": "drying-rack",
+      "cs": "sušák na prádlo",
+      "en": "drying rack",
+      "uk": "сушарка для білизни",
+      "ru": "сушилка для белья",
+      "pl": "suszarka na pranie"
+    },
+    {
+      "id": "laundry-basket",
+      "cs": "koš na prádlo",
+      "en": "laundry basket",
+      "uk": "кошик для білизни",
+      "ru": "корзина для белья",
+      "pl": "kosz na pranie"
+    },
+    {
+      "id": "fabric-softener",
+      "cs": "aviváž",
+      "en": "fabric softener",
+      "uk": "ополіскувач",
+      "ru": "кондиционер для белья",
+      "pl": "płyn do płukania"
+    },
+    {
+      "id": "bleach",
+      "cs": "bělidlo",
+      "en": "bleach",
+      "uk": "відбілювач",
+      "ru": "отбеливатель",
+      "pl": "wybielacz"
+    },
+    {
+      "id": "rubber-gloves",
+      "cs": "gumové rukavice",
+      "en": "rubber gloves",
+      "uk": "гумові рукавички",
+      "ru": "резиновые перчатки",
+      "pl": "gumowe rękawiczki"
+    },
+    {
+      "id": "cleaning-product",
+      "cs": "čisticí prostředek",
+      "en": "cleaning product",
+      "uk": "мийний засіб",
+      "ru": "чистящее средство",
+      "pl": "środek czyszczący"
+    },
+    {
+      "id": "stain",
+      "cs": "skvrna",
+      "en": "stain",
+      "uk": "пляма",
+      "ru": "пятно",
+      "pl": "plama"
+    },
+    {
+      "id": "scrub",
+      "cs": "drhnout",
+      "en": "to scrub",
+      "uk": "терти щіткою",
+      "ru": "тереть щёткой",
+      "pl": "szorować"
+    },
+    {
+      "id": "wring-out",
+      "cs": "vyždímat",
+      "en": "to wring out",
+      "uk": "викрутити",
+      "ru": "отжать",
+      "pl": "wykręcić"
+    },
+    {
+      "id": "air-a-room",
+      "cs": "vyvětrat",
+      "en": "to air (a room)",
+      "uk": "провітрити",
+      "ru": "проветрить",
+      "pl": "przewietrzyć"
+    },
+    {
+      "id": "lay-the-table",
+      "cs": "prostřít stůl",
+      "en": "to lay the table",
+      "uk": "накрити на стіл",
+      "ru": "накрыть на стол",
+      "pl": "nakryć do stołu"
+    },
+    {
+      "id": "clear-the-table",
+      "cs": "sklidit ze stolu",
+      "en": "to clear the table",
+      "uk": "прибрати зі столу",
+      "ru": "убрать со стола",
+      "pl": "sprzątnąć ze stołu"
+    },
+    {
+      "id": "hang-up",
+      "cs": "pověsit",
+      "en": "to hang (up)",
+      "uk": "повісити",
+      "ru": "повесить",
+      "pl": "powiesić"
+    },
+    {
+      "id": "dry",
+      "cs": "uschnout",
+      "en": "to dry",
+      "uk": "висохнути",
+      "ru": "высохнуть",
+      "pl": "wyschnąć"
+    },
+    {
+      "id": "mend",
+      "cs": "zašít",
+      "en": "to mend",
+      "uk": "зашити",
+      "ru": "зашить",
+      "pl": "zaszyć"
+    },
+    {
+      "id": "household-chores",
+      "cs": "domácí práce",
+      "en": "household chores",
+      "uk": "хатні справи",
+      "ru": "домашние дела",
+      "pl": "prace domowe"
+    },
+    {
+      "id": "tidiness",
+      "cs": "pořádek",
+      "en": "tidiness",
+      "uk": "порядок",
+      "ru": "порядок",
+      "pl": "porządek"
+    },
+    {
+      "id": "mess",
+      "cs": "nepořádek",
+      "en": "mess",
+      "uk": "безлад",
+      "ru": "беспорядок",
+      "pl": "bałagan"
+    },
+    {
+      "id": "change-the-bedding",
+      "cs": "převléct postel",
+      "en": "to change the bedding",
+      "uk": "змінити постільну білизну",
+      "ru": "сменить постельное бельё",
+      "pl": "zmienić pościel"
+    },
+    {
+      "id": "clothesline",
+      "cs": "prádlová šňůra",
+      "en": "clothesline",
+      "uk": "мотузка для білизни",
+      "ru": "бельевая верёвка",
+      "pl": "sznur do bielizny"
     }
   ]
 }

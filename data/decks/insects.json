@@ -1,6 +1,6 @@
 {
   "id": "insects",
-  "order": 48,
+  "order": 120,
   "level": "A2",
   "icon": "bug",
   "title": {
@@ -392,6 +392,286 @@
       "uk": "скорпіон",
       "ru": "скорпион",
       "pl": "skorpion"
+    },
+    {
+      "id": "chaffinch",
+      "cs": "pěnkava",
+      "en": "chaffinch",
+      "uk": "зяблик",
+      "ru": "зяблик",
+      "pl": "zięba"
+    },
+    {
+      "id": "thrush",
+      "cs": "drozd",
+      "en": "thrush",
+      "uk": "дрізд",
+      "ru": "дрозд",
+      "pl": "drozd"
+    },
+    {
+      "id": "starling",
+      "cs": "špaček",
+      "en": "starling",
+      "uk": "шпак",
+      "ru": "скворец",
+      "pl": "szpak"
+    },
+    {
+      "id": "robin",
+      "cs": "červenka",
+      "en": "robin",
+      "uk": "вільшанка",
+      "ru": "малиновка",
+      "pl": "rudzik"
+    },
+    {
+      "id": "bullfinch",
+      "cs": "hýl",
+      "en": "bullfinch",
+      "uk": "снігур",
+      "ru": "снегирь",
+      "pl": "gil"
+    },
+    {
+      "id": "goldfinch",
+      "cs": "stehlík",
+      "en": "goldfinch",
+      "uk": "щиглик",
+      "ru": "щегол",
+      "pl": "szczygieł"
+    },
+    {
+      "id": "lark",
+      "cs": "skřivan",
+      "en": "lark",
+      "uk": "жайворонок",
+      "ru": "жаворонок",
+      "pl": "skowronek"
+    },
+    {
+      "id": "heron",
+      "cs": "volavka",
+      "en": "heron",
+      "uk": "чапля",
+      "ru": "цапля",
+      "pl": "czapla"
+    },
+    {
+      "id": "pelican",
+      "cs": "pelikán",
+      "en": "pelican",
+      "uk": "пелікан",
+      "ru": "пеликан",
+      "pl": "pelikan"
+    },
+    {
+      "id": "falcon",
+      "cs": "sokol",
+      "en": "falcon",
+      "uk": "сокіл",
+      "ru": "сокол",
+      "pl": "sokół"
+    },
+    {
+      "id": "buzzard",
+      "cs": "káně",
+      "en": "buzzard",
+      "uk": "канюк",
+      "ru": "канюк",
+      "pl": "myszołów"
+    },
+    {
+      "id": "vulture",
+      "cs": "sup",
+      "en": "vulture",
+      "uk": "гриф",
+      "ru": "гриф",
+      "pl": "sęp"
+    },
+    {
+      "id": "eagle-owl",
+      "cs": "výr",
+      "en": "eagle owl",
+      "uk": "пугач",
+      "ru": "филин",
+      "pl": "puchacz"
+    },
+    {
+      "id": "pheasant",
+      "cs": "bažant",
+      "en": "pheasant",
+      "uk": "фазан",
+      "ru": "фазан",
+      "pl": "bażant"
+    },
+    {
+      "id": "partridge",
+      "cs": "koroptev",
+      "en": "partridge",
+      "uk": "куріпка",
+      "ru": "куропатка",
+      "pl": "kuropatwa"
+    },
+    {
+      "id": "quail",
+      "cs": "křepelka",
+      "en": "quail",
+      "uk": "перепілка",
+      "ru": "перепел",
+      "pl": "przepiórka"
+    },
+    {
+      "id": "peacock",
+      "cs": "páv",
+      "en": "peacock",
+      "uk": "павич",
+      "ru": "павлин",
+      "pl": "paw"
+    },
+    {
+      "id": "hummingbird",
+      "cs": "kolibřík",
+      "en": "hummingbird",
+      "uk": "колібрі",
+      "ru": "колибри",
+      "pl": "koliber"
+    },
+    {
+      "id": "crane-bird",
+      "cs": "jeřáb",
+      "en": "crane (bird)",
+      "uk": "журавель",
+      "ru": "журавль",
+      "pl": "żuraw"
+    },
+    {
+      "id": "kingfisher",
+      "cs": "ledňáček",
+      "en": "kingfisher",
+      "uk": "рибалочка",
+      "ru": "зимородок",
+      "pl": "zimorodek"
+    },
+    {
+      "id": "hoopoe",
+      "cs": "dudek",
+      "en": "hoopoe",
+      "uk": "одуд",
+      "ru": "удод",
+      "pl": "dudek"
+    },
+    {
+      "id": "swift-bird",
+      "cs": "rorýs",
+      "en": "swift (bird)",
+      "uk": "серпокрилець",
+      "ru": "стриж",
+      "pl": "jerzyk"
+    },
+    {
+      "id": "praying-mantis",
+      "cs": "kudlanka",
+      "en": "praying mantis",
+      "uk": "богомол",
+      "ru": "богомол",
+      "pl": "modliszka"
+    },
+    {
+      "id": "cricket-insect",
+      "cs": "cvrček",
+      "en": "cricket (insect)",
+      "uk": "цвіркун",
+      "ru": "сверчок",
+      "pl": "świerszcz"
+    },
+    {
+      "id": "locust",
+      "cs": "saranče",
+      "en": "locust",
+      "uk": "сарана",
+      "ru": "саранча",
+      "pl": "szarańcza"
+    },
+    {
+      "id": "aphid",
+      "cs": "mšice",
+      "en": "aphid",
+      "uk": "попелиця",
+      "ru": "тля",
+      "pl": "mszyca"
+    },
+    {
+      "id": "termite",
+      "cs": "termit",
+      "en": "termite",
+      "uk": "терміт",
+      "ru": "термит",
+      "pl": "termit"
+    },
+    {
+      "id": "beehive",
+      "cs": "úl",
+      "en": "beehive",
+      "uk": "вулик",
+      "ru": "улей",
+      "pl": "ul"
+    },
+    {
+      "id": "swarm",
+      "cs": "roj",
+      "en": "swarm",
+      "uk": "рій",
+      "ru": "рой",
+      "pl": "rój"
+    },
+    {
+      "id": "larva",
+      "cs": "larva",
+      "en": "larva",
+      "uk": "личинка",
+      "ru": "личинка",
+      "pl": "larwa"
+    },
+    {
+      "id": "antennae",
+      "cs": "tykadla",
+      "en": "antennae",
+      "uk": "вусики",
+      "ru": "усики",
+      "pl": "czułki"
+    },
+    {
+      "id": "stinger",
+      "cs": "žihadlo",
+      "en": "stinger",
+      "uk": "жало",
+      "ru": "жало",
+      "pl": "żądło"
+    },
+    {
+      "id": "centipede",
+      "cs": "stonožka",
+      "en": "centipede",
+      "uk": "багатоніжка",
+      "ru": "сороконожка",
+      "pl": "stonoga"
+    },
+    {
+      "id": "slug",
+      "cs": "slimák",
+      "en": "slug",
+      "uk": "слимак",
+      "ru": "слизень",
+      "pl": "ślimak nagi"
+    },
+    {
+      "id": "louse",
+      "cs": "veš",
+      "en": "louse",
+      "uk": "воша",
+      "ru": "вошь",
+      "pl": "wesz"
     }
   ]
 }

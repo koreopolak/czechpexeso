@@ -408,6 +408,230 @@
       "uk": "панельний будинок",
       "ru": "панельный дом",
       "pl": "blok"
+    },
+    {
+      "id": "windowsill",
+      "cs": "parapet",
+      "en": "windowsill",
+      "uk": "підвіконня",
+      "ru": "подоконник",
+      "pl": "parapet"
+    },
+    {
+      "id": "shutter",
+      "cs": "okenice",
+      "en": "shutter",
+      "uk": "віконниця",
+      "ru": "ставня",
+      "pl": "okiennica"
+    },
+    {
+      "id": "door-handle",
+      "cs": "klika",
+      "en": "door handle",
+      "uk": "дверна ручка",
+      "ru": "дверная ручка",
+      "pl": "klamka"
+    },
+    {
+      "id": "threshold",
+      "cs": "práh",
+      "en": "threshold",
+      "uk": "поріг",
+      "ru": "порог",
+      "pl": "próg"
+    },
+    {
+      "id": "railing",
+      "cs": "zábradlí",
+      "en": "railing",
+      "uk": "поруччя",
+      "ru": "перила",
+      "pl": "poręcz"
+    },
+    {
+      "id": "staircase",
+      "cs": "schodiště",
+      "en": "staircase",
+      "uk": "сходова клітка",
+      "ru": "лестничная клетка",
+      "pl": "klatka schodowa"
+    },
+    {
+      "id": "tile",
+      "cs": "dlaždice",
+      "en": "tile",
+      "uk": "плитка",
+      "ru": "плитка",
+      "pl": "płytka"
+    },
+    {
+      "id": "parquet",
+      "cs": "parkety",
+      "en": "parquet",
+      "uk": "паркет",
+      "ru": "паркет",
+      "pl": "parkiet"
+    },
+    {
+      "id": "wallpaper",
+      "cs": "tapeta",
+      "en": "wallpaper",
+      "uk": "шпалери",
+      "ru": "обои",
+      "pl": "tapeta"
+    },
+    {
+      "id": "plaster",
+      "cs": "omítka",
+      "en": "plaster",
+      "uk": "штукатурка",
+      "ru": "штукатурка",
+      "pl": "tynk"
+    },
+    {
+      "id": "gutter",
+      "cs": "okap",
+      "en": "gutter",
+      "uk": "ринва",
+      "ru": "водосточный жёлоб",
+      "pl": "rynna"
+    },
+    {
+      "id": "aerial",
+      "cs": "anténa",
+      "en": "aerial",
+      "uk": "антена",
+      "ru": "антенна",
+      "pl": "antena"
+    },
+    {
+      "id": "boiler",
+      "cs": "kotel",
+      "en": "boiler",
+      "uk": "котел",
+      "ru": "котёл",
+      "pl": "kocioł"
+    },
+    {
+      "id": "fireplace",
+      "cs": "krb",
+      "en": "fireplace",
+      "uk": "камін",
+      "ru": "камин",
+      "pl": "kominek"
+    },
+    {
+      "id": "stove-heater",
+      "cs": "kamna",
+      "en": "stove (heater)",
+      "uk": "піч",
+      "ru": "печь",
+      "pl": "piec"
+    },
+    {
+      "id": "garden-shed",
+      "cs": "zahradní domek",
+      "en": "garden shed",
+      "uk": "садовий будиночок",
+      "ru": "садовый домик",
+      "pl": "domek ogrodowy"
+    },
+    {
+      "id": "workshop",
+      "cs": "dílna",
+      "en": "workshop",
+      "uk": "майстерня",
+      "ru": "мастерская",
+      "pl": "warsztat"
+    },
+    {
+      "id": "pantry",
+      "cs": "spíž",
+      "en": "pantry",
+      "uk": "комора",
+      "ru": "кладовая",
+      "pl": "spiżarnia"
+    },
+    {
+      "id": "cloakroom",
+      "cs": "šatna",
+      "en": "cloakroom",
+      "uk": "гардероб",
+      "ru": "гардероб",
+      "pl": "szatnia"
+    },
+    {
+      "id": "study-room",
+      "cs": "pracovna",
+      "en": "study (room)",
+      "uk": "кабінет",
+      "ru": "кабинет",
+      "pl": "gabinet"
+    },
+    {
+      "id": "porch",
+      "cs": "veranda",
+      "en": "porch",
+      "uk": "веранда",
+      "ru": "веранда",
+      "pl": "weranda"
+    },
+    {
+      "id": "property-real-estate",
+      "cs": "nemovitost",
+      "en": "property (real estate)",
+      "uk": "нерухомість",
+      "ru": "недвижимость",
+      "pl": "nieruchomość"
+    },
+    {
+      "id": "villa",
+      "cs": "vila",
+      "en": "villa",
+      "uk": "вілла",
+      "ru": "вилла",
+      "pl": "willa"
+    },
+    {
+      "id": "terraced-house",
+      "cs": "řadový dům",
+      "en": "terraced house",
+      "uk": "таунхаус",
+      "ru": "таунхаус",
+      "pl": "szeregowiec"
+    },
+    {
+      "id": "apartment-building",
+      "cs": "činžovní dům",
+      "en": "apartment building",
+      "uk": "багатоквартирний будинок",
+      "ru": "многоквартирный дом",
+      "pl": "kamienica"
+    },
+    {
+      "id": "skylight",
+      "cs": "střešní okno",
+      "en": "skylight",
+      "uk": "мансардне вікно",
+      "ru": "мансардное окно",
+      "pl": "okno dachowe"
+    },
+    {
+      "id": "fuses",
+      "cs": "pojistky",
+      "en": "fuses",
+      "uk": "запобіжники",
+      "ru": "предохранители",
+      "pl": "bezpieczniki"
+    },
+    {
+      "id": "smoke-detector",
+      "cs": "kouřový hlásič",
+      "en": "smoke detector",
+      "uk": "датчик диму",
+      "ru": "датчик дыма",
+      "pl": "czujnik dymu"
     }
   ]
 }

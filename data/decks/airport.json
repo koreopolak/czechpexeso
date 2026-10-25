@@ -1,0 +1,261 @@
+{
+  "id": "airport",
+  "order": 133,
+  "level": "A2",
+  "icon": "plane",
+  "title": {
+    "cs": "Letiště a létání",
+    "en": "Airport & Flying",
+    "uk": "Аеропорт і переліт",
+    "ru": "Аэропорт и перелёт",
+    "pl": "Lotnisko i latanie"
+  },
+  "description": {
+    "en": "From check-in to landing.",
+    "uk": "Від реєстрації до посадки.",
+    "ru": "От регистрации до посадки.",
+    "pl": "Od odprawy do lądowania."
+  },
+  "words": [
+    {
+      "id": "hand-luggage",
+      "cs": "příruční zavazadlo",
+      "en": "hand luggage",
+      "uk": "ручна поклажа",
+      "ru": "ручная кладь",
+      "pl": "bagaż podręczny"
+    },
+    {
+      "id": "checked-baggage",
+      "cs": "odbavené zavazadlo",
+      "en": "checked baggage",
+      "uk": "зареєстрований багаж",
+      "ru": "сдаваемый багаж",
+      "pl": "bagaż rejestrowany"
+    },
+    {
+      "id": "excess-baggage",
+      "cs": "nadváha zavazadel",
+      "en": "excess baggage",
+      "uk": "перевага багажу",
+      "ru": "перевес багажа",
+      "pl": "nadbagaż"
+    },
+    {
+      "id": "baggage-claim",
+      "cs": "výdej zavazadel",
+      "en": "baggage claim",
+      "uk": "видача багажу",
+      "ru": "выдача багажа",
+      "pl": "odbiór bagażu"
+    },
+    {
+      "id": "baggage-carousel",
+      "cs": "pás na zavazadla",
+      "en": "baggage carousel",
+      "uk": "багажна стрічка",
+      "ru": "багажная лента",
+      "pl": "taśma bagażowa"
+    },
+    {
+      "id": "lost-luggage",
+      "cs": "ztracená zavazadla",
+      "en": "lost luggage",
+      "uk": "загублений багаж",
+      "ru": "потерянный багаж",
+      "pl": "zagubiony bagaż"
+    },
+    {
+      "id": "security-check",
+      "cs": "bezpečnostní kontrola",
+      "en": "security check",
+      "uk": "контроль безпеки",
+      "ru": "досмотр",
+      "pl": "kontrola bezpieczeństwa"
+    },
+    {
+      "id": "passport-control",
+      "cs": "pasová kontrola",
+      "en": "passport control",
+      "uk": "паспортний контроль",
+      "ru": "паспортный контроль",
+      "pl": "kontrola paszportowa"
+    },
+    {
+      "id": "metal-detector",
+      "cs": "detektor kovů",
+      "en": "metal detector",
+      "uk": "металошукач",
+      "ru": "металлоискатель",
+      "pl": "wykrywacz metali"
+    },
+    {
+      "id": "gate",
+      "cs": "východ k letadlu",
+      "en": "gate",
+      "uk": "вихід на посадку",
+      "ru": "выход на посадку",
+      "pl": "bramka"
+    },
+    {
+      "id": "boarding",
+      "cs": "nástup do letadla",
+      "en": "boarding",
+      "uk": "посадка",
+      "ru": "посадка",
+      "pl": "wejście na pokład"
+    },
+    {
+      "id": "transit",
+      "cs": "tranzit",
+      "en": "transit",
+      "uk": "транзит",
+      "ru": "транзит",
+      "pl": "tranzyt"
+    },
+    {
+      "id": "window-seat",
+      "cs": "místo u okna",
+      "en": "window seat",
+      "uk": "місце біля вікна",
+      "ru": "место у окна",
+      "pl": "miejsce przy oknie"
+    },
+    {
+      "id": "aisle-seat",
+      "cs": "místo u uličky",
+      "en": "aisle seat",
+      "uk": "місце біля проходу",
+      "ru": "место у прохода",
+      "pl": "miejsce przy przejściu"
+    },
+    {
+      "id": "turbulence",
+      "cs": "turbulence",
+      "en": "turbulence",
+      "uk": "турбулентність",
+      "ru": "турбулентность",
+      "pl": "turbulencje"
+    },
+    {
+      "id": "crew",
+      "cs": "posádka",
+      "en": "crew",
+      "uk": "екіпаж",
+      "ru": "экипаж",
+      "pl": "załoga"
+    },
+    {
+      "id": "steward",
+      "cs": "stevard",
+      "en": "steward",
+      "uk": "стюард",
+      "ru": "стюард",
+      "pl": "steward"
+    },
+    {
+      "id": "cockpit",
+      "cs": "kokpit",
+      "en": "cockpit",
+      "uk": "кабіна пілота",
+      "ru": "кабина пилота",
+      "pl": "kokpit"
+    },
+    {
+      "id": "runway",
+      "cs": "přistávací dráha",
+      "en": "runway",
+      "uk": "злітно-посадкова смуга",
+      "ru": "взлётно-посадочная полоса",
+      "pl": "pas startowy"
+    },
+    {
+      "id": "control-tower",
+      "cs": "řídicí věž",
+      "en": "control tower",
+      "uk": "диспетчерська вежа",
+      "ru": "диспетчерская вышка",
+      "pl": "wieża kontrolna"
+    },
+    {
+      "id": "airline",
+      "cs": "letecká společnost",
+      "en": "airline",
+      "uk": "авіакомпанія",
+      "ru": "авиакомпания",
+      "pl": "linia lotnicza"
+    },
+    {
+      "id": "low-cost-airline",
+      "cs": "nízkonákladová aerolinka",
+      "en": "low-cost airline",
+      "uk": "лоукостер",
+      "ru": "лоукостер",
+      "pl": "tania linia lotnicza"
+    },
+    {
+      "id": "direct-flight",
+      "cs": "přímý let",
+      "en": "direct flight",
+      "uk": "прямий переліт",
+      "ru": "прямой перелёт",
+      "pl": "lot bezpośredni"
+    },
+    {
+      "id": "connecting-flight",
+      "cs": "let s přestupem",
+      "en": "connecting flight",
+      "uk": "рейс із пересадкою",
+      "ru": "рейс с пересадкой",
+      "pl": "lot z przesiadką"
+    },
+    {
+      "id": "cancelled-flight",
+      "cs": "zrušený let",
+      "en": "cancelled flight",
+      "uk": "скасований рейс",
+      "ru": "отменённый рейс",
+      "pl": "odwołany lot"
+    },
+    {
+      "id": "departures-board",
+      "cs": "odletová tabule",
+      "en": "departures board",
+      "uk": "табло вильотів",
+      "ru": "табло вылетов",
+      "pl": "tablica odlotów"
+    },
+    {
+      "id": "duty-free-shop",
+      "cs": "bezcelní obchod",
+      "en": "duty-free shop",
+      "uk": "дьюті-фрі",
+      "ru": "дьюти-фри",
+      "pl": "sklep wolnocłowy"
+    },
+    {
+      "id": "jet-lag",
+      "cs": "pásmová nemoc",
+      "en": "jet lag",
+      "uk": "джетлаг",
+      "ru": "джетлаг",
+      "pl": "jet lag"
+    },
+    {
+      "id": "propeller",
+      "cs": "vrtule",
+      "en": "propeller",
+      "uk": "пропелер",
+      "ru": "пропеллер",
+      "pl": "śmigło"
+    },
+    {
+      "id": "fasten-your-seatbelt",
+      "cs": "připoutat se",
+      "en": "to fasten your seatbelt",
+      "uk": "пристебнутися",
+      "ru": "пристегнуться",
+      "pl": "zapiąć pasy"
+    }
+  ]
+}

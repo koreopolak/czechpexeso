@@ -1,6 +1,6 @@
 {
   "id": "media",
-  "order": 65,
+  "order": 206,
   "level": "B1",
   "icon": "news",
   "title": {
@@ -352,6 +352,230 @@
       "uk": "публікувати",
       "ru": "публиковать",
       "pl": "publikować"
+    },
+    {
+      "id": "editor-in-chief",
+      "cs": "šéfredaktor",
+      "en": "editor-in-chief",
+      "uk": "головний редактор",
+      "ru": "главный редактор",
+      "pl": "redaktor naczelny"
+    },
+    {
+      "id": "correspondent",
+      "cs": "zpravodaj",
+      "en": "correspondent",
+      "uk": "кореспондент",
+      "ru": "корреспондент",
+      "pl": "korespondent"
+    },
+    {
+      "id": "reporter",
+      "cs": "reportér",
+      "en": "reporter",
+      "uk": "репортер",
+      "ru": "репортёр",
+      "pl": "reporter"
+    },
+    {
+      "id": "camera-operator",
+      "cs": "kameraman",
+      "en": "camera operator",
+      "uk": "оператор",
+      "ru": "оператор",
+      "pl": "operator kamery"
+    },
+    {
+      "id": "screenwriter",
+      "cs": "scenárista",
+      "en": "screenwriter",
+      "uk": "сценарист",
+      "ru": "сценарист",
+      "pl": "scenarzysta"
+    },
+    {
+      "id": "producer",
+      "cs": "producent",
+      "en": "producer",
+      "uk": "продюсер",
+      "ru": "продюсер",
+      "pl": "producent"
+    },
+    {
+      "id": "premiere",
+      "cs": "premiéra",
+      "en": "premiere",
+      "uk": "прем’єра",
+      "ru": "премьера",
+      "pl": "premiera"
+    },
+    {
+      "id": "episode",
+      "cs": "epizoda",
+      "en": "episode",
+      "uk": "епізод",
+      "ru": "эпизод",
+      "pl": "odcinek"
+    },
+    {
+      "id": "subtitles",
+      "cs": "titulky",
+      "en": "subtitles",
+      "uk": "субтитри",
+      "ru": "субтитры",
+      "pl": "napisy"
+    },
+    {
+      "id": "dubbing",
+      "cs": "dabing",
+      "en": "dubbing",
+      "uk": "дубляж",
+      "ru": "дубляж",
+      "pl": "dubbing"
+    },
+    {
+      "id": "trailer",
+      "cs": "upoutávka",
+      "en": "trailer",
+      "uk": "трейлер",
+      "ru": "трейлер",
+      "pl": "zwiastun"
+    },
+    {
+      "id": "ratings-viewership",
+      "cs": "sledovanost",
+      "en": "ratings (viewership)",
+      "uk": "рейтинг переглядів",
+      "ru": "рейтинг просмотров",
+      "pl": "oglądalność"
+    },
+    {
+      "id": "news-website",
+      "cs": "zpravodajský server",
+      "en": "news website",
+      "uk": "новинний сайт",
+      "ru": "новостной сайт",
+      "pl": "portal informacyjny"
+    },
+    {
+      "id": "newspaper-section",
+      "cs": "rubrika",
+      "en": "(newspaper) section",
+      "uk": "рубрика",
+      "ru": "рубрика",
+      "pl": "rubryka"
+    },
+    {
+      "id": "editorial",
+      "cs": "úvodník",
+      "en": "editorial",
+      "uk": "передовиця",
+      "ru": "передовица",
+      "pl": "artykuł wstępny"
+    },
+    {
+      "id": "daily-newspaper",
+      "cs": "deník",
+      "en": "daily newspaper",
+      "uk": "щоденна газета",
+      "ru": "ежедневная газета",
+      "pl": "dziennik"
+    },
+    {
+      "id": "weekly-magazine",
+      "cs": "týdeník",
+      "en": "weekly (magazine)",
+      "uk": "тижневик",
+      "ru": "еженедельник",
+      "pl": "tygodnik"
+    },
+    {
+      "id": "monthly-magazine",
+      "cs": "měsíčník",
+      "en": "monthly (magazine)",
+      "uk": "щомісячник",
+      "ru": "ежемесячный журнал",
+      "pl": "miesięcznik"
+    },
+    {
+      "id": "publisher",
+      "cs": "vydavatel",
+      "en": "publisher",
+      "uk": "видавець",
+      "ru": "издатель",
+      "pl": "wydawca"
+    },
+    {
+      "id": "press-release",
+      "cs": "tisková zpráva",
+      "en": "press release",
+      "uk": "прес-реліз",
+      "ru": "пресс-релиз",
+      "pl": "komunikat prasowy"
+    },
+    {
+      "id": "spokesperson",
+      "cs": "mluvčí",
+      "en": "spokesperson",
+      "uk": "речник",
+      "ru": "пресс-секретарь",
+      "pl": "rzecznik"
+    },
+    {
+      "id": "influencer",
+      "cs": "influencer",
+      "en": "influencer",
+      "uk": "інфлюенсер",
+      "ru": "инфлюенсер",
+      "pl": "influencer"
+    },
+    {
+      "id": "followers",
+      "cs": "sledující",
+      "en": "followers",
+      "uk": "підписники",
+      "ru": "подписчики",
+      "pl": "obserwujący"
+    },
+    {
+      "id": "disinformation",
+      "cs": "dezinformace",
+      "en": "disinformation",
+      "uk": "дезінформація",
+      "ru": "дезинформация",
+      "pl": "dezinformacja"
+    },
+    {
+      "id": "fact-checking",
+      "cs": "ověřování faktů",
+      "en": "fact-checking",
+      "uk": "перевірка фактів",
+      "ru": "проверка фактов",
+      "pl": "weryfikacja faktów"
+    },
+    {
+      "id": "biased",
+      "cs": "zaujatý",
+      "en": "biased",
+      "uk": "упереджений",
+      "ru": "предвзятый",
+      "pl": "stronniczy"
+    },
+    {
+      "id": "objective",
+      "cs": "objektivní",
+      "en": "objective",
+      "uk": "об’єктивний",
+      "ru": "объективный",
+      "pl": "obiektywny"
+    },
+    {
+      "id": "poll",
+      "cs": "anketa",
+      "en": "poll",
+      "uk": "опитування",
+      "ru": "опрос",
+      "pl": "ankieta"
     }
   ]
 }

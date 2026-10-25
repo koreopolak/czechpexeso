@@ -1,0 +1,445 @@
+{
+  "id": "nouns-b2",
+  "order": 314,
+  "level": "B2",
+  "icon": "bulb",
+  "title": {
+    "cs": "Pokročilá podstatná jména",
+    "en": "Advanced Nouns",
+    "uk": "Складніші іменники",
+    "ru": "Сложные существительные",
+    "pl": "Zaawansowane rzeczowniki"
+  },
+  "description": {
+    "en": "Nouns for ideas, arguments and plans.",
+    "uk": "Іменники для ідей, аргументів і планів.",
+    "ru": "Существительные для идей, аргументов и планов.",
+    "pl": "Rzeczowniki do idei, argumentów i planów."
+  },
+  "words": [
+    {
+      "id": "aspect",
+      "cs": "aspekt",
+      "en": "aspect",
+      "uk": "аспект",
+      "ru": "аспект",
+      "pl": "aspekt"
+    },
+    {
+      "id": "point-of-view",
+      "cs": "hledisko",
+      "en": "point of view",
+      "uk": "точка зору",
+      "ru": "точка зрения",
+      "pl": "punkt widzenia"
+    },
+    {
+      "id": "context",
+      "cs": "kontext",
+      "en": "context",
+      "uk": "контекст",
+      "ru": "контекст",
+      "pl": "kontekst"
+    },
+    {
+      "id": "connection-link",
+      "cs": "souvislost",
+      "en": "connection (link)",
+      "uk": "зв’язок",
+      "ru": "связь",
+      "pl": "związek"
+    },
+    {
+      "id": "implication",
+      "cs": "důsledek",
+      "en": "implication",
+      "uk": "наслідок",
+      "ru": "следствие",
+      "pl": "konsekwencja"
+    },
+    {
+      "id": "assumption",
+      "cs": "předpoklad",
+      "en": "assumption",
+      "uk": "припущення",
+      "ru": "предположение",
+      "pl": "założenie"
+    },
+    {
+      "id": "criterion",
+      "cs": "kritérium",
+      "en": "criterion",
+      "uk": "критерій",
+      "ru": "критерий",
+      "pl": "kryterium"
+    },
+    {
+      "id": "principle",
+      "cs": "princip",
+      "en": "principle",
+      "uk": "принцип",
+      "ru": "принцип",
+      "pl": "zasada"
+    },
+    {
+      "id": "concept",
+      "cs": "koncept",
+      "en": "concept",
+      "uk": "концепція",
+      "ru": "концепция",
+      "pl": "koncepcja"
+    },
+    {
+      "id": "notion",
+      "cs": "pojem",
+      "en": "notion",
+      "uk": "поняття",
+      "ru": "понятие",
+      "pl": "pojęcie"
+    },
+    {
+      "id": "definition",
+      "cs": "definice",
+      "en": "definition",
+      "uk": "визначення",
+      "ru": "определение",
+      "pl": "definicja"
+    },
+    {
+      "id": "structure",
+      "cs": "struktura",
+      "en": "structure",
+      "uk": "структура",
+      "ru": "структура",
+      "pl": "struktura"
+    },
+    {
+      "id": "system",
+      "cs": "systém",
+      "en": "system",
+      "uk": "система",
+      "ru": "система",
+      "pl": "system"
+    },
+    {
+      "id": "process",
+      "cs": "proces",
+      "en": "process",
+      "uk": "процес",
+      "ru": "процесс",
+      "pl": "proces"
+    },
+    {
+      "id": "mechanism",
+      "cs": "mechanismus",
+      "en": "mechanism",
+      "uk": "механізм",
+      "ru": "механизм",
+      "pl": "mechanizm"
+    },
+    {
+      "id": "factor",
+      "cs": "faktor",
+      "en": "factor",
+      "uk": "чинник",
+      "ru": "фактор",
+      "pl": "czynnik"
+    },
+    {
+      "id": "component",
+      "cs": "součást",
+      "en": "component",
+      "uk": "складова",
+      "ru": "составная часть",
+      "pl": "składnik"
+    },
+    {
+      "id": "framework",
+      "cs": "rámec",
+      "en": "framework",
+      "uk": "рамки",
+      "ru": "рамки",
+      "pl": "ramy"
+    },
+    {
+      "id": "strategy",
+      "cs": "strategie",
+      "en": "strategy",
+      "uk": "стратегія",
+      "ru": "стратегия",
+      "pl": "strategia"
+    },
+    {
+      "id": "tactic",
+      "cs": "taktika",
+      "en": "tactic",
+      "uk": "тактика",
+      "ru": "тактика",
+      "pl": "taktyka"
+    },
+    {
+      "id": "priority",
+      "cs": "priorita",
+      "en": "priority",
+      "uk": "пріоритет",
+      "ru": "приоритет",
+      "pl": "priorytet"
+    },
+    {
+      "id": "competence",
+      "cs": "kompetence",
+      "en": "competence",
+      "uk": "компетенція",
+      "ru": "компетенция",
+      "pl": "kompetencja"
+    },
+    {
+      "id": "capacity",
+      "cs": "kapacita",
+      "en": "capacity",
+      "uk": "потужність",
+      "ru": "мощность",
+      "pl": "pojemność"
+    },
+    {
+      "id": "potential",
+      "cs": "potenciál",
+      "en": "potential",
+      "uk": "потенціал",
+      "ru": "потенциал",
+      "pl": "potencjał"
+    },
+    {
+      "id": "means",
+      "cs": "prostředek",
+      "en": "means",
+      "uk": "засіб",
+      "ru": "средство",
+      "pl": "środek"
+    },
+    {
+      "id": "measure-action",
+      "cs": "opatření",
+      "en": "measure (action)",
+      "uk": "захід",
+      "ru": "мера",
+      "pl": "środek zaradczy"
+    },
+    {
+      "id": "initiative",
+      "cs": "iniciativa",
+      "en": "initiative",
+      "uk": "ініціатива",
+      "ru": "инициатива",
+      "pl": "inicjatywa"
+    },
+    {
+      "id": "intention",
+      "cs": "záměr",
+      "en": "intention",
+      "uk": "намір",
+      "ru": "намерение",
+      "pl": "zamiar"
+    },
+    {
+      "id": "purpose",
+      "cs": "účel",
+      "en": "purpose",
+      "uk": "призначення",
+      "ru": "назначение",
+      "pl": "cel"
+    },
+    {
+      "id": "motive",
+      "cs": "motiv",
+      "en": "motive",
+      "uk": "мотив",
+      "ru": "мотив",
+      "pl": "motyw"
+    },
+    {
+      "id": "stimulus",
+      "cs": "podnět",
+      "en": "stimulus",
+      "uk": "стимул",
+      "ru": "стимул",
+      "pl": "bodziec"
+    },
+    {
+      "id": "impact",
+      "cs": "dopad",
+      "en": "impact",
+      "uk": "вплив",
+      "ru": "воздействие",
+      "pl": "wpływ"
+    },
+    {
+      "id": "contribution-benefit",
+      "cs": "přínos",
+      "en": "contribution (benefit)",
+      "uk": "внесок",
+      "ru": "вклад",
+      "pl": "wkład"
+    },
+    {
+      "id": "challenge",
+      "cs": "výzva",
+      "en": "challenge",
+      "uk": "виклик",
+      "ru": "вызов",
+      "pl": "wyzwanie"
+    },
+    {
+      "id": "obstacle",
+      "cs": "překážka",
+      "en": "obstacle",
+      "uk": "перешкода",
+      "ru": "препятствие",
+      "pl": "przeszkoda"
+    },
+    {
+      "id": "limitation",
+      "cs": "omezení",
+      "en": "limitation",
+      "uk": "обмеження",
+      "ru": "ограничение",
+      "pl": "ograniczenie"
+    },
+    {
+      "id": "shortage",
+      "cs": "nedostatek",
+      "en": "shortage",
+      "uk": "нестача",
+      "ru": "нехватка",
+      "pl": "niedobór"
+    },
+    {
+      "id": "surplus",
+      "cs": "přebytek",
+      "en": "surplus",
+      "uk": "надлишок",
+      "ru": "избыток",
+      "pl": "nadwyżka"
+    },
+    {
+      "id": "tendency",
+      "cs": "tendence",
+      "en": "tendency",
+      "uk": "тенденція",
+      "ru": "тенденция",
+      "pl": "tendencja"
+    },
+    {
+      "id": "contradiction",
+      "cs": "rozpor",
+      "en": "contradiction",
+      "uk": "суперечність",
+      "ru": "противоречие",
+      "pl": "sprzeczność"
+    },
+    {
+      "id": "conflict",
+      "cs": "konflikt",
+      "en": "conflict",
+      "uk": "конфлікт",
+      "ru": "конфликт",
+      "pl": "konflikt"
+    },
+    {
+      "id": "consensus",
+      "cs": "shoda",
+      "en": "consensus",
+      "uk": "згода",
+      "ru": "согласие",
+      "pl": "zgoda"
+    },
+    {
+      "id": "argument",
+      "cs": "argument",
+      "en": "argument",
+      "uk": "аргумент",
+      "ru": "аргумент",
+      "pl": "argument"
+    },
+    {
+      "id": "claim",
+      "cs": "tvrzení",
+      "en": "claim",
+      "uk": "твердження",
+      "ru": "утверждение",
+      "pl": "twierdzenie"
+    },
+    {
+      "id": "objection",
+      "cs": "námitka",
+      "en": "objection",
+      "uk": "заперечення",
+      "ru": "возражение",
+      "pl": "zastrzeżenie"
+    },
+    {
+      "id": "reproach",
+      "cs": "výtka",
+      "en": "reproach",
+      "uk": "докір",
+      "ru": "упрёк",
+      "pl": "wyrzut"
+    },
+    {
+      "id": "criticism",
+      "cs": "kritika",
+      "en": "criticism",
+      "uk": "критика",
+      "ru": "критика",
+      "pl": "krytyka"
+    },
+    {
+      "id": "award",
+      "cs": "ocenění",
+      "en": "award",
+      "uk": "нагорода",
+      "ru": "награда",
+      "pl": "nagroda"
+    },
+    {
+      "id": "recognition",
+      "cs": "uznání",
+      "en": "recognition",
+      "uk": "визнання",
+      "ru": "признание",
+      "pl": "uznanie"
+    },
+    {
+      "id": "reputation",
+      "cs": "reputace",
+      "en": "reputation",
+      "uk": "репутація",
+      "ru": "репутация",
+      "pl": "reputacja"
+    },
+    {
+      "id": "prestige",
+      "cs": "prestiž",
+      "en": "prestige",
+      "uk": "престиж",
+      "ru": "престиж",
+      "pl": "prestiż"
+    },
+    {
+      "id": "authority",
+      "cs": "autorita",
+      "en": "authority",
+      "uk": "авторитет",
+      "ru": "авторитет",
+      "pl": "autorytet"
+    },
+    {
+      "id": "power",
+      "cs": "moc",
+      "en": "power",
+      "uk": "влада",
+      "ru": "власть",
+      "pl": "władza"
+    }
+  ]
+}

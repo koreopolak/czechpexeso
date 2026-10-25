@@ -1,0 +1,261 @@
+{
+  "id": "office",
+  "order": 134,
+  "level": "A2",
+  "icon": "briefcase",
+  "title": {
+    "cs": "Kancelář",
+    "en": "Office",
+    "uk": "Офіс",
+    "ru": "Офис",
+    "pl": "Biuro"
+  },
+  "description": {
+    "en": "Office supplies, meetings and paperwork.",
+    "uk": "Канцтовари, наради й документи.",
+    "ru": "Канцтовары, совещания и документы.",
+    "pl": "Artykuły biurowe, spotkania i papiery."
+  },
+  "words": [
+    {
+      "id": "stapler",
+      "cs": "sešívačka",
+      "en": "stapler",
+      "uk": "степлер",
+      "ru": "степлер",
+      "pl": "zszywacz"
+    },
+    {
+      "id": "paper-clip",
+      "cs": "kancelářská sponka",
+      "en": "paper clip",
+      "uk": "скріпка",
+      "ru": "скрепка",
+      "pl": "spinacz biurowy"
+    },
+    {
+      "id": "drawing-pin",
+      "cs": "připínáček",
+      "en": "drawing pin",
+      "uk": "кнопка",
+      "ru": "кнопка",
+      "pl": "pinezka"
+    },
+    {
+      "id": "hole-punch",
+      "cs": "děrovačka",
+      "en": "hole punch",
+      "uk": "діркопробивач",
+      "ru": "дырокол",
+      "pl": "dziurkacz"
+    },
+    {
+      "id": "lever-arch-file",
+      "cs": "šanon",
+      "en": "lever-arch file",
+      "uk": "папка-реєстратор",
+      "ru": "папка-регистратор",
+      "pl": "segregator"
+    },
+    {
+      "id": "printer-paper",
+      "cs": "kancelářský papír",
+      "en": "printer paper",
+      "uk": "офісний папір",
+      "ru": "офисная бумага",
+      "pl": "papier do drukarki"
+    },
+    {
+      "id": "notepad",
+      "cs": "blok",
+      "en": "notepad",
+      "uk": "блокнот",
+      "ru": "блокнот",
+      "pl": "notes"
+    },
+    {
+      "id": "sticky-notes",
+      "cs": "lepicí papírky",
+      "en": "sticky notes",
+      "uk": "стікери",
+      "ru": "стикеры",
+      "pl": "karteczki samoprzylepne"
+    },
+    {
+      "id": "highlighter",
+      "cs": "zvýrazňovač",
+      "en": "highlighter",
+      "uk": "маркер-виділювач",
+      "ru": "текстовыделитель",
+      "pl": "zakreślacz"
+    },
+    {
+      "id": "ballpoint-pen",
+      "cs": "kuličkové pero",
+      "en": "ballpoint pen",
+      "uk": "кулькова ручка",
+      "ru": "шариковая ручка",
+      "pl": "długopis"
+    },
+    {
+      "id": "fountain-pen",
+      "cs": "plnicí pero",
+      "en": "fountain pen",
+      "uk": "перова ручка",
+      "ru": "перьевая ручка",
+      "pl": "pióro wieczne"
+    },
+    {
+      "id": "refill",
+      "cs": "náplň",
+      "en": "refill",
+      "uk": "стрижень",
+      "ru": "стержень",
+      "pl": "wkład"
+    },
+    {
+      "id": "correction-fluid",
+      "cs": "korekční lak",
+      "en": "correction fluid",
+      "uk": "коректор",
+      "ru": "корректор",
+      "pl": "korektor"
+    },
+    {
+      "id": "paper-shredder",
+      "cs": "skartovačka",
+      "en": "paper shredder",
+      "uk": "шредер",
+      "ru": "шредер",
+      "pl": "niszczarka"
+    },
+    {
+      "id": "projector",
+      "cs": "projektor",
+      "en": "projector",
+      "uk": "проектор",
+      "ru": "проектор",
+      "pl": "projektor"
+    },
+    {
+      "id": "flip-chart",
+      "cs": "flipchart",
+      "en": "flip chart",
+      "uk": "фліпчарт",
+      "ru": "флипчарт",
+      "pl": "flipchart"
+    },
+    {
+      "id": "meeting-room",
+      "cs": "zasedačka",
+      "en": "meeting room",
+      "uk": "переговорна",
+      "ru": "переговорная",
+      "pl": "sala konferencyjna"
+    },
+    {
+      "id": "planner-diary",
+      "cs": "diář",
+      "en": "planner (diary)",
+      "uk": "щоденник",
+      "ru": "ежедневник",
+      "pl": "kalendarz książkowy"
+    },
+    {
+      "id": "agenda",
+      "cs": "agenda",
+      "en": "agenda",
+      "uk": "порядок денний",
+      "ru": "повестка дня",
+      "pl": "porządek obrad"
+    },
+    {
+      "id": "minutes-of-a-meeting",
+      "cs": "zápis z porady",
+      "en": "minutes (of a meeting)",
+      "uk": "протокол наради",
+      "ru": "протокол совещания",
+      "pl": "protokół z zebrania"
+    },
+    {
+      "id": "negotiations",
+      "cs": "jednání",
+      "en": "negotiations",
+      "uk": "переговори",
+      "ru": "переговоры",
+      "pl": "negocjacje"
+    },
+    {
+      "id": "phone-call",
+      "cs": "telefonát",
+      "en": "phone call",
+      "uk": "телефонна розмова",
+      "ru": "телефонный разговор",
+      "pl": "rozmowa telefoniczna"
+    },
+    {
+      "id": "video-conference",
+      "cs": "videokonference",
+      "en": "video conference",
+      "uk": "відеоконференція",
+      "ru": "видеоконференция",
+      "pl": "wideokonferencja"
+    },
+    {
+      "id": "office-supplies",
+      "cs": "kancelářské potřeby",
+      "en": "office supplies",
+      "uk": "канцтовари",
+      "ru": "канцелярские товары",
+      "pl": "artykuły biurowe"
+    },
+    {
+      "id": "archive",
+      "cs": "archiv",
+      "en": "archive",
+      "uk": "архів",
+      "ru": "архив",
+      "pl": "archiwum"
+    },
+    {
+      "id": "documentation",
+      "cs": "dokumentace",
+      "en": "documentation",
+      "uk": "документація",
+      "ru": "документация",
+      "pl": "dokumentacja"
+    },
+    {
+      "id": "background-materials",
+      "cs": "podklady",
+      "en": "background materials",
+      "uk": "матеріали",
+      "ru": "материалы",
+      "pl": "materiały"
+    },
+    {
+      "id": "kitchenette",
+      "cs": "kuchyňka",
+      "en": "kitchenette",
+      "uk": "кухонька",
+      "ru": "кухонька",
+      "pl": "aneks kuchenny"
+    },
+    {
+      "id": "company-car",
+      "cs": "služební auto",
+      "en": "company car",
+      "uk": "службовий автомобіль",
+      "ru": "служебный автомобиль",
+      "pl": "samochód służbowy"
+    },
+    {
+      "id": "secretary-s-office",
+      "cs": "sekretariát",
+      "en": "secretary’s office",
+      "uk": "секретаріат",
+      "ru": "секретариат",
+      "pl": "sekretariat"
+    }
+  ]
+}

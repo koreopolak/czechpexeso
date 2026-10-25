@@ -1,0 +1,317 @@
+{
+  "id": "communication",
+  "order": 238,
+  "level": "B1",
+  "icon": "chat",
+  "title": {
+    "cs": "Komunikace a jazyk",
+    "en": "Communication & Language",
+    "uk": "Спілкування та мова",
+    "ru": "Общение и язык",
+    "pl": "Komunikacja i język"
+  },
+  "description": {
+    "en": "Conversations, politeness and the Czech language itself.",
+    "uk": "Розмови, ввічливість і сама чеська мова.",
+    "ru": "Разговоры, вежливость и сам чешский язык.",
+    "pl": "Rozmowy, uprzejmość i sam język czeski."
+  },
+  "words": [
+    {
+      "id": "conversation",
+      "cs": "konverzace",
+      "en": "conversation",
+      "uk": "розмова",
+      "ru": "беседа",
+      "pl": "konwersacja"
+    },
+    {
+      "id": "discussion",
+      "cs": "diskuse",
+      "en": "discussion",
+      "uk": "дискусія",
+      "ru": "дискуссия",
+      "pl": "dyskusja"
+    },
+    {
+      "id": "debate",
+      "cs": "debata",
+      "en": "debate",
+      "uk": "дебати",
+      "ru": "дебаты",
+      "pl": "debata"
+    },
+    {
+      "id": "dispute",
+      "cs": "spor",
+      "en": "dispute",
+      "uk": "суперечка",
+      "ru": "спор",
+      "pl": "spór"
+    },
+    {
+      "id": "address-someone",
+      "cs": "oslovit",
+      "en": "to address (someone)",
+      "uk": "звернутися",
+      "ru": "обратиться",
+      "pl": "zwrócić się do kogoś"
+    },
+    {
+      "id": "use-the-informal-ty",
+      "cs": "tykat",
+      "en": "to use the informal ty",
+      "uk": "звертатися на «ти»",
+      "ru": "обращаться на «ты»",
+      "pl": "mówić na ty"
+    },
+    {
+      "id": "use-the-formal-vy",
+      "cs": "vykat",
+      "en": "to use the formal vy",
+      "uk": "звертатися на «ви»",
+      "ru": "обращаться на «вы»",
+      "pl": "mówić per pan/pani"
+    },
+    {
+      "id": "interrupt",
+      "cs": "přerušit",
+      "en": "to interrupt",
+      "uk": "перебити",
+      "ru": "перебить",
+      "pl": "przerwać"
+    },
+    {
+      "id": "hint",
+      "cs": "naznačit",
+      "en": "to hint",
+      "uk": "натякнути",
+      "ru": "намекнуть",
+      "pl": "zasugerować"
+    },
+    {
+      "id": "mention",
+      "cs": "zmínka",
+      "en": "mention",
+      "uk": "згадка",
+      "ru": "упоминание",
+      "pl": "wzmianka"
+    },
+    {
+      "id": "remark",
+      "cs": "poznámka",
+      "en": "remark",
+      "uk": "зауваження",
+      "ru": "замечание",
+      "pl": "uwaga"
+    },
+    {
+      "id": "joke",
+      "cs": "vtip",
+      "en": "joke",
+      "uk": "жарт",
+      "ru": "шутка",
+      "pl": "żart"
+    },
+    {
+      "id": "swear",
+      "cs": "nadávat",
+      "en": "to swear",
+      "uk": "лаятися",
+      "ru": "ругаться",
+      "pl": "przeklinać"
+    },
+    {
+      "id": "swear-word",
+      "cs": "nadávka",
+      "en": "swear word",
+      "uk": "лайка",
+      "ru": "ругательство",
+      "pl": "przekleństwo"
+    },
+    {
+      "id": "compliment",
+      "cs": "kompliment",
+      "en": "compliment",
+      "uk": "комплімент",
+      "ru": "комплимент",
+      "pl": "komplement"
+    },
+    {
+      "id": "praise",
+      "cs": "pochvala",
+      "en": "praise",
+      "uk": "похвала",
+      "ru": "похвала",
+      "pl": "pochwała"
+    },
+    {
+      "id": "excuse",
+      "cs": "výmluva",
+      "en": "excuse",
+      "uk": "відмовка",
+      "ru": "отговорка",
+      "pl": "wymówka"
+    },
+    {
+      "id": "apology",
+      "cs": "omluva",
+      "en": "apology",
+      "uk": "вибачення",
+      "ru": "извинение",
+      "pl": "przeprosiny"
+    },
+    {
+      "id": "request",
+      "cs": "prosba",
+      "en": "request",
+      "uk": "прохання",
+      "ru": "просьба",
+      "pl": "prośba"
+    },
+    {
+      "id": "advice",
+      "cs": "rada",
+      "en": "advice",
+      "uk": "порада",
+      "ru": "совет",
+      "pl": "rada"
+    },
+    {
+      "id": "promise",
+      "cs": "slib",
+      "en": "promise",
+      "uk": "обіцянка",
+      "ru": "обещание",
+      "pl": "obietnica"
+    },
+    {
+      "id": "threat",
+      "cs": "hrozba",
+      "en": "threat",
+      "uk": "погроза",
+      "ru": "угроза",
+      "pl": "groźba"
+    },
+    {
+      "id": "gossip",
+      "cs": "drby",
+      "en": "gossip",
+      "uk": "плітки",
+      "ru": "сплетни",
+      "pl": "plotki"
+    },
+    {
+      "id": "interpret",
+      "cs": "tlumočit",
+      "en": "to interpret",
+      "uk": "перекладати усно",
+      "ru": "переводить устно",
+      "pl": "tłumaczyć ustnie"
+    },
+    {
+      "id": "dialect",
+      "cs": "nářečí",
+      "en": "dialect",
+      "uk": "діалект",
+      "ru": "диалект",
+      "pl": "gwara"
+    },
+    {
+      "id": "accent",
+      "cs": "přízvuk",
+      "en": "accent",
+      "uk": "акцент",
+      "ru": "акцент",
+      "pl": "akcent"
+    },
+    {
+      "id": "standard-czech",
+      "cs": "spisovná čeština",
+      "en": "standard Czech",
+      "uk": "літературна чеська",
+      "ru": "литературный чешский",
+      "pl": "literacki czeski"
+    },
+    {
+      "id": "colloquial-czech",
+      "cs": "hovorová čeština",
+      "en": "colloquial Czech",
+      "uk": "розмовна чеська",
+      "ru": "разговорный чешский",
+      "pl": "potoczny czeski"
+    },
+    {
+      "id": "slang",
+      "cs": "slang",
+      "en": "slang",
+      "uk": "сленг",
+      "ru": "сленг",
+      "pl": "slang"
+    },
+    {
+      "id": "mother-tongue",
+      "cs": "mateřský jazyk",
+      "en": "mother tongue",
+      "uk": "рідна мова",
+      "ru": "родной язык",
+      "pl": "język ojczysty"
+    },
+    {
+      "id": "foreign-language",
+      "cs": "cizí jazyk",
+      "en": "foreign language",
+      "uk": "іноземна мова",
+      "ru": "иностранный язык",
+      "pl": "język obcy"
+    },
+    {
+      "id": "bilingual",
+      "cs": "dvojjazyčný",
+      "en": "bilingual",
+      "uk": "двомовний",
+      "ru": "двуязычный",
+      "pl": "dwujęzyczny"
+    },
+    {
+      "id": "fluently",
+      "cs": "plynně",
+      "en": "fluently",
+      "uk": "вільно",
+      "ru": "свободно",
+      "pl": "płynnie"
+    },
+    {
+      "id": "stammer",
+      "cs": "koktat",
+      "en": "to stammer",
+      "uk": "заїкатися",
+      "ru": "заикаться",
+      "pl": "jąkać się"
+    },
+    {
+      "id": "mumble",
+      "cs": "mumlat",
+      "en": "to mumble",
+      "uk": "бурмотіти",
+      "ru": "бормотать",
+      "pl": "mamrotać"
+    },
+    {
+      "id": "speaker-orator",
+      "cs": "řečník",
+      "en": "speaker (orator)",
+      "uk": "промовець",
+      "ru": "оратор",
+      "pl": "mówca"
+    },
+    {
+      "id": "speech",
+      "cs": "projev",
+      "en": "speech",
+      "uk": "промова",
+      "ru": "речь",
+      "pl": "przemówienie"
+    }
+  ]
+}

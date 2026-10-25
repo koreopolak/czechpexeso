@@ -1,6 +1,6 @@
 {
   "id": "sports",
-  "order": 45,
+  "order": 117,
   "level": "A2",
   "icon": "ball",
   "title": {
@@ -432,6 +432,286 @@
       "uk": "риболовля",
       "ru": "рыбалка",
       "pl": "wędkarstwo"
+    },
+    {
+      "id": "athletics",
+      "cs": "atletika",
+      "en": "athletics",
+      "uk": "легка атлетика",
+      "ru": "лёгкая атлетика",
+      "pl": "lekkoatletyka"
+    },
+    {
+      "id": "long-jump",
+      "cs": "skok do dálky",
+      "en": "long jump",
+      "uk": "стрибок у довжину",
+      "ru": "прыжок в длину",
+      "pl": "skok w dal"
+    },
+    {
+      "id": "high-jump",
+      "cs": "skok do výšky",
+      "en": "high jump",
+      "uk": "стрибок у висоту",
+      "ru": "прыжок в высоту",
+      "pl": "skok wzwyż"
+    },
+    {
+      "id": "javelin-throw",
+      "cs": "hod oštěpem",
+      "en": "javelin throw",
+      "uk": "метання списа",
+      "ru": "метание копья",
+      "pl": "rzut oszczepem"
+    },
+    {
+      "id": "marathon",
+      "cs": "maraton",
+      "en": "marathon",
+      "uk": "марафон",
+      "ru": "марафон",
+      "pl": "maraton"
+    },
+    {
+      "id": "relay",
+      "cs": "štafeta",
+      "en": "relay",
+      "uk": "естафета",
+      "ru": "эстафета",
+      "pl": "sztafeta"
+    },
+    {
+      "id": "diving",
+      "cs": "potápění",
+      "en": "diving",
+      "uk": "дайвінг",
+      "ru": "дайвинг",
+      "pl": "nurkowanie"
+    },
+    {
+      "id": "surfing",
+      "cs": "surfování",
+      "en": "surfing",
+      "uk": "серфінг",
+      "ru": "серфинг",
+      "pl": "surfing"
+    },
+    {
+      "id": "rowing",
+      "cs": "veslování",
+      "en": "rowing",
+      "uk": "веслування",
+      "ru": "гребля",
+      "pl": "wioślarstwo"
+    },
+    {
+      "id": "ski-slope",
+      "cs": "sjezdovka",
+      "en": "ski slope",
+      "uk": "гірськолижна траса",
+      "ru": "горнолыжная трасса",
+      "pl": "stok narciarski"
+    },
+    {
+      "id": "ski-lift",
+      "cs": "lyžařský vlek",
+      "en": "ski lift",
+      "uk": "підйомник",
+      "ru": "подъёмник",
+      "pl": "wyciąg narciarski"
+    },
+    {
+      "id": "snowboard",
+      "cs": "snowboard",
+      "en": "snowboard",
+      "uk": "сноуборд",
+      "ru": "сноуборд",
+      "pl": "snowboard"
+    },
+    {
+      "id": "cross-country-skis",
+      "cs": "běžky",
+      "en": "cross-country skis",
+      "uk": "бігові лижі",
+      "ru": "беговые лыжи",
+      "pl": "narty biegowe"
+    },
+    {
+      "id": "figure-skating",
+      "cs": "krasobruslení",
+      "en": "figure skating",
+      "uk": "фігурне катання",
+      "ru": "фигурное катание",
+      "pl": "łyżwiarstwo figurowe"
+    },
+    {
+      "id": "fencing",
+      "cs": "šerm",
+      "en": "fencing",
+      "uk": "фехтування",
+      "ru": "фехтование",
+      "pl": "szermierka"
+    },
+    {
+      "id": "judo",
+      "cs": "judo",
+      "en": "judo",
+      "uk": "дзюдо",
+      "ru": "дзюдо",
+      "pl": "judo"
+    },
+    {
+      "id": "karate",
+      "cs": "karate",
+      "en": "karate",
+      "uk": "карате",
+      "ru": "карате",
+      "pl": "karate"
+    },
+    {
+      "id": "weightlifting",
+      "cs": "vzpírání",
+      "en": "weightlifting",
+      "uk": "важка атлетика",
+      "ru": "тяжёлая атлетика",
+      "pl": "podnoszenie ciężarów"
+    },
+    {
+      "id": "archery",
+      "cs": "lukostřelba",
+      "en": "archery",
+      "uk": "стрільба з лука",
+      "ru": "стрельба из лука",
+      "pl": "łucznictwo"
+    },
+    {
+      "id": "badminton",
+      "cs": "badminton",
+      "en": "badminton",
+      "uk": "бадмінтон",
+      "ru": "бадминтон",
+      "pl": "badminton"
+    },
+    {
+      "id": "table-tennis",
+      "cs": "stolní tenis",
+      "en": "table tennis",
+      "uk": "настільний теніс",
+      "ru": "настольный теннис",
+      "pl": "tenis stołowy"
+    },
+    {
+      "id": "floorball",
+      "cs": "florbal",
+      "en": "floorball",
+      "uk": "флорбол",
+      "ru": "флорбол",
+      "pl": "unihokej"
+    },
+    {
+      "id": "rugby",
+      "cs": "ragby",
+      "en": "rugby",
+      "uk": "регбі",
+      "ru": "регби",
+      "pl": "rugby"
+    },
+    {
+      "id": "skittles",
+      "cs": "kuželky",
+      "en": "skittles",
+      "uk": "кеглі",
+      "ru": "кегли",
+      "pl": "kręgle"
+    },
+    {
+      "id": "billiards",
+      "cs": "kulečník",
+      "en": "billiards",
+      "uk": "більярд",
+      "ru": "бильярд",
+      "pl": "bilard"
+    },
+    {
+      "id": "darts",
+      "cs": "šipky",
+      "en": "darts",
+      "uk": "дартс",
+      "ru": "дартс",
+      "pl": "rzutki"
+    },
+    {
+      "id": "penalty-kick",
+      "cs": "penalta",
+      "en": "penalty kick",
+      "uk": "пенальті",
+      "ru": "пенальти",
+      "pl": "rzut karny"
+    },
+    {
+      "id": "foul",
+      "cs": "faul",
+      "en": "foul",
+      "uk": "фол",
+      "ru": "фол",
+      "pl": "faul"
+    },
+    {
+      "id": "yellow-card",
+      "cs": "žlutá karta",
+      "en": "yellow card",
+      "uk": "жовта картка",
+      "ru": "жёлтая карточка",
+      "pl": "żółta kartka"
+    },
+    {
+      "id": "half-time",
+      "cs": "poločas",
+      "en": "half-time",
+      "uk": "перерва між таймами",
+      "ru": "перерыв между таймами",
+      "pl": "przerwa w połowie meczu"
+    },
+    {
+      "id": "extra-time",
+      "cs": "prodloužení",
+      "en": "extra time",
+      "uk": "додатковий час",
+      "ru": "дополнительное время",
+      "pl": "dogrywka"
+    },
+    {
+      "id": "striker",
+      "cs": "útočník",
+      "en": "striker",
+      "uk": "нападник",
+      "ru": "нападающий",
+      "pl": "napastnik"
+    },
+    {
+      "id": "defender",
+      "cs": "obránce",
+      "en": "defender",
+      "uk": "захисник",
+      "ru": "защитник",
+      "pl": "obrońca"
+    },
+    {
+      "id": "goalkeeper",
+      "cs": "brankář",
+      "en": "goalkeeper",
+      "uk": "воротар",
+      "ru": "вратарь",
+      "pl": "bramkarz"
+    },
+    {
+      "id": "cheer-for",
+      "cs": "fandit",
+      "en": "to cheer for",
+      "uk": "вболівати",
+      "ru": "болеть за",
+      "pl": "kibicować"
     }
   ]
 }

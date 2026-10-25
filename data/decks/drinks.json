@@ -1,0 +1,357 @@
+{
+  "id": "drinks",
+  "order": 126,
+  "level": "A2",
+  "icon": "cup",
+  "title": {
+    "cs": "Nápoje",
+    "en": "Drinks",
+    "uk": "Напої",
+    "ru": "Напитки",
+    "pl": "Napoje"
+  },
+  "description": {
+    "en": "From tea and coffee to Czech beer.",
+    "uk": "Від чаю й кави до чеського пива.",
+    "ru": "От чая и кофе до чешского пива.",
+    "pl": "Od herbaty i kawy po czeskie piwo."
+  },
+  "words": [
+    {
+      "id": "sparkling-water",
+      "cs": "perlivá voda",
+      "en": "sparkling water",
+      "uk": "газована вода",
+      "ru": "газированная вода",
+      "pl": "woda gazowana"
+    },
+    {
+      "id": "still-water",
+      "cs": "neperlivá voda",
+      "en": "still water",
+      "uk": "негазована вода",
+      "ru": "негазированная вода",
+      "pl": "woda niegazowana"
+    },
+    {
+      "id": "soda-water",
+      "cs": "sodovka",
+      "en": "soda water",
+      "uk": "содова",
+      "ru": "содовая",
+      "pl": "woda sodowa"
+    },
+    {
+      "id": "cola",
+      "cs": "kola",
+      "en": "cola",
+      "uk": "кола",
+      "ru": "кола",
+      "pl": "cola"
+    },
+    {
+      "id": "iced-tea",
+      "cs": "ledový čaj",
+      "en": "iced tea",
+      "uk": "холодний чай",
+      "ru": "холодный чай",
+      "pl": "mrożona herbata"
+    },
+    {
+      "id": "herbal-tea",
+      "cs": "bylinkový čaj",
+      "en": "herbal tea",
+      "uk": "трав’яний чай",
+      "ru": "травяной чай",
+      "pl": "herbata ziołowa"
+    },
+    {
+      "id": "green-tea",
+      "cs": "zelený čaj",
+      "en": "green tea",
+      "uk": "зелений чай",
+      "ru": "зелёный чай",
+      "pl": "zielona herbata"
+    },
+    {
+      "id": "black-tea",
+      "cs": "černý čaj",
+      "en": "black tea",
+      "uk": "чорний чай",
+      "ru": "чёрный чай",
+      "pl": "czarna herbata"
+    },
+    {
+      "id": "chamomile-tea",
+      "cs": "heřmánkový čaj",
+      "en": "chamomile tea",
+      "uk": "ромашковий чай",
+      "ru": "ромашковый чай",
+      "pl": "herbata rumiankowa"
+    },
+    {
+      "id": "turkish-coffee",
+      "cs": "turecká káva",
+      "en": "Turkish coffee",
+      "uk": "кава по-турецьки",
+      "ru": "кофе по-турецки",
+      "pl": "kawa po turecku"
+    },
+    {
+      "id": "latte",
+      "cs": "latté",
+      "en": "latte",
+      "uk": "лате",
+      "ru": "латте",
+      "pl": "latte"
+    },
+    {
+      "id": "instant-coffee",
+      "cs": "instantní káva",
+      "en": "instant coffee",
+      "uk": "розчинна кава",
+      "ru": "растворимый кофе",
+      "pl": "kawa rozpuszczalna"
+    },
+    {
+      "id": "decaf-coffee",
+      "cs": "bezkofeinová káva",
+      "en": "decaf coffee",
+      "uk": "кава без кофеїну",
+      "ru": "кофе без кофеина",
+      "pl": "kawa bezkofeinowa"
+    },
+    {
+      "id": "milkshake",
+      "cs": "mléčný koktejl",
+      "en": "milkshake",
+      "uk": "молочний коктейль",
+      "ru": "молочный коктейль",
+      "pl": "koktajl mleczny"
+    },
+    {
+      "id": "cocktail",
+      "cs": "koktejl",
+      "en": "cocktail",
+      "uk": "коктейль",
+      "ru": "коктейль",
+      "pl": "koktajl"
+    },
+    {
+      "id": "smoothie",
+      "cs": "smoothie",
+      "en": "smoothie",
+      "uk": "смузі",
+      "ru": "смузи",
+      "pl": "smoothie"
+    },
+    {
+      "id": "kefir",
+      "cs": "kefír",
+      "en": "kefir",
+      "uk": "кефір",
+      "ru": "кефир",
+      "pl": "kefir"
+    },
+    {
+      "id": "buttermilk",
+      "cs": "podmáslí",
+      "en": "buttermilk",
+      "uk": "маслянка",
+      "ru": "пахта",
+      "pl": "maślanka"
+    },
+    {
+      "id": "plant-milk",
+      "cs": "rostlinné mléko",
+      "en": "plant milk",
+      "uk": "рослинне молоко",
+      "ru": "растительное молоко",
+      "pl": "mleko roślinne"
+    },
+    {
+      "id": "pressed-fruit-juice",
+      "cs": "mošt",
+      "en": "pressed fruit juice",
+      "uk": "фруктовий фреш",
+      "ru": "свежевыжатый сок",
+      "pl": "sok tłoczony"
+    },
+    {
+      "id": "sparkling-wine",
+      "cs": "sekt",
+      "en": "sparkling wine",
+      "uk": "ігристе вино",
+      "ru": "игристое вино",
+      "pl": "wino musujące"
+    },
+    {
+      "id": "champagne",
+      "cs": "šampaňské",
+      "en": "champagne",
+      "uk": "шампанське",
+      "ru": "шампанское",
+      "pl": "szampan"
+    },
+    {
+      "id": "red-wine",
+      "cs": "červené víno",
+      "en": "red wine",
+      "uk": "червоне вино",
+      "ru": "красное вино",
+      "pl": "czerwone wino"
+    },
+    {
+      "id": "white-wine",
+      "cs": "bílé víno",
+      "en": "white wine",
+      "uk": "біле вино",
+      "ru": "белое вино",
+      "pl": "białe wino"
+    },
+    {
+      "id": "rose",
+      "cs": "růžové víno",
+      "en": "rosé",
+      "uk": "рожеве вино",
+      "ru": "розовое вино",
+      "pl": "wino różowe"
+    },
+    {
+      "id": "alcohol-free-beer",
+      "cs": "nealkoholické pivo",
+      "en": "alcohol-free beer",
+      "uk": "безалкогольне пиво",
+      "ru": "безалкогольное пиво",
+      "pl": "piwo bezalkoholowe"
+    },
+    {
+      "id": "lager",
+      "cs": "ležák",
+      "en": "lager",
+      "uk": "лагер",
+      "ru": "лагер",
+      "pl": "lager"
+    },
+    {
+      "id": "dark-beer",
+      "cs": "tmavé pivo",
+      "en": "dark beer",
+      "uk": "темне пиво",
+      "ru": "тёмное пиво",
+      "pl": "ciemne piwo"
+    },
+    {
+      "id": "rum",
+      "cs": "rum",
+      "en": "rum",
+      "uk": "ром",
+      "ru": "ром",
+      "pl": "rum"
+    },
+    {
+      "id": "vodka",
+      "cs": "vodka",
+      "en": "vodka",
+      "uk": "горілка",
+      "ru": "водка",
+      "pl": "wódka"
+    },
+    {
+      "id": "plum-brandy",
+      "cs": "slivovice",
+      "en": "plum brandy",
+      "uk": "сливовиця",
+      "ru": "сливовица",
+      "pl": "śliwowica"
+    },
+    {
+      "id": "becherovka-herbal-liqueur",
+      "cs": "becherovka",
+      "en": "Becherovka (herbal liqueur)",
+      "uk": "бехерівка",
+      "ru": "бехеровка",
+      "pl": "becherovka"
+    },
+    {
+      "id": "liqueur",
+      "cs": "likér",
+      "en": "liqueur",
+      "uk": "лікер",
+      "ru": "ликёр",
+      "pl": "likier"
+    },
+    {
+      "id": "whisky",
+      "cs": "whisky",
+      "en": "whisky",
+      "uk": "віскі",
+      "ru": "виски",
+      "pl": "whisky"
+    },
+    {
+      "id": "energy-drink",
+      "cs": "energetický nápoj",
+      "en": "energy drink",
+      "uk": "енергетичний напій",
+      "ru": "энергетический напиток",
+      "pl": "napój energetyczny"
+    },
+    {
+      "id": "ice-cube",
+      "cs": "kostka ledu",
+      "en": "ice cube",
+      "uk": "кубик льоду",
+      "ru": "кубик льда",
+      "pl": "kostka lodu"
+    },
+    {
+      "id": "straw",
+      "cs": "brčko",
+      "en": "straw",
+      "uk": "соломинка",
+      "ru": "соломинка",
+      "pl": "słomka"
+    },
+    {
+      "id": "paper-cup",
+      "cs": "kelímek",
+      "en": "paper cup",
+      "uk": "паперовий стаканчик",
+      "ru": "бумажный стаканчик",
+      "pl": "kubek papierowy"
+    },
+    {
+      "id": "thermos",
+      "cs": "termoska",
+      "en": "thermos",
+      "uk": "термос",
+      "ru": "термос",
+      "pl": "termos"
+    },
+    {
+      "id": "drink-a-toast",
+      "cs": "připít si",
+      "en": "to drink a toast",
+      "uk": "цокнутися",
+      "ru": "чокнуться",
+      "pl": "wznieść toast"
+    },
+    {
+      "id": "refreshing",
+      "cs": "osvěžující",
+      "en": "refreshing",
+      "uk": "освіжаючий",
+      "ru": "освежающий",
+      "pl": "orzeźwiający"
+    },
+    {
+      "id": "beverage",
+      "cs": "nápoj",
+      "en": "beverage",
+      "uk": "напій",
+      "ru": "напиток",
+      "pl": "napój"
+    }
+  ]
+}

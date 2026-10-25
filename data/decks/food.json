@@ -504,6 +504,350 @@
       "uk": "піца",
       "ru": "пицца",
       "pl": "pizza"
+    },
+    {
+      "id": "cured-meat",
+      "cs": "uzenina",
+      "en": "cured meat",
+      "uk": "копченості",
+      "ru": "колбасные изделия",
+      "pl": "wędliny"
+    },
+    {
+      "id": "salami",
+      "cs": "salám",
+      "en": "salami",
+      "uk": "салямі",
+      "ru": "салями",
+      "pl": "salami"
+    },
+    {
+      "id": "bacon",
+      "cs": "slanina",
+      "en": "bacon",
+      "uk": "бекон",
+      "ru": "бекон",
+      "pl": "boczek"
+    },
+    {
+      "id": "minced-meat",
+      "cs": "mleté maso",
+      "en": "minced meat",
+      "uk": "фарш",
+      "ru": "фарш",
+      "pl": "mięso mielone"
+    },
+    {
+      "id": "steak",
+      "cs": "steak",
+      "en": "steak",
+      "uk": "стейк",
+      "ru": "стейк",
+      "pl": "stek"
+    },
+    {
+      "id": "tuna",
+      "cs": "tuňák",
+      "en": "tuna",
+      "uk": "тунець",
+      "ru": "тунец",
+      "pl": "tuńczyk"
+    },
+    {
+      "id": "salmon",
+      "cs": "losos",
+      "en": "salmon",
+      "uk": "лосось",
+      "ru": "лосось",
+      "pl": "łosoś"
+    },
+    {
+      "id": "sardines",
+      "cs": "sardinky",
+      "en": "sardines",
+      "uk": "сардини",
+      "ru": "сардины",
+      "pl": "sardynki"
+    },
+    {
+      "id": "shrimps",
+      "cs": "krevety",
+      "en": "shrimps",
+      "uk": "креветки",
+      "ru": "креветки",
+      "pl": "krewetki"
+    },
+    {
+      "id": "seafood",
+      "cs": "mořské plody",
+      "en": "seafood",
+      "uk": "морепродукти",
+      "ru": "морепродукты",
+      "pl": "owoce morza"
+    },
+    {
+      "id": "rolled-oats",
+      "cs": "ovesné vločky",
+      "en": "rolled oats",
+      "uk": "вівсяні пластівці",
+      "ru": "овсяные хлопья",
+      "pl": "płatki owsiane"
+    },
+    {
+      "id": "muesli",
+      "cs": "müsli",
+      "en": "muesli",
+      "uk": "мюслі",
+      "ru": "мюсли",
+      "pl": "musli"
+    },
+    {
+      "id": "semolina-porridge",
+      "cs": "krupicová kaše",
+      "en": "semolina porridge",
+      "uk": "манна каша",
+      "ru": "манная каша",
+      "pl": "kaszka manna"
+    },
+    {
+      "id": "mashed-potatoes",
+      "cs": "bramborová kaše",
+      "en": "mashed potatoes",
+      "uk": "картопляне пюре",
+      "ru": "картофельное пюре",
+      "pl": "puree ziemniaczane"
+    },
+    {
+      "id": "toast",
+      "cs": "toast",
+      "en": "toast",
+      "uk": "тост",
+      "ru": "тост",
+      "pl": "tost"
+    },
+    {
+      "id": "baguette",
+      "cs": "bageta",
+      "en": "baguette",
+      "uk": "багет",
+      "ru": "багет",
+      "pl": "bagietka"
+    },
+    {
+      "id": "waffle",
+      "cs": "vafle",
+      "en": "waffle",
+      "uk": "вафля",
+      "ru": "вафля",
+      "pl": "gofr"
+    },
+    {
+      "id": "small-pancakes",
+      "cs": "lívance",
+      "en": "small pancakes",
+      "uk": "оладки",
+      "ru": "оладьи",
+      "pl": "placuszki"
+    },
+    {
+      "id": "sweet-bun",
+      "cs": "buchta",
+      "en": "sweet bun",
+      "uk": "булочка з начинкою",
+      "ru": "булочка с начинкой",
+      "pl": "drożdżówka"
+    },
+    {
+      "id": "doughnut",
+      "cs": "kobliha",
+      "en": "doughnut",
+      "uk": "пончик",
+      "ru": "пончик",
+      "pl": "pączek"
+    },
+    {
+      "id": "strudel",
+      "cs": "štrúdl",
+      "en": "strudel",
+      "uk": "штрудель",
+      "ru": "штрудель",
+      "pl": "strudel"
+    },
+    {
+      "id": "gingerbread",
+      "cs": "perník",
+      "en": "gingerbread",
+      "uk": "пряник",
+      "ru": "пряник",
+      "pl": "piernik"
+    },
+    {
+      "id": "pudding",
+      "cs": "pudink",
+      "en": "pudding",
+      "uk": "пудинг",
+      "ru": "пудинг",
+      "pl": "budyń"
+    },
+    {
+      "id": "whipped-cream",
+      "cs": "šlehačka",
+      "en": "whipped cream",
+      "uk": "збиті вершки",
+      "ru": "взбитые сливки",
+      "pl": "bita śmietana"
+    },
+    {
+      "id": "ketchup",
+      "cs": "kečup",
+      "en": "ketchup",
+      "uk": "кетчуп",
+      "ru": "кетчуп",
+      "pl": "keczup"
+    },
+    {
+      "id": "mustard",
+      "cs": "hořčice",
+      "en": "mustard",
+      "uk": "гірчиця",
+      "ru": "горчица",
+      "pl": "musztarda"
+    },
+    {
+      "id": "mayonnaise",
+      "cs": "majonéza",
+      "en": "mayonnaise",
+      "uk": "майонез",
+      "ru": "майонез",
+      "pl": "majonez"
+    },
+    {
+      "id": "french-fries",
+      "cs": "hranolky",
+      "en": "French fries",
+      "uk": "картопля фрі",
+      "ru": "картофель фри",
+      "pl": "frytki"
+    },
+    {
+      "id": "crisps",
+      "cs": "chipsy",
+      "en": "crisps",
+      "uk": "чипси",
+      "ru": "чипсы",
+      "pl": "chipsy"
+    },
+    {
+      "id": "popcorn",
+      "cs": "popcorn",
+      "en": "popcorn",
+      "uk": "попкорн",
+      "ru": "попкорн",
+      "pl": "popcorn"
+    },
+    {
+      "id": "noodles",
+      "cs": "nudle",
+      "en": "noodles",
+      "uk": "локшина",
+      "ru": "лапша",
+      "pl": "kluski"
+    },
+    {
+      "id": "spaghetti",
+      "cs": "špagety",
+      "en": "spaghetti",
+      "uk": "спагеті",
+      "ru": "спагетти",
+      "pl": "spaghetti"
+    },
+    {
+      "id": "risotto",
+      "cs": "rizoto",
+      "en": "risotto",
+      "uk": "різото",
+      "ru": "ризотто",
+      "pl": "risotto"
+    },
+    {
+      "id": "hamburger",
+      "cs": "hamburger",
+      "en": "hamburger",
+      "uk": "гамбургер",
+      "ru": "гамбургер",
+      "pl": "hamburger"
+    },
+    {
+      "id": "kebab",
+      "cs": "kebab",
+      "en": "kebab",
+      "uk": "кебаб",
+      "ru": "кебаб",
+      "pl": "kebab"
+    },
+    {
+      "id": "syrup",
+      "cs": "sirup",
+      "en": "syrup",
+      "uk": "сироп",
+      "ru": "сироп",
+      "pl": "syrop"
+    },
+    {
+      "id": "yeast",
+      "cs": "droždí",
+      "en": "yeast",
+      "uk": "дріжджі",
+      "ru": "дрожжи",
+      "pl": "drożdże"
+    },
+    {
+      "id": "baking-powder",
+      "cs": "prášek do pečiva",
+      "en": "baking powder",
+      "uk": "розпушувач",
+      "ru": "разрыхлитель",
+      "pl": "proszek do pieczenia"
+    },
+    {
+      "id": "broth",
+      "cs": "vývar",
+      "en": "broth",
+      "uk": "бульйон",
+      "ru": "бульон",
+      "pl": "rosół"
+    },
+    {
+      "id": "omelette",
+      "cs": "omeleta",
+      "en": "omelette",
+      "uk": "омлет",
+      "ru": "омлет",
+      "pl": "omlet"
+    },
+    {
+      "id": "scrambled-eggs",
+      "cs": "míchaná vejce",
+      "en": "scrambled eggs",
+      "uk": "яєчня-бовтанка",
+      "ru": "яичница-болтунья",
+      "pl": "jajecznica"
+    },
+    {
+      "id": "hard-boiled-egg",
+      "cs": "vejce natvrdo",
+      "en": "hard-boiled egg",
+      "uk": "яйце, зварене круто",
+      "ru": "яйцо вкрутую",
+      "pl": "jajko na twardo"
+    },
+    {
+      "id": "snack",
+      "cs": "svačina",
+      "en": "snack",
+      "uk": "перекус",
+      "ru": "перекус",
+      "pl": "przekąska"
     }
   ]
 }

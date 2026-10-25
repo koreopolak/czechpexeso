@@ -1,6 +1,6 @@
 {
   "id": "countries",
-  "order": 52,
+  "order": 124,
   "level": "A2",
   "icon": "globe",
   "title": {
@@ -464,6 +464,382 @@
       "uk": "Європейський Союз",
       "ru": "Европейский союз",
       "pl": "Unia Europejska"
+    },
+    {
+      "id": "lithuania",
+      "cs": "Litva",
+      "en": "Lithuania",
+      "uk": "Литва",
+      "ru": "Литва",
+      "pl": "Litwa"
+    },
+    {
+      "id": "latvia",
+      "cs": "Lotyšsko",
+      "en": "Latvia",
+      "uk": "Латвія",
+      "ru": "Латвия",
+      "pl": "Łotwa"
+    },
+    {
+      "id": "estonia",
+      "cs": "Estonsko",
+      "en": "Estonia",
+      "uk": "Естонія",
+      "ru": "Эстония",
+      "pl": "Estonia"
+    },
+    {
+      "id": "belarus",
+      "cs": "Bělorusko",
+      "en": "Belarus",
+      "uk": "Білорусь",
+      "ru": "Беларусь",
+      "pl": "Białoruś"
+    },
+    {
+      "id": "moldova",
+      "cs": "Moldavsko",
+      "en": "Moldova",
+      "uk": "Молдова",
+      "ru": "Молдова",
+      "pl": "Mołdawia"
+    },
+    {
+      "id": "romania",
+      "cs": "Rumunsko",
+      "en": "Romania",
+      "uk": "Румунія",
+      "ru": "Румыния",
+      "pl": "Rumunia"
+    },
+    {
+      "id": "bulgaria",
+      "cs": "Bulharsko",
+      "en": "Bulgaria",
+      "uk": "Болгарія",
+      "ru": "Болгария",
+      "pl": "Bułgaria"
+    },
+    {
+      "id": "serbia",
+      "cs": "Srbsko",
+      "en": "Serbia",
+      "uk": "Сербія",
+      "ru": "Сербия",
+      "pl": "Serbia"
+    },
+    {
+      "id": "slovenia",
+      "cs": "Slovinsko",
+      "en": "Slovenia",
+      "uk": "Словенія",
+      "ru": "Словения",
+      "pl": "Słowenia"
+    },
+    {
+      "id": "switzerland",
+      "cs": "Švýcarsko",
+      "en": "Switzerland",
+      "uk": "Швейцарія",
+      "ru": "Швейцария",
+      "pl": "Szwajcaria"
+    },
+    {
+      "id": "netherlands",
+      "cs": "Nizozemsko",
+      "en": "Netherlands",
+      "uk": "Нідерланди",
+      "ru": "Нидерланды",
+      "pl": "Holandia"
+    },
+    {
+      "id": "belgium",
+      "cs": "Belgie",
+      "en": "Belgium",
+      "uk": "Бельгія",
+      "ru": "Бельгия",
+      "pl": "Belgia"
+    },
+    {
+      "id": "denmark",
+      "cs": "Dánsko",
+      "en": "Denmark",
+      "uk": "Данія",
+      "ru": "Дания",
+      "pl": "Dania"
+    },
+    {
+      "id": "sweden",
+      "cs": "Švédsko",
+      "en": "Sweden",
+      "uk": "Швеція",
+      "ru": "Швеция",
+      "pl": "Szwecja"
+    },
+    {
+      "id": "norway",
+      "cs": "Norsko",
+      "en": "Norway",
+      "uk": "Норвегія",
+      "ru": "Норвегия",
+      "pl": "Norwegia"
+    },
+    {
+      "id": "finland",
+      "cs": "Finsko",
+      "en": "Finland",
+      "uk": "Фінляндія",
+      "ru": "Финляндия",
+      "pl": "Finlandia"
+    },
+    {
+      "id": "iceland",
+      "cs": "Island",
+      "en": "Iceland",
+      "uk": "Ісландія",
+      "ru": "Исландия",
+      "pl": "Islandia"
+    },
+    {
+      "id": "ireland",
+      "cs": "Irsko",
+      "en": "Ireland",
+      "uk": "Ірландія",
+      "ru": "Ирландия",
+      "pl": "Irlandia"
+    },
+    {
+      "id": "portugal",
+      "cs": "Portugalsko",
+      "en": "Portugal",
+      "uk": "Португалія",
+      "ru": "Португалия",
+      "pl": "Portugalia"
+    },
+    {
+      "id": "georgia-country",
+      "cs": "Gruzie",
+      "en": "Georgia (country)",
+      "uk": "Грузія",
+      "ru": "Грузия",
+      "pl": "Gruzja"
+    },
+    {
+      "id": "kazakhstan",
+      "cs": "Kazachstán",
+      "en": "Kazakhstan",
+      "uk": "Казахстан",
+      "ru": "Казахстан",
+      "pl": "Kazachstan"
+    },
+    {
+      "id": "vietnam",
+      "cs": "Vietnam",
+      "en": "Vietnam",
+      "uk": "В’єтнам",
+      "ru": "Вьетнам",
+      "pl": "Wietnam"
+    },
+    {
+      "id": "south-korea",
+      "cs": "Jižní Korea",
+      "en": "South Korea",
+      "uk": "Південна Корея",
+      "ru": "Южная Корея",
+      "pl": "Korea Południowa"
+    },
+    {
+      "id": "thailand",
+      "cs": "Thajsko",
+      "en": "Thailand",
+      "uk": "Таїланд",
+      "ru": "Таиланд",
+      "pl": "Tajlandia"
+    },
+    {
+      "id": "israel",
+      "cs": "Izrael",
+      "en": "Israel",
+      "uk": "Ізраїль",
+      "ru": "Израиль",
+      "pl": "Izrael"
+    },
+    {
+      "id": "egypt",
+      "cs": "Egypt",
+      "en": "Egypt",
+      "uk": "Єгипет",
+      "ru": "Египет",
+      "pl": "Egipt"
+    },
+    {
+      "id": "morocco",
+      "cs": "Maroko",
+      "en": "Morocco",
+      "uk": "Марокко",
+      "ru": "Марокко",
+      "pl": "Maroko"
+    },
+    {
+      "id": "brazil",
+      "cs": "Brazílie",
+      "en": "Brazil",
+      "uk": "Бразилія",
+      "ru": "Бразилия",
+      "pl": "Brazylia"
+    },
+    {
+      "id": "argentina",
+      "cs": "Argentina",
+      "en": "Argentina",
+      "uk": "Аргентина",
+      "ru": "Аргентина",
+      "pl": "Argentyna"
+    },
+    {
+      "id": "mexico",
+      "cs": "Mexiko",
+      "en": "Mexico",
+      "uk": "Мексика",
+      "ru": "Мексика",
+      "pl": "Meksyk"
+    },
+    {
+      "id": "new-zealand",
+      "cs": "Nový Zéland",
+      "en": "New Zealand",
+      "uk": "Нова Зеландія",
+      "ru": "Новая Зеландия",
+      "pl": "Nowa Zelandia"
+    },
+    {
+      "id": "antarctica",
+      "cs": "Antarktida",
+      "en": "Antarctica",
+      "uk": "Антарктида",
+      "ru": "Антарктида",
+      "pl": "Antarktyda"
+    },
+    {
+      "id": "european-person",
+      "cs": "Evropan",
+      "en": "European (person)",
+      "uk": "європеєць",
+      "ru": "европеец",
+      "pl": "Europejczyk"
+    },
+    {
+      "id": "american-person",
+      "cs": "Američan",
+      "en": "American (person)",
+      "uk": "американець",
+      "ru": "американец",
+      "pl": "Amerykanin"
+    },
+    {
+      "id": "englishman",
+      "cs": "Angličan",
+      "en": "Englishman",
+      "uk": "англієць",
+      "ru": "англичанин",
+      "pl": "Anglik"
+    },
+    {
+      "id": "frenchman",
+      "cs": "Francouz",
+      "en": "Frenchman",
+      "uk": "француз",
+      "ru": "француз",
+      "pl": "Francuz"
+    },
+    {
+      "id": "italian-person",
+      "cs": "Ital",
+      "en": "Italian (person)",
+      "uk": "італієць",
+      "ru": "итальянец",
+      "pl": "Włoch"
+    },
+    {
+      "id": "spaniard",
+      "cs": "Španěl",
+      "en": "Spaniard",
+      "uk": "іспанець",
+      "ru": "испанец",
+      "pl": "Hiszpan"
+    },
+    {
+      "id": "slovak-person",
+      "cs": "Slovák",
+      "en": "Slovak (person)",
+      "uk": "словак",
+      "ru": "словак",
+      "pl": "Słowak"
+    },
+    {
+      "id": "austrian-person",
+      "cs": "Rakušan",
+      "en": "Austrian (person)",
+      "uk": "австрієць",
+      "ru": "австриец",
+      "pl": "Austriak"
+    },
+    {
+      "id": "japanese-person",
+      "cs": "Japonec",
+      "en": "Japanese (person)",
+      "uk": "японець",
+      "ru": "японец",
+      "pl": "Japończyk"
+    },
+    {
+      "id": "chinese-person",
+      "cs": "Číňan",
+      "en": "Chinese (person)",
+      "uk": "китаєць",
+      "ru": "китаец",
+      "pl": "Chińczyk"
+    },
+    {
+      "id": "korean-person",
+      "cs": "Korejec",
+      "en": "Korean (person)",
+      "uk": "кореєць",
+      "ru": "кореец",
+      "pl": "Koreańczyk"
+    },
+    {
+      "id": "korean-language",
+      "cs": "korejština",
+      "en": "Korean (language)",
+      "uk": "корейська мова",
+      "ru": "корейский язык",
+      "pl": "koreański"
+    },
+    {
+      "id": "japanese-language",
+      "cs": "japonština",
+      "en": "Japanese (language)",
+      "uk": "японська мова",
+      "ru": "японский язык",
+      "pl": "japoński"
+    },
+    {
+      "id": "chinese-language",
+      "cs": "čínština",
+      "en": "Chinese (language)",
+      "uk": "китайська мова",
+      "ru": "китайский язык",
+      "pl": "chiński"
+    },
+    {
+      "id": "italian-language",
+      "cs": "italština",
+      "en": "Italian (language)",
+      "uk": "італійська мова",
+      "ru": "итальянский язык",
+      "pl": "włoski"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "kitchen",
-  "order": 38,
+  "order": 110,
   "level": "A2",
   "icon": "pot",
   "title": {
@@ -440,6 +440,246 @@
       "uk": "бляшанка",
       "ru": "банка",
       "pl": "puszka"
+    },
+    {
+      "id": "saucepan",
+      "cs": "rendlík",
+      "en": "saucepan",
+      "uk": "ківш",
+      "ru": "ковшик",
+      "pl": "rondelek"
+    },
+    {
+      "id": "baking-tray",
+      "cs": "plech",
+      "en": "baking tray",
+      "uk": "деко",
+      "ru": "противень",
+      "pl": "blacha do pieczenia"
+    },
+    {
+      "id": "baking-tin",
+      "cs": "forma na pečení",
+      "en": "baking tin",
+      "uk": "форма для випікання",
+      "ru": "форма для выпечки",
+      "pl": "forma do pieczenia"
+    },
+    {
+      "id": "rolling-pin",
+      "cs": "váleček",
+      "en": "rolling pin",
+      "uk": "качалка",
+      "ru": "скалка",
+      "pl": "wałek do ciasta"
+    },
+    {
+      "id": "whisk",
+      "cs": "metla",
+      "en": "whisk",
+      "uk": "віничок",
+      "ru": "венчик",
+      "pl": "trzepaczka"
+    },
+    {
+      "id": "blender",
+      "cs": "mixér",
+      "en": "blender",
+      "uk": "блендер",
+      "ru": "блендер",
+      "pl": "blender"
+    },
+    {
+      "id": "toaster",
+      "cs": "toustovač",
+      "en": "toaster",
+      "uk": "тостер",
+      "ru": "тостер",
+      "pl": "toster"
+    },
+    {
+      "id": "coffee-machine",
+      "cs": "kávovar",
+      "en": "coffee machine",
+      "uk": "кавоварка",
+      "ru": "кофеварка",
+      "pl": "ekspres do kawy"
+    },
+    {
+      "id": "electric-kettle",
+      "cs": "rychlovarná konvice",
+      "en": "electric kettle",
+      "uk": "електрочайник",
+      "ru": "электрочайник",
+      "pl": "czajnik elektryczny"
+    },
+    {
+      "id": "colander",
+      "cs": "cedník",
+      "en": "colander",
+      "uk": "друшляк",
+      "ru": "дуршлаг",
+      "pl": "durszlak"
+    },
+    {
+      "id": "sieve",
+      "cs": "sítko",
+      "en": "sieve",
+      "uk": "сито",
+      "ru": "сито",
+      "pl": "sitko"
+    },
+    {
+      "id": "funnel",
+      "cs": "trychtýř",
+      "en": "funnel",
+      "uk": "лійка",
+      "ru": "воронка",
+      "pl": "lejek"
+    },
+    {
+      "id": "wooden-spoon",
+      "cs": "vařečka",
+      "en": "wooden spoon",
+      "uk": "дерев’яна ложка",
+      "ru": "деревянная ложка",
+      "pl": "drewniana łyżka"
+    },
+    {
+      "id": "spatula",
+      "cs": "obracečka",
+      "en": "spatula",
+      "uk": "лопатка",
+      "ru": "лопатка",
+      "pl": "łopatka"
+    },
+    {
+      "id": "nutcracker",
+      "cs": "louskáček",
+      "en": "nutcracker",
+      "uk": "горіхоколка",
+      "ru": "щипцы для орехов",
+      "pl": "dziadek do orzechów"
+    },
+    {
+      "id": "garlic-press",
+      "cs": "lis na česnek",
+      "en": "garlic press",
+      "uk": "часникодавка",
+      "ru": "чеснокодавка",
+      "pl": "praska do czosnku"
+    },
+    {
+      "id": "peeler",
+      "cs": "škrabka",
+      "en": "peeler",
+      "uk": "овочечистка",
+      "ru": "овощечистка",
+      "pl": "obieraczka"
+    },
+    {
+      "id": "measuring-cup",
+      "cs": "odměrka",
+      "en": "measuring cup",
+      "uk": "мірна склянка",
+      "ru": "мерный стакан",
+      "pl": "miarka"
+    },
+    {
+      "id": "kitchen-scales",
+      "cs": "kuchyňská váha",
+      "en": "kitchen scales",
+      "uk": "кухонні ваги",
+      "ru": "кухонные весы",
+      "pl": "waga kuchenna"
+    },
+    {
+      "id": "aluminium-foil",
+      "cs": "alobal",
+      "en": "aluminium foil",
+      "uk": "фольга",
+      "ru": "фольга",
+      "pl": "folia aluminiowa"
+    },
+    {
+      "id": "cling-film",
+      "cs": "potravinová fólie",
+      "en": "cling film",
+      "uk": "харчова плівка",
+      "ru": "пищевая плёнка",
+      "pl": "folia spożywcza"
+    },
+    {
+      "id": "baking-paper",
+      "cs": "pečicí papír",
+      "en": "baking paper",
+      "uk": "пергамент",
+      "ru": "пергамент для выпечки",
+      "pl": "papier do pieczenia"
+    },
+    {
+      "id": "storage-jar",
+      "cs": "dóza",
+      "en": "storage jar",
+      "uk": "банка для зберігання",
+      "ru": "банка для хранения",
+      "pl": "pojemnik"
+    },
+    {
+      "id": "preserving-jar",
+      "cs": "zavařovací sklenice",
+      "en": "preserving jar",
+      "uk": "банка для консервації",
+      "ru": "банка для консервирования",
+      "pl": "słoik"
+    },
+    {
+      "id": "tray",
+      "cs": "podnos",
+      "en": "tray",
+      "uk": "піднос",
+      "ru": "поднос",
+      "pl": "taca"
+    },
+    {
+      "id": "oven-glove",
+      "cs": "chňapka",
+      "en": "oven glove",
+      "uk": "прихватка",
+      "ru": "прихватка",
+      "pl": "rękawica kuchenna"
+    },
+    {
+      "id": "leftovers",
+      "cs": "zbytky",
+      "en": "leftovers",
+      "uk": "залишки їжі",
+      "ru": "остатки еды",
+      "pl": "resztki"
+    },
+    {
+      "id": "marinate",
+      "cs": "marinovat",
+      "en": "to marinate",
+      "uk": "маринувати",
+      "ru": "мариновать",
+      "pl": "marynować"
+    },
+    {
+      "id": "rinse",
+      "cs": "propláchnout",
+      "en": "to rinse",
+      "uk": "промити",
+      "ru": "промыть",
+      "pl": "przepłukać"
+    },
+    {
+      "id": "thicken",
+      "cs": "zahustit",
+      "en": "to thicken",
+      "uk": "загустити",
+      "ru": "загустить",
+      "pl": "zagęścić"
     }
   ]
 }

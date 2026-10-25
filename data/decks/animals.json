@@ -480,6 +480,462 @@
       "uk": "домашній улюбленець",
       "ru": "домашний питомец",
       "pl": "zwierzątko domowe"
+    },
+    {
+      "id": "tomcat",
+      "cs": "kocour",
+      "en": "tomcat",
+      "uk": "кіт-самець",
+      "ru": "кот",
+      "pl": "kocur"
+    },
+    {
+      "id": "mare",
+      "cs": "kobyla",
+      "en": "mare",
+      "uk": "кобила",
+      "ru": "кобыла",
+      "pl": "klacz"
+    },
+    {
+      "id": "foal",
+      "cs": "hříbě",
+      "en": "foal",
+      "uk": "лоша",
+      "ru": "жеребёнок",
+      "pl": "źrebię"
+    },
+    {
+      "id": "ram",
+      "cs": "beran",
+      "en": "ram",
+      "uk": "баран",
+      "ru": "баран",
+      "pl": "baran"
+    },
+    {
+      "id": "billy-goat",
+      "cs": "kozel",
+      "en": "billy goat",
+      "uk": "цап",
+      "ru": "козёл",
+      "pl": "kozioł"
+    },
+    {
+      "id": "kid-young-goat",
+      "cs": "kůzle",
+      "en": "kid (young goat)",
+      "uk": "козеня",
+      "ru": "козлёнок",
+      "pl": "koźlę"
+    },
+    {
+      "id": "piglet",
+      "cs": "prasátko",
+      "en": "piglet",
+      "uk": "порося",
+      "ru": "поросёнок",
+      "pl": "prosiaczek"
+    },
+    {
+      "id": "mule",
+      "cs": "mula",
+      "en": "mule",
+      "uk": "мул",
+      "ru": "мул",
+      "pl": "muł"
+    },
+    {
+      "id": "llama",
+      "cs": "lama",
+      "en": "llama",
+      "uk": "лама",
+      "ru": "лама",
+      "pl": "lama"
+    },
+    {
+      "id": "rhinoceros",
+      "cs": "nosorožec",
+      "en": "rhinoceros",
+      "uk": "носоріг",
+      "ru": "носорог",
+      "pl": "nosorożec"
+    },
+    {
+      "id": "hippopotamus",
+      "cs": "hroch",
+      "en": "hippopotamus",
+      "uk": "бегемот",
+      "ru": "бегемот",
+      "pl": "hipopotam"
+    },
+    {
+      "id": "gorilla",
+      "cs": "gorila",
+      "en": "gorilla",
+      "uk": "горила",
+      "ru": "горилла",
+      "pl": "goryl"
+    },
+    {
+      "id": "chimpanzee",
+      "cs": "šimpanz",
+      "en": "chimpanzee",
+      "uk": "шимпанзе",
+      "ru": "шимпанзе",
+      "pl": "szympans"
+    },
+    {
+      "id": "leopard",
+      "cs": "leopard",
+      "en": "leopard",
+      "uk": "леопард",
+      "ru": "леопард",
+      "pl": "lampart"
+    },
+    {
+      "id": "cheetah",
+      "cs": "gepard",
+      "en": "cheetah",
+      "uk": "гепард",
+      "ru": "гепард",
+      "pl": "gepard"
+    },
+    {
+      "id": "lynx",
+      "cs": "rys",
+      "en": "lynx",
+      "uk": "рись",
+      "ru": "рысь",
+      "pl": "ryś"
+    },
+    {
+      "id": "badger",
+      "cs": "jezevec",
+      "en": "badger",
+      "uk": "борсук",
+      "ru": "барсук",
+      "pl": "borsuk"
+    },
+    {
+      "id": "otter",
+      "cs": "vydra",
+      "en": "otter",
+      "uk": "видра",
+      "ru": "выдра",
+      "pl": "wydra"
+    },
+    {
+      "id": "marten",
+      "cs": "kuna",
+      "en": "marten",
+      "uk": "куниця",
+      "ru": "куница",
+      "pl": "kuna"
+    },
+    {
+      "id": "ferret",
+      "cs": "fretka",
+      "en": "ferret",
+      "uk": "фретка",
+      "ru": "хорёк",
+      "pl": "fretka"
+    },
+    {
+      "id": "weasel",
+      "cs": "lasička",
+      "en": "weasel",
+      "uk": "ласка",
+      "ru": "ласка",
+      "pl": "łasica"
+    },
+    {
+      "id": "rat",
+      "cs": "krysa",
+      "en": "rat",
+      "uk": "щур",
+      "ru": "крыса",
+      "pl": "szczur"
+    },
+    {
+      "id": "rodent",
+      "cs": "hlodavec",
+      "en": "rodent",
+      "uk": "гризун",
+      "ru": "грызун",
+      "pl": "gryzoń"
+    },
+    {
+      "id": "octopus",
+      "cs": "chobotnice",
+      "en": "octopus",
+      "uk": "восьминіг",
+      "ru": "осьминог",
+      "pl": "ośmiornica"
+    },
+    {
+      "id": "jellyfish",
+      "cs": "medúza",
+      "en": "jellyfish",
+      "uk": "медуза",
+      "ru": "медуза",
+      "pl": "meduza"
+    },
+    {
+      "id": "crab",
+      "cs": "krab",
+      "en": "crab",
+      "uk": "краб",
+      "ru": "краб",
+      "pl": "krab"
+    },
+    {
+      "id": "lobster",
+      "cs": "humr",
+      "en": "lobster",
+      "uk": "омар",
+      "ru": "омар",
+      "pl": "homar"
+    },
+    {
+      "id": "seal",
+      "cs": "tuleň",
+      "en": "seal",
+      "uk": "тюлень",
+      "ru": "тюлень",
+      "pl": "foka"
+    },
+    {
+      "id": "walrus",
+      "cs": "mrož",
+      "en": "walrus",
+      "uk": "морж",
+      "ru": "морж",
+      "pl": "mors"
+    },
+    {
+      "id": "cattle",
+      "cs": "dobytek",
+      "en": "cattle",
+      "uk": "худоба",
+      "ru": "скот",
+      "pl": "bydło"
+    },
+    {
+      "id": "herd",
+      "cs": "stádo",
+      "en": "herd",
+      "uk": "стадо",
+      "ru": "стадо",
+      "pl": "stado"
+    },
+    {
+      "id": "pack-of-wolves",
+      "cs": "smečka",
+      "en": "pack (of wolves)",
+      "uk": "зграя вовків",
+      "ru": "стая волков",
+      "pl": "wataha"
+    },
+    {
+      "id": "tail",
+      "cs": "ocas",
+      "en": "tail",
+      "uk": "хвіст",
+      "ru": "хвост",
+      "pl": "ogon"
+    },
+    {
+      "id": "paw",
+      "cs": "tlapka",
+      "en": "paw",
+      "uk": "лапа",
+      "ru": "лапа",
+      "pl": "łapa"
+    },
+    {
+      "id": "fur",
+      "cs": "srst",
+      "en": "fur",
+      "uk": "шерсть",
+      "ru": "шерсть",
+      "pl": "sierść"
+    },
+    {
+      "id": "horns",
+      "cs": "rohy",
+      "en": "horns",
+      "uk": "роги",
+      "ru": "рога",
+      "pl": "rogi"
+    },
+    {
+      "id": "hoof",
+      "cs": "kopyto",
+      "en": "hoof",
+      "uk": "копито",
+      "ru": "копыто",
+      "pl": "kopyto"
+    },
+    {
+      "id": "claws",
+      "cs": "drápy",
+      "en": "claws",
+      "uk": "кігті",
+      "ru": "когти",
+      "pl": "pazury"
+    },
+    {
+      "id": "cage",
+      "cs": "klec",
+      "en": "cage",
+      "uk": "клітка",
+      "ru": "клетка",
+      "pl": "klatka"
+    },
+    {
+      "id": "stable",
+      "cs": "stáj",
+      "en": "stable",
+      "uk": "стайня",
+      "ru": "конюшня",
+      "pl": "stajnia"
+    },
+    {
+      "id": "pigsty",
+      "cs": "chlív",
+      "en": "pigsty",
+      "uk": "хлів",
+      "ru": "хлев",
+      "pl": "chlew"
+    },
+    {
+      "id": "moo",
+      "cs": "bučet",
+      "en": "to moo",
+      "uk": "мукати",
+      "ru": "мычать",
+      "pl": "muczeć"
+    },
+    {
+      "id": "bleat",
+      "cs": "mečet",
+      "en": "to bleat",
+      "uk": "мекати",
+      "ru": "блеять",
+      "pl": "beczeć"
+    },
+    {
+      "id": "crow",
+      "cs": "kokrhat",
+      "en": "to crow",
+      "uk": "кукурікати",
+      "ru": "кукарекать",
+      "pl": "piać"
+    },
+    {
+      "id": "cluck",
+      "cs": "kdákat",
+      "en": "to cluck",
+      "uk": "кудкудакати",
+      "ru": "кудахтать",
+      "pl": "gdakać"
+    },
+    {
+      "id": "croak-frog",
+      "cs": "kvákat",
+      "en": "to croak (frog)",
+      "uk": "квакати",
+      "ru": "квакать",
+      "pl": "rechotać"
+    },
+    {
+      "id": "grunt",
+      "cs": "chrochtat",
+      "en": "to grunt",
+      "uk": "рохкати",
+      "ru": "хрюкать",
+      "pl": "chrząkać"
+    },
+    {
+      "id": "neigh",
+      "cs": "ržát",
+      "en": "to neigh",
+      "uk": "іржати",
+      "ru": "ржать",
+      "pl": "rżeć"
+    },
+    {
+      "id": "howl",
+      "cs": "výt",
+      "en": "to howl",
+      "uk": "вити",
+      "ru": "выть",
+      "pl": "wyć"
+    },
+    {
+      "id": "hiss",
+      "cs": "syčet",
+      "en": "to hiss",
+      "uk": "шипіти",
+      "ru": "шипеть",
+      "pl": "syczeć"
+    },
+    {
+      "id": "chirp",
+      "cs": "cvrlikat",
+      "en": "to chirp",
+      "uk": "щебетати",
+      "ru": "щебетать",
+      "pl": "ćwierkać"
+    },
+    {
+      "id": "hoot",
+      "cs": "houkat",
+      "en": "to hoot",
+      "uk": "ухкати",
+      "ru": "ухать",
+      "pl": "pohukiwać"
+    },
+    {
+      "id": "roar",
+      "cs": "řvát",
+      "en": "to roar",
+      "uk": "ревіти",
+      "ru": "реветь",
+      "pl": "ryczeć"
+    },
+    {
+      "id": "whine",
+      "cs": "kňučet",
+      "en": "to whine",
+      "uk": "скиглити",
+      "ru": "скулить",
+      "pl": "skomleć"
+    },
+    {
+      "id": "caw",
+      "cs": "krákat",
+      "en": "to caw",
+      "uk": "каркати",
+      "ru": "каркать",
+      "pl": "krakać"
+    },
+    {
+      "id": "squeak",
+      "cs": "pištět",
+      "en": "to squeak",
+      "uk": "пищати",
+      "ru": "пищать",
+      "pl": "piszczeć"
+    },
+    {
+      "id": "trumpet",
+      "cs": "troubit",
+      "en": "to trumpet",
+      "uk": "сурмити",
+      "ru": "трубить",
+      "pl": "trąbić"
     }
   ]
 }

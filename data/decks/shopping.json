@@ -416,6 +416,166 @@
       "uk": "безкоштовно",
       "ru": "бесплатно",
       "pl": "za darmo"
+    },
+    {
+      "id": "shopping-list",
+      "cs": "nákupní seznam",
+      "en": "shopping list",
+      "uk": "список покупок",
+      "ru": "список покупок",
+      "pl": "lista zakupów"
+    },
+    {
+      "id": "self-checkout",
+      "cs": "samoobslužná pokladna",
+      "en": "self-checkout",
+      "uk": "каса самообслуговування",
+      "ru": "касса самообслуживания",
+      "pl": "kasa samoobsługowa"
+    },
+    {
+      "id": "loyalty-card",
+      "cs": "věrnostní karta",
+      "en": "loyalty card",
+      "uk": "карта лояльності",
+      "ru": "карта лояльности",
+      "pl": "karta lojalnościowa"
+    },
+    {
+      "id": "special-offer-price",
+      "cs": "akční cena",
+      "en": "special offer price",
+      "uk": "акційна ціна",
+      "ru": "акционная цена",
+      "pl": "cena promocyjna"
+    },
+    {
+      "id": "shelf-life",
+      "cs": "trvanlivost",
+      "en": "shelf life",
+      "uk": "термін зберігання",
+      "ru": "срок хранения",
+      "pl": "trwałość"
+    },
+    {
+      "id": "use-by-date",
+      "cs": "datum spotřeby",
+      "en": "use-by date",
+      "uk": "термін придатності",
+      "ru": "срок годности",
+      "pl": "data ważności"
+    },
+    {
+      "id": "shop-window",
+      "cs": "výloha",
+      "en": "shop window",
+      "uk": "вітрина магазину",
+      "ru": "витрина магазина",
+      "pl": "witryna sklepowa"
+    },
+    {
+      "id": "return-of-goods",
+      "cs": "vrácení zboží",
+      "en": "return of goods",
+      "uk": "повернення товару",
+      "ru": "возврат товара",
+      "pl": "zwrot towaru"
+    },
+    {
+      "id": "make-a-complaint-about-goods",
+      "cs": "reklamovat",
+      "en": "to make a complaint (about goods)",
+      "uk": "подати рекламацію",
+      "ru": "подать рекламацию",
+      "pl": "reklamować"
+    },
+    {
+      "id": "warranty-card",
+      "cs": "záruční list",
+      "en": "warranty card",
+      "uk": "гарантійний талон",
+      "ru": "гарантийный талон",
+      "pl": "karta gwarancyjna"
+    },
+    {
+      "id": "proof-of-purchase",
+      "cs": "doklad o koupi",
+      "en": "proof of purchase",
+      "uk": "документ про купівлю",
+      "ru": "документ о покупке",
+      "pl": "dowód zakupu"
+    },
+    {
+      "id": "in-store-pickup",
+      "cs": "osobní odběr",
+      "en": "in-store pickup",
+      "uk": "самовивіз",
+      "ru": "самовывоз",
+      "pl": "odbiór osobisty"
+    },
+    {
+      "id": "free-delivery",
+      "cs": "doprava zdarma",
+      "en": "free delivery",
+      "uk": "безкоштовна доставка",
+      "ru": "бесплатная доставка",
+      "pl": "darmowa dostawa"
+    },
+    {
+      "id": "in-stock",
+      "cs": "skladem",
+      "en": "in stock",
+      "uk": "в наявності",
+      "ru": "в наличии",
+      "pl": "dostępne od ręki"
+    },
+    {
+      "id": "discount-code",
+      "cs": "slevový kód",
+      "en": "discount code",
+      "uk": "промокод",
+      "ru": "промокод",
+      "pl": "kod rabatowy"
+    },
+    {
+      "id": "value-pack",
+      "cs": "výhodné balení",
+      "en": "value pack",
+      "uk": "вигідна упаковка",
+      "ru": "выгодная упаковка",
+      "pl": "opakowanie ekonomiczne"
+    },
+    {
+      "id": "compare-prices",
+      "cs": "porovnat ceny",
+      "en": "to compare prices",
+      "uk": "порівняти ціни",
+      "ru": "сравнить цены",
+      "pl": "porównać ceny"
+    },
+    {
+      "id": "haggle",
+      "cs": "smlouvat",
+      "en": "to haggle",
+      "uk": "торгуватися",
+      "ru": "торговаться",
+      "pl": "targować się"
+    },
+    {
+      "id": "flea-market",
+      "cs": "bleší trh",
+      "en": "flea market",
+      "uk": "блошиний ринок",
+      "ru": "блошиный рынок",
+      "pl": "pchli targ"
+    },
+    {
+      "id": "junk-shop",
+      "cs": "bazar",
+      "en": "junk shop",
+      "uk": "комісійний магазин",
+      "ru": "комиссионный магазин",
+      "pl": "komis"
     }
   ]
 }

@@ -1,0 +1,277 @@
+{
+  "id": "forest",
+  "order": 240,
+  "level": "B1",
+  "icon": "tree",
+  "title": {
+    "cs": "Les a houby",
+    "en": "Forest & Mushrooms",
+    "uk": "Ліс і гриби",
+    "ru": "Лес и грибы",
+    "pl": "Las i grzyby"
+  },
+  "description": {
+    "en": "Czech forests, mushroom picking and woodland life.",
+    "uk": "Чеські ліси, збирання грибів і лісове життя.",
+    "ru": "Чешские леса, сбор грибов и лесная жизнь.",
+    "pl": "Czeskie lasy, grzybobranie i życie w lesie."
+  },
+  "words": [
+    {
+      "id": "porcini-mushroom",
+      "cs": "hřib",
+      "en": "porcini mushroom",
+      "uk": "білий гриб",
+      "ru": "белый гриб",
+      "pl": "borowik"
+    },
+    {
+      "id": "parasol-mushroom",
+      "cs": "bedla",
+      "en": "parasol mushroom",
+      "uk": "гриб-парасолька",
+      "ru": "гриб-зонтик",
+      "pl": "czubajka"
+    },
+    {
+      "id": "fly-agaric",
+      "cs": "muchomůrka",
+      "en": "fly agaric",
+      "uk": "мухомор",
+      "ru": "мухомор",
+      "pl": "muchomor"
+    },
+    {
+      "id": "death-cap",
+      "cs": "muchomůrka zelená",
+      "en": "death cap",
+      "uk": "бліда поганка",
+      "ru": "бледная поганка",
+      "pl": "muchomor sromotnikowy"
+    },
+    {
+      "id": "honey-fungus",
+      "cs": "václavka",
+      "en": "honey fungus",
+      "uk": "опеньок",
+      "ru": "опёнок",
+      "pl": "opieńka"
+    },
+    {
+      "id": "slippery-jack",
+      "cs": "klouzek",
+      "en": "slippery jack",
+      "uk": "маслюк",
+      "ru": "маслёнок",
+      "pl": "maślak"
+    },
+    {
+      "id": "birch-bolete",
+      "cs": "kozák",
+      "en": "birch bolete",
+      "uk": "підберезник",
+      "ru": "подберёзовик",
+      "pl": "koźlarz"
+    },
+    {
+      "id": "orange-birch-bolete",
+      "cs": "křemenáč",
+      "en": "orange birch bolete",
+      "uk": "підосичник",
+      "ru": "подосиновик",
+      "pl": "koźlarz czerwony"
+    },
+    {
+      "id": "field-mushroom",
+      "cs": "pečárka",
+      "en": "field mushroom",
+      "uk": "печериця",
+      "ru": "шампиньон",
+      "pl": "pieczarka"
+    },
+    {
+      "id": "edible-mushroom",
+      "cs": "jedlá houba",
+      "en": "edible mushroom",
+      "uk": "їстівний гриб",
+      "ru": "съедобный гриб",
+      "pl": "grzyb jadalny"
+    },
+    {
+      "id": "poisonous-mushroom",
+      "cs": "jedovatá houba",
+      "en": "poisonous mushroom",
+      "uk": "отруйний гриб",
+      "ru": "ядовитый гриб",
+      "pl": "grzyb trujący"
+    },
+    {
+      "id": "mushroom-picker",
+      "cs": "houbař",
+      "en": "mushroom picker",
+      "uk": "грибник",
+      "ru": "грибник",
+      "pl": "grzybiarz"
+    },
+    {
+      "id": "pine-cone",
+      "cs": "šiška",
+      "en": "pine cone",
+      "uk": "шишка",
+      "ru": "шишка",
+      "pl": "szyszka"
+    },
+    {
+      "id": "acorn",
+      "cs": "žalud",
+      "en": "acorn",
+      "uk": "жолудь",
+      "ru": "жёлудь",
+      "pl": "żołądź"
+    },
+    {
+      "id": "pine-needles",
+      "cs": "jehličí",
+      "en": "pine needles",
+      "uk": "хвоя",
+      "ru": "хвоя",
+      "pl": "igliwie"
+    },
+    {
+      "id": "tree-stump",
+      "cs": "pařez",
+      "en": "tree stump",
+      "uk": "пень",
+      "ru": "пень",
+      "pl": "pniak"
+    },
+    {
+      "id": "bark",
+      "cs": "kůra",
+      "en": "bark",
+      "uk": "кора",
+      "ru": "кора",
+      "pl": "kora"
+    },
+    {
+      "id": "tree-ring",
+      "cs": "letokruh",
+      "en": "tree ring",
+      "uk": "річне кільце",
+      "ru": "годичное кольцо",
+      "pl": "słój drzewa"
+    },
+    {
+      "id": "fallen-leaves",
+      "cs": "listí",
+      "en": "fallen leaves",
+      "uk": "опале листя",
+      "ru": "опавшая листва",
+      "pl": "liście"
+    },
+    {
+      "id": "twig",
+      "cs": "větvička",
+      "en": "twig",
+      "uk": "гілочка",
+      "ru": "веточка",
+      "pl": "gałązka"
+    },
+    {
+      "id": "forest-fruits",
+      "cs": "lesní plody",
+      "en": "forest fruits",
+      "uk": "лісові ягоди",
+      "ru": "лесные ягоды",
+      "pl": "owoce leśne"
+    },
+    {
+      "id": "anthill",
+      "cs": "mraveniště",
+      "en": "anthill",
+      "uk": "мурашник",
+      "ru": "муравейник",
+      "pl": "mrowisko"
+    },
+    {
+      "id": "den",
+      "cs": "brloh",
+      "en": "den",
+      "uk": "барліг",
+      "ru": "берлога",
+      "pl": "gawra"
+    },
+    {
+      "id": "burrow",
+      "cs": "nora",
+      "en": "burrow",
+      "uk": "нора",
+      "ru": "нора",
+      "pl": "nora"
+    },
+    {
+      "id": "gamekeeper-s-lodge",
+      "cs": "myslivna",
+      "en": "gamekeeper’s lodge",
+      "uk": "будинок лісника",
+      "ru": "дом лесника",
+      "pl": "leśniczówka"
+    },
+    {
+      "id": "wildlife-feeder",
+      "cs": "krmelec",
+      "en": "wildlife feeder",
+      "uk": "годівниця для дичини",
+      "ru": "кормушка для дичи",
+      "pl": "paśnik"
+    },
+    {
+      "id": "hunting-stand",
+      "cs": "posed",
+      "en": "hunting stand",
+      "uk": "мисливська вишка",
+      "ru": "охотничья вышка",
+      "pl": "ambona"
+    },
+    {
+      "id": "forest-path",
+      "cs": "lesní cesta",
+      "en": "forest path",
+      "uk": "лісова дорога",
+      "ru": "лесная дорога",
+      "pl": "leśna droga"
+    },
+    {
+      "id": "felled-area",
+      "cs": "paseka",
+      "en": "felled area",
+      "uk": "вирубка",
+      "ru": "вырубка",
+      "pl": "poręba"
+    },
+    {
+      "id": "coniferous-forest",
+      "cs": "jehličnatý les",
+      "en": "coniferous forest",
+      "uk": "хвойний ліс",
+      "ru": "хвойный лес",
+      "pl": "las iglasty"
+    },
+    {
+      "id": "deciduous-forest",
+      "cs": "listnatý les",
+      "en": "deciduous forest",
+      "uk": "листяний ліс",
+      "ru": "лиственный лес",
+      "pl": "las liściasty"
+    },
+    {
+      "id": "mixed-forest",
+      "cs": "smíšený les",
+      "en": "mixed forest",
+      "uk": "мішаний ліс",
+      "ru": "смешанный лес",
+      "pl": "las mieszany"
+    }
+  ]
+}

@@ -328,6 +328,270 @@
       "uk": "відлига",
       "ru": "оттепель",
       "pl": "odwilż"
+    },
+    {
+      "id": "downpour",
+      "cs": "liják",
+      "en": "downpour",
+      "uk": "проливний дощ",
+      "ru": "проливной дождь",
+      "pl": "ulewa"
+    },
+    {
+      "id": "drizzle",
+      "cs": "mrholení",
+      "en": "drizzle",
+      "uk": "мряка",
+      "ru": "морось",
+      "pl": "mżawka"
+    },
+    {
+      "id": "blizzard",
+      "cs": "vánice",
+      "en": "blizzard",
+      "uk": "заметіль",
+      "ru": "метель",
+      "pl": "zamieć"
+    },
+    {
+      "id": "snowfall",
+      "cs": "sněžení",
+      "en": "snowfall",
+      "uk": "снігопад",
+      "ru": "снегопад",
+      "pl": "opady śniegu"
+    },
+    {
+      "id": "black-ice",
+      "cs": "náledí",
+      "en": "black ice",
+      "uk": "ожеледь",
+      "ru": "гололёд",
+      "pl": "gołoledź"
+    },
+    {
+      "id": "air-pressure",
+      "cs": "tlak vzduchu",
+      "en": "air pressure",
+      "uk": "атмосферний тиск",
+      "ru": "атмосферное давление",
+      "pl": "ciśnienie atmosferyczne"
+    },
+    {
+      "id": "precipitation",
+      "cs": "srážky",
+      "en": "precipitation",
+      "uk": "опади",
+      "ru": "осадки",
+      "pl": "opady"
+    },
+    {
+      "id": "storm",
+      "cs": "bouře",
+      "en": "storm",
+      "uk": "буря",
+      "ru": "шторм",
+      "pl": "nawałnica"
+    },
+    {
+      "id": "tornado",
+      "cs": "tornádo",
+      "en": "tornado",
+      "uk": "торнадо",
+      "ru": "торнадо",
+      "pl": "tornado"
+    },
+    {
+      "id": "snowdrift",
+      "cs": "závěj",
+      "en": "snowdrift",
+      "uk": "замет",
+      "ru": "сугроб",
+      "pl": "zaspa"
+    },
+    {
+      "id": "avalanche",
+      "cs": "lavina",
+      "en": "avalanche",
+      "uk": "лавина",
+      "ru": "лавина",
+      "pl": "lawina"
+    },
+    {
+      "id": "warming",
+      "cs": "oteplení",
+      "en": "warming",
+      "uk": "потепління",
+      "ru": "потепление",
+      "pl": "ocieplenie"
+    },
+    {
+      "id": "cooling",
+      "cs": "ochlazení",
+      "en": "cooling",
+      "uk": "похолодання",
+      "ru": "похолодание",
+      "pl": "ochłodzenie"
+    },
+    {
+      "id": "breeze",
+      "cs": "vánek",
+      "en": "breeze",
+      "uk": "вітерець",
+      "ru": "ветерок",
+      "pl": "wietrzyk"
+    },
+    {
+      "id": "gust-of-wind",
+      "cs": "poryv větru",
+      "en": "gust of wind",
+      "uk": "порив вітру",
+      "ru": "порыв ветра",
+      "pl": "poryw wiatru"
+    },
+    {
+      "id": "clear-sky",
+      "cs": "jasno",
+      "en": "clear sky",
+      "uk": "ясно",
+      "ru": "ясно",
+      "pl": "bezchmurnie"
+    },
+    {
+      "id": "muggy",
+      "cs": "dusno",
+      "en": "muggy",
+      "uk": "задушливо",
+      "ru": "душно",
+      "pl": "duszno"
+    },
+    {
+      "id": "weather-warning",
+      "cs": "výstraha",
+      "en": "weather warning",
+      "uk": "штормове попередження",
+      "ru": "штормовое предупреждение",
+      "pl": "ostrzeżenie pogodowe"
+    },
+    {
+      "id": "foggy",
+      "cs": "mlhavo",
+      "en": "foggy",
+      "uk": "туманно",
+      "ru": "туманно",
+      "pl": "mglisto"
+    },
+    {
+      "id": "meteorologist",
+      "cs": "meteorolog",
+      "en": "meteorologist",
+      "uk": "метеоролог",
+      "ru": "метеоролог",
+      "pl": "meteorolog"
+    },
+    {
+      "id": "low-pressure-area",
+      "cs": "tlaková níže",
+      "en": "low-pressure area",
+      "uk": "циклон",
+      "ru": "циклон",
+      "pl": "niż"
+    },
+    {
+      "id": "high-pressure-area",
+      "cs": "tlaková výše",
+      "en": "high-pressure area",
+      "uk": "антициклон",
+      "ru": "антициклон",
+      "pl": "wyż"
+    },
+    {
+      "id": "cold-front",
+      "cs": "studená fronta",
+      "en": "cold front",
+      "uk": "холодний фронт",
+      "ru": "холодный фронт",
+      "pl": "front chłodny"
+    },
+    {
+      "id": "warm-front",
+      "cs": "teplá fronta",
+      "en": "warm front",
+      "uk": "теплий фронт",
+      "ru": "тёплый фронт",
+      "pl": "front ciepły"
+    },
+    {
+      "id": "cloud-cover",
+      "cs": "oblačnost",
+      "en": "cloud cover",
+      "uk": "хмарність",
+      "ru": "облачность",
+      "pl": "zachmurzenie"
+    },
+    {
+      "id": "thundercloud",
+      "cs": "bouřkový mrak",
+      "en": "thundercloud",
+      "uk": "грозова хмара",
+      "ru": "грозовая туча",
+      "pl": "chmura burzowa"
+    },
+    {
+      "id": "snow-cover",
+      "cs": "sněhová pokrývka",
+      "en": "snow cover",
+      "uk": "сніговий покрив",
+      "ru": "снежный покров",
+      "pl": "pokrywa śnieżna"
+    },
+    {
+      "id": "ground-frost",
+      "cs": "přízemní mrazík",
+      "en": "ground frost",
+      "uk": "заморозок",
+      "ru": "заморозок",
+      "pl": "przymrozek"
+    },
+    {
+      "id": "temperature-inversion",
+      "cs": "teplotní inverze",
+      "en": "temperature inversion",
+      "uk": "температурна інверсія",
+      "ru": "температурная инверсия",
+      "pl": "inwersja temperatury"
+    },
+    {
+      "id": "uv-index",
+      "cs": "UV index",
+      "en": "UV index",
+      "uk": "УФ-індекс",
+      "ru": "УФ-индекс",
+      "pl": "indeks UV"
+    },
+    {
+      "id": "feels-like-temperature",
+      "cs": "pocitová teplota",
+      "en": "feels-like temperature",
+      "uk": "відчутна температура",
+      "ru": "ощущаемая температура",
+      "pl": "temperatura odczuwalna"
+    },
+    {
+      "id": "tropical-night",
+      "cs": "tropická noc",
+      "en": "tropical night",
+      "uk": "тропічна ніч",
+      "ru": "тропическая ночь",
+      "pl": "tropikalna noc"
+    },
+    {
+      "id": "weather-conditions",
+      "cs": "povětrnostní podmínky",
+      "en": "weather conditions",
+      "uk": "погодні умови",
+      "ru": "погодные условия",
+      "pl": "warunki pogodowe"
     }
   ]
 }

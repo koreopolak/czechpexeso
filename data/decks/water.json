@@ -1,0 +1,189 @@
+{
+  "id": "water",
+  "order": 243,
+  "level": "B1",
+  "icon": "drop",
+  "title": {
+    "cs": "Voda v krajině",
+    "en": "Water & Rivers",
+    "uk": "Вода в природі",
+    "ru": "Вода в природе",
+    "pl": "Woda w krajobrazie"
+  },
+  "description": {
+    "en": "Rivers, wells, dams and wetlands.",
+    "uk": "Річки, криниці, греблі й болота.",
+    "ru": "Реки, колодцы, плотины и болота.",
+    "pl": "Rzeki, studnie, tamy i mokradła."
+  },
+  "words": [
+    {
+      "id": "water-surface",
+      "cs": "vodní hladina",
+      "en": "water surface",
+      "uk": "водна гладь",
+      "ru": "водная гладь",
+      "pl": "lustro wody"
+    },
+    {
+      "id": "weir",
+      "cs": "jez",
+      "en": "weir",
+      "uk": "загата",
+      "ru": "запруда",
+      "pl": "jaz"
+    },
+    {
+      "id": "dam",
+      "cs": "přehrada",
+      "en": "dam",
+      "uk": "дамба",
+      "ru": "дамба",
+      "pl": "tama"
+    },
+    {
+      "id": "sewer",
+      "cs": "stoka",
+      "en": "sewer",
+      "uk": "стічна канава",
+      "ru": "сточная канава",
+      "pl": "ściek"
+    },
+    {
+      "id": "well",
+      "cs": "studna",
+      "en": "well",
+      "uk": "криниця",
+      "ru": "колодец",
+      "pl": "studnia"
+    },
+    {
+      "id": "drop",
+      "cs": "kapka",
+      "en": "drop",
+      "uk": "крапля",
+      "ru": "капля",
+      "pl": "kropla"
+    },
+    {
+      "id": "mountain-stream",
+      "cs": "bystřina",
+      "en": "mountain stream",
+      "uk": "гірський потік",
+      "ru": "горный ручей",
+      "pl": "potok górski"
+    },
+    {
+      "id": "rapids",
+      "cs": "peřeje",
+      "en": "rapids",
+      "uk": "пороги",
+      "ru": "пороги",
+      "pl": "bystrzyna"
+    },
+    {
+      "id": "pool-in-a-river",
+      "cs": "tůň",
+      "en": "pool (in a river)",
+      "uk": "вир",
+      "ru": "омут",
+      "pl": "głębia"
+    },
+    {
+      "id": "wetland",
+      "cs": "mokřad",
+      "en": "wetland",
+      "uk": "водно-болотні угіддя",
+      "ru": "водно-болотные угодья",
+      "pl": "mokradło"
+    },
+    {
+      "id": "peat-bog",
+      "cs": "rašeliniště",
+      "en": "peat bog",
+      "uk": "торфовище",
+      "ru": "торфяник",
+      "pl": "torfowisko"
+    },
+    {
+      "id": "cove",
+      "cs": "zátoka",
+      "en": "cove",
+      "uk": "бухта",
+      "ru": "бухта",
+      "pl": "zatoczka"
+    },
+    {
+      "id": "ice-floe",
+      "cs": "ledová kra",
+      "en": "ice floe",
+      "uk": "крига",
+      "ru": "льдина",
+      "pl": "kra lodowa"
+    },
+    {
+      "id": "dry-up",
+      "cs": "vysychat",
+      "en": "to dry up",
+      "uk": "пересихати",
+      "ru": "пересыхать",
+      "pl": "wysychać"
+    },
+    {
+      "id": "flood",
+      "cs": "zaplavit",
+      "en": "to flood",
+      "uk": "затопити",
+      "ru": "затопить",
+      "pl": "zalać"
+    },
+    {
+      "id": "flow",
+      "cs": "téct",
+      "en": "to flow",
+      "uk": "текти",
+      "ru": "течь",
+      "pl": "płynąć"
+    },
+    {
+      "id": "splash",
+      "cs": "stříkat",
+      "en": "to splash",
+      "uk": "бризкати",
+      "ru": "брызгать",
+      "pl": "pryskać"
+    },
+    {
+      "id": "irrigation",
+      "cs": "zavlažování",
+      "en": "irrigation",
+      "uk": "зрошення",
+      "ru": "орошение",
+      "pl": "nawadnianie"
+    },
+    {
+      "id": "reservoir",
+      "cs": "vodní nádrž",
+      "en": "reservoir",
+      "uk": "водосховище",
+      "ru": "водохранилище",
+      "pl": "zbiornik wodny"
+    },
+    {
+      "id": "stream",
+      "cs": "proudit",
+      "en": "to stream",
+      "uk": "струменіти",
+      "ru": "струиться",
+      "pl": "płynąć strumieniem"
+    },
+    {
+      "id": "bodies-of-water",
+      "cs": "vodstvo",
+      "en": "bodies of water",
+      "uk": "водойми",
+      "ru": "водоёмы",
+      "pl": "wody"
+    }
+  ]
+}

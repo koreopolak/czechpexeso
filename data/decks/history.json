@@ -1,0 +1,405 @@
+{
+  "id": "history",
+  "order": 307,
+  "level": "B2",
+  "icon": "crown",
+  "title": {
+    "cs": "Dějiny",
+    "en": "History",
+    "uk": "Історія",
+    "ru": "История",
+    "pl": "Historia"
+  },
+  "description": {
+    "en": "Eras, kings, revolutions and Czech history.",
+    "uk": "Епохи, королі, революції й історія Чехії.",
+    "ru": "Эпохи, короли, революции и история Чехии.",
+    "pl": "Epoki, królowie, rewolucje i historia Czech."
+  },
+  "words": [
+    {
+      "id": "history",
+      "cs": "dějiny",
+      "en": "history",
+      "uk": "історія",
+      "ru": "история",
+      "pl": "dzieje"
+    },
+    {
+      "id": "prehistory",
+      "cs": "pravěk",
+      "en": "prehistory",
+      "uk": "первісна доба",
+      "ru": "первобытная эпоха",
+      "pl": "prehistoria"
+    },
+    {
+      "id": "antiquity",
+      "cs": "starověk",
+      "en": "antiquity",
+      "uk": "стародавні часи",
+      "ru": "древность",
+      "pl": "starożytność"
+    },
+    {
+      "id": "middle-ages",
+      "cs": "středověk",
+      "en": "Middle Ages",
+      "uk": "середньовіччя",
+      "ru": "средневековье",
+      "pl": "średniowiecze"
+    },
+    {
+      "id": "modern-era",
+      "cs": "novověk",
+      "en": "modern era",
+      "uk": "новий час",
+      "ru": "новое время",
+      "pl": "nowożytność"
+    },
+    {
+      "id": "renaissance",
+      "cs": "renesance",
+      "en": "Renaissance",
+      "uk": "Відродження",
+      "ru": "Возрождение",
+      "pl": "renesans"
+    },
+    {
+      "id": "baroque",
+      "cs": "baroko",
+      "en": "Baroque",
+      "uk": "бароко",
+      "ru": "барокко",
+      "pl": "barok"
+    },
+    {
+      "id": "enlightenment",
+      "cs": "osvícenství",
+      "en": "Enlightenment",
+      "uk": "Просвітництво",
+      "ru": "Просвещение",
+      "pl": "oświecenie"
+    },
+    {
+      "id": "industrial-revolution",
+      "cs": "průmyslová revoluce",
+      "en": "Industrial Revolution",
+      "uk": "промислова революція",
+      "ru": "промышленная революция",
+      "pl": "rewolucja przemysłowa"
+    },
+    {
+      "id": "revolution",
+      "cs": "revoluce",
+      "en": "revolution",
+      "uk": "революція",
+      "ru": "революция",
+      "pl": "rewolucja"
+    },
+    {
+      "id": "uprising",
+      "cs": "povstání",
+      "en": "uprising",
+      "uk": "повстання",
+      "ru": "восстание",
+      "pl": "powstanie"
+    },
+    {
+      "id": "coup",
+      "cs": "převrat",
+      "en": "coup",
+      "uk": "переворот",
+      "ru": "переворот",
+      "pl": "przewrót"
+    },
+    {
+      "id": "world-war",
+      "cs": "světová válka",
+      "en": "world war",
+      "uk": "світова війна",
+      "ru": "мировая война",
+      "pl": "wojna światowa"
+    },
+    {
+      "id": "cold-war",
+      "cs": "studená válka",
+      "en": "Cold War",
+      "uk": "холодна війна",
+      "ru": "холодная война",
+      "pl": "zimna wojna"
+    },
+    {
+      "id": "communism",
+      "cs": "komunismus",
+      "en": "communism",
+      "uk": "комунізм",
+      "ru": "коммунизм",
+      "pl": "komunizm"
+    },
+    {
+      "id": "socialism",
+      "cs": "socialismus",
+      "en": "socialism",
+      "uk": "соціалізм",
+      "ru": "социализм",
+      "pl": "socjalizm"
+    },
+    {
+      "id": "capitalism",
+      "cs": "kapitalismus",
+      "en": "capitalism",
+      "uk": "капіталізм",
+      "ru": "капитализм",
+      "pl": "kapitalizm"
+    },
+    {
+      "id": "fascism",
+      "cs": "fašismus",
+      "en": "fascism",
+      "uk": "фашизм",
+      "ru": "фашизм",
+      "pl": "faszyzm"
+    },
+    {
+      "id": "occupation-military",
+      "cs": "okupace",
+      "en": "occupation (military)",
+      "uk": "окупація",
+      "ru": "оккупация",
+      "pl": "okupacja"
+    },
+    {
+      "id": "liberation",
+      "cs": "osvobození",
+      "en": "liberation",
+      "uk": "визволення",
+      "ru": "освобождение",
+      "pl": "wyzwolenie"
+    },
+    {
+      "id": "velvet-revolution",
+      "cs": "sametová revoluce",
+      "en": "Velvet Revolution",
+      "uk": "Оксамитова революція",
+      "ru": "Бархатная революция",
+      "pl": "aksamitna rewolucja"
+    },
+    {
+      "id": "prague-spring",
+      "cs": "pražské jaro",
+      "en": "Prague Spring",
+      "uk": "Празька весна",
+      "ru": "Пражская весна",
+      "pl": "Praska Wiosna"
+    },
+    {
+      "id": "austria-hungary",
+      "cs": "Rakousko-Uhersko",
+      "en": "Austria-Hungary",
+      "uk": "Австро-Угорщина",
+      "ru": "Австро-Венгрия",
+      "pl": "Austro-Węgry"
+    },
+    {
+      "id": "czechoslovakia",
+      "cs": "Československo",
+      "en": "Czechoslovakia",
+      "uk": "Чехословаччина",
+      "ru": "Чехословакия",
+      "pl": "Czechosłowacja"
+    },
+    {
+      "id": "empire",
+      "cs": "říše",
+      "en": "empire",
+      "uk": "імперія",
+      "ru": "империя",
+      "pl": "imperium"
+    },
+    {
+      "id": "king",
+      "cs": "král",
+      "en": "king",
+      "uk": "король",
+      "ru": "король",
+      "pl": "król"
+    },
+    {
+      "id": "queen",
+      "cs": "královna",
+      "en": "queen",
+      "uk": "королева",
+      "ru": "королева",
+      "pl": "królowa"
+    },
+    {
+      "id": "emperor",
+      "cs": "císař",
+      "en": "emperor",
+      "uk": "імператор",
+      "ru": "император",
+      "pl": "cesarz"
+    },
+    {
+      "id": "duke-prince",
+      "cs": "kníže",
+      "en": "duke (prince)",
+      "uk": "князь",
+      "ru": "князь",
+      "pl": "książę"
+    },
+    {
+      "id": "princess",
+      "cs": "princezna",
+      "en": "princess",
+      "uk": "принцеса",
+      "ru": "принцесса",
+      "pl": "księżniczka"
+    },
+    {
+      "id": "nobleman",
+      "cs": "šlechtic",
+      "en": "nobleman",
+      "uk": "шляхтич",
+      "ru": "дворянин",
+      "pl": "szlachcic"
+    },
+    {
+      "id": "knight",
+      "cs": "rytíř",
+      "en": "knight",
+      "uk": "лицар",
+      "ru": "рыцарь",
+      "pl": "rycerz"
+    },
+    {
+      "id": "subject-of-a-ruler",
+      "cs": "poddaný",
+      "en": "subject (of a ruler)",
+      "uk": "підданий",
+      "ru": "подданный",
+      "pl": "poddany"
+    },
+    {
+      "id": "slave",
+      "cs": "otrok",
+      "en": "slave",
+      "uk": "раб",
+      "ru": "раб",
+      "pl": "niewolnik"
+    },
+    {
+      "id": "slavery",
+      "cs": "otroctví",
+      "en": "slavery",
+      "uk": "рабство",
+      "ru": "рабство",
+      "pl": "niewolnictwo"
+    },
+    {
+      "id": "colony",
+      "cs": "kolonie",
+      "en": "colony",
+      "uk": "колонія",
+      "ru": "колония",
+      "pl": "kolonia"
+    },
+    {
+      "id": "conquest",
+      "cs": "dobytí",
+      "en": "conquest",
+      "uk": "завоювання",
+      "ru": "завоевание",
+      "pl": "podbój"
+    },
+    {
+      "id": "chronicle",
+      "cs": "kronika",
+      "en": "chronicle",
+      "uk": "літопис",
+      "ru": "летопись",
+      "pl": "kronika"
+    },
+    {
+      "id": "historic-monument",
+      "cs": "památka",
+      "en": "historic monument",
+      "uk": "пам’ятка",
+      "ru": "памятник старины",
+      "pl": "zabytek"
+    },
+    {
+      "id": "contemporary-witness",
+      "cs": "pamětník",
+      "en": "contemporary witness",
+      "uk": "очевидець подій",
+      "ru": "очевидец событий",
+      "pl": "świadek historii"
+    },
+    {
+      "id": "historian",
+      "cs": "historik",
+      "en": "historian",
+      "uk": "історик",
+      "ru": "историк",
+      "pl": "historyk"
+    },
+    {
+      "id": "bc",
+      "cs": "před naším letopočtem",
+      "en": "BC",
+      "uk": "до нашої ери",
+      "ru": "до нашей эры",
+      "pl": "przed naszą erą"
+    },
+    {
+      "id": "ad",
+      "cs": "našeho letopočtu",
+      "en": "AD",
+      "uk": "нашої ери",
+      "ru": "нашей эры",
+      "pl": "naszej ery"
+    },
+    {
+      "id": "coronation",
+      "cs": "korunovace",
+      "en": "coronation",
+      "uk": "коронація",
+      "ru": "коронация",
+      "pl": "koronacja"
+    },
+    {
+      "id": "throne",
+      "cs": "trůn",
+      "en": "throne",
+      "uk": "трон",
+      "ru": "трон",
+      "pl": "tron"
+    },
+    {
+      "id": "dynasty",
+      "cs": "dynastie",
+      "en": "dynasty",
+      "uk": "династія",
+      "ru": "династия",
+      "pl": "dynastia"
+    },
+    {
+      "id": "ruler",
+      "cs": "panovník",
+      "en": "ruler",
+      "uk": "правитель",
+      "ru": "правитель",
+      "pl": "władca"
+    },
+    {
+      "id": "national-revival",
+      "cs": "národní obrození",
+      "en": "National Revival",
+      "uk": "національне відродження",
+      "ru": "национальное возрождение",
+      "pl": "odrodzenie narodowe"
+    }
+  ]
+}

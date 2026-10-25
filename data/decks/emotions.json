@@ -1,6 +1,6 @@
 {
   "id": "emotions",
-  "order": 33,
+  "order": 105,
   "level": "A2",
   "icon": "heart",
   "title": {
@@ -432,6 +432,238 @@
       "uk": "цілувати",
       "ru": "целовать",
       "pl": "całować"
+    },
+    {
+      "id": "relief",
+      "cs": "úleva",
+      "en": "relief",
+      "uk": "полегшення",
+      "ru": "облегчение",
+      "pl": "ulga"
+    },
+    {
+      "id": "despair",
+      "cs": "zoufalství",
+      "en": "despair",
+      "uk": "відчай",
+      "ru": "отчаяние",
+      "pl": "rozpacz"
+    },
+    {
+      "id": "panic",
+      "cs": "panika",
+      "en": "panic",
+      "uk": "паніка",
+      "ru": "паника",
+      "pl": "panika"
+    },
+    {
+      "id": "horror",
+      "cs": "hrůza",
+      "en": "horror",
+      "uk": "жах",
+      "ru": "ужас",
+      "pl": "groza"
+    },
+    {
+      "id": "rage",
+      "cs": "vztek",
+      "en": "rage",
+      "uk": "лють",
+      "ru": "ярость",
+      "pl": "wściekłość"
+    },
+    {
+      "id": "embarrassment",
+      "cs": "rozpaky",
+      "en": "embarrassment",
+      "uk": "збентеження",
+      "ru": "смущение",
+      "pl": "zakłopotanie"
+    },
+    {
+      "id": "tenderness",
+      "cs": "něha",
+      "en": "tenderness",
+      "uk": "ніжність",
+      "ru": "нежность",
+      "pl": "czułość"
+    },
+    {
+      "id": "desire",
+      "cs": "touha",
+      "en": "desire",
+      "uk": "бажання",
+      "ru": "желание",
+      "pl": "pragnienie"
+    },
+    {
+      "id": "missing-someone",
+      "cs": "stesk",
+      "en": "missing someone",
+      "uk": "туга",
+      "ru": "тоска",
+      "pl": "tęsknota"
+    },
+    {
+      "id": "depression",
+      "cs": "deprese",
+      "en": "depression",
+      "uk": "депресія",
+      "ru": "депрессия",
+      "pl": "depresja"
+    },
+    {
+      "id": "contentment",
+      "cs": "spokojenost",
+      "en": "contentment",
+      "uk": "задоволення",
+      "ru": "удовлетворённость",
+      "pl": "zadowolenie"
+    },
+    {
+      "id": "curiosity",
+      "cs": "zvědavost",
+      "en": "curiosity",
+      "uk": "цікавість",
+      "ru": "любопытство",
+      "pl": "ciekawość"
+    },
+    {
+      "id": "astonishment",
+      "cs": "údiv",
+      "en": "astonishment",
+      "uk": "подив",
+      "ru": "изумление",
+      "pl": "zdumienie"
+    },
+    {
+      "id": "disgust",
+      "cs": "znechucení",
+      "en": "disgust",
+      "uk": "огида",
+      "ru": "отвращение",
+      "pl": "obrzydzenie"
+    },
+    {
+      "id": "shock",
+      "cs": "šok",
+      "en": "shock",
+      "uk": "шок",
+      "ru": "шок",
+      "pl": "szok"
+    },
+    {
+      "id": "frustration",
+      "cs": "frustrace",
+      "en": "frustration",
+      "uk": "фрустрація",
+      "ru": "фрустрация",
+      "pl": "frustracja"
+    },
+    {
+      "id": "confused",
+      "cs": "zmatený",
+      "en": "confused",
+      "uk": "розгублений",
+      "ru": "растерянный",
+      "pl": "zdezorientowany"
+    },
+    {
+      "id": "shocked",
+      "cs": "šokovaný",
+      "en": "shocked",
+      "uk": "шокований",
+      "ru": "шокированный",
+      "pl": "zszokowany"
+    },
+    {
+      "id": "desperate",
+      "cs": "zoufalý",
+      "en": "desperate",
+      "uk": "зневірений",
+      "ru": "отчаявшийся",
+      "pl": "zrozpaczony"
+    },
+    {
+      "id": "relaxed",
+      "cs": "uvolněný",
+      "en": "relaxed",
+      "uk": "розслаблений",
+      "ru": "расслабленный",
+      "pl": "zrelaksowany"
+    },
+    {
+      "id": "upset",
+      "cs": "rozrušený",
+      "en": "upset",
+      "uk": "засмучений",
+      "ru": "расстроенный",
+      "pl": "poruszony"
+    },
+    {
+      "id": "moved-touched",
+      "cs": "dojatý",
+      "en": "moved (touched)",
+      "uk": "зворушений",
+      "ru": "тронутый",
+      "pl": "wzruszony"
+    },
+    {
+      "id": "exhausted",
+      "cs": "vyčerpaný",
+      "en": "exhausted",
+      "uk": "виснажений",
+      "ru": "измождённый",
+      "pl": "wyczerpany"
+    },
+    {
+      "id": "miss-someone",
+      "cs": "stýskat se",
+      "en": "to miss (someone)",
+      "uk": "сумувати",
+      "ru": "тосковать",
+      "pl": "tęsknić"
+    },
+    {
+      "id": "calm-down",
+      "cs": "uklidnit se",
+      "en": "to calm down",
+      "uk": "заспокоїтися",
+      "ru": "успокоиться",
+      "pl": "uspokoić się"
+    },
+    {
+      "id": "get-worked-up",
+      "cs": "rozčilovat se",
+      "en": "to get worked up",
+      "uk": "нервувати",
+      "ru": "нервничать",
+      "pl": "denerwować się"
+    },
+    {
+      "id": "frighten",
+      "cs": "vyděsit",
+      "en": "to frighten",
+      "uk": "налякати",
+      "ru": "напугать",
+      "pl": "przestraszyć"
+    },
+    {
+      "id": "delight",
+      "cs": "potěšit",
+      "en": "to delight",
+      "uk": "потішити",
+      "ru": "порадовать",
+      "pl": "ucieszyć"
+    },
+    {
+      "id": "suffer-worry",
+      "cs": "trápit se",
+      "en": "to suffer (worry)",
+      "uk": "мучитися",
+      "ru": "мучиться",
+      "pl": "martwić się"
     }
   ]
 }

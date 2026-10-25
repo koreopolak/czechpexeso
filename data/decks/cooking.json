@@ -1,0 +1,349 @@
+{
+  "id": "cooking",
+  "order": 225,
+  "level": "B1",
+  "icon": "pot",
+  "title": {
+    "cs": "Vaření a chutě",
+    "en": "Cooking & Flavours",
+    "uk": "Кулінарія та смаки",
+    "ru": "Кулинария и вкусы",
+    "pl": "Gotowanie i smaki"
+  },
+  "description": {
+    "en": "Spices, flavours and cooking techniques.",
+    "uk": "Прянощі, смаки й кулінарні прийоми.",
+    "ru": "Пряности, вкусы и кулинарные приёмы.",
+    "pl": "Przyprawy, smaki i techniki gotowania."
+  },
+  "words": [
+    {
+      "id": "seasoned",
+      "cs": "kořeněný",
+      "en": "seasoned",
+      "uk": "пряний",
+      "ru": "пряный",
+      "pl": "przyprawiony"
+    },
+    {
+      "id": "greasy",
+      "cs": "mastný",
+      "en": "greasy",
+      "uk": "масний",
+      "ru": "сальный",
+      "pl": "tłusty"
+    },
+    {
+      "id": "high-fat",
+      "cs": "tučný",
+      "en": "high-fat",
+      "uk": "жирний",
+      "ru": "жирный",
+      "pl": "pełnotłusty"
+    },
+    {
+      "id": "lean",
+      "cs": "libový",
+      "en": "lean",
+      "uk": "пісний",
+      "ru": "постный",
+      "pl": "chudy"
+    },
+    {
+      "id": "crunchy",
+      "cs": "křupavý",
+      "en": "crunchy",
+      "uk": "хрусткий",
+      "ru": "хрустящий",
+      "pl": "chrupiący"
+    },
+    {
+      "id": "juicy",
+      "cs": "šťavnatý",
+      "en": "juicy",
+      "uk": "соковитий",
+      "ru": "сочный",
+      "pl": "soczysty"
+    },
+    {
+      "id": "bland",
+      "cs": "nevýrazný",
+      "en": "bland",
+      "uk": "прісний",
+      "ru": "пресный",
+      "pl": "mdły"
+    },
+    {
+      "id": "sweetish",
+      "cs": "nasládlý",
+      "en": "sweetish",
+      "uk": "солодкуватий",
+      "ru": "сладковатый",
+      "pl": "słodkawy"
+    },
+    {
+      "id": "smoked",
+      "cs": "uzený",
+      "en": "smoked",
+      "uk": "копчений",
+      "ru": "копчёный",
+      "pl": "wędzony"
+    },
+    {
+      "id": "pickled",
+      "cs": "nakládaný",
+      "en": "pickled",
+      "uk": "маринований",
+      "ru": "маринованный",
+      "pl": "marynowany"
+    },
+    {
+      "id": "dried",
+      "cs": "sušený",
+      "en": "dried",
+      "uk": "сушений",
+      "ru": "сушёный",
+      "pl": "suszony"
+    },
+    {
+      "id": "frozen",
+      "cs": "mražený",
+      "en": "frozen",
+      "uk": "заморожений",
+      "ru": "замороженный",
+      "pl": "mrożony"
+    },
+    {
+      "id": "canned",
+      "cs": "konzervovaný",
+      "en": "canned",
+      "uk": "консервований",
+      "ru": "консервированный",
+      "pl": "konserwowy"
+    },
+    {
+      "id": "homemade",
+      "cs": "domácí",
+      "en": "homemade",
+      "uk": "домашній",
+      "ru": "домашний",
+      "pl": "domowy"
+    },
+    {
+      "id": "overcooked",
+      "cs": "rozvařený",
+      "en": "overcooked",
+      "uk": "розварений",
+      "ru": "разваренный",
+      "pl": "rozgotowany"
+    },
+    {
+      "id": "dough",
+      "cs": "těsto",
+      "en": "dough",
+      "uk": "тісто",
+      "ru": "тесто",
+      "pl": "ciasto"
+    },
+    {
+      "id": "icing",
+      "cs": "poleva",
+      "en": "icing",
+      "uk": "глазур",
+      "ru": "глазурь",
+      "pl": "polewa"
+    },
+    {
+      "id": "breadcrumbs",
+      "cs": "strouhanka",
+      "en": "breadcrumbs",
+      "uk": "панірувальні сухарі",
+      "ru": "панировочные сухари",
+      "pl": "bułka tarta"
+    },
+    {
+      "id": "vanilla",
+      "cs": "vanilka",
+      "en": "vanilla",
+      "uk": "ваніль",
+      "ru": "ваниль",
+      "pl": "wanilia"
+    },
+    {
+      "id": "cinnamon",
+      "cs": "skořice",
+      "en": "cinnamon",
+      "uk": "кориця",
+      "ru": "корица",
+      "pl": "cynamon"
+    },
+    {
+      "id": "clove",
+      "cs": "hřebíček",
+      "en": "clove",
+      "uk": "гвоздика (прянощі)",
+      "ru": "гвоздика (пряность)",
+      "pl": "goździk (przyprawa)"
+    },
+    {
+      "id": "nutmeg",
+      "cs": "muškátový oříšek",
+      "en": "nutmeg",
+      "uk": "мускатний горіх",
+      "ru": "мускатный орех",
+      "pl": "gałka muszkatołowa"
+    },
+    {
+      "id": "caraway",
+      "cs": "kmín",
+      "en": "caraway",
+      "uk": "кмин",
+      "ru": "тмин",
+      "pl": "kminek"
+    },
+    {
+      "id": "marjoram",
+      "cs": "majoránka",
+      "en": "marjoram",
+      "uk": "майоран",
+      "ru": "майоран",
+      "pl": "majeranek"
+    },
+    {
+      "id": "thyme",
+      "cs": "tymián",
+      "en": "thyme",
+      "uk": "чебрець",
+      "ru": "тимьян",
+      "pl": "tymianek"
+    },
+    {
+      "id": "rosemary",
+      "cs": "rozmarýn",
+      "en": "rosemary",
+      "uk": "розмарин",
+      "ru": "розмарин",
+      "pl": "rozmaryn"
+    },
+    {
+      "id": "oregano",
+      "cs": "oregano",
+      "en": "oregano",
+      "uk": "орегано",
+      "ru": "орегано",
+      "pl": "oregano"
+    },
+    {
+      "id": "bay-leaf",
+      "cs": "bobkový list",
+      "en": "bay leaf",
+      "uk": "лавровий лист",
+      "ru": "лавровый лист",
+      "pl": "liść laurowy"
+    },
+    {
+      "id": "allspice",
+      "cs": "nové koření",
+      "en": "allspice",
+      "uk": "запашний перець",
+      "ru": "душистый перец",
+      "pl": "ziele angielskie"
+    },
+    {
+      "id": "turmeric",
+      "cs": "kurkuma",
+      "en": "turmeric",
+      "uk": "куркума",
+      "ru": "куркума",
+      "pl": "kurkuma"
+    },
+    {
+      "id": "curry",
+      "cs": "kari",
+      "en": "curry",
+      "uk": "карі",
+      "ru": "карри",
+      "pl": "curry"
+    },
+    {
+      "id": "soy-sauce",
+      "cs": "sójová omáčka",
+      "en": "soy sauce",
+      "uk": "соєвий соус",
+      "ru": "соевый соус",
+      "pl": "sos sojowy"
+    },
+    {
+      "id": "steam",
+      "cs": "vařit na páře",
+      "en": "to steam",
+      "uk": "готувати на пару",
+      "ru": "готовить на пару",
+      "pl": "gotować na parze"
+    },
+    {
+      "id": "bake-au-gratin",
+      "cs": "zapéct",
+      "en": "to bake au gratin",
+      "uk": "запекти",
+      "ru": "запечь",
+      "pl": "zapiec"
+    },
+    {
+      "id": "coat-in-batter",
+      "cs": "obalit",
+      "en": "to coat (in batter)",
+      "uk": "обваляти",
+      "ru": "обвалять",
+      "pl": "panierować"
+    },
+    {
+      "id": "dice",
+      "cs": "nakrájet na kostičky",
+      "en": "to dice",
+      "uk": "нарізати кубиками",
+      "ru": "нарезать кубиками",
+      "pl": "pokroić w kostkę"
+    },
+    {
+      "id": "brown",
+      "cs": "osmahnout",
+      "en": "to brown",
+      "uk": "обсмажити",
+      "ru": "обжарить",
+      "pl": "podsmażyć"
+    },
+    {
+      "id": "bring-to-the-boil",
+      "cs": "přivést k varu",
+      "en": "to bring to the boil",
+      "uk": "довести до кипіння",
+      "ru": "довести до кипения",
+      "pl": "zagotować"
+    },
+    {
+      "id": "rise-dough",
+      "cs": "vykynout",
+      "en": "to rise (dough)",
+      "uk": "підійти",
+      "ru": "подняться",
+      "pl": "wyrosnąć"
+    },
+    {
+      "id": "knead",
+      "cs": "hníst",
+      "en": "to knead",
+      "uk": "місити",
+      "ru": "месить",
+      "pl": "wyrabiać"
+    },
+    {
+      "id": "tasting",
+      "cs": "ochutnávka",
+      "en": "tasting",
+      "uk": "дегустація",
+      "ru": "дегустация",
+      "pl": "degustacja"
+    }
+  ]
+}

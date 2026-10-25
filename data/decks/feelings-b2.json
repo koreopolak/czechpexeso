@@ -1,0 +1,253 @@
+{
+  "id": "feelings-b2",
+  "order": 320,
+  "level": "B2",
+  "icon": "heart",
+  "title": {
+    "cs": "Pocity a postoje",
+    "en": "Feelings & Attitudes",
+    "uk": "Почуття та ставлення",
+    "ru": "Чувства и отношение",
+    "pl": "Uczucia i postawy"
+  },
+  "description": {
+    "en": "Nuanced adjectives for moods and attitudes.",
+    "uk": "Тонкі прикметники для настроїв і ставлень.",
+    "ru": "Тонкие прилагательные для настроений и отношений.",
+    "pl": "Subtelne przymiotniki na nastroje i postawy."
+  },
+  "words": [
+    {
+      "id": "enthusiastic",
+      "cs": "nadšený",
+      "en": "enthusiastic",
+      "uk": "захоплений",
+      "ru": "восторженный",
+      "pl": "entuzjastyczny"
+    },
+    {
+      "id": "indifferent",
+      "cs": "lhostejný",
+      "en": "indifferent",
+      "uk": "байдужий",
+      "ru": "равнодушный",
+      "pl": "obojętny"
+    },
+    {
+      "id": "indignant",
+      "cs": "rozhořčený",
+      "en": "indignant",
+      "uk": "обурений",
+      "ru": "возмущённый",
+      "pl": "oburzony"
+    },
+    {
+      "id": "outraged",
+      "cs": "pobouřený",
+      "en": "outraged",
+      "uk": "розгніваний",
+      "ru": "разгневанный",
+      "pl": "wzburzony"
+    },
+    {
+      "id": "ashamed",
+      "cs": "zahanbený",
+      "en": "ashamed",
+      "uk": "присоромлений",
+      "ru": "пристыженный",
+      "pl": "zawstydzony"
+    },
+    {
+      "id": "humiliated",
+      "cs": "ponížený",
+      "en": "humiliated",
+      "uk": "принижений",
+      "ru": "униженный",
+      "pl": "upokorzony"
+    },
+    {
+      "id": "insulted",
+      "cs": "uražený",
+      "en": "insulted",
+      "uk": "ображений",
+      "ru": "оскорблённый",
+      "pl": "urażony"
+    },
+    {
+      "id": "jilted",
+      "cs": "zhrzený",
+      "en": "jilted",
+      "uk": "знехтуваний",
+      "ru": "отвергнутый",
+      "pl": "porzucony"
+    },
+    {
+      "id": "downcast",
+      "cs": "sklíčený",
+      "en": "downcast",
+      "uk": "пригнічений",
+      "ru": "подавленный",
+      "pl": "przygnębiony"
+    },
+    {
+      "id": "melancholic",
+      "cs": "melancholický",
+      "en": "melancholic",
+      "uk": "меланхолійний",
+      "ru": "меланхоличный",
+      "pl": "melancholijny"
+    },
+    {
+      "id": "nostalgic",
+      "cs": "nostalgický",
+      "en": "nostalgic",
+      "uk": "ностальгічний",
+      "ru": "ностальгический",
+      "pl": "nostalgiczny"
+    },
+    {
+      "id": "euphoric",
+      "cs": "euforický",
+      "en": "euphoric",
+      "uk": "ейфоричний",
+      "ru": "эйфорический",
+      "pl": "euforyczny"
+    },
+    {
+      "id": "composed",
+      "cs": "vyrovnaný",
+      "en": "composed",
+      "uk": "урівноважений",
+      "ru": "уравновешенный",
+      "pl": "zrównoważony"
+    },
+    {
+      "id": "terrified",
+      "cs": "vyděšený",
+      "en": "terrified",
+      "uk": "наляканий до смерті",
+      "ru": "перепуганный",
+      "pl": "przerażony"
+    },
+    {
+      "id": "disgusted",
+      "cs": "znechucený",
+      "en": "disgusted",
+      "uk": "сповнений огиди",
+      "ru": "испытывающий отвращение",
+      "pl": "zniesmaczony"
+    },
+    {
+      "id": "embarrassed",
+      "cs": "rozpačitý",
+      "en": "embarrassed",
+      "uk": "збентежений",
+      "ru": "смущённый",
+      "pl": "zakłopotany"
+    },
+    {
+      "id": "distrustful",
+      "cs": "nedůvěřivý",
+      "en": "distrustful",
+      "uk": "недовірливий",
+      "ru": "недоверчивый",
+      "pl": "nieufny"
+    },
+    {
+      "id": "accommodating",
+      "cs": "vstřícný",
+      "en": "accommodating",
+      "uk": "привітний",
+      "ru": "отзывчивый",
+      "pl": "życzliwy"
+    },
+    {
+      "id": "willing",
+      "cs": "ochotný",
+      "en": "willing",
+      "uk": "готовий допомогти",
+      "ru": "готовый помочь",
+      "pl": "chętny"
+    },
+    {
+      "id": "unwilling",
+      "cs": "neochotný",
+      "en": "unwilling",
+      "uk": "неохочий",
+      "ru": "неохотный",
+      "pl": "niechętny"
+    },
+    {
+      "id": "determined",
+      "cs": "odhodlaný",
+      "en": "determined",
+      "uk": "рішучий",
+      "ru": "решительный",
+      "pl": "zdeterminowany"
+    },
+    {
+      "id": "indecisive",
+      "cs": "nerozhodný",
+      "en": "indecisive",
+      "uk": "нерішучий",
+      "ru": "нерешительный",
+      "pl": "niezdecydowany"
+    },
+    {
+      "id": "scandalised",
+      "cs": "pohoršený",
+      "en": "scandalised",
+      "uk": "обурений поведінкою",
+      "ru": "шокированный поведением",
+      "pl": "zgorszony"
+    },
+    {
+      "id": "compassionate",
+      "cs": "soucitný",
+      "en": "compassionate",
+      "uk": "співчутливий",
+      "ru": "сострадательный",
+      "pl": "współczujący"
+    },
+    {
+      "id": "inconsiderate",
+      "cs": "bezohledný",
+      "en": "inconsiderate",
+      "uk": "безцеремонний",
+      "ru": "бесцеремонный",
+      "pl": "bezwzględny"
+    },
+    {
+      "id": "considerate",
+      "cs": "ohleduplný",
+      "en": "considerate",
+      "uk": "тактовний",
+      "ru": "тактичный",
+      "pl": "taktowny"
+    },
+    {
+      "id": "envious",
+      "cs": "závistivý",
+      "en": "envious",
+      "uk": "заздрісний",
+      "ru": "завистливый",
+      "pl": "zazdrosny"
+    },
+    {
+      "id": "vengeful",
+      "cs": "pomstychtivý",
+      "en": "vengeful",
+      "uk": "мстивий",
+      "ru": "мстительный",
+      "pl": "mściwy"
+    },
+    {
+      "id": "conciliatory",
+      "cs": "smířlivý",
+      "en": "conciliatory",
+      "uk": "примирливий",
+      "ru": "примирительный",
+      "pl": "pojednawczy"
+    }
+  ]
+}

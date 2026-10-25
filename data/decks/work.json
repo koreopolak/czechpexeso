@@ -1,6 +1,6 @@
 {
   "id": "work",
-  "order": 60,
+  "order": 201,
   "level": "B1",
   "icon": "chart",
   "title": {
@@ -440,6 +440,262 @@
       "uk": "співпрацювати",
       "ru": "сотрудничать",
       "pl": "współpracować"
+    },
+    {
+      "id": "hr-department",
+      "cs": "personální oddělení",
+      "en": "HR department",
+      "uk": "відділ кадрів",
+      "ru": "отдел кадров",
+      "pl": "dział kadr"
+    },
+    {
+      "id": "hr-officer",
+      "cs": "personalista",
+      "en": "HR officer",
+      "uk": "кадровик",
+      "ru": "кадровик",
+      "pl": "specjalista ds. kadr"
+    },
+    {
+      "id": "recruitment",
+      "cs": "nábor",
+      "en": "recruitment",
+      "uk": "набір персоналу",
+      "ru": "набор персонала",
+      "pl": "rekrutacja"
+    },
+    {
+      "id": "selection-process",
+      "cs": "výběrové řízení",
+      "en": "selection process",
+      "uk": "конкурсний відбір",
+      "ru": "конкурсный отбор",
+      "pl": "proces rekrutacji"
+    },
+    {
+      "id": "start-date",
+      "cs": "nástup",
+      "en": "start date",
+      "uk": "дата початку роботи",
+      "ru": "дата выхода на работу",
+      "pl": "data rozpoczęcia pracy"
+    },
+    {
+      "id": "employment-contract",
+      "cs": "pracovní smlouva",
+      "en": "employment contract",
+      "uk": "трудовий договір",
+      "ru": "трудовой договор",
+      "pl": "umowa o pracę"
+    },
+    {
+      "id": "wage",
+      "cs": "mzda",
+      "en": "wage",
+      "uk": "оплата праці",
+      "ru": "оплата труда",
+      "pl": "płaca"
+    },
+    {
+      "id": "gross-wage",
+      "cs": "hrubá mzda",
+      "en": "gross wage",
+      "uk": "зарплата брутто",
+      "ru": "зарплата брутто",
+      "pl": "płaca brutto"
+    },
+    {
+      "id": "net-wage",
+      "cs": "čistá mzda",
+      "en": "net wage",
+      "uk": "зарплата нетто",
+      "ru": "зарплата нетто",
+      "pl": "płaca netto"
+    },
+    {
+      "id": "bonus",
+      "cs": "prémie",
+      "en": "bonus",
+      "uk": "премія",
+      "ru": "премия",
+      "pl": "premia"
+    },
+    {
+      "id": "sick-pay",
+      "cs": "nemocenská",
+      "en": "sick pay",
+      "uk": "лікарняні",
+      "ru": "больничные",
+      "pl": "zasiłek chorobowy"
+    },
+    {
+      "id": "maternity-leave",
+      "cs": "mateřská dovolená",
+      "en": "maternity leave",
+      "uk": "декретна відпустка",
+      "ru": "декретный отпуск",
+      "pl": "urlop macierzyński"
+    },
+    {
+      "id": "parental-leave",
+      "cs": "rodičovská dovolená",
+      "en": "parental leave",
+      "uk": "відпустка по догляду за дитиною",
+      "ru": "отпуск по уходу за ребёнком",
+      "pl": "urlop rodzicielski"
+    },
+    {
+      "id": "working-from-home",
+      "cs": "práce z domova",
+      "en": "working from home",
+      "uk": "робота з дому",
+      "ru": "работа из дома",
+      "pl": "praca zdalna"
+    },
+    {
+      "id": "subordinate",
+      "cs": "podřízený",
+      "en": "subordinate",
+      "uk": "підлеглий",
+      "ru": "подчинённый",
+      "pl": "podwładny"
+    },
+    {
+      "id": "superior-at-work",
+      "cs": "nadřízený",
+      "en": "superior (at work)",
+      "uk": "вищий за посадою",
+      "ru": "вышестоящий",
+      "pl": "przełożony"
+    },
+    {
+      "id": "department",
+      "cs": "oddělení",
+      "en": "department",
+      "uk": "відділ",
+      "ru": "отдел",
+      "pl": "dział"
+    },
+    {
+      "id": "branch-office",
+      "cs": "pobočka",
+      "en": "branch (office)",
+      "uk": "філія",
+      "ru": "филиал",
+      "pl": "oddział"
+    },
+    {
+      "id": "headquarters",
+      "cs": "centrála",
+      "en": "headquarters",
+      "uk": "головний офіс",
+      "ru": "головной офис",
+      "pl": "centrala"
+    },
+    {
+      "id": "client",
+      "cs": "klient",
+      "en": "client",
+      "uk": "клієнт",
+      "ru": "клиент",
+      "pl": "klient"
+    },
+    {
+      "id": "supplier",
+      "cs": "dodavatel",
+      "en": "supplier",
+      "uk": "постачальник",
+      "ru": "поставщик",
+      "pl": "dostawca"
+    },
+    {
+      "id": "invoice",
+      "cs": "faktura",
+      "en": "invoice",
+      "uk": "рахунок-фактура",
+      "ru": "счёт-фактура",
+      "pl": "faktura"
+    },
+    {
+      "id": "warehouse",
+      "cs": "sklad",
+      "en": "warehouse",
+      "uk": "склад",
+      "ru": "склад",
+      "pl": "magazyn"
+    },
+    {
+      "id": "production",
+      "cs": "výroba",
+      "en": "production",
+      "uk": "виробництво",
+      "ru": "производство",
+      "pl": "produkcja"
+    },
+    {
+      "id": "training-course",
+      "cs": "školení",
+      "en": "training course",
+      "uk": "навчання",
+      "ru": "обучение",
+      "pl": "szkolenie"
+    },
+    {
+      "id": "appraisal",
+      "cs": "hodnocení",
+      "en": "appraisal",
+      "uk": "оцінювання",
+      "ru": "оценка работы",
+      "pl": "ocena pracownika"
+    },
+    {
+      "id": "job-description",
+      "cs": "pracovní náplň",
+      "en": "job description",
+      "uk": "посадові обов’язки",
+      "ru": "должностные обязанности",
+      "pl": "zakres obowiązków"
+    },
+    {
+      "id": "train-a-new-worker",
+      "cs": "zaučit",
+      "en": "to train (a new worker)",
+      "uk": "навчити",
+      "ru": "обучить",
+      "pl": "wdrożyć"
+    },
+    {
+      "id": "dismiss",
+      "cs": "propustit",
+      "en": "to dismiss",
+      "uk": "звільнити",
+      "ru": "уволить",
+      "pl": "zwolnić"
+    },
+    {
+      "id": "workplace",
+      "cs": "pracoviště",
+      "en": "workplace",
+      "uk": "робоче місце",
+      "ru": "рабочее место",
+      "pl": "miejsce pracy"
+    },
+    {
+      "id": "meal-vouchers",
+      "cs": "stravenky",
+      "en": "meal vouchers",
+      "uk": "талони на харчування",
+      "ru": "талоны на питание",
+      "pl": "bony żywieniowe"
+    },
+    {
+      "id": "perk",
+      "cs": "benefit",
+      "en": "perk",
+      "uk": "бонус",
+      "ru": "льгота",
+      "pl": "dodatek"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "restaurant",
-  "order": 39,
+  "order": 111,
   "level": "A2",
   "icon": "fork",
   "title": {
@@ -376,6 +376,190 @@
       "uk": "я заплачу карткою",
       "ru": "я заплачу картой",
       "pl": "zapłacę kartą"
+    },
+    {
+      "id": "regular-customer",
+      "cs": "stálý host",
+      "en": "regular customer",
+      "uk": "постійний клієнт",
+      "ru": "постоянный клиент",
+      "pl": "stały klient"
+    },
+    {
+      "id": "head-chef",
+      "cs": "šéfkuchař",
+      "en": "head chef",
+      "uk": "шеф-кухар",
+      "ru": "шеф-повар",
+      "pl": "szef kuchni"
+    },
+    {
+      "id": "service",
+      "cs": "obsluha",
+      "en": "service",
+      "uk": "обслуговування",
+      "ru": "обслуживание",
+      "pl": "obsługa"
+    },
+    {
+      "id": "self-service",
+      "cs": "samoobsluha",
+      "en": "self-service",
+      "uk": "самообслуговування",
+      "ru": "самообслуживание",
+      "pl": "samoobsługa"
+    },
+    {
+      "id": "buffet",
+      "cs": "bufet",
+      "en": "buffet",
+      "uk": "шведський стіл",
+      "ru": "шведский стол",
+      "pl": "bufet"
+    },
+    {
+      "id": "fast-food",
+      "cs": "rychlé občerstvení",
+      "en": "fast food",
+      "uk": "фастфуд",
+      "ru": "фастфуд",
+      "pl": "fast food"
+    },
+    {
+      "id": "steak-tartare",
+      "cs": "tatarák",
+      "en": "steak tartare",
+      "uk": "тартар",
+      "ru": "тартар",
+      "pl": "tatar"
+    },
+    {
+      "id": "pickled-sausage",
+      "cs": "utopenec",
+      "en": "pickled sausage",
+      "uk": "маринована сарделька",
+      "ru": "маринованная сарделька",
+      "pl": "marynowana kiełbaska"
+    },
+    {
+      "id": "pickled-camembert",
+      "cs": "nakládaný hermelín",
+      "en": "pickled camembert",
+      "uk": "маринований камамбер",
+      "ru": "маринованный камамбер",
+      "pl": "marynowany camembert"
+    },
+    {
+      "id": "potato-pancakes",
+      "cs": "bramboráky",
+      "en": "potato pancakes",
+      "uk": "деруни",
+      "ru": "драники",
+      "pl": "placki ziemniaczane"
+    },
+    {
+      "id": "creamy-dill-soup",
+      "cs": "kulajda",
+      "en": "creamy dill soup",
+      "uk": "кулайда (суп з кропом)",
+      "ru": "кулайда (суп с укропом)",
+      "pl": "zupa koperkowa"
+    },
+    {
+      "id": "garlic-soup",
+      "cs": "česnečka",
+      "en": "garlic soup",
+      "uk": "часниковий суп",
+      "ru": "чесночный суп",
+      "pl": "zupa czosnkowa"
+    },
+    {
+      "id": "sauerkraut-soup",
+      "cs": "zelňačka",
+      "en": "sauerkraut soup",
+      "uk": "капусняк",
+      "ru": "капустный суп",
+      "pl": "kapuśniak"
+    },
+    {
+      "id": "roast-pork",
+      "cs": "vepřová pečeně",
+      "en": "roast pork",
+      "uk": "запечена свинина",
+      "ru": "запечённая свинина",
+      "pl": "pieczeń wieprzowa"
+    },
+    {
+      "id": "roast-duck",
+      "cs": "pečená kachna",
+      "en": "roast duck",
+      "uk": "запечена качка",
+      "ru": "запечённая утка",
+      "pl": "pieczona kaczka"
+    },
+    {
+      "id": "fruit-dumplings",
+      "cs": "ovocné knedlíky",
+      "en": "fruit dumplings",
+      "uk": "вареники з фруктами",
+      "ru": "фруктовые кнедлики",
+      "pl": "knedle z owocami"
+    },
+    {
+      "id": "honey-cake",
+      "cs": "medovník",
+      "en": "honey cake",
+      "uk": "медовик",
+      "ru": "медовик",
+      "pl": "miodownik"
+    },
+    {
+      "id": "cream-puff",
+      "cs": "větrník",
+      "en": "cream puff",
+      "uk": "заварне тістечко",
+      "ru": "заварное пирожное",
+      "pl": "ptyś"
+    },
+    {
+      "id": "beer-hall",
+      "cs": "pivnice",
+      "en": "beer hall",
+      "uk": "пивна",
+      "ru": "пивная",
+      "pl": "piwiarnia"
+    },
+    {
+      "id": "wine-bar",
+      "cs": "vinárna",
+      "en": "wine bar",
+      "uk": "винний бар",
+      "ru": "винный бар",
+      "pl": "winiarnia"
+    },
+    {
+      "id": "tea-room",
+      "cs": "čajovna",
+      "en": "tea room",
+      "uk": "чайна",
+      "ru": "чайная",
+      "pl": "herbaciarnia"
+    },
+    {
+      "id": "too-salty",
+      "cs": "přesolený",
+      "en": "too salty",
+      "uk": "пересолений",
+      "ru": "пересоленный",
+      "pl": "przesolony"
+    },
+    {
+      "id": "gone-cold",
+      "cs": "vystydlý",
+      "en": "gone cold",
+      "uk": "вистиглий",
+      "ru": "остывший",
+      "pl": "wystygły"
     }
   ]
 }

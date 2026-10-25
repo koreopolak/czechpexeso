@@ -1,0 +1,285 @@
+{
+  "id": "energy-industry",
+  "order": 312,
+  "level": "B2",
+  "icon": "flame",
+  "title": {
+    "cs": "Energie a průmysl",
+    "en": "Energy & Industry",
+    "uk": "Енергетика та промисловість",
+    "ru": "Энергетика и промышленность",
+    "pl": "Energia i przemysł"
+  },
+  "description": {
+    "en": "Factories, mines and power.",
+    "uk": "Заводи, шахти й енергія.",
+    "ru": "Заводы, шахты и энергия.",
+    "pl": "Fabryki, kopalnie i energia."
+  },
+  "words": [
+    {
+      "id": "industry",
+      "cs": "průmysl",
+      "en": "industry",
+      "uk": "промисловість",
+      "ru": "промышленность",
+      "pl": "przemysł"
+    },
+    {
+      "id": "heavy-industry",
+      "cs": "těžký průmysl",
+      "en": "heavy industry",
+      "uk": "важка промисловість",
+      "ru": "тяжёлая промышленность",
+      "pl": "przemysł ciężki"
+    },
+    {
+      "id": "car-industry",
+      "cs": "automobilový průmysl",
+      "en": "car industry",
+      "uk": "автомобільна промисловість",
+      "ru": "автомобильная промышленность",
+      "pl": "przemysł motoryzacyjny"
+    },
+    {
+      "id": "food-industry",
+      "cs": "potravinářský průmysl",
+      "en": "food industry",
+      "uk": "харчова промисловість",
+      "ru": "пищевая промышленность",
+      "pl": "przemysł spożywczy"
+    },
+    {
+      "id": "mechanical-engineering",
+      "cs": "strojírenství",
+      "en": "mechanical engineering",
+      "uk": "машинобудування",
+      "ru": "машиностроение",
+      "pl": "przemysł maszynowy"
+    },
+    {
+      "id": "metallurgy",
+      "cs": "hutnictví",
+      "en": "metallurgy",
+      "uk": "металургія",
+      "ru": "металлургия",
+      "pl": "hutnictwo"
+    },
+    {
+      "id": "mine",
+      "cs": "důl",
+      "en": "mine",
+      "uk": "шахта",
+      "ru": "шахта",
+      "pl": "kopalnia"
+    },
+    {
+      "id": "miner",
+      "cs": "horník",
+      "en": "miner",
+      "uk": "шахтар",
+      "ru": "шахтёр",
+      "pl": "górnik"
+    },
+    {
+      "id": "mining",
+      "cs": "těžba",
+      "en": "mining",
+      "uk": "видобуток",
+      "ru": "добыча",
+      "pl": "wydobycie"
+    },
+    {
+      "id": "oil-refinery",
+      "cs": "ropná rafinerie",
+      "en": "oil refinery",
+      "uk": "нафтопереробний завод",
+      "ru": "нефтеперерабатывающий завод",
+      "pl": "rafineria"
+    },
+    {
+      "id": "gas-pipeline",
+      "cs": "plynovod",
+      "en": "gas pipeline",
+      "uk": "газопровід",
+      "ru": "газопровод",
+      "pl": "gazociąg"
+    },
+    {
+      "id": "power-grid",
+      "cs": "elektrická síť",
+      "en": "power grid",
+      "uk": "електромережа",
+      "ru": "электросеть",
+      "pl": "sieć energetyczna"
+    },
+    {
+      "id": "power-cut",
+      "cs": "výpadek proudu",
+      "en": "power cut",
+      "uk": "відключення світла",
+      "ru": "отключение электричества",
+      "pl": "przerwa w dostawie prądu"
+    },
+    {
+      "id": "power-station",
+      "cs": "elektrárna",
+      "en": "power station",
+      "uk": "електростанція",
+      "ru": "электростанция",
+      "pl": "elektrownia"
+    },
+    {
+      "id": "turbine",
+      "cs": "turbína",
+      "en": "turbine",
+      "uk": "турбіна",
+      "ru": "турбина",
+      "pl": "turbina"
+    },
+    {
+      "id": "generator",
+      "cs": "generátor",
+      "en": "generator",
+      "uk": "генератор",
+      "ru": "генератор",
+      "pl": "generator"
+    },
+    {
+      "id": "reactor",
+      "cs": "reaktor",
+      "en": "reactor",
+      "uk": "реактор",
+      "ru": "реактор",
+      "pl": "reaktor"
+    },
+    {
+      "id": "fuel",
+      "cs": "palivo",
+      "en": "fuel",
+      "uk": "паливо",
+      "ru": "топливо",
+      "pl": "paliwo"
+    },
+    {
+      "id": "production-line",
+      "cs": "výrobní linka",
+      "en": "production line",
+      "uk": "виробнича лінія",
+      "ru": "производственная линия",
+      "pl": "linia produkcyjna"
+    },
+    {
+      "id": "automation",
+      "cs": "automatizace",
+      "en": "automation",
+      "uk": "автоматизація",
+      "ru": "автоматизация",
+      "pl": "automatyzacja"
+    },
+    {
+      "id": "machine",
+      "cs": "stroj",
+      "en": "machine",
+      "uk": "верстат",
+      "ru": "станок",
+      "pl": "maszyna"
+    },
+    {
+      "id": "equipment",
+      "cs": "zařízení",
+      "en": "equipment",
+      "uk": "обладнання",
+      "ru": "оборудование",
+      "pl": "sprzęt"
+    },
+    {
+      "id": "innovation",
+      "cs": "inovace",
+      "en": "innovation",
+      "uk": "інновація",
+      "ru": "инновация",
+      "pl": "innowacja"
+    },
+    {
+      "id": "research-and-development",
+      "cs": "výzkum a vývoj",
+      "en": "research and development",
+      "uk": "дослідження і розробки",
+      "ru": "исследования и разработки",
+      "pl": "badania i rozwój"
+    },
+    {
+      "id": "industrial-zone",
+      "cs": "průmyslová zóna",
+      "en": "industrial zone",
+      "uk": "промислова зона",
+      "ru": "промышленная зона",
+      "pl": "strefa przemysłowa"
+    },
+    {
+      "id": "energy-crisis",
+      "cs": "energetická krize",
+      "en": "energy crisis",
+      "uk": "енергетична криза",
+      "ru": "энергетический кризис",
+      "pl": "kryzys energetyczny"
+    },
+    {
+      "id": "factory-hall",
+      "cs": "tovární hala",
+      "en": "factory hall",
+      "uk": "заводський цех",
+      "ru": "заводской цех",
+      "pl": "hala fabryczna"
+    },
+    {
+      "id": "foreman",
+      "cs": "mistr",
+      "en": "foreman",
+      "uk": "майстер",
+      "ru": "мастер",
+      "pl": "brygadzista"
+    },
+    {
+      "id": "mass-production",
+      "cs": "sériová výroba",
+      "en": "mass production",
+      "uk": "серійне виробництво",
+      "ru": "серийное производство",
+      "pl": "produkcja seryjna"
+    },
+    {
+      "id": "prototype",
+      "cs": "prototyp",
+      "en": "prototype",
+      "uk": "прототип",
+      "ru": "прототип",
+      "pl": "prototyp"
+    },
+    {
+      "id": "raw-material",
+      "cs": "surovina",
+      "en": "raw material",
+      "uk": "сировина",
+      "ru": "сырьё",
+      "pl": "surowiec"
+    },
+    {
+      "id": "semi-finished-product",
+      "cs": "polotovar",
+      "en": "semi-finished product",
+      "uk": "напівфабрикат",
+      "ru": "полуфабрикат",
+      "pl": "półprodukt"
+    },
+    {
+      "id": "product",
+      "cs": "výrobek",
+      "en": "product",
+      "uk": "виріб",
+      "ru": "изделие",
+      "pl": "wyrób"
+    }
+  ]
+}

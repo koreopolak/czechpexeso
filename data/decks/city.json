@@ -416,6 +416,254 @@
       "uk": "карта міста",
       "ru": "карта города",
       "pl": "plan miasta"
+    },
+    {
+      "id": "alley",
+      "cs": "ulička",
+      "en": "alley",
+      "uk": "провулок",
+      "ru": "переулок",
+      "pl": "uliczka"
+    },
+    {
+      "id": "boulevard",
+      "cs": "bulvár",
+      "en": "boulevard",
+      "uk": "бульвар",
+      "ru": "бульвар",
+      "pl": "bulwar"
+    },
+    {
+      "id": "embankment",
+      "cs": "nábřeží",
+      "en": "embankment",
+      "uk": "набережна",
+      "ru": "набережная",
+      "pl": "nabrzeże"
+    },
+    {
+      "id": "underpass",
+      "cs": "podchod",
+      "en": "underpass",
+      "uk": "підземний перехід",
+      "ru": "подземный переход",
+      "pl": "przejście podziemne"
+    },
+    {
+      "id": "bench",
+      "cs": "lavička",
+      "en": "bench",
+      "uk": "лавка",
+      "ru": "скамейка",
+      "pl": "ławka"
+    },
+    {
+      "id": "street-lamp",
+      "cs": "pouliční lampa",
+      "en": "street lamp",
+      "uk": "ліхтар",
+      "ru": "фонарь",
+      "pl": "latarnia"
+    },
+    {
+      "id": "dustbin",
+      "cs": "popelnice",
+      "en": "dustbin",
+      "uk": "сміттєвий бак",
+      "ru": "мусорный бак",
+      "pl": "kubeł na śmieci"
+    },
+    {
+      "id": "shopping-centre",
+      "cs": "nákupní centrum",
+      "en": "shopping centre",
+      "uk": "торговий центр",
+      "ru": "торговый центр",
+      "pl": "centrum handlowe"
+    },
+    {
+      "id": "department-store",
+      "cs": "obchodní dům",
+      "en": "department store",
+      "uk": "універмаг",
+      "ru": "универмаг",
+      "pl": "dom towarowy"
+    },
+    {
+      "id": "market-hall",
+      "cs": "tržnice",
+      "en": "market hall",
+      "uk": "критий ринок",
+      "ru": "крытый рынок",
+      "pl": "hala targowa"
+    },
+    {
+      "id": "florist-s",
+      "cs": "květinářství",
+      "en": "florist’s",
+      "uk": "квіткова крамниця",
+      "ru": "цветочный магазин",
+      "pl": "kwiaciarnia"
+    },
+    {
+      "id": "stationer-s",
+      "cs": "papírnictví",
+      "en": "stationer’s",
+      "uk": "канцтовари",
+      "ru": "канцтовары",
+      "pl": "sklep papierniczy"
+    },
+    {
+      "id": "newsagent-s",
+      "cs": "trafika",
+      "en": "newsagent’s",
+      "uk": "газетний кіоск",
+      "ru": "газетный киоск",
+      "pl": "kiosk"
+    },
+    {
+      "id": "bookshop",
+      "cs": "knihkupectví",
+      "en": "bookshop",
+      "uk": "книгарня",
+      "ru": "книжный магазин",
+      "pl": "księgarnia"
+    },
+    {
+      "id": "hardware-store",
+      "cs": "železářství",
+      "en": "hardware store",
+      "uk": "господарський магазин",
+      "ru": "хозяйственный магазин",
+      "pl": "sklep żelazny"
+    },
+    {
+      "id": "drugstore",
+      "cs": "drogerie",
+      "en": "drugstore",
+      "uk": "магазин побутової хімії",
+      "ru": "магазин бытовой химии",
+      "pl": "drogeria"
+    },
+    {
+      "id": "health-centre",
+      "cs": "poliklinika",
+      "en": "health centre",
+      "uk": "поліклініка",
+      "ru": "поликлиника",
+      "pl": "przychodnia"
+    },
+    {
+      "id": "fire-station",
+      "cs": "hasičská zbrojnice",
+      "en": "fire station",
+      "uk": "пожежна частина",
+      "ru": "пожарная часть",
+      "pl": "remiza strażacka"
+    },
+    {
+      "id": "police-station",
+      "cs": "policejní stanice",
+      "en": "police station",
+      "uk": "поліцейська дільниця",
+      "ru": "полицейский участок",
+      "pl": "komisariat"
+    },
+    {
+      "id": "cathedral",
+      "cs": "katedrála",
+      "en": "cathedral",
+      "uk": "собор",
+      "ru": "собор",
+      "pl": "katedra"
+    },
+    {
+      "id": "synagogue",
+      "cs": "synagoga",
+      "en": "synagogue",
+      "uk": "синагога",
+      "ru": "синагога",
+      "pl": "synagoga"
+    },
+    {
+      "id": "mosque",
+      "cs": "mešita",
+      "en": "mosque",
+      "uk": "мечеть",
+      "ru": "мечеть",
+      "pl": "meczet"
+    },
+    {
+      "id": "monastery",
+      "cs": "klášter",
+      "en": "monastery",
+      "uk": "монастир",
+      "ru": "монастырь",
+      "pl": "klasztor"
+    },
+    {
+      "id": "palace",
+      "cs": "palác",
+      "en": "palace",
+      "uk": "палац",
+      "ru": "дворец",
+      "pl": "pałac"
+    },
+    {
+      "id": "city-walls",
+      "cs": "hradby",
+      "en": "city walls",
+      "uk": "міські мури",
+      "ru": "городские стены",
+      "pl": "mury miejskie"
+    },
+    {
+      "id": "tunnel",
+      "cs": "tunel",
+      "en": "tunnel",
+      "uk": "тунель",
+      "ru": "туннель",
+      "pl": "tunel"
+    },
+    {
+      "id": "courtyard",
+      "cs": "nádvoří",
+      "en": "courtyard",
+      "uk": "внутрішній двір",
+      "ru": "внутренний двор",
+      "pl": "dziedziniec"
+    },
+    {
+      "id": "arcade",
+      "cs": "pasáž",
+      "en": "arcade",
+      "uk": "пасаж",
+      "ru": "пассаж",
+      "pl": "pasaż"
+    },
+    {
+      "id": "public-toilets",
+      "cs": "veřejné záchodky",
+      "en": "public toilets",
+      "uk": "громадський туалет",
+      "ru": "общественный туалет",
+      "pl": "toaleta publiczna"
+    },
+    {
+      "id": "old-town",
+      "cs": "historické centrum",
+      "en": "old town",
+      "uk": "історичний центр",
+      "ru": "исторический центр",
+      "pl": "stare miasto"
+    },
+    {
+      "id": "population",
+      "cs": "obyvatelstvo",
+      "en": "population",
+      "uk": "населення",
+      "ru": "население",
+      "pl": "ludność"
     }
   ]
 }

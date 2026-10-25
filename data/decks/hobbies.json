@@ -1,6 +1,6 @@
 {
   "id": "hobbies",
-  "order": 46,
+  "order": 118,
   "level": "A2",
   "icon": "gamepad",
   "title": {
@@ -368,6 +368,174 @@
       "uk": "м’яка іграшка",
       "ru": "мягкая игрушка",
       "pl": "pluszak"
+    },
+    {
+      "id": "embroidery",
+      "cs": "vyšívání",
+      "en": "embroidery",
+      "uk": "вишивання",
+      "ru": "вышивание",
+      "pl": "haftowanie"
+    },
+    {
+      "id": "sewing",
+      "cs": "šití",
+      "en": "sewing",
+      "uk": "шиття",
+      "ru": "шитьё",
+      "pl": "szycie"
+    },
+    {
+      "id": "calligraphy",
+      "cs": "kaligrafie",
+      "en": "calligraphy",
+      "uk": "каліграфія",
+      "ru": "каллиграфия",
+      "pl": "kaligrafia"
+    },
+    {
+      "id": "birdwatching",
+      "cs": "pozorování ptáků",
+      "en": "birdwatching",
+      "uk": "спостереження за птахами",
+      "ru": "наблюдение за птицами",
+      "pl": "obserwowanie ptaków"
+    },
+    {
+      "id": "geocaching",
+      "cs": "geocaching",
+      "en": "geocaching",
+      "uk": "геокешинг",
+      "ru": "геокэшинг",
+      "pl": "geocaching"
+    },
+    {
+      "id": "diy",
+      "cs": "kutilství",
+      "en": "DIY",
+      "uk": "майстрування",
+      "ru": "ремонт своими руками",
+      "pl": "majsterkowanie"
+    },
+    {
+      "id": "collector",
+      "cs": "sběratel",
+      "en": "collector",
+      "uk": "колекціонер",
+      "ru": "коллекционер",
+      "pl": "kolekcjoner"
+    },
+    {
+      "id": "puzzle-solving",
+      "cs": "luštění",
+      "en": "puzzle solving",
+      "uk": "розгадування",
+      "ru": "разгадывание",
+      "pl": "rozwiązywanie zagadek"
+    },
+    {
+      "id": "sudoku",
+      "cs": "sudoku",
+      "en": "sudoku",
+      "uk": "судоку",
+      "ru": "судоку",
+      "pl": "sudoku"
+    },
+    {
+      "id": "quiz",
+      "cs": "kvíz",
+      "en": "quiz",
+      "uk": "вікторина",
+      "ru": "викторина",
+      "pl": "quiz"
+    },
+    {
+      "id": "karaoke",
+      "cs": "karaoke",
+      "en": "karaoke",
+      "uk": "караоке",
+      "ru": "караоке",
+      "pl": "karaoke"
+    },
+    {
+      "id": "hide-and-seek",
+      "cs": "schovávaná",
+      "en": "hide-and-seek",
+      "uk": "хованки",
+      "ru": "прятки",
+      "pl": "chowany"
+    },
+    {
+      "id": "tag-chasing-game",
+      "cs": "honička",
+      "en": "tag (chasing game)",
+      "uk": "квач",
+      "ru": "салки",
+      "pl": "berek"
+    },
+    {
+      "id": "memory-game",
+      "cs": "pexeso",
+      "en": "memory game",
+      "uk": "гра «Мемо»",
+      "ru": "игра «Мемори»",
+      "pl": "memory"
+    },
+    {
+      "id": "draughts",
+      "cs": "dáma",
+      "en": "draughts",
+      "uk": "шашки",
+      "ru": "шашки",
+      "pl": "warcaby"
+    },
+    {
+      "id": "dominoes",
+      "cs": "domino",
+      "en": "dominoes",
+      "uk": "доміно",
+      "ru": "домино",
+      "pl": "domino"
+    },
+    {
+      "id": "ludo",
+      "cs": "člověče, nezlob se",
+      "en": "ludo",
+      "uk": "лудо",
+      "ru": "лудо",
+      "pl": "chińczyk"
+    },
+    {
+      "id": "game-console",
+      "cs": "herní konzole",
+      "en": "game console",
+      "uk": "ігрова приставка",
+      "ru": "игровая приставка",
+      "pl": "konsola do gier"
+    },
+    {
+      "id": "controller",
+      "cs": "ovladač",
+      "en": "controller",
+      "uk": "контролер",
+      "ru": "джойстик",
+      "pl": "kontroler"
+    },
+    {
+      "id": "allotment-garden",
+      "cs": "zahrádka",
+      "en": "allotment garden",
+      "uk": "город",
+      "ru": "огород",
+      "pl": "ogródek działkowy"
+    },
+    {
+      "id": "strength-training",
+      "cs": "posilování",
+      "en": "strength training",
+      "uk": "силові тренування",
+      "ru": "силовые тренировки",
+      "pl": "trening siłowy"
     }
   ]
 }

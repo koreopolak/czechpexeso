@@ -440,6 +440,350 @@
       "uk": "мода",
       "ru": "мода",
       "pl": "moda"
+    },
+    {
+      "id": "windbreaker",
+      "cs": "větrovka",
+      "en": "windbreaker",
+      "uk": "вітрівка",
+      "ru": "ветровка",
+      "pl": "wiatrówka"
+    },
+    {
+      "id": "raincoat",
+      "cs": "pláštěnka",
+      "en": "raincoat",
+      "uk": "дощовик",
+      "ru": "дождевик",
+      "pl": "płaszcz przeciwdeszczowy"
+    },
+    {
+      "id": "tank-top",
+      "cs": "tílko",
+      "en": "tank top",
+      "uk": "майка",
+      "ru": "майка",
+      "pl": "podkoszulek"
+    },
+    {
+      "id": "turtleneck",
+      "cs": "rolák",
+      "en": "turtleneck",
+      "uk": "гольф",
+      "ru": "водолазка",
+      "pl": "golf"
+    },
+    {
+      "id": "leggings",
+      "cs": "legíny",
+      "en": "leggings",
+      "uk": "легінси",
+      "ru": "леггинсы",
+      "pl": "legginsy"
+    },
+    {
+      "id": "sweatpants",
+      "cs": "tepláky",
+      "en": "sweatpants",
+      "uk": "спортивні штани",
+      "ru": "спортивные штаны",
+      "pl": "spodnie dresowe"
+    },
+    {
+      "id": "tracksuit",
+      "cs": "teplákovka",
+      "en": "tracksuit",
+      "uk": "спортивний костюм",
+      "ru": "спортивный костюм",
+      "pl": "dres"
+    },
+    {
+      "id": "work-overalls",
+      "cs": "montérky",
+      "en": "work overalls",
+      "uk": "робочий комбінезон",
+      "ru": "рабочий комбинезон",
+      "pl": "kombinezon roboczy"
+    },
+    {
+      "id": "nightgown",
+      "cs": "noční košile",
+      "en": "nightgown",
+      "uk": "нічна сорочка",
+      "ru": "ночная рубашка",
+      "pl": "koszula nocna"
+    },
+    {
+      "id": "briefs",
+      "cs": "slipy",
+      "en": "briefs",
+      "uk": "труси-сліпи",
+      "ru": "трусы-слипы",
+      "pl": "slipy"
+    },
+    {
+      "id": "boxer-shorts",
+      "cs": "trenýrky",
+      "en": "boxer shorts",
+      "uk": "боксери",
+      "ru": "трусы-боксеры",
+      "pl": "bokserki"
+    },
+    {
+      "id": "knickers",
+      "cs": "kalhotky",
+      "en": "knickers",
+      "uk": "трусики",
+      "ru": "трусики",
+      "pl": "majtki"
+    },
+    {
+      "id": "headband",
+      "cs": "čelenka",
+      "en": "headband",
+      "uk": "пов’язка на голову",
+      "ru": "повязка на голову",
+      "pl": "opaska na głowę"
+    },
+    {
+      "id": "fur-hat",
+      "cs": "beranice",
+      "en": "fur hat",
+      "uk": "хутряна шапка",
+      "ru": "меховая шапка",
+      "pl": "futrzana czapka"
+    },
+    {
+      "id": "headscarf",
+      "cs": "šátek",
+      "en": "headscarf",
+      "uk": "хустка",
+      "ru": "платок",
+      "pl": "chustka"
+    },
+    {
+      "id": "bow-tie",
+      "cs": "motýlek",
+      "en": "bow tie",
+      "uk": "метелик",
+      "ru": "бабочка",
+      "pl": "muszka"
+    },
+    {
+      "id": "court-shoes",
+      "cs": "lodičky",
+      "en": "court shoes",
+      "uk": "туфлі-човники",
+      "ru": "туфли-лодочки",
+      "pl": "czółenka"
+    },
+    {
+      "id": "low-shoes",
+      "cs": "polobotky",
+      "en": "low shoes",
+      "uk": "півчеревики",
+      "ru": "полуботинки",
+      "pl": "półbuty"
+    },
+    {
+      "id": "flip-flops",
+      "cs": "žabky",
+      "en": "flip-flops",
+      "uk": "в’єтнамки",
+      "ru": "вьетнамки",
+      "pl": "japonki"
+    },
+    {
+      "id": "shoelaces",
+      "cs": "tkaničky",
+      "en": "shoelaces",
+      "uk": "шнурки",
+      "ru": "шнурки",
+      "pl": "sznurówki"
+    },
+    {
+      "id": "sole-of-a-shoe",
+      "cs": "podrážka",
+      "en": "sole (of a shoe)",
+      "uk": "підошва",
+      "ru": "подошва",
+      "pl": "podeszwa"
+    },
+    {
+      "id": "cuff",
+      "cs": "manžeta",
+      "en": "cuff",
+      "uk": "манжета",
+      "ru": "манжета",
+      "pl": "mankiet"
+    },
+    {
+      "id": "trouser-leg",
+      "cs": "nohavice",
+      "en": "trouser leg",
+      "uk": "холоша",
+      "ru": "штанина",
+      "pl": "nogawka"
+    },
+    {
+      "id": "hood",
+      "cs": "kapuce",
+      "en": "hood",
+      "uk": "капюшон",
+      "ru": "капюшон",
+      "pl": "kaptur"
+    },
+    {
+      "id": "lining",
+      "cs": "podšívka",
+      "en": "lining",
+      "uk": "підкладка",
+      "ru": "подкладка",
+      "pl": "podszewka"
+    },
+    {
+      "id": "braces-suspenders",
+      "cs": "kšandy",
+      "en": "braces (suspenders)",
+      "uk": "підтяжки",
+      "ru": "подтяжки",
+      "pl": "szelki"
+    },
+    {
+      "id": "hair-clip",
+      "cs": "spona do vlasů",
+      "en": "hair clip",
+      "uk": "шпилька для волосся",
+      "ru": "заколка для волос",
+      "pl": "spinka do włosów"
+    },
+    {
+      "id": "hair-tie",
+      "cs": "gumička do vlasů",
+      "en": "hair tie",
+      "uk": "резинка для волосся",
+      "ru": "резинка для волос",
+      "pl": "gumka do włosów"
+    },
+    {
+      "id": "worn-out",
+      "cs": "obnošený",
+      "en": "worn out",
+      "uk": "зношений",
+      "ru": "поношенный",
+      "pl": "znoszony"
+    },
+    {
+      "id": "hand-wash",
+      "cs": "praní v ruce",
+      "en": "hand wash",
+      "uk": "ручне прання",
+      "ru": "ручная стирка",
+      "pl": "pranie ręczne"
+    },
+    {
+      "id": "dry-cleaning",
+      "cs": "chemické čištění",
+      "en": "dry cleaning",
+      "uk": "хімчистка",
+      "ru": "химчистка",
+      "pl": "pralnia chemiczna"
+    },
+    {
+      "id": "run-colour",
+      "cs": "pouštět barvu",
+      "en": "to run (colour)",
+      "uk": "линяти",
+      "ru": "линять",
+      "pl": "farbować"
+    },
+    {
+      "id": "pill",
+      "cs": "žmolkovat se",
+      "en": "to pill",
+      "uk": "скочуватися",
+      "ru": "скатываться",
+      "pl": "mechacić się"
+    },
+    {
+      "id": "creased",
+      "cs": "pomačkaný",
+      "en": "creased",
+      "uk": "пом’ятий",
+      "ru": "мятый",
+      "pl": "pognieciony"
+    },
+    {
+      "id": "ironed",
+      "cs": "vyžehlený",
+      "en": "ironed",
+      "uk": "випрасуваний",
+      "ru": "поглаженный",
+      "pl": "wyprasowany"
+    },
+    {
+      "id": "patch",
+      "cs": "zalátat",
+      "en": "to patch",
+      "uk": "залатати",
+      "ru": "залатать",
+      "pl": "załatać"
+    },
+    {
+      "id": "made-to-measure",
+      "cs": "na míru",
+      "en": "made to measure",
+      "uk": "на замовлення",
+      "ru": "на заказ",
+      "pl": "na miarę"
+    },
+    {
+      "id": "ready-to-wear",
+      "cs": "konfekce",
+      "en": "ready-to-wear",
+      "uk": "готовий одяг",
+      "ru": "готовая одежда",
+      "pl": "odzież konfekcyjna"
+    },
+    {
+      "id": "stretched-out",
+      "cs": "vytahaný",
+      "en": "stretched out",
+      "uk": "розтягнутий",
+      "ru": "растянутый",
+      "pl": "rozciągnięty"
+    },
+    {
+      "id": "tight-fitting",
+      "cs": "upnutý",
+      "en": "tight-fitting",
+      "uk": "облягаючий",
+      "ru": "облегающий",
+      "pl": "obcisły"
+    },
+    {
+      "id": "waterproof",
+      "cs": "nepromokavý",
+      "en": "waterproof",
+      "uk": "непромокальний",
+      "ru": "непромокаемый",
+      "pl": "nieprzemakalny"
+    },
+    {
+      "id": "breathable",
+      "cs": "prodyšný",
+      "en": "breathable",
+      "uk": "дихаючий",
+      "ru": "дышащий",
+      "pl": "oddychający"
+    },
+    {
+      "id": "warm-clothing",
+      "cs": "hřejivý",
+      "en": "warm (clothing)",
+      "uk": "теплий (одяг)",
+      "ru": "тёплый (одежда)",
+      "pl": "ciepły (ubranie)"
     }
   ]
 }

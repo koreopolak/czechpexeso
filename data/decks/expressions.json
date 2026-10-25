@@ -1,0 +1,333 @@
+{
+  "id": "expressions",
+  "order": 316,
+  "level": "B2",
+  "icon": "chat",
+  "title": {
+    "cs": "Ustálená spojení a idiomy",
+    "en": "Phrases & Idioms",
+    "uk": "Сталі вирази та ідіоми",
+    "ru": "Устойчивые выражения и идиомы",
+    "pl": "Zwroty i idiomy"
+  },
+  "description": {
+    "en": "Common Czech phrases and colourful idioms.",
+    "uk": "Поширені чеські вирази та яскраві ідіоми.",
+    "ru": "Распространённые чешские выражения и яркие идиомы.",
+    "pl": "Popularne czeskie zwroty i barwne idiomy."
+  },
+  "words": [
+    {
+      "id": "be-lucky",
+      "cs": "mít štěstí",
+      "en": "to be lucky",
+      "uk": "пощастити",
+      "ru": "повезти",
+      "pl": "mieć szczęście"
+    },
+    {
+      "id": "be-unlucky",
+      "cs": "mít smůlu",
+      "en": "to be unlucky",
+      "uk": "не пощастити",
+      "ru": "не повезти",
+      "pl": "mieć pecha"
+    },
+    {
+      "id": "show-consideration",
+      "cs": "brát ohled",
+      "en": "to show consideration",
+      "uk": "зважати",
+      "ru": "учитывать",
+      "pl": "liczyć się z czymś"
+    },
+    {
+      "id": "take-into-consideration",
+      "cs": "vzít v úvahu",
+      "en": "to take into consideration",
+      "uk": "врахувати",
+      "ru": "принять во внимание",
+      "pl": "wziąć pod uwagę"
+    },
+    {
+      "id": "give-priority",
+      "cs": "dát přednost",
+      "en": "to give priority",
+      "uk": "надати перевагу",
+      "ru": "отдать предпочтение",
+      "pl": "dać pierwszeństwo"
+    },
+    {
+      "id": "have-in-mind",
+      "cs": "mít na mysli",
+      "en": "to have in mind",
+      "uk": "мати на увазі",
+      "ru": "иметь в виду",
+      "pl": "mieć na myśli"
+    },
+    {
+      "id": "be-your-turn",
+      "cs": "přijít na řadu",
+      "en": "to be your turn",
+      "uk": "дійти черги",
+      "ru": "подойти очереди",
+      "pl": "przyjść kolej"
+    },
+    {
+      "id": "figure-out",
+      "cs": "přijít na to",
+      "en": "to figure out",
+      "uk": "здогадатися",
+      "ru": "догадаться",
+      "pl": "wpaść na to"
+    },
+    {
+      "id": "let-know",
+      "cs": "dát vědět",
+      "en": "to let know",
+      "uk": "дати знати",
+      "ru": "дать знать",
+      "pl": "dać znać"
+    },
+    {
+      "id": "feel-like",
+      "cs": "mít chuť",
+      "en": "to feel like",
+      "uk": "мати бажання",
+      "ru": "хотеться",
+      "pl": "mieć ochotę"
+    },
+    {
+      "id": "make-sense",
+      "cs": "dávat smysl",
+      "en": "to make sense",
+      "uk": "мати сенс",
+      "ru": "иметь смысл",
+      "pl": "mieć sens"
+    },
+    {
+      "id": "have-your-hands-full",
+      "cs": "mít co dělat",
+      "en": "to have your hands full",
+      "uk": "мати клопіт",
+      "ru": "иметь хлопоты",
+      "pl": "mieć pełne ręce roboty"
+    },
+    {
+      "id": "risk-your-skin",
+      "cs": "jít s kůží na trh",
+      "en": "to risk your skin",
+      "uk": "ризикувати власною шкурою",
+      "ru": "рисковать своей шкурой",
+      "pl": "nadstawiać karku"
+    },
+    {
+      "id": "be-on-cloud-nine",
+      "cs": "být v sedmém nebi",
+      "en": "to be on cloud nine",
+      "uk": "бути на сьомому небі",
+      "ru": "быть на седьмом небе",
+      "pl": "być w siódmym niebie"
+    },
+    {
+      "id": "talk-to-a-brick-wall",
+      "cs": "házet hrách na zeď",
+      "en": "to talk to a brick wall",
+      "uk": "говорити до стіни",
+      "ru": "как об стену горох",
+      "pl": "grochem o ścianę"
+    },
+    {
+      "id": "have-a-guilty-conscience",
+      "cs": "mít máslo na hlavě",
+      "en": "to have a guilty conscience",
+      "uk": "мати рильце в пушку",
+      "ru": "рыльце в пушку",
+      "pl": "mieć coś na sumieniu"
+    },
+    {
+      "id": "beat-around-the-bush",
+      "cs": "chodit kolem horké kaše",
+      "en": "to beat around the bush",
+      "uk": "ходити навколо та довкола",
+      "ru": "ходить вокруг да около",
+      "pl": "owijać w bawełnę"
+    },
+    {
+      "id": "bull-s-eye",
+      "cs": "trefa do černého",
+      "en": "bull’s-eye",
+      "uk": "влучання в яблучко",
+      "ru": "попадание в яблочко",
+      "pl": "strzał w dziesiątkę"
+    },
+    {
+      "id": "spill-the-beans",
+      "cs": "kápnout božskou",
+      "en": "to spill the beans",
+      "uk": "розкрити карти",
+      "ru": "расколоться",
+      "pl": "wygadać się"
+    },
+    {
+      "id": "all-greek-to-me",
+      "cs": "španělská vesnice",
+      "en": "all Greek to me",
+      "uk": "китайська грамота",
+      "ru": "китайская грамота",
+      "pl": "czarna magia"
+    },
+    {
+      "id": "have-a-lump-in-your-throat",
+      "cs": "mít knedlík v krku",
+      "en": "to have a lump in your throat",
+      "uk": "клубок у горлі",
+      "ru": "ком в горле",
+      "pl": "mieć gulę w gardle"
+    },
+    {
+      "id": "out-of-the-frying-pan-into-the-fire",
+      "cs": "z bláta do louže",
+      "en": "out of the frying pan into the fire",
+      "uk": "з вогню та в полум’я",
+      "ru": "из огня да в полымя",
+      "pl": "z deszczu pod rynnę"
+    },
+    {
+      "id": "hand-on-heart",
+      "cs": "ruku na srdce",
+      "en": "hand on heart",
+      "uk": "поклавши руку на серце",
+      "ru": "положа руку на сердце",
+      "pl": "z ręką na sercu"
+    },
+    {
+      "id": "no-pain-no-gain",
+      "cs": "bez práce nejsou koláče",
+      "en": "no pain, no gain",
+      "uk": "без праці нема й калачів",
+      "ru": "без труда не выловишь и рыбку из пруда",
+      "pl": "bez pracy nie ma kołaczy"
+    },
+    {
+      "id": "make-a-mountain-out-of-a-molehill",
+      "cs": "dělat z komára velblouda",
+      "en": "to make a mountain out of a molehill",
+      "uk": "робити з мухи слона",
+      "ru": "делать из мухи слона",
+      "pl": "robić z igły widły"
+    },
+    {
+      "id": "have-your-head-in-the-clouds",
+      "cs": "mít hlavu v oblacích",
+      "en": "to have your head in the clouds",
+      "uk": "витати в хмарах",
+      "ru": "витать в облаках",
+      "pl": "bujać w obłokach"
+    },
+    {
+      "id": "in-my-opinion",
+      "cs": "podle mého názoru",
+      "en": "in my opinion",
+      "uk": "на мою думку",
+      "ru": "по моему мнению",
+      "pl": "moim zdaniem"
+    },
+    {
+      "id": "at-first-sight",
+      "cs": "na první pohled",
+      "en": "at first sight",
+      "uk": "на перший погляд",
+      "ru": "на первый взгляд",
+      "pl": "na pierwszy rzut oka"
+    },
+    {
+      "id": "in-any-case",
+      "cs": "v každém případě",
+      "en": "in any case",
+      "uk": "у будь-якому разі",
+      "ru": "в любом случае",
+      "pl": "w każdym razie"
+    },
+    {
+      "id": "last-but-not-least",
+      "cs": "v neposlední řadě",
+      "en": "last but not least",
+      "uk": "не в останню чергу",
+      "ru": "не в последнюю очередь",
+      "pl": "nie mniej ważne"
+    },
+    {
+      "id": "not-at-any-price",
+      "cs": "za žádnou cenu",
+      "en": "not at any price",
+      "uk": "за жодну ціну",
+      "ru": "ни за что",
+      "pl": "za żadną cenę"
+    },
+    {
+      "id": "from-time-to-time",
+      "cs": "čas od času",
+      "en": "from time to time",
+      "uk": "час від часу",
+      "ru": "время от времени",
+      "pl": "od czasu do czasu"
+    },
+    {
+      "id": "once-and-for-all",
+      "cs": "jednou provždy",
+      "en": "once and for all",
+      "uk": "раз і назавжди",
+      "ru": "раз и навсегда",
+      "pl": "raz na zawsze"
+    },
+    {
+      "id": "sooner-or-later",
+      "cs": "dříve nebo později",
+      "en": "sooner or later",
+      "uk": "рано чи пізно",
+      "ru": "рано или поздно",
+      "pl": "prędzej czy później"
+    },
+    {
+      "id": "more-and-more",
+      "cs": "čím dál tím víc",
+      "en": "more and more",
+      "uk": "дедалі більше",
+      "ru": "всё больше и больше",
+      "pl": "coraz więcej"
+    },
+    {
+      "id": "as-soon-as-possible",
+      "cs": "co nejdřív",
+      "en": "as soon as possible",
+      "uk": "якнайшвидше",
+      "ru": "как можно скорее",
+      "pl": "jak najszybciej"
+    },
+    {
+      "id": "as-it-seems",
+      "cs": "jak se zdá",
+      "en": "as it seems",
+      "uk": "як видно",
+      "ru": "как видно",
+      "pl": "jak się wydaje"
+    },
+    {
+      "id": "between-you-and-me",
+      "cs": "mezi námi",
+      "en": "between you and me",
+      "uk": "між нами",
+      "ru": "между нами",
+      "pl": "między nami"
+    },
+    {
+      "id": "as-they-say",
+      "cs": "jak se říká",
+      "en": "as they say",
+      "uk": "як кажуть",
+      "ru": "как говорится",
+      "pl": "jak to mówią"
+    }
+  ]
+}

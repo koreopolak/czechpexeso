@@ -1,0 +1,277 @@
+{
+  "id": "farm",
+  "order": 222,
+  "level": "B1",
+  "icon": "leaf",
+  "title": {
+    "cs": "Venkov a farma",
+    "en": "Farm & Countryside",
+    "uk": "Село і ферма",
+    "ru": "Деревня и ферма",
+    "pl": "Wieś i gospodarstwo"
+  },
+  "description": {
+    "en": "Fields, crops, barns and farm work.",
+    "uk": "Поля, врожай, стодоли й робота на фермі.",
+    "ru": "Поля, урожай, амбары и работа на ферме.",
+    "pl": "Pola, uprawy, stodoły i praca w gospodarstwie."
+  },
+  "words": [
+    {
+      "id": "farmstead",
+      "cs": "statek",
+      "en": "farmstead",
+      "uk": "садиба",
+      "ru": "усадьба",
+      "pl": "gospodarstwo"
+    },
+    {
+      "id": "farm",
+      "cs": "farma",
+      "en": "farm",
+      "uk": "ферма",
+      "ru": "ферма",
+      "pl": "farma"
+    },
+    {
+      "id": "barn",
+      "cs": "stodola",
+      "en": "barn",
+      "uk": "стодола",
+      "ru": "амбар",
+      "pl": "stodoła"
+    },
+    {
+      "id": "hay",
+      "cs": "seno",
+      "en": "hay",
+      "uk": "сіно",
+      "ru": "сено",
+      "pl": "siano"
+    },
+    {
+      "id": "straw-dried-stalks",
+      "cs": "sláma",
+      "en": "straw (dried stalks)",
+      "uk": "солома",
+      "ru": "солома",
+      "pl": "słoma"
+    },
+    {
+      "id": "grain",
+      "cs": "obilí",
+      "en": "grain",
+      "uk": "зерно",
+      "ru": "зерно",
+      "pl": "zboże"
+    },
+    {
+      "id": "wheat",
+      "cs": "pšenice",
+      "en": "wheat",
+      "uk": "пшениця",
+      "ru": "пшеница",
+      "pl": "pszenica"
+    },
+    {
+      "id": "rye",
+      "cs": "žito",
+      "en": "rye",
+      "uk": "жито",
+      "ru": "рожь",
+      "pl": "żyto"
+    },
+    {
+      "id": "barley",
+      "cs": "ječmen",
+      "en": "barley",
+      "uk": "ячмінь",
+      "ru": "ячмень",
+      "pl": "jęczmień"
+    },
+    {
+      "id": "oats",
+      "cs": "oves",
+      "en": "oats",
+      "uk": "овес",
+      "ru": "овёс",
+      "pl": "owies"
+    },
+    {
+      "id": "rapeseed",
+      "cs": "řepka",
+      "en": "rapeseed",
+      "uk": "ріпак",
+      "ru": "рапс",
+      "pl": "rzepak"
+    },
+    {
+      "id": "hops",
+      "cs": "chmel",
+      "en": "hops",
+      "uk": "хміль",
+      "ru": "хмель",
+      "pl": "chmiel"
+    },
+    {
+      "id": "orchard",
+      "cs": "sad",
+      "en": "orchard",
+      "uk": "фруктовий сад",
+      "ru": "фруктовый сад",
+      "pl": "sad"
+    },
+    {
+      "id": "vineyard",
+      "cs": "vinice",
+      "en": "vineyard",
+      "uk": "виноградник",
+      "ru": "виноградник",
+      "pl": "winnica"
+    },
+    {
+      "id": "tractor",
+      "cs": "traktor",
+      "en": "tractor",
+      "uk": "трактор",
+      "ru": "трактор",
+      "pl": "traktor"
+    },
+    {
+      "id": "combine-harvester",
+      "cs": "kombajn",
+      "en": "combine harvester",
+      "uk": "комбайн",
+      "ru": "комбайн",
+      "pl": "kombajn"
+    },
+    {
+      "id": "plough",
+      "cs": "pluh",
+      "en": "plough",
+      "uk": "плуг",
+      "ru": "плуг",
+      "pl": "pług"
+    },
+    {
+      "id": "plough-2",
+      "cs": "orat",
+      "en": "to plough",
+      "uk": "орати",
+      "ru": "пахать",
+      "pl": "orać"
+    },
+    {
+      "id": "milk",
+      "cs": "dojit",
+      "en": "to milk",
+      "uk": "доїти",
+      "ru": "доить",
+      "pl": "doić"
+    },
+    {
+      "id": "fodder",
+      "cs": "krmivo",
+      "en": "fodder",
+      "uk": "корм",
+      "ru": "корм",
+      "pl": "pasza"
+    },
+    {
+      "id": "trough",
+      "cs": "žlab",
+      "en": "trough",
+      "uk": "ясла",
+      "ru": "кормушка",
+      "pl": "żłób"
+    },
+    {
+      "id": "henhouse",
+      "cs": "kurník",
+      "en": "henhouse",
+      "uk": "курник",
+      "ru": "курятник",
+      "pl": "kurnik"
+    },
+    {
+      "id": "lay-an-egg",
+      "cs": "snést vejce",
+      "en": "to lay an egg",
+      "uk": "знести яйце",
+      "ru": "снести яйцо",
+      "pl": "znieść jajko"
+    },
+    {
+      "id": "pasture",
+      "cs": "pastvina",
+      "en": "pasture",
+      "uk": "пасовище",
+      "ru": "пастбище",
+      "pl": "pastwisko"
+    },
+    {
+      "id": "graze",
+      "cs": "pást se",
+      "en": "to graze",
+      "uk": "пастися",
+      "ru": "пастись",
+      "pl": "paść się"
+    },
+    {
+      "id": "scarecrow",
+      "cs": "strašák",
+      "en": "scarecrow",
+      "uk": "опудало",
+      "ru": "пугало",
+      "pl": "strach na wróble"
+    },
+    {
+      "id": "agriculture",
+      "cs": "zemědělství",
+      "en": "agriculture",
+      "uk": "сільське господарство",
+      "ru": "сельское хозяйство",
+      "pl": "rolnictwo"
+    },
+    {
+      "id": "organic-farming",
+      "cs": "ekologické zemědělství",
+      "en": "organic farming",
+      "uk": "органічне землеробство",
+      "ru": "органическое земледелие",
+      "pl": "rolnictwo ekologiczne"
+    },
+    {
+      "id": "cooperative",
+      "cs": "družstvo",
+      "en": "cooperative",
+      "uk": "кооператив",
+      "ru": "кооператив",
+      "pl": "spółdzielnia"
+    },
+    {
+      "id": "harvest",
+      "cs": "sklizeň",
+      "en": "harvest",
+      "uk": "збирання врожаю",
+      "ru": "сбор урожая",
+      "pl": "zbiory"
+    },
+    {
+      "id": "mill",
+      "cs": "mlýn",
+      "en": "mill",
+      "uk": "млин",
+      "ru": "мельница",
+      "pl": "młyn"
+    },
+    {
+      "id": "country-person",
+      "cs": "venkovan",
+      "en": "country person",
+      "uk": "селянин",
+      "ru": "сельский житель",
+      "pl": "mieszkaniec wsi"
+    }
+  ]
+}

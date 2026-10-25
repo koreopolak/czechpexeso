@@ -1,0 +1,333 @@
+{
+  "id": "directions",
+  "order": 129,
+  "level": "A2",
+  "icon": "compass",
+  "title": {
+    "cs": "Směry a cesta",
+    "en": "Directions",
+    "uk": "Напрямки",
+    "ru": "Направления",
+    "pl": "Kierunki"
+  },
+  "description": {
+    "en": "Finding your way: turns, compass points and places.",
+    "uk": "Як знайти дорогу: повороти, сторони світу й місця.",
+    "ru": "Как найти дорогу: повороты, стороны света и места.",
+    "pl": "Jak znaleźć drogę: skręty, strony świata i miejsca."
+  },
+  "words": [
+    {
+      "id": "turn",
+      "cs": "zahnout",
+      "en": "to turn",
+      "uk": "повернути",
+      "ru": "повернуть",
+      "pl": "skręcić"
+    },
+    {
+      "id": "turn-off-a-road",
+      "cs": "odbočit",
+      "en": "to turn off (a road)",
+      "uk": "звернути",
+      "ru": "свернуть",
+      "pl": "zjechać"
+    },
+    {
+      "id": "around-the-corner",
+      "cs": "za rohem",
+      "en": "around the corner",
+      "uk": "за рогом",
+      "ru": "за углом",
+      "pl": "za rogiem"
+    },
+    {
+      "id": "on-the-corner",
+      "cs": "na rohu",
+      "en": "on the corner",
+      "uk": "на розі",
+      "ru": "на углу",
+      "pl": "na rogu"
+    },
+    {
+      "id": "at-the-end-of-the-street",
+      "cs": "na konci ulice",
+      "en": "at the end of the street",
+      "uk": "у кінці вулиці",
+      "ru": "в конце улицы",
+      "pl": "na końcu ulicy"
+    },
+    {
+      "id": "the-north",
+      "cs": "severně",
+      "en": "to the north",
+      "uk": "на північ",
+      "ru": "к северу",
+      "pl": "na północ"
+    },
+    {
+      "id": "the-south",
+      "cs": "jižně",
+      "en": "to the south",
+      "uk": "на південь",
+      "ru": "к югу",
+      "pl": "na południe"
+    },
+    {
+      "id": "the-east",
+      "cs": "východně",
+      "en": "to the east",
+      "uk": "на схід",
+      "ru": "к востоку",
+      "pl": "na wschód"
+    },
+    {
+      "id": "the-west",
+      "cs": "západně",
+      "en": "to the west",
+      "uk": "на захід",
+      "ru": "к западу",
+      "pl": "na zachód"
+    },
+    {
+      "id": "north-east",
+      "cs": "severovýchod",
+      "en": "north-east",
+      "uk": "північний схід",
+      "ru": "северо-восток",
+      "pl": "północny wschód"
+    },
+    {
+      "id": "north-west",
+      "cs": "severozápad",
+      "en": "north-west",
+      "uk": "північний захід",
+      "ru": "северо-запад",
+      "pl": "północny zachód"
+    },
+    {
+      "id": "south-east",
+      "cs": "jihovýchod",
+      "en": "south-east",
+      "uk": "південний схід",
+      "ru": "юго-восток",
+      "pl": "południowy wschód"
+    },
+    {
+      "id": "south-west",
+      "cs": "jihozápad",
+      "en": "south-west",
+      "uk": "південний захід",
+      "ru": "юго-запад",
+      "pl": "południowy zachód"
+    },
+    {
+      "id": "compass",
+      "cs": "kompas",
+      "en": "compass",
+      "uk": "компас",
+      "ru": "компас",
+      "pl": "kompas"
+    },
+    {
+      "id": "coordinates",
+      "cs": "souřadnice",
+      "en": "coordinates",
+      "uk": "координати",
+      "ru": "координаты",
+      "pl": "współrzędne"
+    },
+    {
+      "id": "satnav",
+      "cs": "navigace",
+      "en": "satnav",
+      "uk": "навігатор",
+      "ru": "навигатор",
+      "pl": "nawigacja"
+    },
+    {
+      "id": "landmark",
+      "cs": "orientační bod",
+      "en": "landmark",
+      "uk": "орієнтир",
+      "ru": "ориентир",
+      "pl": "punkt orientacyjny"
+    },
+    {
+      "id": "route",
+      "cs": "trasa",
+      "en": "route",
+      "uk": "маршрут",
+      "ru": "маршрут",
+      "pl": "trasa"
+    },
+    {
+      "id": "shortcut",
+      "cs": "zkratka",
+      "en": "shortcut",
+      "uk": "короткий шлях",
+      "ru": "короткий путь",
+      "pl": "skrót"
+    },
+    {
+      "id": "dead-end",
+      "cs": "slepá ulice",
+      "en": "dead end",
+      "uk": "глухий кут",
+      "ru": "тупик",
+      "pl": "ślepa uliczka"
+    },
+    {
+      "id": "one-way-street",
+      "cs": "jednosměrka",
+      "en": "one-way street",
+      "uk": "вулиця з одностороннім рухом",
+      "ru": "улица с односторонним движением",
+      "pl": "ulica jednokierunkowa"
+    },
+    {
+      "id": "pedestrian-zone",
+      "cs": "pěší zóna",
+      "en": "pedestrian zone",
+      "uk": "пішохідна зона",
+      "ru": "пешеходная зона",
+      "pl": "strefa piesza"
+    },
+    {
+      "id": "get-lost",
+      "cs": "ztratit se",
+      "en": "to get lost",
+      "uk": "заблукати",
+      "ru": "заблудиться",
+      "pl": "zgubić się"
+    },
+    {
+      "id": "ask-the-way",
+      "cs": "zeptat se na cestu",
+      "en": "to ask the way",
+      "uk": "запитати дорогу",
+      "ru": "спросить дорогу",
+      "pl": "zapytać o drogę"
+    },
+    {
+      "id": "show-the-way",
+      "cs": "ukázat cestu",
+      "en": "to show the way",
+      "uk": "показати дорогу",
+      "ru": "показать дорогу",
+      "pl": "wskazać drogę"
+    },
+    {
+      "id": "which-way",
+      "cs": "kudy",
+      "en": "which way",
+      "uk": "якою дорогою",
+      "ru": "каким путём",
+      "pl": "którędy"
+    },
+    {
+      "id": "this-way",
+      "cs": "tudy",
+      "en": "this way",
+      "uk": "цим шляхом",
+      "ru": "этим путём",
+      "pl": "tędy"
+    },
+    {
+      "id": "that-way",
+      "cs": "tamtudy",
+      "en": "that way",
+      "uk": "тим шляхом",
+      "ru": "тем путём",
+      "pl": "tamtędy"
+    },
+    {
+      "id": "from-here",
+      "cs": "odsud",
+      "en": "from here",
+      "uk": "звідси",
+      "ru": "отсюда",
+      "pl": "stąd"
+    },
+    {
+      "id": "from-there",
+      "cs": "odtamtud",
+      "en": "from there",
+      "uk": "звідти",
+      "ru": "оттуда",
+      "pl": "stamtąd"
+    },
+    {
+      "id": "here-to-this-place",
+      "cs": "sem",
+      "en": "here (to this place)",
+      "uk": "сюди",
+      "ru": "сюда",
+      "pl": "tutaj"
+    },
+    {
+      "id": "nowhere",
+      "cs": "nikam",
+      "en": "nowhere",
+      "uk": "нікуди",
+      "ru": "никуда",
+      "pl": "nigdzie"
+    },
+    {
+      "id": "anywhere",
+      "cs": "kamkoli",
+      "en": "anywhere",
+      "uk": "будь-куди",
+      "ru": "куда угодно",
+      "pl": "dokądkolwiek"
+    },
+    {
+      "id": "from-outside",
+      "cs": "zvenku",
+      "en": "from outside",
+      "uk": "ззовні",
+      "ru": "снаружи",
+      "pl": "z zewnątrz"
+    },
+    {
+      "id": "from-inside",
+      "cs": "zevnitř",
+      "en": "from inside",
+      "uk": "зсередини",
+      "ru": "изнутри",
+      "pl": "od środka"
+    },
+    {
+      "id": "from-above",
+      "cs": "shora",
+      "en": "from above",
+      "uk": "згори",
+      "ru": "сверху",
+      "pl": "z góry"
+    },
+    {
+      "id": "from-below",
+      "cs": "zdola",
+      "en": "from below",
+      "uk": "знизу",
+      "ru": "снизу",
+      "pl": "z dołu"
+    },
+    {
+      "id": "from-the-right",
+      "cs": "zprava",
+      "en": "from the right",
+      "uk": "справа",
+      "ru": "справа",
+      "pl": "z prawej"
+    },
+    {
+      "id": "from-the-left",
+      "cs": "zleva",
+      "en": "from the left",
+      "uk": "зліва",
+      "ru": "слева",
+      "pl": "z lewej"
+    }
+  ]
+}

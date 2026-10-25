@@ -1,0 +1,261 @@
+{
+  "id": "insurance",
+  "order": 317,
+  "level": "B2",
+  "icon": "document",
+  "title": {
+    "cs": "Pojištění a daně",
+    "en": "Insurance & Taxes",
+    "uk": "Страхування та податки",
+    "ru": "Страхование и налоги",
+    "pl": "Ubezpieczenia i podatki"
+  },
+  "description": {
+    "en": "Policies, claims, self-employment and tax.",
+    "uk": "Поліси, виплати, підприємництво й податки.",
+    "ru": "Полисы, выплаты, предпринимательство и налоги.",
+    "pl": "Polisy, odszkodowania, działalność i podatki."
+  },
+  "words": [
+    {
+      "id": "insurance-policy",
+      "cs": "pojistka",
+      "en": "insurance policy",
+      "uk": "страховий поліс",
+      "ru": "страховой полис",
+      "pl": "polisa ubezpieczeniowa"
+    },
+    {
+      "id": "insurance-premium",
+      "cs": "pojistné",
+      "en": "insurance premium",
+      "uk": "страховий внесок",
+      "ru": "страховой взнос",
+      "pl": "składka ubezpieczeniowa"
+    },
+    {
+      "id": "insured-event",
+      "cs": "pojistná událost",
+      "en": "insured event",
+      "uk": "страховий випадок",
+      "ru": "страховой случай",
+      "pl": "zdarzenie ubezpieczeniowe"
+    },
+    {
+      "id": "damage",
+      "cs": "škoda",
+      "en": "damage",
+      "uk": "збиток",
+      "ru": "ущерб",
+      "pl": "szkoda"
+    },
+    {
+      "id": "compensation",
+      "cs": "odškodnění",
+      "en": "compensation",
+      "uk": "відшкодування",
+      "ru": "возмещение",
+      "pl": "odszkodowanie"
+    },
+    {
+      "id": "excess-deductible",
+      "cs": "spoluúčast",
+      "en": "excess (deductible)",
+      "uk": "франшиза",
+      "ru": "франшиза",
+      "pl": "udział własny"
+    },
+    {
+      "id": "comprehensive-car-insurance",
+      "cs": "havarijní pojištění",
+      "en": "comprehensive car insurance",
+      "uk": "автокаско",
+      "ru": "автокаско",
+      "pl": "autocasco"
+    },
+    {
+      "id": "third-party-car-insurance",
+      "cs": "povinné ručení",
+      "en": "third-party car insurance",
+      "uk": "автоцивілка",
+      "ru": "ОСАГО",
+      "pl": "OC"
+    },
+    {
+      "id": "travel-insurance",
+      "cs": "cestovní pojištění",
+      "en": "travel insurance",
+      "uk": "туристичне страхування",
+      "ru": "туристическая страховка",
+      "pl": "ubezpieczenie turystyczne"
+    },
+    {
+      "id": "life-insurance",
+      "cs": "životní pojištění",
+      "en": "life insurance",
+      "uk": "страхування життя",
+      "ru": "страхование жизни",
+      "pl": "ubezpieczenie na życie"
+    },
+    {
+      "id": "accident-insurance",
+      "cs": "úrazové pojištění",
+      "en": "accident insurance",
+      "uk": "страхування від нещасних випадків",
+      "ru": "страхование от несчастных случаев",
+      "pl": "ubezpieczenie od następstw wypadków"
+    },
+    {
+      "id": "home-contents-insurance",
+      "cs": "pojištění domácnosti",
+      "en": "home contents insurance",
+      "uk": "страхування майна",
+      "ru": "страхование имущества",
+      "pl": "ubezpieczenie mieszkania"
+    },
+    {
+      "id": "policyholder",
+      "cs": "pojistník",
+      "en": "policyholder",
+      "uk": "страхувальник",
+      "ru": "страхователь",
+      "pl": "ubezpieczający"
+    },
+    {
+      "id": "claims-adjuster",
+      "cs": "likvidátor",
+      "en": "claims adjuster",
+      "uk": "аварійний комісар",
+      "ru": "аварийный комиссар",
+      "pl": "likwidator szkód"
+    },
+    {
+      "id": "report-damage",
+      "cs": "nahlásit škodu",
+      "en": "to report damage",
+      "uk": "повідомити про збиток",
+      "ru": "сообщить об ущербе",
+      "pl": "zgłosić szkodę"
+    },
+    {
+      "id": "entitlement",
+      "cs": "nárok",
+      "en": "entitlement",
+      "uk": "право на виплату",
+      "ru": "право на выплату",
+      "pl": "roszczenie"
+    },
+    {
+      "id": "insurance-payout",
+      "cs": "plnění",
+      "en": "insurance payout",
+      "uk": "страхова виплата",
+      "ru": "страховая выплата",
+      "pl": "odszkodowanie z polisy"
+    },
+    {
+      "id": "social-security-contributions",
+      "cs": "sociální pojištění",
+      "en": "social security contributions",
+      "uk": "соціальне страхування",
+      "ru": "социальное страхование",
+      "pl": "ubezpieczenie społeczne"
+    },
+    {
+      "id": "pension-insurance",
+      "cs": "důchodové pojištění",
+      "en": "pension insurance",
+      "uk": "пенсійне страхування",
+      "ru": "пенсионное страхование",
+      "pl": "ubezpieczenie emerytalne"
+    },
+    {
+      "id": "sickness-insurance",
+      "cs": "nemocenské pojištění",
+      "en": "sickness insurance",
+      "uk": "страхування на випадок хвороби",
+      "ru": "страхование по болезни",
+      "pl": "ubezpieczenie chorobowe"
+    },
+    {
+      "id": "self-employed-person",
+      "cs": "OSVČ",
+      "en": "self-employed person",
+      "uk": "ФОП",
+      "ru": "ИП",
+      "pl": "osoba samozatrudniona"
+    },
+    {
+      "id": "trade-licence",
+      "cs": "živnostenský list",
+      "en": "trade licence",
+      "uk": "ліцензія на підприємницьку діяльність",
+      "ru": "лицензия на предпринимательство",
+      "pl": "wpis do ewidencji działalności"
+    },
+    {
+      "id": "company-id-number",
+      "cs": "IČO",
+      "en": "company ID number",
+      "uk": "ідентифікаційний номер підприємства",
+      "ru": "идентификационный номер предприятия",
+      "pl": "REGON"
+    },
+    {
+      "id": "tax-id-number",
+      "cs": "DIČ",
+      "en": "tax ID number",
+      "uk": "ІПН",
+      "ru": "ИНН",
+      "pl": "NIP"
+    },
+    {
+      "id": "income-statement",
+      "cs": "přehled o příjmech",
+      "en": "income statement",
+      "uk": "звіт про доходи",
+      "ru": "отчёт о доходах",
+      "pl": "zestawienie dochodów"
+    },
+    {
+      "id": "tax-adviser",
+      "cs": "daňový poradce",
+      "en": "tax adviser",
+      "uk": "податковий консультант",
+      "ru": "налоговый консультант",
+      "pl": "doradca podatkowy"
+    },
+    {
+      "id": "overpayment",
+      "cs": "přeplatek",
+      "en": "overpayment",
+      "uk": "переплата",
+      "ru": "переплата",
+      "pl": "nadpłata"
+    },
+    {
+      "id": "arrears",
+      "cs": "nedoplatek",
+      "en": "arrears",
+      "uk": "недоплата",
+      "ru": "недоплата",
+      "pl": "zaległość"
+    },
+    {
+      "id": "late-payment-penalty",
+      "cs": "penále",
+      "en": "late-payment penalty",
+      "uk": "пеня",
+      "ru": "пеня",
+      "pl": "kara za zwłokę"
+    },
+    {
+      "id": "payment-reminder",
+      "cs": "upomínka",
+      "en": "payment reminder",
+      "uk": "нагадування про оплату",
+      "ru": "напоминание об оплате",
+      "pl": "upomnienie"
+    }
+  ]
+}

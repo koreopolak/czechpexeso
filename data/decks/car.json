@@ -1,6 +1,6 @@
 {
   "id": "car",
-  "order": 69,
+  "order": 210,
   "level": "B1",
   "icon": "car",
   "title": {
@@ -384,6 +384,238 @@
       "uk": "велосипедист",
       "ru": "велосипедист",
       "pl": "rowerzysta"
+    },
+    {
+      "id": "airbag",
+      "cs": "airbag",
+      "en": "airbag",
+      "uk": "подушка безпеки",
+      "ru": "подушка безопасности",
+      "pl": "poduszka powietrzna"
+    },
+    {
+      "id": "spare-tyre",
+      "cs": "rezerva",
+      "en": "spare tyre",
+      "uk": "запасне колесо",
+      "ru": "запасное колесо",
+      "pl": "koło zapasowe"
+    },
+    {
+      "id": "car-jack",
+      "cs": "zvedák",
+      "en": "car jack",
+      "uk": "домкрат",
+      "ru": "домкрат",
+      "pl": "podnośnik"
+    },
+    {
+      "id": "jump-leads",
+      "cs": "startovací kabely",
+      "en": "jump leads",
+      "uk": "пускові дроти",
+      "ru": "провода для прикуривания",
+      "pl": "kable rozruchowe"
+    },
+    {
+      "id": "oil-change",
+      "cs": "výměna oleje",
+      "en": "oil change",
+      "uk": "заміна масла",
+      "ru": "замена масла",
+      "pl": "wymiana oleju"
+    },
+    {
+      "id": "coolant",
+      "cs": "chladicí kapalina",
+      "en": "coolant",
+      "uk": "охолоджувальна рідина",
+      "ru": "охлаждающая жидкость",
+      "pl": "płyn chłodniczy"
+    },
+    {
+      "id": "speedometer",
+      "cs": "rychloměr",
+      "en": "speedometer",
+      "uk": "спідометр",
+      "ru": "спидометр",
+      "pl": "prędkościomierz"
+    },
+    {
+      "id": "dashboard",
+      "cs": "palubní deska",
+      "en": "dashboard",
+      "uk": "приладова панель",
+      "ru": "приборная панель",
+      "pl": "deska rozdzielcza"
+    },
+    {
+      "id": "rear-view-mirror",
+      "cs": "zpětné zrcátko",
+      "en": "rear-view mirror",
+      "uk": "салонне дзеркало",
+      "ru": "салонное зеркало",
+      "pl": "lusterko wsteczne"
+    },
+    {
+      "id": "gearbox",
+      "cs": "převodovka",
+      "en": "gearbox",
+      "uk": "коробка передач",
+      "ru": "коробка передач",
+      "pl": "skrzynia biegów"
+    },
+    {
+      "id": "exhaust-pipe",
+      "cs": "výfuk",
+      "en": "exhaust pipe",
+      "uk": "вихлопна труба",
+      "ru": "выхлопная труба",
+      "pl": "rura wydechowa"
+    },
+    {
+      "id": "bumper",
+      "cs": "nárazník",
+      "en": "bumper",
+      "uk": "бампер",
+      "ru": "бампер",
+      "pl": "zderzak"
+    },
+    {
+      "id": "mudguard",
+      "cs": "blatník",
+      "en": "mudguard",
+      "uk": "крило",
+      "ru": "крыло",
+      "pl": "błotnik"
+    },
+    {
+      "id": "roof-rack",
+      "cs": "střešní nosič",
+      "en": "roof rack",
+      "uk": "багажник на дах",
+      "ru": "багажник на крышу",
+      "pl": "bagażnik dachowy"
+    },
+    {
+      "id": "tow-bar",
+      "cs": "tažné zařízení",
+      "en": "tow bar",
+      "uk": "фаркоп",
+      "ru": "фаркоп",
+      "pl": "hak holowniczy"
+    },
+    {
+      "id": "toll",
+      "cs": "mýtné",
+      "en": "toll",
+      "uk": "плата за проїзд",
+      "ru": "плата за проезд",
+      "pl": "opłata drogowa"
+    },
+    {
+      "id": "speed-camera",
+      "cs": "radar",
+      "en": "speed camera",
+      "uk": "радар",
+      "ru": "радар",
+      "pl": "fotoradar"
+    },
+    {
+      "id": "drink-driving",
+      "cs": "alkohol za volantem",
+      "en": "drink-driving",
+      "uk": "водіння напідпитку",
+      "ru": "вождение в нетрезвом виде",
+      "pl": "jazda po alkoholu"
+    },
+    {
+      "id": "penalty-points-system",
+      "cs": "bodový systém",
+      "en": "penalty points system",
+      "uk": "штрафні бали",
+      "ru": "штрафные баллы",
+      "pl": "punkty karne"
+    },
+    {
+      "id": "winter-tyres",
+      "cs": "zimní pneumatiky",
+      "en": "winter tyres",
+      "uk": "зимові шини",
+      "ru": "зимние шины",
+      "pl": "opony zimowe"
+    },
+    {
+      "id": "puncture",
+      "cs": "defekt",
+      "en": "puncture",
+      "uk": "прокол шини",
+      "ru": "прокол шины",
+      "pl": "przebita opona"
+    },
+    {
+      "id": "inflate",
+      "cs": "hustit",
+      "en": "to inflate",
+      "uk": "накачувати",
+      "ru": "накачивать",
+      "pl": "pompować"
+    },
+    {
+      "id": "skid",
+      "cs": "smyk",
+      "en": "skid",
+      "uk": "занос",
+      "ru": "занос",
+      "pl": "poślizg"
+    },
+    {
+      "id": "crash",
+      "cs": "havárie",
+      "en": "crash",
+      "uk": "аварія",
+      "ru": "авария",
+      "pl": "kraksa"
+    },
+    {
+      "id": "collision",
+      "cs": "srážka",
+      "en": "collision",
+      "uk": "зіткнення",
+      "ru": "столкновение",
+      "pl": "zderzenie"
+    },
+    {
+      "id": "change-gear",
+      "cs": "zařadit",
+      "en": "to change gear",
+      "uk": "перемкнути передачу",
+      "ru": "переключить передачу",
+      "pl": "zmienić bieg"
+    },
+    {
+      "id": "brake-2",
+      "cs": "zabrzdit",
+      "en": "to brake",
+      "uk": "загальмувати",
+      "ru": "затормозить",
+      "pl": "zahamować"
+    },
+    {
+      "id": "accelerate",
+      "cs": "zrychlit",
+      "en": "to accelerate",
+      "uk": "прискоритися",
+      "ru": "ускориться",
+      "pl": "przyspieszyć"
+    },
+    {
+      "id": "slow-down",
+      "cs": "zpomalit",
+      "en": "to slow down",
+      "uk": "сповільнитися",
+      "ru": "замедлиться",
+      "pl": "zwolnić"
     }
   ]
 }

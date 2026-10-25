@@ -1,0 +1,301 @@
+{
+  "id": "sea",
+  "order": 131,
+  "level": "A2",
+  "icon": "fish",
+  "title": {
+    "cs": "Moře a pláž",
+    "en": "Sea & Beach",
+    "uk": "Море і пляж",
+    "ru": "Море и пляж",
+    "pl": "Morze i plaża"
+  },
+  "description": {
+    "en": "Beaches, fish and life by the water.",
+    "uk": "Пляжі, риби й життя біля води.",
+    "ru": "Пляжи, рыбы и жизнь у воды.",
+    "pl": "Plaże, ryby i życie nad wodą."
+  },
+  "words": [
+    {
+      "id": "lighthouse",
+      "cs": "maják",
+      "en": "lighthouse",
+      "uk": "маяк",
+      "ru": "маяк",
+      "pl": "latarnia morska"
+    },
+    {
+      "id": "seashell",
+      "cs": "mušle",
+      "en": "seashell",
+      "uk": "мушля",
+      "ru": "ракушка",
+      "pl": "muszla"
+    },
+    {
+      "id": "starfish",
+      "cs": "hvězdice",
+      "en": "starfish",
+      "uk": "морська зірка",
+      "ru": "морская звезда",
+      "pl": "rozgwiazda"
+    },
+    {
+      "id": "seahorse",
+      "cs": "mořský koník",
+      "en": "seahorse",
+      "uk": "морський коник",
+      "ru": "морской конёк",
+      "pl": "konik morski"
+    },
+    {
+      "id": "seaweed",
+      "cs": "mořská řasa",
+      "en": "seaweed",
+      "uk": "морська водорість",
+      "ru": "морская водоросль",
+      "pl": "wodorost"
+    },
+    {
+      "id": "stingray",
+      "cs": "rejnok",
+      "en": "stingray",
+      "uk": "скат",
+      "ru": "скат",
+      "pl": "płaszczka"
+    },
+    {
+      "id": "eel",
+      "cs": "úhoř",
+      "en": "eel",
+      "uk": "вугор",
+      "ru": "угорь",
+      "pl": "węgorz"
+    },
+    {
+      "id": "cod",
+      "cs": "treska",
+      "en": "cod",
+      "uk": "тріска",
+      "ru": "треска",
+      "pl": "dorsz"
+    },
+    {
+      "id": "herring",
+      "cs": "sleď",
+      "en": "herring",
+      "uk": "оселедець",
+      "ru": "сельдь",
+      "pl": "śledź"
+    },
+    {
+      "id": "mackerel",
+      "cs": "makrela",
+      "en": "mackerel",
+      "uk": "скумбрія",
+      "ru": "скумбрия",
+      "pl": "makrela"
+    },
+    {
+      "id": "trout",
+      "cs": "pstruh",
+      "en": "trout",
+      "uk": "форель",
+      "ru": "форель",
+      "pl": "pstrąg"
+    },
+    {
+      "id": "pike",
+      "cs": "štika",
+      "en": "pike",
+      "uk": "щука",
+      "ru": "щука",
+      "pl": "szczupak"
+    },
+    {
+      "id": "catfish",
+      "cs": "sumec",
+      "en": "catfish",
+      "uk": "сом",
+      "ru": "сом",
+      "pl": "sum"
+    },
+    {
+      "id": "fin",
+      "cs": "plutva",
+      "en": "fin",
+      "uk": "плавець",
+      "ru": "плавник",
+      "pl": "płetwa"
+    },
+    {
+      "id": "scales-of-a-fish",
+      "cs": "šupiny",
+      "en": "scales (of a fish)",
+      "uk": "луска",
+      "ru": "чешуя",
+      "pl": "łuski"
+    },
+    {
+      "id": "gills",
+      "cs": "žábry",
+      "en": "gills",
+      "uk": "зябра",
+      "ru": "жабры",
+      "pl": "skrzela"
+    },
+    {
+      "id": "fishing-rod",
+      "cs": "rybářský prut",
+      "en": "fishing rod",
+      "uk": "вудка",
+      "ru": "удочка",
+      "pl": "wędka"
+    },
+    {
+      "id": "bait",
+      "cs": "návnada",
+      "en": "bait",
+      "uk": "наживка",
+      "ru": "наживка",
+      "pl": "przynęta"
+    },
+    {
+      "id": "beach-umbrella",
+      "cs": "slunečník",
+      "en": "beach umbrella",
+      "uk": "пляжна парасолька",
+      "ru": "пляжный зонт",
+      "pl": "parasol plażowy"
+    },
+    {
+      "id": "swimming-ring",
+      "cs": "nafukovací kruh",
+      "en": "swimming ring",
+      "uk": "надувне коло",
+      "ru": "надувной круг",
+      "pl": "koło do pływania"
+    },
+    {
+      "id": "armbands",
+      "cs": "rukávky",
+      "en": "armbands",
+      "uk": "нарукавники",
+      "ru": "нарукавники",
+      "pl": "rękawki do pływania"
+    },
+    {
+      "id": "snorkel",
+      "cs": "šnorchl",
+      "en": "snorkel",
+      "uk": "трубка для пірнання",
+      "ru": "трубка для ныряния",
+      "pl": "fajka do nurkowania"
+    },
+    {
+      "id": "diving-mask",
+      "cs": "potápěčské brýle",
+      "en": "diving mask",
+      "uk": "маска для пірнання",
+      "ru": "маска для ныряния",
+      "pl": "maska do nurkowania"
+    },
+    {
+      "id": "flippers",
+      "cs": "ploutve",
+      "en": "flippers",
+      "uk": "ласти",
+      "ru": "ласты",
+      "pl": "płetwy do pływania"
+    },
+    {
+      "id": "lifeguard",
+      "cs": "plavčík",
+      "en": "lifeguard",
+      "uk": "рятувальник на пляжі",
+      "ru": "спасатель на пляже",
+      "pl": "ratownik"
+    },
+    {
+      "id": "lifebuoy",
+      "cs": "záchranný kruh",
+      "en": "lifebuoy",
+      "uk": "рятувальний круг",
+      "ru": "спасательный круг",
+      "pl": "koło ratunkowe"
+    },
+    {
+      "id": "sunbathe",
+      "cs": "opalovat se",
+      "en": "to sunbathe",
+      "uk": "засмагати",
+      "ru": "загорать",
+      "pl": "opalać się"
+    },
+    {
+      "id": "tanned",
+      "cs": "opálený",
+      "en": "tanned",
+      "uk": "засмаглий",
+      "ru": "загорелый",
+      "pl": "opalony"
+    },
+    {
+      "id": "breakwater",
+      "cs": "vlnolam",
+      "en": "breakwater",
+      "uk": "хвилеріз",
+      "ru": "волнорез",
+      "pl": "falochron"
+    },
+    {
+      "id": "seaside-resort",
+      "cs": "přímořské letovisko",
+      "en": "seaside resort",
+      "uk": "морський курорт",
+      "ru": "морской курорт",
+      "pl": "kurort nadmorski"
+    },
+    {
+      "id": "promenade",
+      "cs": "promenáda",
+      "en": "promenade",
+      "uk": "набережна",
+      "ru": "набережная",
+      "pl": "promenada"
+    },
+    {
+      "id": "sandcastle",
+      "cs": "písečný hrad",
+      "en": "sandcastle",
+      "uk": "замок з піску",
+      "ru": "замок из песка",
+      "pl": "zamek z piasku"
+    },
+    {
+      "id": "seawater",
+      "cs": "mořská voda",
+      "en": "seawater",
+      "uk": "морська вода",
+      "ru": "морская вода",
+      "pl": "woda morska"
+    },
+    {
+      "id": "shipwreck",
+      "cs": "ztroskotání",
+      "en": "shipwreck",
+      "uk": "корабельна аварія",
+      "ru": "кораблекрушение",
+      "pl": "rozbicie statku"
+    },
+    {
+      "id": "pirate",
+      "cs": "pirát",
+      "en": "pirate",
+      "uk": "пірат",
+      "ru": "пират",
+      "pl": "pirat"
+    }
+  ]
+}

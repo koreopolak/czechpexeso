@@ -1,6 +1,6 @@
 {
   "id": "travel",
-  "order": 29,
+  "order": 101,
   "level": "A2",
   "icon": "plane",
   "title": {
@@ -384,6 +384,166 @@
       "uk": "напрямок",
       "ru": "направление",
       "pl": "kierunek"
+    },
+    {
+      "id": "guided-tour",
+      "cs": "prohlídka",
+      "en": "guided tour",
+      "uk": "екскурсія",
+      "ru": "экскурсия",
+      "pl": "zwiedzanie z przewodnikiem"
+    },
+    {
+      "id": "sight-attraction",
+      "cs": "pamětihodnost",
+      "en": "sight (attraction)",
+      "uk": "визначна пам’ятка",
+      "ru": "достопримечательность",
+      "pl": "atrakcja turystyczna"
+    },
+    {
+      "id": "backpacker",
+      "cs": "batůžkář",
+      "en": "backpacker",
+      "uk": "бекпекер",
+      "ru": "бэкпекер",
+      "pl": "backpacker"
+    },
+    {
+      "id": "traveller",
+      "cs": "cestovatel",
+      "en": "traveller",
+      "uk": "мандрівник",
+      "ru": "путешественник",
+      "pl": "podróżnik"
+    },
+    {
+      "id": "itinerary",
+      "cs": "itinerář",
+      "en": "itinerary",
+      "uk": "маршрут подорожі",
+      "ru": "маршрут поездки",
+      "pl": "plan podróży"
+    },
+    {
+      "id": "tourism",
+      "cs": "cestovní ruch",
+      "en": "tourism",
+      "uk": "туризм",
+      "ru": "туризм",
+      "pl": "turystyka"
+    },
+    {
+      "id": "tourist-season",
+      "cs": "turistická sezóna",
+      "en": "tourist season",
+      "uk": "туристичний сезон",
+      "ru": "туристический сезон",
+      "pl": "sezon turystyczny"
+    },
+    {
+      "id": "off-season",
+      "cs": "mimo sezónu",
+      "en": "off-season",
+      "uk": "поза сезоном",
+      "ru": "вне сезона",
+      "pl": "poza sezonem"
+    },
+    {
+      "id": "travel-adaptor",
+      "cs": "cestovní adaptér",
+      "en": "travel adaptor",
+      "uk": "перехідник",
+      "ru": "переходник",
+      "pl": "przejściówka"
+    },
+    {
+      "id": "sim-card",
+      "cs": "SIM karta",
+      "en": "SIM card",
+      "uk": "SIM-карта",
+      "ru": "SIM-карта",
+      "pl": "karta SIM"
+    },
+    {
+      "id": "roaming",
+      "cs": "roaming",
+      "en": "roaming",
+      "uk": "роумінг",
+      "ru": "роуминг",
+      "pl": "roaming"
+    },
+    {
+      "id": "language-barrier",
+      "cs": "jazyková bariéra",
+      "en": "language barrier",
+      "uk": "мовний бар’єр",
+      "ru": "языковой барьер",
+      "pl": "bariera językowa"
+    },
+    {
+      "id": "culture-shock",
+      "cs": "kulturní šok",
+      "en": "culture shock",
+      "uk": "культурний шок",
+      "ru": "культурный шок",
+      "pl": "szok kulturowy"
+    },
+    {
+      "id": "say-goodbye",
+      "cs": "rozloučit se",
+      "en": "to say goodbye",
+      "uk": "попрощатися",
+      "ru": "попрощаться",
+      "pl": "pożegnać się"
+    },
+    {
+      "id": "welcome",
+      "cs": "přivítat",
+      "en": "to welcome",
+      "uk": "привітати гостей",
+      "ru": "встретить гостей",
+      "pl": "powitać"
+    },
+    {
+      "id": "take-a-photo-of-yourself",
+      "cs": "vyfotit se",
+      "en": "to take a photo of yourself",
+      "uk": "сфотографуватися",
+      "ru": "сфотографироваться",
+      "pl": "zrobić sobie zdjęcie"
+    },
+    {
+      "id": "cancellation-fee",
+      "cs": "storno",
+      "en": "cancellation fee",
+      "uk": "плата за скасування",
+      "ru": "плата за отмену",
+      "pl": "opłata za anulowanie"
+    },
+    {
+      "id": "sightseeing-tour",
+      "cs": "poznávací zájezd",
+      "en": "sightseeing tour",
+      "uk": "екскурсійний тур",
+      "ru": "экскурсионный тур",
+      "pl": "wycieczka krajoznawcza"
+    },
+    {
+      "id": "round-trip",
+      "cs": "okružní jízda",
+      "en": "round trip",
+      "uk": "оглядова поїздка",
+      "ru": "обзорная поездка",
+      "pl": "przejażdżka po okolicy"
+    },
+    {
+      "id": "cruise-ship",
+      "cs": "výletní loď",
+      "en": "cruise ship",
+      "uk": "круїзний лайнер",
+      "ru": "круизный лайнер",
+      "pl": "statek wycieczkowy"
     }
   ]
 }

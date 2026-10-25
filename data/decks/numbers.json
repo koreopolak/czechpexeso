@@ -424,6 +424,318 @@
       "uk": "дюжина",
       "ru": "дюжина",
       "pl": "tuzin"
+    },
+    {
+      "id": "addition",
+      "cs": "sčítání",
+      "en": "addition",
+      "uk": "додавання",
+      "ru": "сложение",
+      "pl": "dodawanie"
+    },
+    {
+      "id": "subtraction",
+      "cs": "odčítání",
+      "en": "subtraction",
+      "uk": "віднімання",
+      "ru": "вычитание",
+      "pl": "odejmowanie"
+    },
+    {
+      "id": "multiplication",
+      "cs": "násobení",
+      "en": "multiplication",
+      "uk": "множення",
+      "ru": "умножение",
+      "pl": "mnożenie"
+    },
+    {
+      "id": "division",
+      "cs": "dělení",
+      "en": "division",
+      "uk": "ділення",
+      "ru": "деление",
+      "pl": "dzielenie"
+    },
+    {
+      "id": "plus",
+      "cs": "plus",
+      "en": "plus",
+      "uk": "плюс",
+      "ru": "плюс",
+      "pl": "plus"
+    },
+    {
+      "id": "minus",
+      "cs": "mínus",
+      "en": "minus",
+      "uk": "мінус",
+      "ru": "минус",
+      "pl": "minus"
+    },
+    {
+      "id": "times",
+      "cs": "krát",
+      "en": "times (×)",
+      "uk": "помножити на",
+      "ru": "умножить на",
+      "pl": "razy"
+    },
+    {
+      "id": "divided-by",
+      "cs": "děleno",
+      "en": "divided by",
+      "uk": "поділити на",
+      "ru": "разделить на",
+      "pl": "podzielić przez"
+    },
+    {
+      "id": "equals",
+      "cs": "rovná se",
+      "en": "equals",
+      "uk": "дорівнює",
+      "ru": "равно",
+      "pl": "równa się"
+    },
+    {
+      "id": "even-number",
+      "cs": "sudé číslo",
+      "en": "even number",
+      "uk": "парне число",
+      "ru": "чётное число",
+      "pl": "liczba parzysta"
+    },
+    {
+      "id": "odd-number",
+      "cs": "liché číslo",
+      "en": "odd number",
+      "uk": "непарне число",
+      "ru": "нечётное число",
+      "pl": "liczba nieparzysta"
+    },
+    {
+      "id": "fraction",
+      "cs": "zlomek",
+      "en": "fraction",
+      "uk": "дріб",
+      "ru": "дробь",
+      "pl": "ułamek"
+    },
+    {
+      "id": "tenth-2",
+      "cs": "desetina",
+      "en": "one tenth",
+      "uk": "десята частина",
+      "ru": "десятая часть",
+      "pl": "dziesiąta część"
+    },
+    {
+      "id": "hundredth",
+      "cs": "setina",
+      "en": "one hundredth",
+      "uk": "сота частина",
+      "ru": "сотая часть",
+      "pl": "setna część"
+    },
+    {
+      "id": "trio",
+      "cs": "trojice",
+      "en": "trio",
+      "uk": "трійка",
+      "ru": "тройка",
+      "pl": "trójka"
+    },
+    {
+      "id": "infinity",
+      "cs": "nekonečno",
+      "en": "infinity",
+      "uk": "нескінченність",
+      "ru": "бесконечность",
+      "pl": "nieskończoność"
+    },
+    {
+      "id": "eleventh",
+      "cs": "jedenáctý",
+      "en": "eleventh",
+      "uk": "одинадцятий",
+      "ru": "одиннадцатый",
+      "pl": "jedenasty"
+    },
+    {
+      "id": "twelfth",
+      "cs": "dvanáctý",
+      "en": "twelfth",
+      "uk": "дванадцятий",
+      "ru": "двенадцатый",
+      "pl": "dwunasty"
+    },
+    {
+      "id": "thirteenth",
+      "cs": "třináctý",
+      "en": "thirteenth",
+      "uk": "тринадцятий",
+      "ru": "тринадцатый",
+      "pl": "trzynasty"
+    },
+    {
+      "id": "fourteenth",
+      "cs": "čtrnáctý",
+      "en": "fourteenth",
+      "uk": "чотирнадцятий",
+      "ru": "четырнадцатый",
+      "pl": "czternasty"
+    },
+    {
+      "id": "fifteenth",
+      "cs": "patnáctý",
+      "en": "fifteenth",
+      "uk": "п’ятнадцятий",
+      "ru": "пятнадцатый",
+      "pl": "piętnasty"
+    },
+    {
+      "id": "sixteenth",
+      "cs": "šestnáctý",
+      "en": "sixteenth",
+      "uk": "шістнадцятий",
+      "ru": "шестнадцатый",
+      "pl": "szesnasty"
+    },
+    {
+      "id": "seventeenth",
+      "cs": "sedmnáctý",
+      "en": "seventeenth",
+      "uk": "сімнадцятий",
+      "ru": "семнадцатый",
+      "pl": "siedemnasty"
+    },
+    {
+      "id": "eighteenth",
+      "cs": "osmnáctý",
+      "en": "eighteenth",
+      "uk": "вісімнадцятий",
+      "ru": "восемнадцатый",
+      "pl": "osiemnasty"
+    },
+    {
+      "id": "nineteenth",
+      "cs": "devatenáctý",
+      "en": "nineteenth",
+      "uk": "дев’ятнадцятий",
+      "ru": "девятнадцатый",
+      "pl": "dziewiętnasty"
+    },
+    {
+      "id": "twentieth",
+      "cs": "dvacátý",
+      "en": "twentieth",
+      "uk": "двадцятий",
+      "ru": "двадцатый",
+      "pl": "dwudziesty"
+    },
+    {
+      "id": "thirtieth",
+      "cs": "třicátý",
+      "en": "thirtieth",
+      "uk": "тридцятий",
+      "ru": "тридцатый",
+      "pl": "trzydziesty"
+    },
+    {
+      "id": "fiftieth",
+      "cs": "padesátý",
+      "en": "fiftieth",
+      "uk": "п’ятдесятий",
+      "ru": "пятидесятый",
+      "pl": "pięćdziesiąty"
+    },
+    {
+      "id": "hundredth-2",
+      "cs": "stý",
+      "en": "hundredth",
+      "uk": "сотий",
+      "ru": "сотый",
+      "pl": "setny"
+    },
+    {
+      "id": "thousandth",
+      "cs": "tisící",
+      "en": "thousandth",
+      "uk": "тисячний",
+      "ru": "тысячный",
+      "pl": "tysięczny"
+    },
+    {
+      "id": "number-2-tram-bus",
+      "cs": "dvojka",
+      "en": "number 2 (tram, bus…)",
+      "uk": "двійка (номер)",
+      "ru": "двойка (номер)",
+      "pl": "dwójka (numer)"
+    },
+    {
+      "id": "number-3-tram-bus",
+      "cs": "trojka",
+      "en": "number 3 (tram, bus…)",
+      "uk": "трійка (номер)",
+      "ru": "тройка (номер)",
+      "pl": "trójka (numer)"
+    },
+    {
+      "id": "number-4-tram-bus",
+      "cs": "čtyřka",
+      "en": "number 4 (tram, bus…)",
+      "uk": "четвірка (номер)",
+      "ru": "четвёрка (номер)",
+      "pl": "czwórka (numer)"
+    },
+    {
+      "id": "number-5-tram-bus",
+      "cs": "pětka",
+      "en": "number 5 (tram, bus…)",
+      "uk": "п’ятірка (номер)",
+      "ru": "пятёрка (номер)",
+      "pl": "piątka (numer)"
+    },
+    {
+      "id": "number-6-tram-bus",
+      "cs": "šestka",
+      "en": "number 6 (tram, bus…)",
+      "uk": "шістка (номер)",
+      "ru": "шестёрка (номер)",
+      "pl": "szóstka (numer)"
+    },
+    {
+      "id": "number-7-tram-bus",
+      "cs": "sedmička",
+      "en": "number 7 (tram, bus…)",
+      "uk": "сімка (номер)",
+      "ru": "семёрка (номер)",
+      "pl": "siódemka (numer)"
+    },
+    {
+      "id": "number-8-tram-bus",
+      "cs": "osmička",
+      "en": "number 8 (tram, bus…)",
+      "uk": "вісімка (номер)",
+      "ru": "восьмёрка (номер)",
+      "pl": "ósemka (numer)"
+    },
+    {
+      "id": "number-9-tram-bus",
+      "cs": "devítka",
+      "en": "number 9 (tram, bus…)",
+      "uk": "дев’ятка (номер)",
+      "ru": "девятка (номер)",
+      "pl": "dziewiątka (numer)"
+    },
+    {
+      "id": "number-10-tram-bus",
+      "cs": "desítka",
+      "en": "number 10 (tram, bus…)",
+      "uk": "десятка (номер)",
+      "ru": "десятка (номер)",
+      "pl": "dziesiątka (numer)"
     }
   ]
 }

@@ -1,0 +1,205 @@
+{
+  "id": "disasters",
+  "order": 321,
+  "level": "B2",
+  "icon": "siren",
+  "title": {
+    "cs": "Katastrofy a krizové situace",
+    "en": "Disasters & Crises",
+    "uk": "Катастрофи та кризи",
+    "ru": "Катастрофы и кризисы",
+    "pl": "Katastrofy i kryzysy"
+  },
+  "description": {
+    "en": "Natural disasters, rescue and recovery.",
+    "uk": "Стихійні лиха, порятунок і відновлення.",
+    "ru": "Стихийные бедствия, спасение и восстановление.",
+    "pl": "Klęski żywiołowe, ratunek i odbudowa."
+  },
+  "words": [
+    {
+      "id": "natural-disaster",
+      "cs": "přírodní katastrofa",
+      "en": "natural disaster",
+      "uk": "стихійне лихо",
+      "ru": "стихийное бедствие",
+      "pl": "klęska żywiołowa"
+    },
+    {
+      "id": "landslide",
+      "cs": "sesuv půdy",
+      "en": "landslide",
+      "uk": "зсув ґрунту",
+      "ru": "оползень",
+      "pl": "osuwisko"
+    },
+    {
+      "id": "tsunami",
+      "cs": "tsunami",
+      "en": "tsunami",
+      "uk": "цунамі",
+      "ru": "цунами",
+      "pl": "tsunami"
+    },
+    {
+      "id": "cyclone",
+      "cs": "cyklón",
+      "en": "cyclone",
+      "uk": "циклон",
+      "ru": "циклон",
+      "pl": "cyklon"
+    },
+    {
+      "id": "eruption",
+      "cs": "erupce",
+      "en": "eruption",
+      "uk": "виверження",
+      "ru": "извержение",
+      "pl": "erupcja"
+    },
+    {
+      "id": "forest-fire",
+      "cs": "lesní požár",
+      "en": "forest fire",
+      "uk": "лісова пожежа",
+      "ru": "лесной пожар",
+      "pl": "pożar lasu"
+    },
+    {
+      "id": "flash-flood",
+      "cs": "blesková povodeň",
+      "en": "flash flood",
+      "uk": "раптова повінь",
+      "ru": "внезапное наводнение",
+      "pl": "gwałtowna powódź"
+    },
+    {
+      "id": "tremor",
+      "cs": "otřes",
+      "en": "tremor",
+      "uk": "поштовх",
+      "ru": "толчок",
+      "pl": "wstrząs"
+    },
+    {
+      "id": "epicentre",
+      "cs": "epicentrum",
+      "en": "epicentre",
+      "uk": "епіцентр",
+      "ru": "эпицентр",
+      "pl": "epicentrum"
+    },
+    {
+      "id": "richter-scale",
+      "cs": "Richterova škála",
+      "en": "Richter scale",
+      "uk": "шкала Ріхтера",
+      "ru": "шкала Рихтера",
+      "pl": "skala Richtera"
+    },
+    {
+      "id": "evacuate",
+      "cs": "evakuovat",
+      "en": "to evacuate",
+      "uk": "евакуювати",
+      "ru": "эвакуировать",
+      "pl": "ewakuować"
+    },
+    {
+      "id": "rescue-operation",
+      "cs": "záchranná akce",
+      "en": "rescue operation",
+      "uk": "рятувальна операція",
+      "ru": "спасательная операция",
+      "pl": "akcja ratunkowa"
+    },
+    {
+      "id": "rubble",
+      "cs": "trosky",
+      "en": "rubble",
+      "uk": "уламки",
+      "ru": "обломки",
+      "pl": "gruzy"
+    },
+    {
+      "id": "buried-under-rubble",
+      "cs": "zasypaný",
+      "en": "buried (under rubble)",
+      "uk": "засипаний",
+      "ru": "засыпанный",
+      "pl": "zasypany"
+    },
+    {
+      "id": "reconstruction",
+      "cs": "obnova",
+      "en": "reconstruction",
+      "uk": "відновлення після лиха",
+      "ru": "восстановление после бедствия",
+      "pl": "odbudowa"
+    },
+    {
+      "id": "warning-system",
+      "cs": "varovný systém",
+      "en": "warning system",
+      "uk": "система оповіщення",
+      "ru": "система оповещения",
+      "pl": "system ostrzegania"
+    },
+    {
+      "id": "crisis-team",
+      "cs": "krizový štáb",
+      "en": "crisis team",
+      "uk": "кризовий штаб",
+      "ru": "кризисный штаб",
+      "pl": "sztab kryzysowy"
+    },
+    {
+      "id": "state-of-emergency",
+      "cs": "nouzový stav",
+      "en": "state of emergency",
+      "uk": "надзвичайний стан",
+      "ru": "чрезвычайное положение",
+      "pl": "stan wyjątkowy"
+    },
+    {
+      "id": "volunteer-firefighters",
+      "cs": "dobrovolní hasiči",
+      "en": "volunteer firefighters",
+      "uk": "добровільні пожежники",
+      "ru": "добровольные пожарные",
+      "pl": "ochotnicza straż pożarna"
+    },
+    {
+      "id": "snow-chaos",
+      "cs": "sněhová kalamita",
+      "en": "snow chaos",
+      "uk": "сніговий колапс",
+      "ru": "снежный коллапс",
+      "pl": "paraliż śnieżny"
+    },
+    {
+      "id": "hailstones",
+      "cs": "kroupy",
+      "en": "hailstones",
+      "uk": "градини",
+      "ru": "градины",
+      "pl": "grad"
+    },
+    {
+      "id": "freezing-rain",
+      "cs": "ledovka",
+      "en": "freezing rain",
+      "uk": "крижаний дощ",
+      "ru": "ледяной дождь",
+      "pl": "marznący deszcz"
+    },
+    {
+      "id": "icing-frost",
+      "cs": "námraza",
+      "en": "icing (frost)",
+      "uk": "обледеніння",
+      "ru": "обледенение",
+      "pl": "szadź"
+    }
+  ]
+}

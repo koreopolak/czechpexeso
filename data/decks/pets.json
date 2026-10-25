@@ -1,0 +1,269 @@
+{
+  "id": "pets",
+  "order": 132,
+  "level": "A2",
+  "icon": "paw",
+  "title": {
+    "cs": "Domácí mazlíčci",
+    "en": "Pets",
+    "uk": "Домашні улюбленці",
+    "ru": "Домашние питомцы",
+    "pl": "Zwierzęta domowe"
+  },
+  "description": {
+    "en": "Caring for dogs, cats and other pets.",
+    "uk": "Догляд за собаками, котами й іншими улюбленцями.",
+    "ru": "Уход за собаками, кошками и другими питомцами.",
+    "pl": "Opieka nad psami, kotami i innymi pupilami."
+  },
+  "words": [
+    {
+      "id": "lead-leash",
+      "cs": "vodítko",
+      "en": "lead (leash)",
+      "uk": "повідець",
+      "ru": "поводок",
+      "pl": "smycz"
+    },
+    {
+      "id": "collar-for-a-pet",
+      "cs": "obojek",
+      "en": "collar (for a pet)",
+      "uk": "нашийник",
+      "ru": "ошейник",
+      "pl": "obroża"
+    },
+    {
+      "id": "muzzle",
+      "cs": "náhubek",
+      "en": "muzzle",
+      "uk": "намордник",
+      "ru": "намордник",
+      "pl": "kaganiec"
+    },
+    {
+      "id": "pet-bed",
+      "cs": "pelíšek",
+      "en": "pet bed",
+      "uk": "лежанка",
+      "ru": "лежанка",
+      "pl": "legowisko"
+    },
+    {
+      "id": "dry-pet-food",
+      "cs": "granule",
+      "en": "dry pet food",
+      "uk": "сухий корм",
+      "ru": "сухой корм",
+      "pl": "sucha karma"
+    },
+    {
+      "id": "cat-litter",
+      "cs": "kočičí stelivo",
+      "en": "cat litter",
+      "uk": "котячий наповнювач",
+      "ru": "кошачий наполнитель",
+      "pl": "żwirek dla kota"
+    },
+    {
+      "id": "scratching-post",
+      "cs": "škrabadlo",
+      "en": "scratching post",
+      "uk": "кігтеточка",
+      "ru": "когтеточка",
+      "pl": "drapak"
+    },
+    {
+      "id": "terrarium",
+      "cs": "terárium",
+      "en": "terrarium",
+      "uk": "тераріум",
+      "ru": "террариум",
+      "pl": "terrarium"
+    },
+    {
+      "id": "microchip",
+      "cs": "čip",
+      "en": "microchip",
+      "uk": "мікрочіп",
+      "ru": "микрочип",
+      "pl": "czip"
+    },
+    {
+      "id": "animal-shelter",
+      "cs": "útulek",
+      "en": "animal shelter",
+      "uk": "притулок для тварин",
+      "ru": "приют для животных",
+      "pl": "schronisko dla zwierząt"
+    },
+    {
+      "id": "breeder",
+      "cs": "chovatel",
+      "en": "breeder",
+      "uk": "заводчик",
+      "ru": "заводчик",
+      "pl": "hodowca"
+    },
+    {
+      "id": "breed",
+      "cs": "plemeno",
+      "en": "breed",
+      "uk": "порода",
+      "ru": "порода",
+      "pl": "rasa"
+    },
+    {
+      "id": "mixed-breed",
+      "cs": "kříženec",
+      "en": "mixed breed",
+      "uk": "метис",
+      "ru": "метис",
+      "pl": "kundel"
+    },
+    {
+      "id": "fetch",
+      "cs": "aportovat",
+      "en": "to fetch",
+      "uk": "апортувати",
+      "ru": "приносить палку",
+      "pl": "aportować"
+    },
+    {
+      "id": "bark",
+      "cs": "štěkat",
+      "en": "to bark",
+      "uk": "гавкати",
+      "ru": "лаять",
+      "pl": "szczekać"
+    },
+    {
+      "id": "growl",
+      "cs": "vrčet",
+      "en": "to growl",
+      "uk": "гарчати",
+      "ru": "рычать",
+      "pl": "warczeć"
+    },
+    {
+      "id": "meow",
+      "cs": "mňoukat",
+      "en": "to meow",
+      "uk": "нявкати",
+      "ru": "мяукать",
+      "pl": "miauczeć"
+    },
+    {
+      "id": "purr",
+      "cs": "příst",
+      "en": "to purr",
+      "uk": "муркотіти",
+      "ru": "мурлыкать",
+      "pl": "mruczeć"
+    },
+    {
+      "id": "wag-its-tail",
+      "cs": "vrtět ocasem",
+      "en": "to wag its tail",
+      "uk": "виляти хвостом",
+      "ru": "вилять хвостом",
+      "pl": "merdać ogonem"
+    },
+    {
+      "id": "sit",
+      "cs": "sedni!",
+      "en": "sit!",
+      "uk": "сидіти!",
+      "ru": "сидеть!",
+      "pl": "siad!"
+    },
+    {
+      "id": "lie-down",
+      "cs": "lehni!",
+      "en": "lie down!",
+      "uk": "лежати!",
+      "ru": "лежать!",
+      "pl": "leżeć!"
+    },
+    {
+      "id": "stay",
+      "cs": "zůstaň!",
+      "en": "stay!",
+      "uk": "чекай!",
+      "ru": "ждать!",
+      "pl": "zostań!"
+    },
+    {
+      "id": "heel",
+      "cs": "k noze!",
+      "en": "heel!",
+      "uk": "до ноги!",
+      "ru": "рядом!",
+      "pl": "do nogi!"
+    },
+    {
+      "id": "training-of-an-animal",
+      "cs": "výcvik",
+      "en": "training (of an animal)",
+      "uk": "дресирування",
+      "ru": "дрессировка",
+      "pl": "tresura"
+    },
+    {
+      "id": "doghouse",
+      "cs": "psí bouda",
+      "en": "doghouse",
+      "uk": "собача будка",
+      "ru": "собачья будка",
+      "pl": "buda"
+    },
+    {
+      "id": "budgie",
+      "cs": "andulka",
+      "en": "budgie",
+      "uk": "хвилястий папужка",
+      "ru": "волнистый попугайчик",
+      "pl": "papużka falista"
+    },
+    {
+      "id": "canary",
+      "cs": "kanárek",
+      "en": "canary",
+      "uk": "канарка",
+      "ru": "канарейка",
+      "pl": "kanarek"
+    },
+    {
+      "id": "goldfish",
+      "cs": "zlatá rybka",
+      "en": "goldfish",
+      "uk": "золота рибка",
+      "ru": "золотая рыбка",
+      "pl": "złota rybka"
+    },
+    {
+      "id": "chinchilla",
+      "cs": "činčila",
+      "en": "chinchilla",
+      "uk": "шиншила",
+      "ru": "шиншилла",
+      "pl": "szynszyla"
+    },
+    {
+      "id": "stroke",
+      "cs": "hladit",
+      "en": "to stroke",
+      "uk": "гладити",
+      "ru": "гладить",
+      "pl": "głaskać"
+    },
+    {
+      "id": "deworming",
+      "cs": "odčervení",
+      "en": "deworming",
+      "uk": "дегельмінтизація",
+      "ru": "дегельминтизация",
+      "pl": "odrobaczanie"
+    }
+  ]
+}

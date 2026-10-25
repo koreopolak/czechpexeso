@@ -1,0 +1,285 @@
+{
+  "id": "adjectives-useful",
+  "order": 136,
+  "level": "A2",
+  "icon": "smile",
+  "title": {
+    "cs": "Užitečná přídavná jména",
+    "en": "Useful Adjectives",
+    "uk": "Корисні прикметники",
+    "ru": "Полезные прилагательные",
+    "pl": "Przydatne przymiotniki"
+  },
+  "description": {
+    "en": "Everyday describing words: front, back, amazing, locked…",
+    "uk": "Повсякденні описові слова: передній, задній, чудовий…",
+    "ru": "Повседневные описательные слова: передний, задний, потрясающий…",
+    "pl": "Codzienne słowa opisowe: przedni, tylny, niesamowity…"
+  },
+  "words": [
+    {
+      "id": "mean-evil",
+      "cs": "zlý",
+      "en": "mean (evil)",
+      "uk": "злий",
+      "ru": "злой",
+      "pl": "zły"
+    },
+    {
+      "id": "amazing",
+      "cs": "úžasný",
+      "en": "amazing",
+      "uk": "чудовий",
+      "ru": "потрясающий",
+      "pl": "niesamowity"
+    },
+    {
+      "id": "wonderful",
+      "cs": "báječný",
+      "en": "wonderful",
+      "uk": "дивовижний",
+      "ru": "замечательный",
+      "pl": "wspaniały"
+    },
+    {
+      "id": "gorgeous",
+      "cs": "nádherný",
+      "en": "gorgeous",
+      "uk": "прекрасний",
+      "ru": "великолепный",
+      "pl": "przepiękny"
+    },
+    {
+      "id": "terrible",
+      "cs": "strašný",
+      "en": "terrible",
+      "uk": "страшний",
+      "ru": "страшный",
+      "pl": "straszny"
+    },
+    {
+      "id": "pleasant",
+      "cs": "příjemný",
+      "en": "pleasant",
+      "uk": "приємний",
+      "ru": "приятный",
+      "pl": "przyjemny"
+    },
+    {
+      "id": "unpleasant",
+      "cs": "nepříjemný",
+      "en": "unpleasant",
+      "uk": "неприємний",
+      "ru": "неприятный",
+      "pl": "nieprzyjemny"
+    },
+    {
+      "id": "entertaining",
+      "cs": "zábavný",
+      "en": "entertaining",
+      "uk": "розважальний",
+      "ru": "развлекательный",
+      "pl": "zabawny"
+    },
+    {
+      "id": "funny",
+      "cs": "legrační",
+      "en": "funny",
+      "uk": "кумедний",
+      "ru": "смешной",
+      "pl": "śmieszny"
+    },
+    {
+      "id": "enormous",
+      "cs": "ohromný",
+      "en": "enormous",
+      "uk": "величезний",
+      "ru": "огромный",
+      "pl": "ogromny"
+    },
+    {
+      "id": "forbidden",
+      "cs": "zakázaný",
+      "en": "forbidden",
+      "uk": "заборонений",
+      "ru": "запрещённый",
+      "pl": "zakazany"
+    },
+    {
+      "id": "allowed",
+      "cs": "povolený",
+      "en": "allowed",
+      "uk": "дозволений",
+      "ru": "разрешённый",
+      "pl": "dozwolony"
+    },
+    {
+      "id": "locked",
+      "cs": "zamčený",
+      "en": "locked",
+      "uk": "замкнений",
+      "ru": "запертый",
+      "pl": "zamknięty na klucz"
+    },
+    {
+      "id": "switched-on",
+      "cs": "zapnutý",
+      "en": "switched on",
+      "uk": "увімкнений",
+      "ru": "включённый",
+      "pl": "włączony"
+    },
+    {
+      "id": "switched-off",
+      "cs": "vypnutý",
+      "en": "switched off",
+      "uk": "вимкнений",
+      "ru": "выключенный",
+      "pl": "wyłączony"
+    },
+    {
+      "id": "lit-light-on",
+      "cs": "rozsvícený",
+      "en": "lit (light on)",
+      "uk": "освітлений",
+      "ru": "освещённый",
+      "pl": "oświetlony"
+    },
+    {
+      "id": "neighbouring",
+      "cs": "vedlejší",
+      "en": "neighbouring",
+      "uk": "сусідній",
+      "ru": "соседний",
+      "pl": "sąsiedni"
+    },
+    {
+      "id": "back-rear",
+      "cs": "zadní",
+      "en": "back (rear)",
+      "uk": "задній",
+      "ru": "задний",
+      "pl": "tylny"
+    },
+    {
+      "id": "front",
+      "cs": "přední",
+      "en": "front",
+      "uk": "передній",
+      "ru": "передний",
+      "pl": "przedni"
+    },
+    {
+      "id": "upper",
+      "cs": "horní",
+      "en": "upper",
+      "uk": "верхній",
+      "ru": "верхний",
+      "pl": "górny"
+    },
+    {
+      "id": "lower",
+      "cs": "dolní",
+      "en": "lower",
+      "uk": "нижній",
+      "ru": "нижний",
+      "pl": "dolny"
+    },
+    {
+      "id": "inner",
+      "cs": "vnitřní",
+      "en": "inner",
+      "uk": "внутрішній",
+      "ru": "внутренний",
+      "pl": "wewnętrzny"
+    },
+    {
+      "id": "outer",
+      "cs": "vnější",
+      "en": "outer",
+      "uk": "зовнішній",
+      "ru": "внешний",
+      "pl": "zewnętrzny"
+    },
+    {
+      "id": "side-adj",
+      "cs": "boční",
+      "en": "side (adj.)",
+      "uk": "бічний",
+      "ru": "боковой",
+      "pl": "boczny"
+    },
+    {
+      "id": "fine-informal",
+      "cs": "fajn",
+      "en": "fine (informal)",
+      "uk": "класно",
+      "ru": "классно",
+      "pl": "fajny"
+    },
+    {
+      "id": "ancient",
+      "cs": "starobylý",
+      "en": "ancient",
+      "uk": "старовинний",
+      "ru": "старинный",
+      "pl": "starodawny"
+    },
+    {
+      "id": "of-age",
+      "cs": "plnoletý",
+      "en": "of age",
+      "uk": "повнолітній",
+      "ru": "совершеннолетний",
+      "pl": "pełnoletni"
+    },
+    {
+      "id": "health-adj",
+      "cs": "zdravotní",
+      "en": "health (adj.)",
+      "uk": "медичний",
+      "ru": "медицинский",
+      "pl": "zdrowotny"
+    },
+    {
+      "id": "work-adj",
+      "cs": "pracovní",
+      "en": "work (adj.)",
+      "uk": "робочий",
+      "ru": "рабочий",
+      "pl": "roboczy"
+    },
+    {
+      "id": "family-adj",
+      "cs": "rodinný",
+      "en": "family (adj.)",
+      "uk": "сімейний",
+      "ru": "семейный",
+      "pl": "rodzinny"
+    },
+    {
+      "id": "school-adj",
+      "cs": "školní",
+      "en": "school (adj.)",
+      "uk": "шкільний",
+      "ru": "школьный",
+      "pl": "szkolny"
+    },
+    {
+      "id": "urban",
+      "cs": "městský",
+      "en": "urban",
+      "uk": "міський",
+      "ru": "городской",
+      "pl": "miejski"
+    },
+    {
+      "id": "rural-village",
+      "cs": "vesnický",
+      "en": "rural (village)",
+      "uk": "сільський",
+      "ru": "деревенский",
+      "pl": "wiejski"
+    }
+  ]
+}

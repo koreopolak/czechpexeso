@@ -1,0 +1,253 @@
+{
+  "id": "life-events",
+  "order": 220,
+  "level": "B1",
+  "icon": "calendar",
+  "title": {
+    "cs": "Životní události",
+    "en": "Life Events",
+    "uk": "Життєві події",
+    "ru": "Жизненные события",
+    "pl": "Wydarzenia życiowe"
+  },
+  "description": {
+    "en": "Births, birthdays, funerals and milestones.",
+    "uk": "Народження, дні народження, похорони й віхи.",
+    "ru": "Рождения, дни рождения, похороны и вехи.",
+    "pl": "Narodziny, urodziny, pogrzeby i kamienie milowe."
+  },
+  "words": [
+    {
+      "id": "birth",
+      "cs": "narození",
+      "en": "birth",
+      "uk": "народження",
+      "ru": "рождение",
+      "pl": "narodziny"
+    },
+    {
+      "id": "christening",
+      "cs": "křtiny",
+      "en": "christening",
+      "uk": "хрестини",
+      "ru": "крестины",
+      "pl": "chrzciny"
+    },
+    {
+      "id": "starting-school",
+      "cs": "nástup do školy",
+      "en": "starting school",
+      "uk": "вступ до школи",
+      "ru": "поступление в школу",
+      "pl": "pójście do szkoły"
+    },
+    {
+      "id": "school-leaving-ball",
+      "cs": "maturitní ples",
+      "en": "school-leaving ball",
+      "uk": "випускний бал",
+      "ru": "выпускной бал",
+      "pl": "studniówka"
+    },
+    {
+      "id": "funeral",
+      "cs": "pohřeb",
+      "en": "funeral",
+      "uk": "похорон",
+      "ru": "похороны",
+      "pl": "pogrzeb"
+    },
+    {
+      "id": "grave",
+      "cs": "hrob",
+      "en": "grave",
+      "uk": "могила",
+      "ru": "могила",
+      "pl": "grób"
+    },
+    {
+      "id": "coffin",
+      "cs": "rakev",
+      "en": "coffin",
+      "uk": "труна",
+      "ru": "гроб",
+      "pl": "trumna"
+    },
+    {
+      "id": "cremation",
+      "cs": "kremace",
+      "en": "cremation",
+      "uk": "кремація",
+      "ru": "кремация",
+      "pl": "kremacja"
+    },
+    {
+      "id": "urn",
+      "cs": "urna",
+      "en": "urn",
+      "uk": "урна",
+      "ru": "урна",
+      "pl": "urna"
+    },
+    {
+      "id": "the-bereaved",
+      "cs": "pozůstalí",
+      "en": "the bereaved",
+      "uk": "рідні померлого",
+      "ru": "близкие покойного",
+      "pl": "rodzina zmarłego"
+    },
+    {
+      "id": "condolences",
+      "cs": "soustrast",
+      "en": "condolences",
+      "uk": "співчуття",
+      "ru": "соболезнования",
+      "pl": "kondolencje"
+    },
+    {
+      "id": "death-notice",
+      "cs": "parte",
+      "en": "death notice",
+      "uk": "некролог",
+      "ru": "некролог",
+      "pl": "klepsydra"
+    },
+    {
+      "id": "inheritance",
+      "cs": "dědictví",
+      "en": "inheritance",
+      "uk": "спадщина",
+      "ru": "наследство",
+      "pl": "spadek"
+    },
+    {
+      "id": "will-testament",
+      "cs": "závěť",
+      "en": "will (testament)",
+      "uk": "заповіт",
+      "ru": "завещание",
+      "pl": "testament"
+    },
+    {
+      "id": "life-milestone",
+      "cs": "životní milník",
+      "en": "life milestone",
+      "uk": "життєва віха",
+      "ru": "жизненная веха",
+      "pl": "kamień milowy w życiu"
+    },
+    {
+      "id": "midlife-crisis",
+      "cs": "krize středního věku",
+      "en": "midlife crisis",
+      "uk": "криза середнього віку",
+      "ru": "кризис среднего возраста",
+      "pl": "kryzys wieku średniego"
+    },
+    {
+      "id": "old-age",
+      "cs": "stáří",
+      "en": "old age",
+      "uk": "старість",
+      "ru": "старость",
+      "pl": "starość"
+    },
+    {
+      "id": "youth",
+      "cs": "mládí",
+      "en": "youth",
+      "uk": "молодість",
+      "ru": "молодость",
+      "pl": "młodość"
+    },
+    {
+      "id": "adulthood",
+      "cs": "dospělost",
+      "en": "adulthood",
+      "uk": "дорослість",
+      "ru": "взрослость",
+      "pl": "dorosłość"
+    },
+    {
+      "id": "coming-of-age",
+      "cs": "plnoletost",
+      "en": "coming of age",
+      "uk": "повноліття",
+      "ru": "совершеннолетие",
+      "pl": "pełnoletność"
+    },
+    {
+      "id": "18th-birthday",
+      "cs": "osmnáctiny",
+      "en": "18th birthday",
+      "uk": "вісімнадцятиріччя",
+      "ru": "восемнадцатилетие",
+      "pl": "osiemnastka"
+    },
+    {
+      "id": "50th-birthday",
+      "cs": "padesátiny",
+      "en": "50th birthday",
+      "uk": "п’ятдесятиріччя",
+      "ru": "пятидесятилетие",
+      "pl": "pięćdziesiątka"
+    },
+    {
+      "id": "person-celebrating",
+      "cs": "oslavenec",
+      "en": "person celebrating",
+      "uk": "іменинник",
+      "ru": "именинник",
+      "pl": "solenizant"
+    },
+    {
+      "id": "jubilee",
+      "cs": "jubileum",
+      "en": "jubilee",
+      "uk": "ювілей",
+      "ru": "юбилей",
+      "pl": "jubileusz"
+    },
+    {
+      "id": "emigration",
+      "cs": "emigrace",
+      "en": "emigration",
+      "uk": "еміграція",
+      "ru": "эмиграция",
+      "pl": "emigracja"
+    },
+    {
+      "id": "homecoming",
+      "cs": "návrat domů",
+      "en": "homecoming",
+      "uk": "повернення додому",
+      "ru": "возвращение домой",
+      "pl": "powrót do domu"
+    },
+    {
+      "id": "adoption",
+      "cs": "adopce",
+      "en": "adoption",
+      "uk": "усиновлення",
+      "ru": "усыновление",
+      "pl": "adopcja"
+    },
+    {
+      "id": "bury",
+      "cs": "pohřbít",
+      "en": "to bury",
+      "uk": "поховати",
+      "ru": "похоронить",
+      "pl": "pochować"
+    },
+    {
+      "id": "mourn",
+      "cs": "truchlit",
+      "en": "to mourn",
+      "uk": "сумувати за померлим",
+      "ru": "скорбеть",
+      "pl": "opłakiwać"
+    }
+  ]
+}

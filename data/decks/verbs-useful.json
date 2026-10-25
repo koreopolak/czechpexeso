@@ -1,0 +1,277 @@
+{
+  "id": "verbs-useful",
+  "order": 137,
+  "level": "A2",
+  "icon": "list",
+  "title": {
+    "cs": "Užitečná slovesa",
+    "en": "Useful Verbs",
+    "uk": "Корисні дієслова",
+    "ru": "Полезные глаголы",
+    "pl": "Przydatne czasowniki"
+  },
+  "description": {
+    "en": "Handy verbs for getting things done.",
+    "uk": "Зручні дієслова для повсякденних справ.",
+    "ru": "Удобные глаголы для повседневных дел.",
+    "pl": "Przydatne czasowniki na co dzień."
+  },
+  "words": [
+    {
+      "id": "be-enough",
+      "cs": "stačit",
+      "en": "to be enough",
+      "uk": "вистачати",
+      "ru": "хватать",
+      "pl": "wystarczać"
+    },
+    {
+      "id": "remain",
+      "cs": "zbývat",
+      "en": "to remain",
+      "uk": "лишатися",
+      "ru": "оставаться",
+      "pl": "zostawać"
+    },
+    {
+      "id": "mind-bother",
+      "cs": "vadit",
+      "en": "to mind (bother)",
+      "uk": "заважати",
+      "ru": "мешать",
+      "pl": "przeszkadzać"
+    },
+    {
+      "id": "go-well",
+      "cs": "dařit se",
+      "en": "to go well",
+      "uk": "вдаватися",
+      "ru": "удаваться",
+      "pl": "udawać się"
+    },
+    {
+      "id": "take-place",
+      "cs": "konat se",
+      "en": "to take place",
+      "uk": "відбуватися",
+      "ru": "проходить",
+      "pl": "odbywać się"
+    },
+    {
+      "id": "be-going-on",
+      "cs": "dít se",
+      "en": "to be going on",
+      "uk": "діятися",
+      "ru": "происходить",
+      "pl": "dziać się"
+    },
+    {
+      "id": "endure",
+      "cs": "vydržet",
+      "en": "to endure",
+      "uk": "витримати",
+      "ru": "выдержать",
+      "pl": "wytrzymać"
+    },
+    {
+      "id": "manage-cope",
+      "cs": "zvládnout",
+      "en": "to manage (cope)",
+      "uk": "впоратися",
+      "ru": "справиться",
+      "pl": "poradzić sobie"
+    },
+    {
+      "id": "arrange",
+      "cs": "zařídit",
+      "en": "to arrange",
+      "uk": "влаштувати",
+      "ru": "устроить",
+      "pl": "zorganizować"
+    },
+    {
+      "id": "sort-out",
+      "cs": "vyřídit",
+      "en": "to sort out",
+      "uk": "владнати",
+      "ru": "уладить",
+      "pl": "załatwić sprawę"
+    },
+    {
+      "id": "appear",
+      "cs": "objevit se",
+      "en": "to appear",
+      "uk": "з’явитися",
+      "ru": "появиться",
+      "pl": "pojawić się"
+    },
+    {
+      "id": "disappear",
+      "cs": "zmizet",
+      "en": "to disappear",
+      "uk": "зникнути",
+      "ru": "исчезнуть",
+      "pl": "zniknąć"
+    },
+    {
+      "id": "set-off",
+      "cs": "vyrazit",
+      "en": "to set off",
+      "uk": "вирушити",
+      "ru": "отправиться",
+      "pl": "wyruszyć"
+    },
+    {
+      "id": "arrive-get-there",
+      "cs": "dorazit",
+      "en": "to arrive (get there)",
+      "uk": "дістатися",
+      "ru": "добраться",
+      "pl": "dotrzeć"
+    },
+    {
+      "id": "be-held-up",
+      "cs": "zdržet se",
+      "en": "to be held up",
+      "uk": "затриматися",
+      "ru": "задержаться",
+      "pl": "zatrzymać się"
+    },
+    {
+      "id": "deal-with",
+      "cs": "zabývat se",
+      "en": "to deal with",
+      "uk": "займатися",
+      "ru": "заниматься",
+      "pl": "zajmować się"
+    },
+    {
+      "id": "devote-yourself-to",
+      "cs": "věnovat se",
+      "en": "to devote yourself to",
+      "uk": "присвячувати себе",
+      "ru": "посвящать себя",
+      "pl": "poświęcać się"
+    },
+    {
+      "id": "be-interested-in",
+      "cs": "zajímat se",
+      "en": "to be interested in",
+      "uk": "цікавитися",
+      "ru": "интересоваться",
+      "pl": "interesować się"
+    },
+    {
+      "id": "amuse",
+      "cs": "bavit",
+      "en": "to amuse",
+      "uk": "розважати",
+      "ru": "развлекать",
+      "pl": "bawić"
+    },
+    {
+      "id": "fill",
+      "cs": "naplnit",
+      "en": "to fill",
+      "uk": "наповнити",
+      "ru": "наполнить",
+      "pl": "napełnić"
+    },
+    {
+      "id": "empty",
+      "cs": "vyprázdnit",
+      "en": "to empty",
+      "uk": "спорожнити",
+      "ru": "опустошить",
+      "pl": "opróżnić"
+    },
+    {
+      "id": "free-up",
+      "cs": "uvolnit",
+      "en": "to free up",
+      "uk": "звільнити",
+      "ru": "освободить",
+      "pl": "zwolnić miejsce"
+    },
+    {
+      "id": "move-something",
+      "cs": "přesunout",
+      "en": "to move (something)",
+      "uk": "перемістити",
+      "ru": "переместить",
+      "pl": "przenieść"
+    },
+    {
+      "id": "shift",
+      "cs": "posunout",
+      "en": "to shift",
+      "uk": "посунути",
+      "ru": "сдвинуть",
+      "pl": "przesunąć"
+    },
+    {
+      "id": "take-away-reduce",
+      "cs": "ubrat",
+      "en": "to take away (reduce)",
+      "uk": "зменшити",
+      "ru": "убавить",
+      "pl": "ująć"
+    },
+    {
+      "id": "plug-in",
+      "cs": "zapojit",
+      "en": "to plug in",
+      "uk": "підключити",
+      "ru": "подключить",
+      "pl": "podłączyć"
+    },
+    {
+      "id": "take-out",
+      "cs": "vyndat",
+      "en": "to take out",
+      "uk": "вийняти",
+      "ru": "вынуть",
+      "pl": "wyjąć"
+    },
+    {
+      "id": "store-away",
+      "cs": "uschovat",
+      "en": "to store away",
+      "uk": "сховати на зберігання",
+      "ru": "спрятать на хранение",
+      "pl": "przechować"
+    },
+    {
+      "id": "send-regards",
+      "cs": "pozdravovat",
+      "en": "to send regards",
+      "uk": "передавати вітання",
+      "ru": "передавать привет",
+      "pl": "pozdrawiać"
+    },
+    {
+      "id": "hurry-up",
+      "cs": "pospíšit si",
+      "en": "to hurry up",
+      "uk": "поквапитися",
+      "ru": "поторопиться",
+      "pl": "pospieszyć się"
+    },
+    {
+      "id": "equip",
+      "cs": "vybavit",
+      "en": "to equip",
+      "uk": "обладнати",
+      "ru": "оборудовать",
+      "pl": "wyposażyć"
+    },
+    {
+      "id": "get-ready",
+      "cs": "nachystat",
+      "en": "to get ready",
+      "uk": "приготувати",
+      "ru": "приготовить",
+      "pl": "przyszykować"
+    }
+  ]
+}

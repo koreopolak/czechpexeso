@@ -1,0 +1,165 @@
+{
+  "id": "work-verbs",
+  "order": 245,
+  "level": "B1",
+  "icon": "briefcase",
+  "title": {
+    "cs": "Pracovní slovesa",
+    "en": "Work Verbs",
+    "uk": "Робочі дієслова",
+    "ru": "Рабочие глаголы",
+    "pl": "Czasowniki w pracy"
+  },
+  "description": {
+    "en": "What you do at work: invoice, recruit, commute…",
+    "uk": "Що ви робите на роботі: виставляєте рахунки, наймаєте, їздите…",
+    "ru": "Что вы делаете на работе: выставляете счета, нанимаете, ездите…",
+    "pl": "Co robisz w pracy: fakturujesz, rekrutujesz, dojeżdżasz…"
+  },
+  "words": [
+    {
+      "id": "complete",
+      "cs": "dokončit",
+      "en": "to complete",
+      "uk": "завершити",
+      "ru": "завершить",
+      "pl": "ukończyć"
+    },
+    {
+      "id": "fulfil",
+      "cs": "splnit",
+      "en": "to fulfil",
+      "uk": "виконати",
+      "ru": "выполнить",
+      "pl": "spełnić"
+    },
+    {
+      "id": "allocate",
+      "cs": "přidělit",
+      "en": "to allocate",
+      "uk": "виділити",
+      "ru": "выделить",
+      "pl": "przydzielić"
+    },
+    {
+      "id": "stand-in-for",
+      "cs": "zastupovat",
+      "en": "to stand in for",
+      "uk": "заміщати",
+      "ru": "замещать",
+      "pl": "zastępować"
+    },
+    {
+      "id": "consult",
+      "cs": "konzultovat",
+      "en": "to consult",
+      "uk": "консультуватися",
+      "ru": "консультироваться",
+      "pl": "konsultować"
+    },
+    {
+      "id": "present",
+      "cs": "prezentovat",
+      "en": "to present",
+      "uk": "презентувати",
+      "ru": "презентовать",
+      "pl": "prezentować"
+    },
+    {
+      "id": "argue-a-case",
+      "cs": "argumentovat",
+      "en": "to argue (a case)",
+      "uk": "аргументувати",
+      "ru": "аргументировать",
+      "pl": "argumentować"
+    },
+    {
+      "id": "sign-a-contract",
+      "cs": "uzavřít smlouvu",
+      "en": "to sign a contract",
+      "uk": "укласти договір",
+      "ru": "заключить договор",
+      "pl": "zawrzeć umowę"
+    },
+    {
+      "id": "terminate-a-contract",
+      "cs": "vypovědět smlouvu",
+      "en": "to terminate a contract",
+      "uk": "розірвати договір",
+      "ru": "расторгнуть договор",
+      "pl": "wypowiedzieć umowę"
+    },
+    {
+      "id": "invoice",
+      "cs": "fakturovat",
+      "en": "to invoice",
+      "uk": "виставляти рахунок",
+      "ru": "выставлять счёт",
+      "pl": "fakturować"
+    },
+    {
+      "id": "charge",
+      "cs": "účtovat",
+      "en": "to charge",
+      "uk": "нараховувати",
+      "ru": "начислять",
+      "pl": "naliczać"
+    },
+    {
+      "id": "supply",
+      "cs": "dodávat",
+      "en": "to supply",
+      "uk": "постачати",
+      "ru": "поставлять",
+      "pl": "dostarczać"
+    },
+    {
+      "id": "manufacture",
+      "cs": "vyrábět",
+      "en": "to manufacture",
+      "uk": "виробляти",
+      "ru": "производить",
+      "pl": "produkować"
+    },
+    {
+      "id": "advertise",
+      "cs": "inzerovat",
+      "en": "to advertise",
+      "uk": "рекламувати",
+      "ru": "рекламировать",
+      "pl": "ogłaszać"
+    },
+    {
+      "id": "recruit",
+      "cs": "nabírat",
+      "en": "to recruit",
+      "uk": "набирати персонал",
+      "ru": "набирать персонал",
+      "pl": "rekrutować"
+    },
+    {
+      "id": "promote-at-work",
+      "cs": "povýšit",
+      "en": "to promote (at work)",
+      "uk": "підвищити на посаді",
+      "ru": "повысить в должности",
+      "pl": "awansować"
+    },
+    {
+      "id": "reprimand",
+      "cs": "pokárat",
+      "en": "to reprimand",
+      "uk": "зробити догану",
+      "ru": "сделать выговор",
+      "pl": "zganić"
+    },
+    {
+      "id": "commute",
+      "cs": "dojíždět",
+      "en": "to commute",
+      "uk": "їздити на роботу",
+      "ru": "ездить на работу",
+      "pl": "dojeżdżać"
+    }
+  ]
+}

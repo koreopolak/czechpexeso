@@ -1,0 +1,373 @@
+{
+  "id": "verbs-mind",
+  "order": 303,
+  "level": "B2",
+  "icon": "brain",
+  "title": {
+    "cs": "Slovesa myšlení a citů",
+    "en": "Verbs of Mind & Feeling",
+    "uk": "Дієслова мислення та почуттів",
+    "ru": "Глаголы мышления и чувств",
+    "pl": "Czasowniki myślenia i uczuć"
+  },
+  "description": {
+    "en": "Thinking, judging, feeling and arguing.",
+    "uk": "Думати, оцінювати, відчувати й сперечатися.",
+    "ru": "Думать, оценивать, чувствовать и спорить.",
+    "pl": "Myśleć, oceniać, czuć i spierać się."
+  },
+  "words": [
+    {
+      "id": "presume",
+      "cs": "domnívat se",
+      "en": "to presume",
+      "uk": "гадати",
+      "ru": "полагать",
+      "pl": "sądzić"
+    },
+    {
+      "id": "conclude",
+      "cs": "usoudit",
+      "en": "to conclude",
+      "uk": "дійти висновку",
+      "ru": "заключить",
+      "pl": "wywnioskować"
+    },
+    {
+      "id": "estimate",
+      "cs": "odhadnout",
+      "en": "to estimate",
+      "uk": "оцінити приблизно",
+      "ru": "оценить приблизительно",
+      "pl": "oszacować"
+    },
+    {
+      "id": "consider",
+      "cs": "zvážit",
+      "en": "to consider",
+      "uk": "зважити",
+      "ru": "взвесить",
+      "pl": "rozważyć"
+    },
+    {
+      "id": "assess",
+      "cs": "posoudit",
+      "en": "to assess",
+      "uk": "оцінити",
+      "ru": "оценить",
+      "pl": "ocenić"
+    },
+    {
+      "id": "evaluate",
+      "cs": "zhodnotit",
+      "en": "to evaluate",
+      "uk": "дати оцінку",
+      "ru": "дать оценку",
+      "pl": "dokonać oceny"
+    },
+    {
+      "id": "distinguish",
+      "cs": "rozlišit",
+      "en": "to distinguish",
+      "uk": "розрізнити",
+      "ru": "различить",
+      "pl": "rozróżnić"
+    },
+    {
+      "id": "realise",
+      "cs": "uvědomit si",
+      "en": "to realise",
+      "uk": "усвідомити",
+      "ru": "осознать",
+      "pl": "uświadomić sobie"
+    },
+    {
+      "id": "memorise",
+      "cs": "zapamatovat si",
+      "en": "to memorise",
+      "uk": "запам’ятати",
+      "ru": "запомнить",
+      "pl": "zapamiętać"
+    },
+    {
+      "id": "concentrate",
+      "cs": "soustředit se",
+      "en": "to concentrate",
+      "uk": "зосередитися",
+      "ru": "сосредоточиться",
+      "pl": "skoncentrować się"
+    },
+    {
+      "id": "distract",
+      "cs": "rozptýlit",
+      "en": "to distract",
+      "uk": "відволікти",
+      "ru": "отвлечь",
+      "pl": "rozproszyć"
+    },
+    {
+      "id": "captivate",
+      "cs": "zaujmout",
+      "en": "to captivate",
+      "uk": "захопити",
+      "ru": "увлечь",
+      "pl": "zaciekawić"
+    },
+    {
+      "id": "fill-with-enthusiasm",
+      "cs": "nadchnout",
+      "en": "to fill with enthusiasm",
+      "uk": "надихнути",
+      "ru": "воодушевить",
+      "pl": "zachwycić"
+    },
+    {
+      "id": "long-for",
+      "cs": "toužit",
+      "en": "to long for",
+      "uk": "прагнути",
+      "ru": "стремиться",
+      "pl": "pragnąć"
+    },
+    {
+      "id": "envy",
+      "cs": "závidět",
+      "en": "to envy",
+      "uk": "заздрити",
+      "ru": "завидовать",
+      "pl": "zazdrościć"
+    },
+    {
+      "id": "be-jealous",
+      "cs": "žárlit",
+      "en": "to be jealous",
+      "uk": "ревнувати",
+      "ru": "ревновать",
+      "pl": "być zazdrosnym"
+    },
+    {
+      "id": "despise",
+      "cs": "pohrdat",
+      "en": "to despise",
+      "uk": "зневажати",
+      "ru": "презирать",
+      "pl": "gardzić"
+    },
+    {
+      "id": "value",
+      "cs": "vážit si",
+      "en": "to value",
+      "uk": "цінувати",
+      "ru": "ценить",
+      "pl": "cenić"
+    },
+    {
+      "id": "appreciate",
+      "cs": "ocenit",
+      "en": "to appreciate",
+      "uk": "оцінити належно",
+      "ru": "оценить по достоинству",
+      "pl": "docenić"
+    },
+    {
+      "id": "blame",
+      "cs": "obviňovat",
+      "en": "to blame",
+      "uk": "звинувачувати",
+      "ru": "обвинять",
+      "pl": "obwiniać"
+    },
+    {
+      "id": "reproach",
+      "cs": "vyčítat",
+      "en": "to reproach",
+      "uk": "дорікати",
+      "ru": "упрекать",
+      "pl": "wyrzucać komuś"
+    },
+    {
+      "id": "hesitate",
+      "cs": "váhat",
+      "en": "to hesitate",
+      "uk": "вагатися",
+      "ru": "колебаться",
+      "pl": "wahać się"
+    },
+    {
+      "id": "think-over",
+      "cs": "rozmyslet si",
+      "en": "to think over",
+      "uk": "обміркувати",
+      "ru": "обдумать",
+      "pl": "przemyśleć"
+    },
+    {
+      "id": "prefer",
+      "cs": "preferovat",
+      "en": "to prefer",
+      "uk": "віддавати перевагу",
+      "ru": "предпочитать",
+      "pl": "preferować"
+    },
+    {
+      "id": "ignore",
+      "cs": "ignorovat",
+      "en": "to ignore",
+      "uk": "ігнорувати",
+      "ru": "игнорировать",
+      "pl": "ignorować"
+    },
+    {
+      "id": "overlook",
+      "cs": "přehlížet",
+      "en": "to overlook",
+      "uk": "не помічати",
+      "ru": "не замечать",
+      "pl": "przeoczyć"
+    },
+    {
+      "id": "have-a-hunch",
+      "cs": "tušit",
+      "en": "to have a hunch",
+      "uk": "передчувати",
+      "ru": "предчувствовать",
+      "pl": "przeczuwać"
+    },
+    {
+      "id": "suspect",
+      "cs": "podezírat",
+      "en": "to suspect",
+      "uk": "підозрювати",
+      "ru": "подозревать",
+      "pl": "podejrzewać"
+    },
+    {
+      "id": "rely",
+      "cs": "spoléhat se",
+      "en": "to rely",
+      "uk": "покладатися",
+      "ru": "полагаться",
+      "pl": "polegać"
+    },
+    {
+      "id": "count-on",
+      "cs": "počítat s",
+      "en": "to count on",
+      "uk": "розраховувати на",
+      "ru": "рассчитывать на",
+      "pl": "liczyć na"
+    },
+    {
+      "id": "despair",
+      "cs": "zoufat si",
+      "en": "to despair",
+      "uk": "впадати у відчай",
+      "ru": "отчаиваться",
+      "pl": "rozpaczać"
+    },
+    {
+      "id": "rejoice",
+      "cs": "radovat se",
+      "en": "to rejoice",
+      "uk": "радіти",
+      "ru": "радоваться",
+      "pl": "radować się"
+    },
+    {
+      "id": "encourage",
+      "cs": "povzbudit",
+      "en": "to encourage",
+      "uk": "підбадьорити",
+      "ru": "подбодрить",
+      "pl": "zachęcić"
+    },
+    {
+      "id": "motivate",
+      "cs": "motivovat",
+      "en": "to motivate",
+      "uk": "мотивувати",
+      "ru": "мотивировать",
+      "pl": "motywować"
+    },
+    {
+      "id": "inspire",
+      "cs": "inspirovat",
+      "en": "to inspire",
+      "uk": "надихати",
+      "ru": "вдохновлять",
+      "pl": "inspirować"
+    },
+    {
+      "id": "manipulate",
+      "cs": "manipulovat",
+      "en": "to manipulate",
+      "uk": "маніпулювати",
+      "ru": "манипулировать",
+      "pl": "manipulować"
+    },
+    {
+      "id": "acknowledge",
+      "cs": "uznat",
+      "en": "to acknowledge",
+      "uk": "визнати",
+      "ru": "признать",
+      "pl": "uznać"
+    },
+    {
+      "id": "allow-for-a-possibility",
+      "cs": "připustit",
+      "en": "to allow for (a possibility)",
+      "uk": "допустити",
+      "ru": "допустить",
+      "pl": "dopuścić"
+    },
+    {
+      "id": "object",
+      "cs": "namítnout",
+      "en": "to object",
+      "uk": "заперечити",
+      "ru": "возразить",
+      "pl": "zaoponować"
+    },
+    {
+      "id": "emphasise",
+      "cs": "zdůraznit",
+      "en": "to emphasise",
+      "uk": "підкреслити",
+      "ru": "подчеркнуть",
+      "pl": "podkreślić"
+    },
+    {
+      "id": "justify",
+      "cs": "zdůvodnit",
+      "en": "to justify",
+      "uk": "обґрунтувати",
+      "ru": "обосновать",
+      "pl": "uzasadnić"
+    },
+    {
+      "id": "refute",
+      "cs": "vyvrátit",
+      "en": "to refute",
+      "uk": "спростувати",
+      "ru": "опровергнуть",
+      "pl": "obalić"
+    },
+    {
+      "id": "generalise",
+      "cs": "zobecnit",
+      "en": "to generalise",
+      "uk": "узагальнити",
+      "ru": "обобщить",
+      "pl": "uogólnić"
+    },
+    {
+      "id": "analyse",
+      "cs": "analyzovat",
+      "en": "to analyse",
+      "uk": "аналізувати",
+      "ru": "анализировать",
+      "pl": "analizować"
+    }
+  ]
+}

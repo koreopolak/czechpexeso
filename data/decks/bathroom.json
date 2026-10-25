@@ -1,0 +1,405 @@
+{
+  "id": "bathroom",
+  "order": 125,
+  "level": "A2",
+  "icon": "drop",
+  "title": {
+    "cs": "Koupelna a hygiena",
+    "en": "Bathroom & Hygiene",
+    "uk": "Ванна кімната і гігієна",
+    "ru": "Ванная и гигиена",
+    "pl": "Łazienka i higiena"
+  },
+  "description": {
+    "en": "Washing, grooming and the bathroom shelf.",
+    "uk": "Миття, догляд і все з полиці у ванній.",
+    "ru": "Мытьё, уход и всё с полки в ванной.",
+    "pl": "Mycie, pielęgnacja i półka w łazience."
+  },
+  "words": [
+    {
+      "id": "conditioner",
+      "cs": "kondicionér",
+      "en": "conditioner",
+      "uk": "кондиціонер для волосся",
+      "ru": "кондиционер для волос",
+      "pl": "odżywka"
+    },
+    {
+      "id": "shower-gel",
+      "cs": "sprchový gel",
+      "en": "shower gel",
+      "uk": "гель для душу",
+      "ru": "гель для душа",
+      "pl": "żel pod prysznic"
+    },
+    {
+      "id": "bubble-bath",
+      "cs": "pěna do koupele",
+      "en": "bubble bath",
+      "uk": "піна для ванни",
+      "ru": "пена для ванны",
+      "pl": "płyn do kąpieli"
+    },
+    {
+      "id": "liquid-soap",
+      "cs": "tekuté mýdlo",
+      "en": "liquid soap",
+      "uk": "рідке мило",
+      "ru": "жидкое мыло",
+      "pl": "mydło w płynie"
+    },
+    {
+      "id": "deodorant",
+      "cs": "deodorant",
+      "en": "deodorant",
+      "uk": "дезодорант",
+      "ru": "дезодорант",
+      "pl": "dezodorant"
+    },
+    {
+      "id": "perfume",
+      "cs": "parfém",
+      "en": "perfume",
+      "uk": "парфуми",
+      "ru": "духи",
+      "pl": "perfumy"
+    },
+    {
+      "id": "aftershave",
+      "cs": "voda po holení",
+      "en": "aftershave",
+      "uk": "лосьйон після гоління",
+      "ru": "лосьон после бритья",
+      "pl": "woda po goleniu"
+    },
+    {
+      "id": "razor",
+      "cs": "holicí strojek",
+      "en": "razor",
+      "uk": "бритва",
+      "ru": "бритва",
+      "pl": "maszynka do golenia"
+    },
+    {
+      "id": "razor-blade",
+      "cs": "žiletka",
+      "en": "razor blade",
+      "uk": "лезо",
+      "ru": "лезвие",
+      "pl": "żyletka"
+    },
+    {
+      "id": "shaving-foam",
+      "cs": "pěna na holení",
+      "en": "shaving foam",
+      "uk": "піна для гоління",
+      "ru": "пена для бритья",
+      "pl": "pianka do golenia"
+    },
+    {
+      "id": "comb",
+      "cs": "hřeben",
+      "en": "comb",
+      "uk": "гребінець",
+      "ru": "расчёска",
+      "pl": "grzebień"
+    },
+    {
+      "id": "hairbrush",
+      "cs": "kartáč na vlasy",
+      "en": "hairbrush",
+      "uk": "щітка для волосся",
+      "ru": "щётка для волос",
+      "pl": "szczotka do włosów"
+    },
+    {
+      "id": "curling-iron",
+      "cs": "kulma",
+      "en": "curling iron",
+      "uk": "плойка",
+      "ru": "плойка",
+      "pl": "lokówka"
+    },
+    {
+      "id": "hair-straightener",
+      "cs": "žehlička na vlasy",
+      "en": "hair straightener",
+      "uk": "праска для волосся",
+      "ru": "выпрямитель для волос",
+      "pl": "prostownica"
+    },
+    {
+      "id": "hair-gel",
+      "cs": "gel na vlasy",
+      "en": "hair gel",
+      "uk": "гель для волосся",
+      "ru": "гель для волос",
+      "pl": "żel do włosów"
+    },
+    {
+      "id": "hairspray",
+      "cs": "lak na vlasy",
+      "en": "hairspray",
+      "uk": "лак для волосся",
+      "ru": "лак для волос",
+      "pl": "lakier do włosów"
+    },
+    {
+      "id": "hair-dye",
+      "cs": "barva na vlasy",
+      "en": "hair dye",
+      "uk": "фарба для волосся",
+      "ru": "краска для волос",
+      "pl": "farba do włosów"
+    },
+    {
+      "id": "face-cream",
+      "cs": "pleťový krém",
+      "en": "face cream",
+      "uk": "крем для обличчя",
+      "ru": "крем для лица",
+      "pl": "krem do twarzy"
+    },
+    {
+      "id": "body-lotion",
+      "cs": "tělové mléko",
+      "en": "body lotion",
+      "uk": "лосьйон для тіла",
+      "ru": "лосьон для тела",
+      "pl": "balsam do ciała"
+    },
+    {
+      "id": "sunscreen",
+      "cs": "opalovací krém",
+      "en": "sunscreen",
+      "uk": "сонцезахисний крем",
+      "ru": "солнцезащитный крем",
+      "pl": "krem z filtrem"
+    },
+    {
+      "id": "lipstick",
+      "cs": "rtěnka",
+      "en": "lipstick",
+      "uk": "помада",
+      "ru": "помада",
+      "pl": "szminka"
+    },
+    {
+      "id": "mascara",
+      "cs": "řasenka",
+      "en": "mascara",
+      "uk": "туш для вій",
+      "ru": "тушь для ресниц",
+      "pl": "tusz do rzęs"
+    },
+    {
+      "id": "foundation",
+      "cs": "make-up",
+      "en": "foundation",
+      "uk": "тональний крем",
+      "ru": "тональный крем",
+      "pl": "podkład"
+    },
+    {
+      "id": "face-powder",
+      "cs": "pudr",
+      "en": "face powder",
+      "uk": "пудра",
+      "ru": "пудра",
+      "pl": "puder"
+    },
+    {
+      "id": "eyeshadow",
+      "cs": "oční stíny",
+      "en": "eyeshadow",
+      "uk": "тіні для повік",
+      "ru": "тени для век",
+      "pl": "cienie do powiek"
+    },
+    {
+      "id": "nail-polish",
+      "cs": "lak na nehty",
+      "en": "nail polish",
+      "uk": "лак для нігтів",
+      "ru": "лак для ногтей",
+      "pl": "lakier do paznokci"
+    },
+    {
+      "id": "nail-polish-remover",
+      "cs": "odlakovač",
+      "en": "nail polish remover",
+      "uk": "рідина для зняття лаку",
+      "ru": "жидкость для снятия лака",
+      "pl": "zmywacz do paznokci"
+    },
+    {
+      "id": "nail-file",
+      "cs": "pilník",
+      "en": "nail file",
+      "uk": "пилочка",
+      "ru": "пилочка",
+      "pl": "pilnik do paznokci"
+    },
+    {
+      "id": "nail-scissors",
+      "cs": "nůžky na nehty",
+      "en": "nail scissors",
+      "uk": "манікюрні ножиці",
+      "ru": "маникюрные ножницы",
+      "pl": "nożyczki do paznokci"
+    },
+    {
+      "id": "tweezers",
+      "cs": "pinzeta",
+      "en": "tweezers",
+      "uk": "пінцет",
+      "ru": "пинцет",
+      "pl": "pęseta"
+    },
+    {
+      "id": "cotton-buds",
+      "cs": "vatové tyčinky",
+      "en": "cotton buds",
+      "uk": "ватні палички",
+      "ru": "ватные палочки",
+      "pl": "patyczki higieniczne"
+    },
+    {
+      "id": "cotton-pads",
+      "cs": "odličovací tampony",
+      "en": "cotton pads",
+      "uk": "ватні диски",
+      "ru": "ватные диски",
+      "pl": "waciki kosmetyczne"
+    },
+    {
+      "id": "dental-floss",
+      "cs": "dentální nit",
+      "en": "dental floss",
+      "uk": "зубна нитка",
+      "ru": "зубная нить",
+      "pl": "nić dentystyczna"
+    },
+    {
+      "id": "mouthwash",
+      "cs": "ústní voda",
+      "en": "mouthwash",
+      "uk": "ополіскувач для рота",
+      "ru": "ополаскиватель для рта",
+      "pl": "płyn do płukania ust"
+    },
+    {
+      "id": "sanitary-pads",
+      "cs": "vložky",
+      "en": "sanitary pads",
+      "uk": "гігієнічні прокладки",
+      "ru": "прокладки",
+      "pl": "podpaski"
+    },
+    {
+      "id": "tampons",
+      "cs": "tampony",
+      "en": "tampons",
+      "uk": "тампони",
+      "ru": "тампоны",
+      "pl": "tampony"
+    },
+    {
+      "id": "nappies",
+      "cs": "pleny",
+      "en": "nappies",
+      "uk": "підгузки",
+      "ru": "подгузники",
+      "pl": "pieluchy"
+    },
+    {
+      "id": "wet-wipes",
+      "cs": "vlhčené ubrousky",
+      "en": "wet wipes",
+      "uk": "вологі серветки",
+      "ru": "влажные салфетки",
+      "pl": "chusteczki nawilżane"
+    },
+    {
+      "id": "toiletry-bag",
+      "cs": "kosmetická taštička",
+      "en": "toiletry bag",
+      "uk": "косметичка",
+      "ru": "косметичка",
+      "pl": "kosmetyczka"
+    },
+    {
+      "id": "bath-towel",
+      "cs": "osuška",
+      "en": "bath towel",
+      "uk": "банний рушник",
+      "ru": "банное полотенце",
+      "pl": "ręcznik kąpielowy"
+    },
+    {
+      "id": "bath-mat",
+      "cs": "koupelnová předložka",
+      "en": "bath mat",
+      "uk": "килимок для ванної",
+      "ru": "коврик для ванной",
+      "pl": "dywanik łazienkowy"
+    },
+    {
+      "id": "shower-curtain",
+      "cs": "sprchový závěs",
+      "en": "shower curtain",
+      "uk": "шторка для душу",
+      "ru": "шторка для душа",
+      "pl": "zasłona prysznicowa"
+    },
+    {
+      "id": "toilet-brush",
+      "cs": "záchodová štětka",
+      "en": "toilet brush",
+      "uk": "йорж для унітазу",
+      "ru": "ёршик для унитаза",
+      "pl": "szczotka do toalety"
+    },
+    {
+      "id": "flush",
+      "cs": "splachovat",
+      "en": "to flush",
+      "uk": "змивати",
+      "ru": "смывать",
+      "pl": "spuszczać wodę"
+    },
+    {
+      "id": "wash-your-hands",
+      "cs": "umýt si ruce",
+      "en": "to wash your hands",
+      "uk": "помити руки",
+      "ru": "помыть руки",
+      "pl": "umyć ręce"
+    },
+    {
+      "id": "dry-yourself",
+      "cs": "osušit se",
+      "en": "to dry yourself",
+      "uk": "витертися",
+      "ru": "вытереться",
+      "pl": "wytrzeć się"
+    },
+    {
+      "id": "put-on-make-up",
+      "cs": "nalíčit se",
+      "en": "to put on make-up",
+      "uk": "нафарбуватися",
+      "ru": "накраситься",
+      "pl": "umalować się"
+    },
+    {
+      "id": "remove-make-up",
+      "cs": "odlíčit se",
+      "en": "to remove make-up",
+      "uk": "зняти макіяж",
+      "ru": "снять макияж",
+      "pl": "zmyć makijaż"
+    }
+  ]
+}

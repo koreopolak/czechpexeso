@@ -1,0 +1,349 @@
+{
+  "id": "military",
+  "order": 308,
+  "level": "B2",
+  "icon": "shield",
+  "title": {
+    "cs": "Armáda a konflikty",
+    "en": "Military & Conflict",
+    "uk": "Армія та конфлікти",
+    "ru": "Армия и конфликты",
+    "pl": "Wojsko i konflikty"
+  },
+  "description": {
+    "en": "Armed forces, war and peace.",
+    "uk": "Збройні сили, війна і мир.",
+    "ru": "Вооружённые силы, война и мир.",
+    "pl": "Siły zbrojne, wojna i pokój."
+  },
+  "words": [
+    {
+      "id": "officer",
+      "cs": "důstojník",
+      "en": "officer",
+      "uk": "офіцер",
+      "ru": "офицер",
+      "pl": "oficer"
+    },
+    {
+      "id": "general",
+      "cs": "generál",
+      "en": "general",
+      "uk": "генерал",
+      "ru": "генерал",
+      "pl": "generał"
+    },
+    {
+      "id": "commander",
+      "cs": "velitel",
+      "en": "commander",
+      "uk": "командир",
+      "ru": "командир",
+      "pl": "dowódca"
+    },
+    {
+      "id": "navy",
+      "cs": "námořnictvo",
+      "en": "navy",
+      "uk": "військово-морський флот",
+      "ru": "военно-морской флот",
+      "pl": "marynarka wojenna"
+    },
+    {
+      "id": "air-force",
+      "cs": "letectvo",
+      "en": "air force",
+      "uk": "військово-повітряні сили",
+      "ru": "военно-воздушные силы",
+      "pl": "lotnictwo wojskowe"
+    },
+    {
+      "id": "infantry",
+      "cs": "pěchota",
+      "en": "infantry",
+      "uk": "піхота",
+      "ru": "пехота",
+      "pl": "piechota"
+    },
+    {
+      "id": "tank",
+      "cs": "tank",
+      "en": "tank",
+      "uk": "танк",
+      "ru": "танк",
+      "pl": "czołg"
+    },
+    {
+      "id": "weapon",
+      "cs": "zbraň",
+      "en": "weapon",
+      "uk": "зброя",
+      "ru": "оружие",
+      "pl": "broń"
+    },
+    {
+      "id": "rifle",
+      "cs": "puška",
+      "en": "rifle",
+      "uk": "гвинтівка",
+      "ru": "винтовка",
+      "pl": "karabin"
+    },
+    {
+      "id": "pistol",
+      "cs": "pistole",
+      "en": "pistol",
+      "uk": "пістолет",
+      "ru": "пистолет",
+      "pl": "pistolet"
+    },
+    {
+      "id": "cartridge",
+      "cs": "náboj",
+      "en": "cartridge",
+      "uk": "патрон",
+      "ru": "патрон",
+      "pl": "nabój"
+    },
+    {
+      "id": "grenade",
+      "cs": "granát",
+      "en": "grenade",
+      "uk": "граната",
+      "ru": "граната",
+      "pl": "granat"
+    },
+    {
+      "id": "landmine",
+      "cs": "mina",
+      "en": "landmine",
+      "uk": "міна",
+      "ru": "мина",
+      "pl": "mina"
+    },
+    {
+      "id": "missile",
+      "cs": "střela",
+      "en": "missile",
+      "uk": "снаряд",
+      "ru": "снаряд",
+      "pl": "pocisk"
+    },
+    {
+      "id": "bomb",
+      "cs": "bomba",
+      "en": "bomb",
+      "uk": "бомба",
+      "ru": "бомба",
+      "pl": "bomba"
+    },
+    {
+      "id": "bombing",
+      "cs": "bombardování",
+      "en": "bombing",
+      "uk": "бомбардування",
+      "ru": "бомбардировка",
+      "pl": "bombardowanie"
+    },
+    {
+      "id": "battle",
+      "cs": "bitva",
+      "en": "battle",
+      "uk": "битва",
+      "ru": "битва",
+      "pl": "bitwa"
+    },
+    {
+      "id": "defence",
+      "cs": "obrana",
+      "en": "defence",
+      "uk": "оборона",
+      "ru": "оборона",
+      "pl": "obrona"
+    },
+    {
+      "id": "attack",
+      "cs": "útočit",
+      "en": "to attack",
+      "uk": "атакувати",
+      "ru": "атаковать",
+      "pl": "atakować"
+    },
+    {
+      "id": "defend-oneself",
+      "cs": "bránit se",
+      "en": "to defend oneself",
+      "uk": "захищатися",
+      "ru": "защищаться",
+      "pl": "bronić się"
+    },
+    {
+      "id": "retreat",
+      "cs": "ustoupit",
+      "en": "to retreat",
+      "uk": "відступити",
+      "ru": "отступить",
+      "pl": "wycofać się"
+    },
+    {
+      "id": "surrender",
+      "cs": "kapitulace",
+      "en": "surrender",
+      "uk": "капітуляція",
+      "ru": "капитуляция",
+      "pl": "kapitulacja"
+    },
+    {
+      "id": "ceasefire",
+      "cs": "příměří",
+      "en": "ceasefire",
+      "uk": "перемир’я",
+      "ru": "перемирие",
+      "pl": "rozejm"
+    },
+    {
+      "id": "peace-treaty",
+      "cs": "mírová smlouva",
+      "en": "peace treaty",
+      "uk": "мирний договір",
+      "ru": "мирный договор",
+      "pl": "traktat pokojowy"
+    },
+    {
+      "id": "ally",
+      "cs": "spojenec",
+      "en": "ally",
+      "uk": "союзник",
+      "ru": "союзник",
+      "pl": "sojusznik"
+    },
+    {
+      "id": "prisoner-of-war",
+      "cs": "zajatec",
+      "en": "prisoner of war",
+      "uk": "військовополонений",
+      "ru": "военнопленный",
+      "pl": "jeniec"
+    },
+    {
+      "id": "civilian",
+      "cs": "civilista",
+      "en": "civilian",
+      "uk": "цивільний",
+      "ru": "мирный житель",
+      "pl": "cywil"
+    },
+    {
+      "id": "casualties",
+      "cs": "ztráty",
+      "en": "casualties",
+      "uk": "втрати",
+      "ru": "потери",
+      "pl": "straty"
+    },
+    {
+      "id": "wounded",
+      "cs": "raněný",
+      "en": "wounded",
+      "uk": "поранений",
+      "ru": "раненый",
+      "pl": "ranny"
+    },
+    {
+      "id": "fallen-soldier",
+      "cs": "padlý",
+      "en": "fallen soldier",
+      "uk": "загиблий",
+      "ru": "павший",
+      "pl": "poległy"
+    },
+    {
+      "id": "decoration-medal",
+      "cs": "vyznamenání",
+      "en": "decoration (medal)",
+      "uk": "нагорода",
+      "ru": "награда",
+      "pl": "odznaczenie"
+    },
+    {
+      "id": "mobilisation",
+      "cs": "mobilizace",
+      "en": "mobilisation",
+      "uk": "мобілізація",
+      "ru": "мобилизация",
+      "pl": "mobilizacja"
+    },
+    {
+      "id": "conscription",
+      "cs": "branná povinnost",
+      "en": "conscription",
+      "uk": "військовий обов’язок",
+      "ru": "воинская обязанность",
+      "pl": "obowiązek wojskowy"
+    },
+    {
+      "id": "military-base",
+      "cs": "základna",
+      "en": "military base",
+      "uk": "військова база",
+      "ru": "военная база",
+      "pl": "baza wojskowa"
+    },
+    {
+      "id": "barracks",
+      "cs": "kasárna",
+      "en": "barracks",
+      "uk": "казарма",
+      "ru": "казарма",
+      "pl": "koszary"
+    },
+    {
+      "id": "invasion",
+      "cs": "invaze",
+      "en": "invasion",
+      "uk": "вторгнення",
+      "ru": "вторжение",
+      "pl": "inwazja"
+    },
+    {
+      "id": "resistance-movement",
+      "cs": "odboj",
+      "en": "resistance movement",
+      "uk": "рух опору",
+      "ru": "движение сопротивления",
+      "pl": "ruch oporu"
+    },
+    {
+      "id": "partisan",
+      "cs": "partyzán",
+      "en": "partisan",
+      "uk": "партизан",
+      "ru": "партизан",
+      "pl": "partyzant"
+    },
+    {
+      "id": "intelligence-service",
+      "cs": "zpravodajská služba",
+      "en": "intelligence service",
+      "uk": "розвідка",
+      "ru": "разведка",
+      "pl": "wywiad"
+    },
+    {
+      "id": "spy",
+      "cs": "špion",
+      "en": "spy",
+      "uk": "шпигун",
+      "ru": "шпион",
+      "pl": "szpieg"
+    },
+    {
+      "id": "military-adj",
+      "cs": "vojenský",
+      "en": "military (adj.)",
+      "uk": "військовий",
+      "ru": "военный",
+      "pl": "wojskowy"
+    }
+  ]
+}

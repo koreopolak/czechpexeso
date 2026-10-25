@@ -416,6 +416,270 @@
       "uk": "палець ноги",
       "ru": "палец ноги",
       "pl": "palec u nogi"
+    },
+    {
+      "id": "bottom",
+      "cs": "zadek",
+      "en": "bottom",
+      "uk": "сідниці",
+      "ru": "ягодицы",
+      "pl": "pośladki"
+    },
+    {
+      "id": "calf-of-the-leg",
+      "cs": "lýtko",
+      "en": "calf (of the leg)",
+      "uk": "литка",
+      "ru": "икра (ноги)",
+      "pl": "łydka"
+    },
+    {
+      "id": "shin",
+      "cs": "holeň",
+      "en": "shin",
+      "uk": "гомілка",
+      "ru": "голень",
+      "pl": "goleń"
+    },
+    {
+      "id": "index-finger",
+      "cs": "ukazováček",
+      "en": "index finger",
+      "uk": "вказівний палець",
+      "ru": "указательный палец",
+      "pl": "palec wskazujący"
+    },
+    {
+      "id": "little-finger",
+      "cs": "malíček",
+      "en": "little finger",
+      "uk": "мізинець",
+      "ru": "мизинец",
+      "pl": "mały palec"
+    },
+    {
+      "id": "armpit",
+      "cs": "podpaží",
+      "en": "armpit",
+      "uk": "пахва",
+      "ru": "подмышка",
+      "pl": "pacha"
+    },
+    {
+      "id": "gums",
+      "cs": "dásně",
+      "en": "gums",
+      "uk": "ясна",
+      "ru": "дёсны",
+      "pl": "dziąsła"
+    },
+    {
+      "id": "vein",
+      "cs": "žíla",
+      "en": "vein",
+      "uk": "вена",
+      "ru": "вена",
+      "pl": "żyła"
+    },
+    {
+      "id": "artery",
+      "cs": "tepna",
+      "en": "artery",
+      "uk": "артерія",
+      "ru": "артерия",
+      "pl": "tętnica"
+    },
+    {
+      "id": "nerve",
+      "cs": "nerv",
+      "en": "nerve",
+      "uk": "нерв",
+      "ru": "нерв",
+      "pl": "nerw"
+    },
+    {
+      "id": "joint",
+      "cs": "kloub",
+      "en": "joint",
+      "uk": "суглоб",
+      "ru": "сустав",
+      "pl": "staw"
+    },
+    {
+      "id": "rib",
+      "cs": "žebro",
+      "en": "rib",
+      "uk": "ребро",
+      "ru": "ребро",
+      "pl": "żebro"
+    },
+    {
+      "id": "skull",
+      "cs": "lebka",
+      "en": "skull",
+      "uk": "череп",
+      "ru": "череп",
+      "pl": "czaszka"
+    },
+    {
+      "id": "intestine",
+      "cs": "střevo",
+      "en": "intestine",
+      "uk": "кишка",
+      "ru": "кишка",
+      "pl": "jelito"
+    },
+    {
+      "id": "bladder",
+      "cs": "měchýř",
+      "en": "bladder",
+      "uk": "сечовий міхур",
+      "ru": "мочевой пузырь",
+      "pl": "pęcherz"
+    },
+    {
+      "id": "sweat",
+      "cs": "pot",
+      "en": "sweat",
+      "uk": "піт",
+      "ru": "пот",
+      "pl": "pot"
+    },
+    {
+      "id": "tears",
+      "cs": "slzy",
+      "en": "tears",
+      "uk": "сльози",
+      "ru": "слёзы",
+      "pl": "łzy"
+    },
+    {
+      "id": "saliva",
+      "cs": "sliny",
+      "en": "saliva",
+      "uk": "слина",
+      "ru": "слюна",
+      "pl": "ślina"
+    },
+    {
+      "id": "breath",
+      "cs": "dech",
+      "en": "breath",
+      "uk": "подих",
+      "ru": "дыхание",
+      "pl": "oddech"
+    },
+    {
+      "id": "pulse",
+      "cs": "tep",
+      "en": "pulse",
+      "uk": "пульс",
+      "ru": "пульс",
+      "pl": "puls"
+    },
+    {
+      "id": "figure-body-shape",
+      "cs": "postava",
+      "en": "figure (body shape)",
+      "uk": "статура",
+      "ru": "фигура",
+      "pl": "sylwetka"
+    },
+    {
+      "id": "complexion",
+      "cs": "pleť",
+      "en": "complexion",
+      "uk": "шкіра обличчя",
+      "ru": "кожа лица",
+      "pl": "cera"
+    },
+    {
+      "id": "jaw",
+      "cs": "čelist",
+      "en": "jaw",
+      "uk": "щелепа",
+      "ru": "челюсть",
+      "pl": "szczęka"
+    },
+    {
+      "id": "cheekbone",
+      "cs": "lícní kost",
+      "en": "cheekbone",
+      "uk": "вилиця",
+      "ru": "скула",
+      "pl": "kość policzkowa"
+    },
+    {
+      "id": "back-of-the-head",
+      "cs": "zátylek",
+      "en": "back of the head",
+      "uk": "потилиця",
+      "ru": "затылок",
+      "pl": "potylica"
+    },
+    {
+      "id": "pupil-of-the-eye",
+      "cs": "zornice",
+      "en": "pupil (of the eye)",
+      "uk": "зіниця",
+      "ru": "зрачок",
+      "pl": "źrenica"
+    },
+    {
+      "id": "iris",
+      "cs": "duhovka",
+      "en": "iris",
+      "uk": "райдужка",
+      "ru": "радужка",
+      "pl": "tęczówka"
+    },
+    {
+      "id": "eyelid",
+      "cs": "víčko",
+      "en": "eyelid",
+      "uk": "повіка",
+      "ru": "веко",
+      "pl": "powieka"
+    },
+    {
+      "id": "nostril",
+      "cs": "nosní dírka",
+      "en": "nostril",
+      "uk": "ніздря",
+      "ru": "ноздря",
+      "pl": "nozdrze"
+    },
+    {
+      "id": "torso",
+      "cs": "trup",
+      "en": "torso",
+      "uk": "тулуб",
+      "ru": "туловище",
+      "pl": "tułów"
+    },
+    {
+      "id": "limb",
+      "cs": "končetina",
+      "en": "limb",
+      "uk": "кінцівка",
+      "ru": "конечность",
+      "pl": "kończyna"
+    },
+    {
+      "id": "scar",
+      "cs": "jizva",
+      "en": "scar",
+      "uk": "шрам",
+      "ru": "шрам",
+      "pl": "blizna"
+    },
+    {
+      "id": "birthmark",
+      "cs": "mateřské znaménko",
+      "en": "birthmark",
+      "uk": "родимка",
+      "ru": "родинка",
+      "pl": "znamię"
     }
   ]
 }

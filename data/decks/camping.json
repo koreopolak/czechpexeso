@@ -1,0 +1,325 @@
+{
+  "id": "camping",
+  "order": 130,
+  "level": "A2",
+  "icon": "tent",
+  "title": {
+    "cs": "Kempování a turistika",
+    "en": "Camping & Hiking",
+    "uk": "Кемпінг і походи",
+    "ru": "Кемпинг и походы",
+    "pl": "Biwakowanie i wędrówki"
+  },
+  "description": {
+    "en": "Tents, trails and nights under the stars.",
+    "uk": "Намети, стежки й ночі просто неба.",
+    "ru": "Палатки, тропы и ночи под открытым небом.",
+    "pl": "Namioty, szlaki i noce pod gołym niebem."
+  },
+  "words": [
+    {
+      "id": "sleeping-bag",
+      "cs": "spacák",
+      "en": "sleeping bag",
+      "uk": "спальник",
+      "ru": "спальник",
+      "pl": "śpiwór"
+    },
+    {
+      "id": "sleeping-mat",
+      "cs": "karimatka",
+      "en": "sleeping mat",
+      "uk": "каремат",
+      "ru": "туристический коврик",
+      "pl": "karimata"
+    },
+    {
+      "id": "air-mattress",
+      "cs": "nafukovací matrace",
+      "en": "air mattress",
+      "uk": "надувний матрац",
+      "ru": "надувной матрас",
+      "pl": "materac dmuchany"
+    },
+    {
+      "id": "tent-peg",
+      "cs": "kolík",
+      "en": "tent peg",
+      "uk": "кілочок",
+      "ru": "колышек",
+      "pl": "śledź"
+    },
+    {
+      "id": "tarp",
+      "cs": "plachta",
+      "en": "tarp",
+      "uk": "тент",
+      "ru": "тент",
+      "pl": "plandeka"
+    },
+    {
+      "id": "camping-stove",
+      "cs": "vařič",
+      "en": "camping stove",
+      "uk": "пальник",
+      "ru": "горелка",
+      "pl": "kuchenka turystyczna"
+    },
+    {
+      "id": "camping-pot",
+      "cs": "kotlík",
+      "en": "camping pot",
+      "uk": "казанок",
+      "ru": "котелок",
+      "pl": "kociołek"
+    },
+    {
+      "id": "mess-tin",
+      "cs": "ešus",
+      "en": "mess tin",
+      "uk": "похідний казанок",
+      "ru": "походный котелок",
+      "pl": "menażka"
+    },
+    {
+      "id": "head-torch",
+      "cs": "čelovka",
+      "en": "head torch",
+      "uk": "налобний ліхтарик",
+      "ru": "налобный фонарик",
+      "pl": "czołówka"
+    },
+    {
+      "id": "torch",
+      "cs": "baterka",
+      "en": "torch",
+      "uk": "ліхтарик",
+      "ru": "фонарик",
+      "pl": "latarka"
+    },
+    {
+      "id": "matches",
+      "cs": "sirky",
+      "en": "matches",
+      "uk": "сірники",
+      "ru": "спички",
+      "pl": "zapałki"
+    },
+    {
+      "id": "lighter",
+      "cs": "zapalovač",
+      "en": "lighter",
+      "uk": "запальничка",
+      "ru": "зажигалка",
+      "pl": "zapalniczka"
+    },
+    {
+      "id": "firewood",
+      "cs": "dříví",
+      "en": "firewood",
+      "uk": "дрова",
+      "ru": "дрова",
+      "pl": "drewno na opał"
+    },
+    {
+      "id": "axe",
+      "cs": "sekera",
+      "en": "axe",
+      "uk": "сокира",
+      "ru": "топор",
+      "pl": "siekiera"
+    },
+    {
+      "id": "penknife",
+      "cs": "kapesní nůž",
+      "en": "penknife",
+      "uk": "кишеньковий ніж",
+      "ru": "перочинный нож",
+      "pl": "scyzoryk"
+    },
+    {
+      "id": "insect-repellent",
+      "cs": "repelent",
+      "en": "insect repellent",
+      "uk": "репелент",
+      "ru": "репеллент",
+      "pl": "środek na komary"
+    },
+    {
+      "id": "hiking-map",
+      "cs": "turistická mapa",
+      "en": "hiking map",
+      "uk": "туристична карта",
+      "ru": "туристическая карта",
+      "pl": "mapa turystyczna"
+    },
+    {
+      "id": "trail-marker",
+      "cs": "turistická značka",
+      "en": "trail marker",
+      "uk": "туристичне маркування",
+      "ru": "туристическая маркировка",
+      "pl": "znak szlaku"
+    },
+    {
+      "id": "signpost",
+      "cs": "rozcestník",
+      "en": "signpost",
+      "uk": "вказівник",
+      "ru": "указатель",
+      "pl": "drogowskaz"
+    },
+    {
+      "id": "trail",
+      "cs": "stezka",
+      "en": "trail",
+      "uk": "стежка",
+      "ru": "тропа",
+      "pl": "ścieżka"
+    },
+    {
+      "id": "mountain-hut",
+      "cs": "horská chata",
+      "en": "mountain hut",
+      "uk": "гірський притулок",
+      "ru": "горный приют",
+      "pl": "schronisko górskie"
+    },
+    {
+      "id": "ascent",
+      "cs": "výstup",
+      "en": "ascent",
+      "uk": "підйом",
+      "ru": "подъём",
+      "pl": "wejście"
+    },
+    {
+      "id": "descent",
+      "cs": "sestup",
+      "en": "descent",
+      "uk": "спуск",
+      "ru": "спуск",
+      "pl": "zejście"
+    },
+    {
+      "id": "lookout-tower",
+      "cs": "rozhledna",
+      "en": "lookout tower",
+      "uk": "оглядова вежа",
+      "ru": "смотровая башня",
+      "pl": "wieża widokowa"
+    },
+    {
+      "id": "viewpoint",
+      "cs": "vyhlídka",
+      "en": "viewpoint",
+      "uk": "оглядовий майданчик",
+      "ru": "смотровая площадка",
+      "pl": "punkt widokowy"
+    },
+    {
+      "id": "hike",
+      "cs": "túra",
+      "en": "hike",
+      "uk": "похід",
+      "ru": "поход",
+      "pl": "wędrówka"
+    },
+    {
+      "id": "blister",
+      "cs": "puchýř",
+      "en": "blister",
+      "uk": "мозоль",
+      "ru": "мозоль",
+      "pl": "pęcherz"
+    },
+    {
+      "id": "hiking-boots",
+      "cs": "pohorky",
+      "en": "hiking boots",
+      "uk": "туристичні черевики",
+      "ru": "треккинговые ботинки",
+      "pl": "buty trekkingowe"
+    },
+    {
+      "id": "trekking-poles",
+      "cs": "trekové hole",
+      "en": "trekking poles",
+      "uk": "трекінгові палиці",
+      "ru": "треккинговые палки",
+      "pl": "kijki trekkingowe"
+    },
+    {
+      "id": "rope",
+      "cs": "lano",
+      "en": "rope",
+      "uk": "канат",
+      "ru": "канат",
+      "pl": "lina"
+    },
+    {
+      "id": "carabiner",
+      "cs": "karabina",
+      "en": "carabiner",
+      "uk": "карабін",
+      "ru": "карабин",
+      "pl": "karabińczyk"
+    },
+    {
+      "id": "sleep-under-the-stars",
+      "cs": "spát pod širákem",
+      "en": "to sleep under the stars",
+      "uk": "спати просто неба",
+      "ru": "спать под открытым небом",
+      "pl": "spać pod gołym niebem"
+    },
+    {
+      "id": "make-a-fire",
+      "cs": "rozdělat oheň",
+      "en": "to make a fire",
+      "uk": "розпалити багаття",
+      "ru": "развести костёр",
+      "pl": "rozpalić ognisko"
+    },
+    {
+      "id": "put-up-a-tent",
+      "cs": "postavit stan",
+      "en": "to put up a tent",
+      "uk": "поставити намет",
+      "ru": "поставить палатку",
+      "pl": "rozbić namiot"
+    },
+    {
+      "id": "pack-up",
+      "cs": "sbalit se",
+      "en": "to pack up",
+      "uk": "зібрати речі",
+      "ru": "собрать вещи",
+      "pl": "spakować się"
+    },
+    {
+      "id": "jerrycan",
+      "cs": "kanystr",
+      "en": "jerrycan",
+      "uk": "каністра",
+      "ru": "канистра",
+      "pl": "kanister"
+    },
+    {
+      "id": "grilling-sausage",
+      "cs": "buřt",
+      "en": "grilling sausage",
+      "uk": "ковбаска для гриля",
+      "ru": "колбаска для гриля",
+      "pl": "kiełbaska na ognisko"
+    },
+    {
+      "id": "roast-over-a-fire",
+      "cs": "opékat",
+      "en": "to roast (over a fire)",
+      "uk": "підсмажувати",
+      "ru": "поджаривать",
+      "pl": "piec nad ogniskiem"
+    }
+  ]
+}

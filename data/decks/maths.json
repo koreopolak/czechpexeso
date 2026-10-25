@@ -1,0 +1,325 @@
+{
+  "id": "maths",
+  "order": 230,
+  "level": "B1",
+  "icon": "hash",
+  "title": {
+    "cs": "Matematika a geometrie",
+    "en": "Maths & Geometry",
+    "uk": "Математика та геометрія",
+    "ru": "Математика и геометрия",
+    "pl": "Matematyka i geometria"
+  },
+  "description": {
+    "en": "Numbers, equations and shapes.",
+    "uk": "Числа, рівняння й фігури.",
+    "ru": "Числа, уравнения и фигуры.",
+    "pl": "Liczby, równania i figury."
+  },
+  "words": [
+    {
+      "id": "algebra",
+      "cs": "algebra",
+      "en": "algebra",
+      "uk": "алгебра",
+      "ru": "алгебра",
+      "pl": "algebra"
+    },
+    {
+      "id": "geometry",
+      "cs": "geometrie",
+      "en": "geometry",
+      "uk": "геометрія",
+      "ru": "геометрия",
+      "pl": "geometria"
+    },
+    {
+      "id": "calculation",
+      "cs": "výpočet",
+      "en": "calculation",
+      "uk": "обчислення",
+      "ru": "вычисление",
+      "pl": "obliczenie"
+    },
+    {
+      "id": "unknown-in-an-equation",
+      "cs": "neznámá",
+      "en": "unknown (in an equation)",
+      "uk": "невідоме",
+      "ru": "неизвестное",
+      "pl": "niewiadoma"
+    },
+    {
+      "id": "power-exponent",
+      "cs": "mocnina",
+      "en": "power (exponent)",
+      "uk": "степінь",
+      "ru": "степень",
+      "pl": "potęga"
+    },
+    {
+      "id": "square-root",
+      "cs": "odmocnina",
+      "en": "square root",
+      "uk": "квадратний корінь",
+      "ru": "квадратный корень",
+      "pl": "pierwiastek kwadratowy"
+    },
+    {
+      "id": "function",
+      "cs": "funkce",
+      "en": "function",
+      "uk": "функція",
+      "ru": "функция",
+      "pl": "funkcja"
+    },
+    {
+      "id": "set-maths",
+      "cs": "množina",
+      "en": "set (maths)",
+      "uk": "множина",
+      "ru": "множество",
+      "pl": "zbiór"
+    },
+    {
+      "id": "probability",
+      "cs": "pravděpodobnost",
+      "en": "probability",
+      "uk": "імовірність",
+      "ru": "вероятность",
+      "pl": "prawdopodobieństwo"
+    },
+    {
+      "id": "sum",
+      "cs": "součet",
+      "en": "sum",
+      "uk": "сума",
+      "ru": "сумма",
+      "pl": "suma"
+    },
+    {
+      "id": "product-maths",
+      "cs": "součin",
+      "en": "product (maths)",
+      "uk": "добуток",
+      "ru": "произведение",
+      "pl": "iloczyn"
+    },
+    {
+      "id": "quotient",
+      "cs": "podíl",
+      "en": "quotient",
+      "uk": "частка",
+      "ru": "частное",
+      "pl": "iloraz"
+    },
+    {
+      "id": "divisor",
+      "cs": "dělitel",
+      "en": "divisor",
+      "uk": "дільник",
+      "ru": "делитель",
+      "pl": "dzielnik"
+    },
+    {
+      "id": "multiple",
+      "cs": "násobek",
+      "en": "multiple",
+      "uk": "кратне",
+      "ru": "кратное",
+      "pl": "wielokrotność"
+    },
+    {
+      "id": "prime-number",
+      "cs": "prvočíslo",
+      "en": "prime number",
+      "uk": "просте число",
+      "ru": "простое число",
+      "pl": "liczba pierwsza"
+    },
+    {
+      "id": "integer",
+      "cs": "celé číslo",
+      "en": "integer",
+      "uk": "ціле число",
+      "ru": "целое число",
+      "pl": "liczba całkowita"
+    },
+    {
+      "id": "negative-number",
+      "cs": "záporné číslo",
+      "en": "negative number",
+      "uk": "від’ємне число",
+      "ru": "отрицательное число",
+      "pl": "liczba ujemna"
+    },
+    {
+      "id": "positive-number",
+      "cs": "kladné číslo",
+      "en": "positive number",
+      "uk": "додатне число",
+      "ru": "положительное число",
+      "pl": "liczba dodatnia"
+    },
+    {
+      "id": "decimal-number",
+      "cs": "desetinné číslo",
+      "en": "decimal number",
+      "uk": "десятковий дріб",
+      "ru": "десятичная дробь",
+      "pl": "ułamek dziesiętny"
+    },
+    {
+      "id": "round-a-number",
+      "cs": "zaokrouhlit",
+      "en": "to round (a number)",
+      "uk": "округлити",
+      "ru": "округлить",
+      "pl": "zaokrąglić"
+    },
+    {
+      "id": "estimate",
+      "cs": "odhad",
+      "en": "estimate",
+      "uk": "приблизна оцінка",
+      "ru": "приблизная оценка",
+      "pl": "szacunek"
+    },
+    {
+      "id": "axis",
+      "cs": "osa",
+      "en": "axis",
+      "uk": "вісь",
+      "ru": "ось",
+      "pl": "oś"
+    },
+    {
+      "id": "straight-line",
+      "cs": "přímka",
+      "en": "straight line",
+      "uk": "пряма",
+      "ru": "прямая",
+      "pl": "prosta"
+    },
+    {
+      "id": "line-segment",
+      "cs": "úsečka",
+      "en": "line segment",
+      "uk": "відрізок",
+      "ru": "отрезок",
+      "pl": "odcinek"
+    },
+    {
+      "id": "parallel-line",
+      "cs": "rovnoběžka",
+      "en": "parallel line",
+      "uk": "паралельна пряма",
+      "ru": "параллельная прямая",
+      "pl": "prosta równoległa"
+    },
+    {
+      "id": "perpendicular",
+      "cs": "kolmice",
+      "en": "perpendicular",
+      "uk": "перпендикуляр",
+      "ru": "перпендикуляр",
+      "pl": "prostopadła"
+    },
+    {
+      "id": "right-angle",
+      "cs": "pravý úhel",
+      "en": "right angle",
+      "uk": "прямий кут",
+      "ru": "прямой угол",
+      "pl": "kąt prosty"
+    },
+    {
+      "id": "perimeter",
+      "cs": "obvod",
+      "en": "perimeter",
+      "uk": "периметр",
+      "ru": "периметр",
+      "pl": "obwód"
+    },
+    {
+      "id": "radius",
+      "cs": "poloměr",
+      "en": "radius",
+      "uk": "радіус",
+      "ru": "радиус",
+      "pl": "promień"
+    },
+    {
+      "id": "diagonal",
+      "cs": "úhlopříčka",
+      "en": "diagonal",
+      "uk": "діагональ",
+      "ru": "диагональ",
+      "pl": "przekątna"
+    },
+    {
+      "id": "polygon",
+      "cs": "mnohoúhelník",
+      "en": "polygon",
+      "uk": "многокутник",
+      "ru": "многоугольник",
+      "pl": "wielokąt"
+    },
+    {
+      "id": "pentagon",
+      "cs": "pětiúhelník",
+      "en": "pentagon",
+      "uk": "п’ятикутник",
+      "ru": "пятиугольник",
+      "pl": "pięciokąt"
+    },
+    {
+      "id": "hexagon",
+      "cs": "šestiúhelník",
+      "en": "hexagon",
+      "uk": "шестикутник",
+      "ru": "шестиугольник",
+      "pl": "sześciokąt"
+    },
+    {
+      "id": "rhombus",
+      "cs": "kosočtverec",
+      "en": "rhombus",
+      "uk": "ромб",
+      "ru": "ромб",
+      "pl": "romb"
+    },
+    {
+      "id": "trapezium",
+      "cs": "lichoběžník",
+      "en": "trapezium",
+      "uk": "трапеція",
+      "ru": "трапеция",
+      "pl": "trapez"
+    },
+    {
+      "id": "ellipse",
+      "cs": "elipsa",
+      "en": "ellipse",
+      "uk": "еліпс",
+      "ru": "эллипс",
+      "pl": "elipsa"
+    },
+    {
+      "id": "symmetry",
+      "cs": "symetrie",
+      "en": "symmetry",
+      "uk": "симетрія",
+      "ru": "симметрия",
+      "pl": "symetria"
+    },
+    {
+      "id": "calculate",
+      "cs": "vypočítat",
+      "en": "to calculate",
+      "uk": "обчислити",
+      "ru": "вычислить",
+      "pl": "obliczyć"
+    }
+  ]
+}

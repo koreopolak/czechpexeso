@@ -1,0 +1,181 @@
+{
+  "id": "family-life",
+  "order": 322,
+  "level": "B2",
+  "icon": "people",
+  "title": {
+    "cs": "Rodinný život",
+    "en": "Family Life",
+    "uk": "Сімейне життя",
+    "ru": "Семейная жизнь",
+    "pl": "Życie rodzinne"
+  },
+  "description": {
+    "en": "Upbringing, custody, godparents and names.",
+    "uk": "Виховання, опіка, хрещені та імена.",
+    "ru": "Воспитание, опека, крёстные и имена.",
+    "pl": "Wychowanie, opieka, chrzestni i imiona."
+  },
+  "words": [
+    {
+      "id": "parenthood",
+      "cs": "rodičovství",
+      "en": "parenthood",
+      "uk": "батьківство",
+      "ru": "родительство",
+      "pl": "rodzicielstwo"
+    },
+    {
+      "id": "upbringing",
+      "cs": "výchova",
+      "en": "upbringing",
+      "uk": "виховання",
+      "ru": "воспитание",
+      "pl": "wychowanie"
+    },
+    {
+      "id": "custody",
+      "cs": "svěření do péče",
+      "en": "custody",
+      "uk": "опіка над дитиною",
+      "ru": "опека над ребёнком",
+      "pl": "opieka nad dzieckiem"
+    },
+    {
+      "id": "child-support",
+      "cs": "výživné",
+      "en": "child support",
+      "uk": "аліменти",
+      "ru": "алименты",
+      "pl": "alimenty"
+    },
+    {
+      "id": "foster-care",
+      "cs": "pěstounská péče",
+      "en": "foster care",
+      "uk": "прийомна сім’я",
+      "ru": "приёмная семья",
+      "pl": "rodzina zastępcza"
+    },
+    {
+      "id": "foster-parent",
+      "cs": "pěstoun",
+      "en": "foster parent",
+      "uk": "прийомний батько",
+      "ru": "приёмный родитель",
+      "pl": "rodzic zastępczy"
+    },
+    {
+      "id": "single-mother",
+      "cs": "samoživitelka",
+      "en": "single mother",
+      "uk": "мати-одиначка",
+      "ru": "мать-одиночка",
+      "pl": "samotna matka"
+    },
+    {
+      "id": "blended-family",
+      "cs": "patchworková rodina",
+      "en": "blended family",
+      "uk": "змішана сім’я",
+      "ru": "смешанная семья",
+      "pl": "rodzina patchworkowa"
+    },
+    {
+      "id": "extended-family",
+      "cs": "širší rodina",
+      "en": "extended family",
+      "uk": "розширена сім’я",
+      "ru": "расширенная семья",
+      "pl": "dalsza rodzina"
+    },
+    {
+      "id": "relatives",
+      "cs": "příbuzenstvo",
+      "en": "relatives",
+      "uk": "родичі",
+      "ru": "родственники",
+      "pl": "krewni"
+    },
+    {
+      "id": "blood-relative",
+      "cs": "pokrevní příbuzný",
+      "en": "blood relative",
+      "uk": "кровний родич",
+      "ru": "кровный родственник",
+      "pl": "krewny"
+    },
+    {
+      "id": "maiden-name",
+      "cs": "dívčí jméno",
+      "en": "maiden name",
+      "uk": "дівоче прізвище",
+      "ru": "девичья фамилия",
+      "pl": "nazwisko panieńskie"
+    },
+    {
+      "id": "first-name",
+      "cs": "křestní jméno",
+      "en": "first name",
+      "uk": "ім’я",
+      "ru": "имя",
+      "pl": "imię"
+    },
+    {
+      "id": "nickname",
+      "cs": "přezdívka",
+      "en": "nickname",
+      "uk": "прізвисько",
+      "ru": "прозвище",
+      "pl": "przezwisko"
+    },
+    {
+      "id": "godmother",
+      "cs": "kmotra",
+      "en": "godmother",
+      "uk": "хрещена мати",
+      "ru": "крёстная мать",
+      "pl": "matka chrzestna"
+    },
+    {
+      "id": "godchild",
+      "cs": "kmotřenec",
+      "en": "godchild",
+      "uk": "хрещеник",
+      "ru": "крестник",
+      "pl": "chrześniak"
+    },
+    {
+      "id": "stepchild",
+      "cs": "nevlastní dítě",
+      "en": "stepchild",
+      "uk": "пасинок",
+      "ru": "пасынок",
+      "pl": "pasierb"
+    },
+    {
+      "id": "parental-allowance",
+      "cs": "rodičovský příspěvek",
+      "en": "parental allowance",
+      "uk": "допомога по догляду за дитиною",
+      "ru": "пособие по уходу за ребёнком",
+      "pl": "zasiłek rodzicielski"
+    },
+    {
+      "id": "child-benefit",
+      "cs": "přídavky na děti",
+      "en": "child benefit",
+      "uk": "допомога на дітей",
+      "ru": "пособие на детей",
+      "pl": "zasiłek rodzinny"
+    },
+    {
+      "id": "family-celebration",
+      "cs": "rodinná oslava",
+      "en": "family celebration",
+      "uk": "сімейне свято",
+      "ru": "семейный праздник",
+      "pl": "uroczystość rodzinna"
+    }
+  ]
+}

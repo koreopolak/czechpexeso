@@ -408,6 +408,222 @@
       "uk": "півострів",
       "ru": "полуостров",
       "pl": "półwysep"
+    },
+    {
+      "id": "gorge",
+      "cs": "rokle",
+      "en": "gorge",
+      "uk": "ущелина",
+      "ru": "ущелье",
+      "pl": "wąwóz"
+    },
+    {
+      "id": "mountain-pass",
+      "cs": "průsmyk",
+      "en": "mountain pass",
+      "uk": "перевал",
+      "ru": "перевал",
+      "pl": "przełęcz"
+    },
+    {
+      "id": "slope",
+      "cs": "svah",
+      "en": "slope",
+      "uk": "схил",
+      "ru": "склон",
+      "pl": "zbocze"
+    },
+    {
+      "id": "cliff-2",
+      "cs": "útes",
+      "en": "sea cliff",
+      "uk": "кліф",
+      "ru": "утёс",
+      "pl": "klif"
+    },
+    {
+      "id": "coast",
+      "cs": "pobřeží",
+      "en": "coast",
+      "uk": "узбережжя",
+      "ru": "побережье",
+      "pl": "wybrzeże"
+    },
+    {
+      "id": "river-mouth",
+      "cs": "ústí řeky",
+      "en": "river mouth",
+      "uk": "гирло річки",
+      "ru": "устье реки",
+      "pl": "ujście rzeki"
+    },
+    {
+      "id": "spring-source",
+      "cs": "pramen",
+      "en": "spring (source)",
+      "uk": "джерело",
+      "ru": "родник",
+      "pl": "źródło"
+    },
+    {
+      "id": "grove",
+      "cs": "háj",
+      "en": "grove",
+      "uk": "гай",
+      "ru": "роща",
+      "pl": "gaj"
+    },
+    {
+      "id": "clearing",
+      "cs": "mýtina",
+      "en": "clearing",
+      "uk": "галявина",
+      "ru": "поляна",
+      "pl": "polana"
+    },
+    {
+      "id": "thicket",
+      "cs": "houští",
+      "en": "thicket",
+      "uk": "хащі",
+      "ru": "чаща",
+      "pl": "gąszcz"
+    },
+    {
+      "id": "steppe",
+      "cs": "step",
+      "en": "steppe",
+      "uk": "степ",
+      "ru": "степь",
+      "pl": "step"
+    },
+    {
+      "id": "tundra",
+      "cs": "tundra",
+      "en": "tundra",
+      "uk": "тундра",
+      "ru": "тундра",
+      "pl": "tundra"
+    },
+    {
+      "id": "glacier",
+      "cs": "ledovec",
+      "en": "glacier",
+      "uk": "льодовик",
+      "ru": "ледник",
+      "pl": "lodowiec"
+    },
+    {
+      "id": "crater",
+      "cs": "kráter",
+      "en": "crater",
+      "uk": "кратер",
+      "ru": "кратер",
+      "pl": "krater"
+    },
+    {
+      "id": "lava",
+      "cs": "láva",
+      "en": "lava",
+      "uk": "лава",
+      "ru": "лава",
+      "pl": "lawa"
+    },
+    {
+      "id": "dune",
+      "cs": "duna",
+      "en": "dune",
+      "uk": "дюна",
+      "ru": "дюна",
+      "pl": "wydma"
+    },
+    {
+      "id": "oasis",
+      "cs": "oáza",
+      "en": "oasis",
+      "uk": "оаза",
+      "ru": "оазис",
+      "pl": "oaza"
+    },
+    {
+      "id": "coral-reef",
+      "cs": "korálový útes",
+      "en": "coral reef",
+      "uk": "кораловий риф",
+      "ru": "коралловый риф",
+      "pl": "rafa koralowa"
+    },
+    {
+      "id": "high-tide",
+      "cs": "příliv",
+      "en": "high tide",
+      "uk": "приплив",
+      "ru": "прилив",
+      "pl": "przypływ"
+    },
+    {
+      "id": "low-tide",
+      "cs": "odliv",
+      "en": "low tide",
+      "uk": "відплив",
+      "ru": "отлив",
+      "pl": "odpływ"
+    },
+    {
+      "id": "current",
+      "cs": "proud",
+      "en": "current",
+      "uk": "течія",
+      "ru": "течение",
+      "pl": "prąd"
+    },
+    {
+      "id": "dew",
+      "cs": "rosa",
+      "en": "dew",
+      "uk": "роса",
+      "ru": "роса",
+      "pl": "rosa"
+    },
+    {
+      "id": "eclipse",
+      "cs": "zatmění",
+      "en": "eclipse",
+      "uk": "затемнення",
+      "ru": "затмение",
+      "pl": "zaćmienie"
+    },
+    {
+      "id": "constellation",
+      "cs": "souhvězdí",
+      "en": "constellation",
+      "uk": "сузір’я",
+      "ru": "созвездие",
+      "pl": "gwiazdozbiór"
+    },
+    {
+      "id": "full-moon",
+      "cs": "úplněk",
+      "en": "full moon",
+      "uk": "повня",
+      "ru": "полнолуние",
+      "pl": "pełnia"
+    },
+    {
+      "id": "dusk",
+      "cs": "soumrak",
+      "en": "dusk",
+      "uk": "сутінки",
+      "ru": "сумерки",
+      "pl": "zmierzch"
+    },
+    {
+      "id": "dawn",
+      "cs": "svítání",
+      "en": "dawn",
+      "uk": "світанок",
+      "ru": "рассвет",
+      "pl": "świt"
     }
   ]
 }

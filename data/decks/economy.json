@@ -1,0 +1,373 @@
+{
+  "id": "economy",
+  "order": 306,
+  "level": "B2",
+  "icon": "chart",
+  "title": {
+    "cs": "Ekonomika a podnikání",
+    "en": "Economy & Business",
+    "uk": "Економіка та бізнес",
+    "ru": "Экономика и бизнес",
+    "pl": "Gospodarka i biznes"
+  },
+  "description": {
+    "en": "Markets, companies, trade and taxes.",
+    "uk": "Ринки, компанії, торгівля й податки.",
+    "ru": "Рынки, компании, торговля и налоги.",
+    "pl": "Rynki, firmy, handel i podatki."
+  },
+  "words": [
+    {
+      "id": "national-economy",
+      "cs": "hospodářství",
+      "en": "national economy",
+      "uk": "народне господарство",
+      "ru": "народное хозяйство",
+      "pl": "gospodarka"
+    },
+    {
+      "id": "gdp",
+      "cs": "hrubý domácí produkt",
+      "en": "GDP",
+      "uk": "ВВП",
+      "ru": "ВВП",
+      "pl": "PKB"
+    },
+    {
+      "id": "recession",
+      "cs": "recese",
+      "en": "recession",
+      "uk": "рецесія",
+      "ru": "рецессия",
+      "pl": "recesja"
+    },
+    {
+      "id": "crisis",
+      "cs": "krize",
+      "en": "crisis",
+      "uk": "криза",
+      "ru": "кризис",
+      "pl": "kryzys"
+    },
+    {
+      "id": "economic-growth",
+      "cs": "hospodářský růst",
+      "en": "economic growth",
+      "uk": "економічне зростання",
+      "ru": "экономический рост",
+      "pl": "wzrost gospodarczy"
+    },
+    {
+      "id": "competition",
+      "cs": "konkurence",
+      "en": "competition",
+      "uk": "конкуренція",
+      "ru": "конкуренция",
+      "pl": "konkurencja"
+    },
+    {
+      "id": "monopoly",
+      "cs": "monopol",
+      "en": "monopoly",
+      "uk": "монополія",
+      "ru": "монополия",
+      "pl": "monopol"
+    },
+    {
+      "id": "demand",
+      "cs": "poptávka",
+      "en": "demand",
+      "uk": "попит",
+      "ru": "спрос",
+      "pl": "popyt"
+    },
+    {
+      "id": "export",
+      "cs": "export",
+      "en": "export",
+      "uk": "експорт",
+      "ru": "экспорт",
+      "pl": "eksport"
+    },
+    {
+      "id": "import",
+      "cs": "import",
+      "en": "import",
+      "uk": "імпорт",
+      "ru": "импорт",
+      "pl": "import"
+    },
+    {
+      "id": "customs-duty",
+      "cs": "clo",
+      "en": "customs duty",
+      "uk": "мито",
+      "ru": "пошлина",
+      "pl": "cło"
+    },
+    {
+      "id": "subsidy",
+      "cs": "dotace",
+      "en": "subsidy",
+      "uk": "субсидія",
+      "ru": "субсидия",
+      "pl": "dotacja"
+    },
+    {
+      "id": "privatisation",
+      "cs": "privatizace",
+      "en": "privatisation",
+      "uk": "приватизація",
+      "ru": "приватизация",
+      "pl": "prywatyzacja"
+    },
+    {
+      "id": "state-budget",
+      "cs": "státní rozpočet",
+      "en": "state budget",
+      "uk": "державний бюджет",
+      "ru": "государственный бюджет",
+      "pl": "budżet państwa"
+    },
+    {
+      "id": "deficit",
+      "cs": "deficit",
+      "en": "deficit",
+      "uk": "дефіцит",
+      "ru": "дефицит",
+      "pl": "deficyt"
+    },
+    {
+      "id": "national-debt",
+      "cs": "státní dluh",
+      "en": "national debt",
+      "uk": "державний борг",
+      "ru": "государственный долг",
+      "pl": "dług publiczny"
+    },
+    {
+      "id": "business-plan",
+      "cs": "podnikatelský plán",
+      "en": "business plan",
+      "uk": "бізнес-план",
+      "ru": "бизнес-план",
+      "pl": "biznesplan"
+    },
+    {
+      "id": "start-up",
+      "cs": "startup",
+      "en": "start-up",
+      "uk": "стартап",
+      "ru": "стартап",
+      "pl": "startup"
+    },
+    {
+      "id": "shareholder",
+      "cs": "akcionář",
+      "en": "shareholder",
+      "uk": "акціонер",
+      "ru": "акционер",
+      "pl": "akcjonariusz"
+    },
+    {
+      "id": "business-partner",
+      "cs": "společník",
+      "en": "business partner",
+      "uk": "компаньйон",
+      "ru": "компаньон",
+      "pl": "wspólnik"
+    },
+    {
+      "id": "joint-stock-company",
+      "cs": "akciová společnost",
+      "en": "joint-stock company",
+      "uk": "акціонерне товариство",
+      "ru": "акционерное общество",
+      "pl": "spółka akcyjna"
+    },
+    {
+      "id": "limited-liability-company",
+      "cs": "společnost s ručením omezeným",
+      "en": "limited liability company",
+      "uk": "товариство з обмеженою відповідальністю",
+      "ru": "общество с ограниченной ответственностью",
+      "pl": "spółka z ograniczoną odpowiedzialnością"
+    },
+    {
+      "id": "turnover",
+      "cs": "obrat",
+      "en": "turnover",
+      "uk": "обіг",
+      "ru": "оборот",
+      "pl": "obrót"
+    },
+    {
+      "id": "revenue",
+      "cs": "tržby",
+      "en": "revenue",
+      "uk": "виручка",
+      "ru": "выручка",
+      "pl": "przychody"
+    },
+    {
+      "id": "costs",
+      "cs": "náklady",
+      "en": "costs",
+      "uk": "витрати виробництва",
+      "ru": "издержки",
+      "pl": "koszty"
+    },
+    {
+      "id": "profit-margin",
+      "cs": "marže",
+      "en": "(profit) margin",
+      "uk": "маржа",
+      "ru": "маржа",
+      "pl": "marża"
+    },
+    {
+      "id": "marketing",
+      "cs": "marketing",
+      "en": "marketing",
+      "uk": "маркетинг",
+      "ru": "маркетинг",
+      "pl": "marketing"
+    },
+    {
+      "id": "ad-campaign",
+      "cs": "reklamní kampaň",
+      "en": "ad campaign",
+      "uk": "рекламна кампанія",
+      "ru": "рекламная кампания",
+      "pl": "kampania reklamowa"
+    },
+    {
+      "id": "target-group",
+      "cs": "cílová skupina",
+      "en": "target group",
+      "uk": "цільова аудиторія",
+      "ru": "целевая аудитория",
+      "pl": "grupa docelowa"
+    },
+    {
+      "id": "consumer",
+      "cs": "spotřebitel",
+      "en": "consumer",
+      "uk": "споживач",
+      "ru": "потребитель",
+      "pl": "konsument"
+    },
+    {
+      "id": "manufacturer",
+      "cs": "výrobce",
+      "en": "manufacturer",
+      "uk": "виробник",
+      "ru": "производитель",
+      "pl": "producent"
+    },
+    {
+      "id": "wholesale",
+      "cs": "velkoobchod",
+      "en": "wholesale",
+      "uk": "оптова торгівля",
+      "ru": "оптовая торговля",
+      "pl": "hurt"
+    },
+    {
+      "id": "retail",
+      "cs": "maloobchod",
+      "en": "retail",
+      "uk": "роздрібна торгівля",
+      "ru": "розничная торговля",
+      "pl": "handel detaliczny"
+    },
+    {
+      "id": "franchise",
+      "cs": "franšíza",
+      "en": "franchise",
+      "uk": "франшиза",
+      "ru": "франшиза",
+      "pl": "franczyza"
+    },
+    {
+      "id": "merger",
+      "cs": "fúze",
+      "en": "merger",
+      "uk": "злиття",
+      "ru": "слияние",
+      "pl": "fuzja"
+    },
+    {
+      "id": "acquisition",
+      "cs": "akvizice",
+      "en": "acquisition",
+      "uk": "поглинання",
+      "ru": "поглощение",
+      "pl": "przejęcie"
+    },
+    {
+      "id": "globalisation",
+      "cs": "globalizace",
+      "en": "globalisation",
+      "uk": "глобалізація",
+      "ru": "глобализация",
+      "pl": "globalizacja"
+    },
+    {
+      "id": "taxpayer",
+      "cs": "daňový poplatník",
+      "en": "taxpayer",
+      "uk": "платник податків",
+      "ru": "налогоплательщик",
+      "pl": "podatnik"
+    },
+    {
+      "id": "vat",
+      "cs": "DPH",
+      "en": "VAT",
+      "uk": "ПДВ",
+      "ru": "НДС",
+      "pl": "VAT"
+    },
+    {
+      "id": "income-tax",
+      "cs": "daň z příjmu",
+      "en": "income tax",
+      "uk": "податок на доходи",
+      "ru": "подоходный налог",
+      "pl": "podatek dochodowy"
+    },
+    {
+      "id": "financial-statement",
+      "cs": "účetní závěrka",
+      "en": "financial statement",
+      "uk": "фінансова звітність",
+      "ru": "финансовая отчётность",
+      "pl": "sprawozdanie finansowe"
+    },
+    {
+      "id": "audit",
+      "cs": "audit",
+      "en": "audit",
+      "uk": "аудит",
+      "ru": "аудит",
+      "pl": "audyt"
+    },
+    {
+      "id": "insolvency",
+      "cs": "insolvence",
+      "en": "insolvency",
+      "uk": "неплатоспроможність",
+      "ru": "неплатёжеспособность",
+      "pl": "niewypłacalność"
+    },
+    {
+      "id": "liquidation",
+      "cs": "likvidace",
+      "en": "liquidation",
+      "uk": "ліквідація",
+      "ru": "ликвидация",
+      "pl": "likwidacja"
+    }
+  ]
+}

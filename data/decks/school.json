@@ -424,6 +424,246 @@
       "uk": "однокласник",
       "ru": "одноклассник",
       "pl": "kolega z klasy"
+    },
+    {
+      "id": "school-canteen",
+      "cs": "školní jídelna",
+      "en": "school canteen",
+      "uk": "шкільна їдальня",
+      "ru": "школьная столовая",
+      "pl": "stołówka szkolna"
+    },
+    {
+      "id": "after-school-club",
+      "cs": "družina",
+      "en": "after-school club",
+      "uk": "група продовженого дня",
+      "ru": "группа продлённого дня",
+      "pl": "świetlica"
+    },
+    {
+      "id": "gym-hall",
+      "cs": "tělocvična",
+      "en": "gym (hall)",
+      "uk": "спортзал",
+      "ru": "спортзал",
+      "pl": "sala gimnastyczna"
+    },
+    {
+      "id": "class-teacher",
+      "cs": "třídní učitel",
+      "en": "class teacher",
+      "uk": "класний керівник",
+      "ru": "классный руководитель",
+      "pl": "wychowawca"
+    },
+    {
+      "id": "school-bell",
+      "cs": "zvonění",
+      "en": "school bell",
+      "uk": "дзвоник",
+      "ru": "звонок",
+      "pl": "dzwonek"
+    },
+    {
+      "id": "absence-note",
+      "cs": "omluvenka",
+      "en": "absence note",
+      "uk": "пояснювальна записка",
+      "ru": "объяснительная записка",
+      "pl": "usprawiedliwienie"
+    },
+    {
+      "id": "written-test",
+      "cs": "písemka",
+      "en": "written test",
+      "uk": "контрольна робота",
+      "ru": "контрольная работа",
+      "pl": "kartkówka"
+    },
+    {
+      "id": "dictation",
+      "cs": "diktát",
+      "en": "dictation",
+      "uk": "диктант",
+      "ru": "диктант",
+      "pl": "dyktando"
+    },
+    {
+      "id": "alphabet",
+      "cs": "abeceda",
+      "en": "alphabet",
+      "uk": "абетка",
+      "ru": "алфавит",
+      "pl": "alfabet"
+    },
+    {
+      "id": "letter-of-the-alphabet",
+      "cs": "písmeno",
+      "en": "letter (of the alphabet)",
+      "uk": "літера",
+      "ru": "буква",
+      "pl": "litera"
+    },
+    {
+      "id": "word",
+      "cs": "slovo",
+      "en": "word",
+      "uk": "слово",
+      "ru": "слово",
+      "pl": "słowo"
+    },
+    {
+      "id": "sentence",
+      "cs": "věta",
+      "en": "sentence",
+      "uk": "речення",
+      "ru": "предложение",
+      "pl": "zdanie"
+    },
+    {
+      "id": "paragraph",
+      "cs": "odstavec",
+      "en": "paragraph",
+      "uk": "абзац",
+      "ru": "абзац",
+      "pl": "akapit"
+    },
+    {
+      "id": "spelling",
+      "cs": "pravopis",
+      "en": "spelling",
+      "uk": "правопис",
+      "ru": "правописание",
+      "pl": "pisownia"
+    },
+    {
+      "id": "grammar",
+      "cs": "gramatika",
+      "en": "grammar",
+      "uk": "граматика",
+      "ru": "грамматика",
+      "pl": "gramatyka"
+    },
+    {
+      "id": "pronunciation",
+      "cs": "výslovnost",
+      "en": "pronunciation",
+      "uk": "вимова",
+      "ru": "произношение",
+      "pl": "wymowa"
+    },
+    {
+      "id": "vocabulary",
+      "cs": "slovní zásoba",
+      "en": "vocabulary",
+      "uk": "словниковий запас",
+      "ru": "словарный запас",
+      "pl": "słownictwo"
+    },
+    {
+      "id": "exercise",
+      "cs": "cvičení",
+      "en": "exercise",
+      "uk": "вправа",
+      "ru": "упражнение",
+      "pl": "ćwiczenie"
+    },
+    {
+      "id": "top-mark",
+      "cs": "jednička",
+      "en": "top mark",
+      "uk": "відмінна оцінка",
+      "ru": "отличная оценка",
+      "pl": "najlepsza ocena"
+    },
+    {
+      "id": "fail-at-school",
+      "cs": "propadnout",
+      "en": "to fail (at school)",
+      "uk": "провалити предмет",
+      "ru": "провалить предмет",
+      "pl": "nie zdać"
+    },
+    {
+      "id": "copy-cheat",
+      "cs": "opisovat",
+      "en": "to copy (cheat)",
+      "uk": "списувати",
+      "ru": "списывать",
+      "pl": "ściągać"
+    },
+    {
+      "id": "raise-your-hand",
+      "cs": "hlásit se",
+      "en": "to raise your hand",
+      "uk": "піднімати руку",
+      "ru": "поднимать руку",
+      "pl": "zgłaszać się"
+    },
+    {
+      "id": "be-absent",
+      "cs": "chybět",
+      "en": "to be absent",
+      "uk": "бути відсутнім",
+      "ru": "отсутствовать",
+      "pl": "być nieobecnym"
+    },
+    {
+      "id": "marker-pen",
+      "cs": "fixa",
+      "en": "marker pen",
+      "uk": "маркер",
+      "ru": "маркер",
+      "pl": "flamaster"
+    },
+    {
+      "id": "chalk",
+      "cs": "křída",
+      "en": "chalk",
+      "uk": "крейда",
+      "ru": "мел",
+      "pl": "kreda"
+    },
+    {
+      "id": "pencil-sharpener",
+      "cs": "ořezávátko",
+      "en": "pencil sharpener",
+      "uk": "точилка",
+      "ru": "точилка",
+      "pl": "temperówka"
+    },
+    {
+      "id": "compasses",
+      "cs": "kružítko",
+      "en": "compasses",
+      "uk": "циркуль",
+      "ru": "циркуль",
+      "pl": "cyrkiel"
+    },
+    {
+      "id": "protractor",
+      "cs": "úhloměr",
+      "en": "protractor",
+      "uk": "транспортир",
+      "ru": "транспортир",
+      "pl": "kątomierz"
+    },
+    {
+      "id": "atlas",
+      "cs": "atlas",
+      "en": "atlas",
+      "uk": "атлас",
+      "ru": "атлас",
+      "pl": "atlas"
+    },
+    {
+      "id": "globe",
+      "cs": "glóbus",
+      "en": "globe",
+      "uk": "глобус",
+      "ru": "глобус",
+      "pl": "globus"
     }
   ]
 }

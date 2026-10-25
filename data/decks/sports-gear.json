@@ -1,0 +1,237 @@
+{
+  "id": "sports-gear",
+  "order": 246,
+  "level": "B1",
+  "icon": "ball",
+  "title": {
+    "cs": "Sportovní vybavení",
+    "en": "Sports Equipment",
+    "uk": "Спортивне спорядження",
+    "ru": "Спортивное снаряжение",
+    "pl": "Sprzęt sportowy"
+  },
+  "description": {
+    "en": "Gear for the pitch, the gym, the pool and the slopes.",
+    "uk": "Спорядження для поля, залу, басейну та схилів.",
+    "ru": "Снаряжение для поля, зала, бассейна и склонов.",
+    "pl": "Sprzęt na boisko, siłownię, basen i stok."
+  },
+  "words": [
+    {
+      "id": "protective-pads",
+      "cs": "chrániče",
+      "en": "protective pads",
+      "uk": "захисні накладки",
+      "ru": "защитные накладки",
+      "pl": "ochraniacze"
+    },
+    {
+      "id": "football-boots",
+      "cs": "kopačky",
+      "en": "football boots",
+      "uk": "бутси",
+      "ru": "бутсы",
+      "pl": "korki"
+    },
+    {
+      "id": "hockey-stick",
+      "cs": "hokejka",
+      "en": "hockey stick",
+      "uk": "ключка",
+      "ru": "клюшка",
+      "pl": "kij hokejowy"
+    },
+    {
+      "id": "puck",
+      "cs": "puk",
+      "en": "puck",
+      "uk": "шайба",
+      "ru": "шайба",
+      "pl": "krążek"
+    },
+    {
+      "id": "bat",
+      "cs": "pálka",
+      "en": "bat",
+      "uk": "біта",
+      "ru": "бита",
+      "pl": "kij baseballowy"
+    },
+    {
+      "id": "golf-club",
+      "cs": "golfová hůl",
+      "en": "golf club",
+      "uk": "ключка для гольфу",
+      "ru": "клюшка для гольфа",
+      "pl": "kij golfowy"
+    },
+    {
+      "id": "target",
+      "cs": "terč",
+      "en": "target",
+      "uk": "мішень",
+      "ru": "мишень",
+      "pl": "tarcza"
+    },
+    {
+      "id": "bow-weapon",
+      "cs": "luk",
+      "en": "bow (weapon)",
+      "uk": "лук",
+      "ru": "лук",
+      "pl": "łuk"
+    },
+    {
+      "id": "arrow",
+      "cs": "šíp",
+      "en": "arrow",
+      "uk": "стріла",
+      "ru": "стрела",
+      "pl": "strzała"
+    },
+    {
+      "id": "swimming-goggles",
+      "cs": "plavecké brýle",
+      "en": "swimming goggles",
+      "uk": "окуляри для плавання",
+      "ru": "очки для плавания",
+      "pl": "okulary pływackie"
+    },
+    {
+      "id": "swimming-cap",
+      "cs": "koupací čepice",
+      "en": "swimming cap",
+      "uk": "шапочка для плавання",
+      "ru": "шапочка для плавания",
+      "pl": "czepek pływacki"
+    },
+    {
+      "id": "ski-poles",
+      "cs": "lyžařské hůlky",
+      "en": "ski poles",
+      "uk": "лижні палиці",
+      "ru": "лыжные палки",
+      "pl": "kijki narciarskie"
+    },
+    {
+      "id": "ski-goggles",
+      "cs": "lyžařské brýle",
+      "en": "ski goggles",
+      "uk": "гірськолижні окуляри",
+      "ru": "горнолыжные очки",
+      "pl": "gogle narciarskie"
+    },
+    {
+      "id": "sledge",
+      "cs": "sáně",
+      "en": "sledge",
+      "uk": "санки",
+      "ru": "санки",
+      "pl": "sanki"
+    },
+    {
+      "id": "skateboard",
+      "cs": "skateboard",
+      "en": "skateboard",
+      "uk": "скейтборд",
+      "ru": "скейтборд",
+      "pl": "deskorolka"
+    },
+    {
+      "id": "roller-skates",
+      "cs": "kolečkové brusle",
+      "en": "roller skates",
+      "uk": "роликові ковзани",
+      "ru": "роликовые коньки",
+      "pl": "wrotki"
+    },
+    {
+      "id": "trampoline",
+      "cs": "trampolína",
+      "en": "trampoline",
+      "uk": "батут",
+      "ru": "батут",
+      "pl": "trampolina"
+    },
+    {
+      "id": "gym-mat",
+      "cs": "žíněnka",
+      "en": "gym mat",
+      "uk": "гімнастичний мат",
+      "ru": "гимнастический мат",
+      "pl": "materac gimnastyczny"
+    },
+    {
+      "id": "balance-beam",
+      "cs": "kladina",
+      "en": "balance beam",
+      "uk": "колода",
+      "ru": "бревно",
+      "pl": "równoważnia"
+    },
+    {
+      "id": "horizontal-bar",
+      "cs": "hrazda",
+      "en": "horizontal bar",
+      "uk": "поперечина",
+      "ru": "перекладина",
+      "pl": "drążek"
+    },
+    {
+      "id": "rings-gymnastics",
+      "cs": "kruhy",
+      "en": "rings (gymnastics)",
+      "uk": "кільця",
+      "ru": "кольца",
+      "pl": "kółka"
+    },
+    {
+      "id": "wall-bars",
+      "cs": "švédská stěna",
+      "en": "wall bars",
+      "uk": "шведська стінка",
+      "ru": "шведская стенка",
+      "pl": "drabinki gimnastyczne"
+    },
+    {
+      "id": "whistle",
+      "cs": "píšťalka",
+      "en": "whistle",
+      "uk": "свисток",
+      "ru": "свисток",
+      "pl": "gwizdek"
+    },
+    {
+      "id": "bib-number",
+      "cs": "startovní číslo",
+      "en": "bib number",
+      "uk": "стартовий номер",
+      "ru": "стартовый номер",
+      "pl": "numer startowy"
+    },
+    {
+      "id": "trophy",
+      "cs": "trofej",
+      "en": "trophy",
+      "uk": "трофей",
+      "ru": "трофей",
+      "pl": "trofeum"
+    },
+    {
+      "id": "cup-trophy",
+      "cs": "pohár",
+      "en": "cup (trophy)",
+      "uk": "кубок",
+      "ru": "кубок",
+      "pl": "puchar"
+    },
+    {
+      "id": "podium",
+      "cs": "stupně vítězů",
+      "en": "podium",
+      "uk": "п’єдестал",
+      "ru": "пьедестал",
+      "pl": "podium"
+    }
+  ]
+}

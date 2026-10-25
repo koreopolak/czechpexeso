@@ -464,6 +464,174 @@
       "uk": "щодня",
       "ru": "каждый день",
       "pl": "codziennie"
+    },
+    {
+      "id": "moment",
+      "cs": "okamžik",
+      "en": "moment",
+      "uk": "мить",
+      "ru": "мгновение",
+      "pl": "moment"
+    },
+    {
+      "id": "a-while",
+      "cs": "chvíle",
+      "en": "a while",
+      "uk": "деякий час",
+      "ru": "некоторое время",
+      "pl": "chwila"
+    },
+    {
+      "id": "period",
+      "cs": "období",
+      "en": "period",
+      "uk": "період",
+      "ru": "период",
+      "pl": "okres"
+    },
+    {
+      "id": "age",
+      "cs": "věk",
+      "en": "age",
+      "uk": "вік",
+      "ru": "возраст",
+      "pl": "wiek człowieka"
+    },
+    {
+      "id": "quarter-of-a-year",
+      "cs": "čtvrtletí",
+      "en": "quarter (of a year)",
+      "uk": "квартал",
+      "ru": "квартал",
+      "pl": "kwartał"
+    },
+    {
+      "id": "half-year",
+      "cs": "pololetí",
+      "en": "half-year",
+      "uk": "півріччя",
+      "ru": "полугодие",
+      "pl": "półrocze"
+    },
+    {
+      "id": "millennium",
+      "cs": "tisíciletí",
+      "en": "millennium",
+      "uk": "тисячоліття",
+      "ru": "тысячелетие",
+      "pl": "tysiąclecie"
+    },
+    {
+      "id": "leap-year",
+      "cs": "přestupný rok",
+      "en": "leap year",
+      "uk": "високосний рік",
+      "ru": "високосный год",
+      "pl": "rok przestępny"
+    },
+    {
+      "id": "summer-time",
+      "cs": "letní čas",
+      "en": "summer time",
+      "uk": "літній час",
+      "ru": "летнее время",
+      "pl": "czas letni"
+    },
+    {
+      "id": "time-zone",
+      "cs": "časové pásmo",
+      "en": "time zone",
+      "uk": "часовий пояс",
+      "ru": "часовой пояс",
+      "pl": "strefa czasowa"
+    },
+    {
+      "id": "stopwatch",
+      "cs": "stopky",
+      "en": "stopwatch",
+      "uk": "секундомір",
+      "ru": "секундомер",
+      "pl": "stoper"
+    },
+    {
+      "id": "hourglass",
+      "cs": "přesýpací hodiny",
+      "en": "hourglass",
+      "uk": "пісочний годинник",
+      "ru": "песочные часы",
+      "pl": "klepsydra"
+    },
+    {
+      "id": "clock-hand",
+      "cs": "ručička",
+      "en": "clock hand",
+      "uk": "стрілка годинника",
+      "ru": "стрелка часов",
+      "pl": "wskazówka zegara"
+    },
+    {
+      "id": "clock-face",
+      "cs": "ciferník",
+      "en": "clock face",
+      "uk": "циферблат",
+      "ru": "циферблат",
+      "pl": "tarcza zegara"
+    },
+    {
+      "id": "last-year",
+      "cs": "loni",
+      "en": "last year",
+      "uk": "торік",
+      "ru": "в прошлом году",
+      "pl": "w zeszłym roku"
+    },
+    {
+      "id": "this-year",
+      "cs": "letos",
+      "en": "this year",
+      "uk": "цього року",
+      "ru": "в этом году",
+      "pl": "w tym roku"
+    },
+    {
+      "id": "next-year",
+      "cs": "příští rok",
+      "en": "next year",
+      "uk": "наступного року",
+      "ru": "в следующем году",
+      "pl": "w przyszłym roku"
+    },
+    {
+      "id": "last-week",
+      "cs": "minulý týden",
+      "en": "last week",
+      "uk": "минулого тижня",
+      "ru": "на прошлой неделе",
+      "pl": "w zeszłym tygodniu"
+    },
+    {
+      "id": "once",
+      "cs": "jednou",
+      "en": "once",
+      "uk": "один раз",
+      "ru": "однажды",
+      "pl": "raz"
+    },
+    {
+      "id": "twice",
+      "cs": "dvakrát",
+      "en": "twice",
+      "uk": "двічі",
+      "ru": "дважды",
+      "pl": "dwa razy"
+    },
+    {
+      "id": "daily",
+      "cs": "denně",
+      "en": "daily",
+      "uk": "щоденно",
+      "ru": "ежедневно",
+      "pl": "dziennie"
     }
   ]
 }

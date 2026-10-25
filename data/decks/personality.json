@@ -1,6 +1,6 @@
 {
   "id": "personality",
-  "order": 34,
+  "order": 106,
   "level": "A2",
   "icon": "user",
   "title": {
@@ -432,6 +432,270 @@
       "uk": "симпатичний",
       "ru": "симпатичный",
       "pl": "sympatyczny"
+    },
+    {
+      "id": "self-confident",
+      "cs": "sebevědomý",
+      "en": "self-confident",
+      "uk": "упевнений у собі",
+      "ru": "уверенный в себе",
+      "pl": "pewny siebie"
+    },
+    {
+      "id": "timid",
+      "cs": "nesmělý",
+      "en": "timid",
+      "uk": "несміливий",
+      "ru": "робкий",
+      "pl": "lękliwy"
+    },
+    {
+      "id": "stubborn",
+      "cs": "tvrdohlavý",
+      "en": "stubborn",
+      "uk": "впертий",
+      "ru": "упрямый",
+      "pl": "uparty"
+    },
+    {
+      "id": "moody",
+      "cs": "náladový",
+      "en": "moody",
+      "uk": "примхливий",
+      "ru": "капризный",
+      "pl": "humorzasty"
+    },
+    {
+      "id": "hot-tempered",
+      "cs": "vznětlivý",
+      "en": "hot-tempered",
+      "uk": "запальний",
+      "ru": "вспыльчивый",
+      "pl": "porywczy"
+    },
+    {
+      "id": "prudent",
+      "cs": "rozvážný",
+      "en": "prudent",
+      "uk": "розсудливий",
+      "ru": "рассудительный",
+      "pl": "rozważny"
+    },
+    {
+      "id": "reckless",
+      "cs": "lehkomyslný",
+      "en": "reckless",
+      "uk": "легковажний",
+      "ru": "легкомысленный",
+      "pl": "lekkomyślny"
+    },
+    {
+      "id": "thorough",
+      "cs": "pečlivý",
+      "en": "thorough",
+      "uk": "старанний",
+      "ru": "тщательный",
+      "pl": "staranny"
+    },
+    {
+      "id": "untidy",
+      "cs": "nepořádný",
+      "en": "untidy",
+      "uk": "неохайний",
+      "ru": "неряшливый",
+      "pl": "niechlujny"
+    },
+    {
+      "id": "punctual",
+      "cs": "dochvilný",
+      "en": "punctual",
+      "uk": "пунктуальний",
+      "ru": "пунктуальный",
+      "pl": "punktualny"
+    },
+    {
+      "id": "forgetful",
+      "cs": "zapomnětlivý",
+      "en": "forgetful",
+      "uk": "забудькуватий",
+      "ru": "забывчивый",
+      "pl": "zapominalski"
+    },
+    {
+      "id": "talkative",
+      "cs": "upovídaný",
+      "en": "talkative",
+      "uk": "балакучий",
+      "ru": "болтливый",
+      "pl": "gadatliwy"
+    },
+    {
+      "id": "taciturn",
+      "cs": "mlčenlivý",
+      "en": "taciturn",
+      "uk": "мовчазний",
+      "ru": "молчаливый",
+      "pl": "małomówny"
+    },
+    {
+      "id": "cheeky",
+      "cs": "drzý",
+      "en": "cheeky",
+      "uk": "зухвалий",
+      "ru": "дерзкий",
+      "pl": "bezczelny"
+    },
+    {
+      "id": "well-mannered",
+      "cs": "vychovaný",
+      "en": "well-mannered",
+      "uk": "вихований",
+      "ru": "воспитанный",
+      "pl": "dobrze wychowany"
+    },
+    {
+      "id": "spoiled",
+      "cs": "rozmazlený",
+      "en": "spoiled",
+      "uk": "розпещений",
+      "ru": "избалованный",
+      "pl": "rozpieszczony"
+    },
+    {
+      "id": "loyal",
+      "cs": "loajální",
+      "en": "loyal",
+      "uk": "лояльний",
+      "ru": "лояльный",
+      "pl": "lojalny"
+    },
+    {
+      "id": "trusting",
+      "cs": "důvěřivý",
+      "en": "trusting",
+      "uk": "довірливий",
+      "ru": "доверчивый",
+      "pl": "ufny"
+    },
+    {
+      "id": "suspicious",
+      "cs": "podezíravý",
+      "en": "suspicious",
+      "uk": "підозріливий",
+      "ru": "подозрительный",
+      "pl": "podejrzliwy"
+    },
+    {
+      "id": "romantic",
+      "cs": "romantický",
+      "en": "romantic",
+      "uk": "романтичний",
+      "ru": "романтичный",
+      "pl": "romantyczny"
+    },
+    {
+      "id": "selfless",
+      "cs": "nesobecký",
+      "en": "selfless",
+      "uk": "безкорисливий",
+      "ru": "бескорыстный",
+      "pl": "bezinteresowny"
+    },
+    {
+      "id": "devoted",
+      "cs": "obětavý",
+      "en": "devoted",
+      "uk": "самовідданий",
+      "ru": "самоотверженный",
+      "pl": "ofiarny"
+    },
+    {
+      "id": "easy-going",
+      "cs": "pohodový",
+      "en": "easy-going",
+      "uk": "невимушений",
+      "ru": "лёгкий в общении",
+      "pl": "wyluzowany"
+    },
+    {
+      "id": "lively",
+      "cs": "temperamentní",
+      "en": "lively",
+      "uk": "темпераментний",
+      "ru": "темпераментный",
+      "pl": "temperamentny"
+    },
+    {
+      "id": "introverted",
+      "cs": "introvertní",
+      "en": "introverted",
+      "uk": "інтровертний",
+      "ru": "интровертный",
+      "pl": "introwertyczny"
+    },
+    {
+      "id": "extroverted",
+      "cs": "extrovertní",
+      "en": "extroverted",
+      "uk": "екстравертний",
+      "ru": "экстравертный",
+      "pl": "ekstrawertyczny"
+    },
+    {
+      "id": "superficial",
+      "cs": "povrchní",
+      "en": "superficial",
+      "uk": "поверховий",
+      "ru": "поверхностный",
+      "pl": "powierzchowny"
+    },
+    {
+      "id": "grey-haired",
+      "cs": "šedivý",
+      "en": "grey-haired",
+      "uk": "сивий",
+      "ru": "седой",
+      "pl": "siwy"
+    },
+    {
+      "id": "tattoo",
+      "cs": "tetování",
+      "en": "tattoo",
+      "uk": "татуювання",
+      "ru": "татуировка",
+      "pl": "tatuaż"
+    },
+    {
+      "id": "ponytail",
+      "cs": "culík",
+      "en": "ponytail",
+      "uk": "хвостик",
+      "ru": "хвостик",
+      "pl": "kucyk"
+    },
+    {
+      "id": "plait",
+      "cs": "cop",
+      "en": "plait",
+      "uk": "коса",
+      "ru": "коса",
+      "pl": "warkocz"
+    },
+    {
+      "id": "fringe-hair",
+      "cs": "ofina",
+      "en": "fringe (hair)",
+      "uk": "чубчик",
+      "ru": "чёлка",
+      "pl": "grzywka"
+    },
+    {
+      "id": "hairstyle",
+      "cs": "účes",
+      "en": "hairstyle",
+      "uk": "зачіска",
+      "ru": "причёска",
+      "pl": "fryzura"
     }
   ]
 }

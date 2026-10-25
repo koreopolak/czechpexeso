@@ -1,0 +1,293 @@
+{
+  "id": "fashion",
+  "order": 228,
+  "level": "B1",
+  "icon": "sparkle",
+  "title": {
+    "cs": "Móda a krása",
+    "en": "Fashion & Beauty",
+    "uk": "Мода і краса",
+    "ru": "Мода и красота",
+    "pl": "Moda i uroda"
+  },
+  "description": {
+    "en": "Style, jewellery and the beauty salon.",
+    "uk": "Стиль, прикраси й салон краси.",
+    "ru": "Стиль, украшения и салон красоты.",
+    "pl": "Styl, biżuteria i salon urody."
+  },
+  "words": [
+    {
+      "id": "fashion-designer",
+      "cs": "módní návrhář",
+      "en": "fashion designer",
+      "uk": "модельєр",
+      "ru": "модельер",
+      "pl": "projektant mody"
+    },
+    {
+      "id": "model",
+      "cs": "modelka",
+      "en": "model",
+      "uk": "модель",
+      "ru": "модель",
+      "pl": "modelka"
+    },
+    {
+      "id": "fashion-show",
+      "cs": "módní přehlídka",
+      "en": "fashion show",
+      "uk": "показ мод",
+      "ru": "показ мод",
+      "pl": "pokaz mody"
+    },
+    {
+      "id": "trend",
+      "cs": "trend",
+      "en": "trend",
+      "uk": "тренд",
+      "ru": "тренд",
+      "pl": "trend"
+    },
+    {
+      "id": "style",
+      "cs": "styl",
+      "en": "style",
+      "uk": "стиль",
+      "ru": "стиль",
+      "pl": "styl"
+    },
+    {
+      "id": "taste-in-style",
+      "cs": "vkus",
+      "en": "taste (in style)",
+      "uk": "смак",
+      "ru": "вкус",
+      "pl": "gust"
+    },
+    {
+      "id": "tasteless",
+      "cs": "nevkusný",
+      "en": "tasteless",
+      "uk": "позбавлений смаку",
+      "ru": "безвкусный",
+      "pl": "w złym guście"
+    },
+    {
+      "id": "fashionable",
+      "cs": "módní",
+      "en": "fashionable",
+      "uk": "модний",
+      "ru": "модный",
+      "pl": "modny"
+    },
+    {
+      "id": "print-on-fabric",
+      "cs": "potisk",
+      "en": "print (on fabric)",
+      "uk": "принт",
+      "ru": "принт",
+      "pl": "nadruk"
+    },
+    {
+      "id": "designer-clothes",
+      "cs": "značkové oblečení",
+      "en": "designer clothes",
+      "uk": "брендовий одяг",
+      "ru": "брендовая одежда",
+      "pl": "odzież markowa"
+    },
+    {
+      "id": "brand",
+      "cs": "značka",
+      "en": "brand",
+      "uk": "бренд",
+      "ru": "бренд",
+      "pl": "marka"
+    },
+    {
+      "id": "luxury",
+      "cs": "luxusní",
+      "en": "luxury",
+      "uk": "розкішний",
+      "ru": "роскошный",
+      "pl": "luksusowy"
+    },
+    {
+      "id": "second-hand-shop",
+      "cs": "second hand",
+      "en": "second-hand shop",
+      "uk": "секонд-хенд",
+      "ru": "секонд-хенд",
+      "pl": "lumpeks"
+    },
+    {
+      "id": "wardrobe-clothes",
+      "cs": "šatník",
+      "en": "wardrobe (clothes)",
+      "uk": "гардероб",
+      "ru": "гардероб",
+      "pl": "garderoba"
+    },
+    {
+      "id": "accessories",
+      "cs": "doplňky",
+      "en": "accessories",
+      "uk": "аксесуари",
+      "ru": "аксессуары",
+      "pl": "dodatki"
+    },
+    {
+      "id": "jewellery",
+      "cs": "šperky",
+      "en": "jewellery",
+      "uk": "прикраси",
+      "ru": "украшения",
+      "pl": "biżuteria"
+    },
+    {
+      "id": "costume-jewellery",
+      "cs": "bižuterie",
+      "en": "costume jewellery",
+      "uk": "біжутерія",
+      "ru": "бижутерия",
+      "pl": "sztuczna biżuteria"
+    },
+    {
+      "id": "brooch",
+      "cs": "brož",
+      "en": "brooch",
+      "uk": "брошка",
+      "ru": "брошь",
+      "pl": "broszka"
+    },
+    {
+      "id": "pendant",
+      "cs": "přívěsek",
+      "en": "pendant",
+      "uk": "кулон",
+      "ru": "кулон",
+      "pl": "wisiorek"
+    },
+    {
+      "id": "chain-necklace",
+      "cs": "řetízek",
+      "en": "chain (necklace)",
+      "uk": "ланцюжок",
+      "ru": "цепочка",
+      "pl": "łańcuszek"
+    },
+    {
+      "id": "manicure",
+      "cs": "manikúra",
+      "en": "manicure",
+      "uk": "манікюр",
+      "ru": "маникюр",
+      "pl": "manicure"
+    },
+    {
+      "id": "pedicure",
+      "cs": "pedikúra",
+      "en": "pedicure",
+      "uk": "педикюр",
+      "ru": "педикюр",
+      "pl": "pedicure"
+    },
+    {
+      "id": "get-a-haircut",
+      "cs": "ostříhat se",
+      "en": "to get a haircut",
+      "uk": "підстригтися",
+      "ru": "подстричься",
+      "pl": "obciąć włosy"
+    },
+    {
+      "id": "dye-your-hair",
+      "cs": "obarvit si vlasy",
+      "en": "to dye your hair",
+      "uk": "пофарбувати волосся",
+      "ru": "покрасить волосы",
+      "pl": "ufarbować włosy"
+    },
+    {
+      "id": "highlights-hair",
+      "cs": "melír",
+      "en": "highlights (hair)",
+      "uk": "мелірування",
+      "ru": "мелирование",
+      "pl": "pasemka"
+    },
+    {
+      "id": "perm",
+      "cs": "trvalá",
+      "en": "perm",
+      "uk": "хімічна завивка",
+      "ru": "химическая завивка",
+      "pl": "trwała"
+    },
+    {
+      "id": "tanning-salon",
+      "cs": "solárium",
+      "en": "tanning salon",
+      "uk": "солярій",
+      "ru": "солярий",
+      "pl": "solarium"
+    },
+    {
+      "id": "massage",
+      "cs": "masáž",
+      "en": "massage",
+      "uk": "масаж",
+      "ru": "массаж",
+      "pl": "masaż"
+    },
+    {
+      "id": "face-mask",
+      "cs": "pleťová maska",
+      "en": "face mask",
+      "uk": "маска для обличчя",
+      "ru": "маска для лица",
+      "pl": "maseczka"
+    },
+    {
+      "id": "suit-someone",
+      "cs": "slušet",
+      "en": "to suit (someone)",
+      "uk": "личити",
+      "ru": "идти (об одежде)",
+      "pl": "pasować komuś"
+    },
+    {
+      "id": "fit",
+      "cs": "padnout",
+      "en": "to fit",
+      "uk": "сидіти (про одяг)",
+      "ru": "сидеть (об одежде)",
+      "pl": "leżeć (o ubraniu)"
+    },
+    {
+      "id": "get-changed",
+      "cs": "převléknout se",
+      "en": "to get changed",
+      "uk": "переодягнутися",
+      "ru": "переодеться",
+      "pl": "przebrać się"
+    },
+    {
+      "id": "shorten",
+      "cs": "zkrátit",
+      "en": "to shorten",
+      "uk": "укоротити",
+      "ru": "укоротить",
+      "pl": "skrócić"
+    },
+    {
+      "id": "outfit",
+      "cs": "outfit",
+      "en": "outfit",
+      "uk": "образ",
+      "ru": "образ",
+      "pl": "stylizacja"
+    }
+  ]
+}

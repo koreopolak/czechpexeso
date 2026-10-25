@@ -1,0 +1,237 @@
+{
+  "id": "fairy-tales",
+  "order": 244,
+  "level": "B1",
+  "icon": "sparkle",
+  "title": {
+    "cs": "Pohádky a lidová kultura",
+    "en": "Fairy Tales & Folklore",
+    "uk": "Казки та фольклор",
+    "ru": "Сказки и фольклор",
+    "pl": "Baśnie i folklor"
+  },
+  "description": {
+    "en": "Czech fairy-tale creatures, cartoons and folk traditions.",
+    "uk": "Чеські казкові істоти, мультфільми й народні традиції.",
+    "ru": "Чешские сказочные существа, мультфильмы и народные традиции.",
+    "pl": "Czeskie baśniowe stwory, bajki i tradycje ludowe."
+  },
+  "words": [
+    {
+      "id": "water-goblin",
+      "cs": "vodník",
+      "en": "water goblin",
+      "uk": "водяник",
+      "ru": "водяной",
+      "pl": "wodnik"
+    },
+    {
+      "id": "water-nymph",
+      "cs": "rusalka",
+      "en": "water nymph",
+      "uk": "русалка",
+      "ru": "русалка",
+      "pl": "rusałka"
+    },
+    {
+      "id": "krakonos-mountain-spirit",
+      "cs": "Krakonoš",
+      "en": "Krakonoš (mountain spirit)",
+      "uk": "Ракогоша (дух гір)",
+      "ru": "Ракоша (дух гор)",
+      "pl": "Liczyrzepa"
+    },
+    {
+      "id": "elf-goblin",
+      "cs": "skřítek",
+      "en": "elf (goblin)",
+      "uk": "ельф",
+      "ru": "эльф",
+      "pl": "skrzat"
+    },
+    {
+      "id": "fairy",
+      "cs": "víla",
+      "en": "fairy",
+      "uk": "фея",
+      "ru": "фея",
+      "pl": "wróżka"
+    },
+    {
+      "id": "dragon",
+      "cs": "drak",
+      "en": "dragon",
+      "uk": "дракон",
+      "ru": "дракон",
+      "pl": "smok"
+    },
+    {
+      "id": "giant",
+      "cs": "obr",
+      "en": "giant",
+      "uk": "велетень",
+      "ru": "великан",
+      "pl": "olbrzym"
+    },
+    {
+      "id": "dwarf",
+      "cs": "trpaslík",
+      "en": "dwarf",
+      "uk": "гном",
+      "ru": "гном",
+      "pl": "krasnolud"
+    },
+    {
+      "id": "wizard",
+      "cs": "kouzelník",
+      "en": "wizard",
+      "uk": "чарівник",
+      "ru": "волшебник",
+      "pl": "czarodziej"
+    },
+    {
+      "id": "sorcerer",
+      "cs": "čaroděj",
+      "en": "sorcerer",
+      "uk": "чаклун",
+      "ru": "колдун",
+      "pl": "czarnoksiężnik"
+    },
+    {
+      "id": "prince",
+      "cs": "princ",
+      "en": "prince",
+      "uk": "принц",
+      "ru": "принц",
+      "pl": "książę z bajki"
+    },
+    {
+      "id": "magic-spell",
+      "cs": "kouzlo",
+      "en": "(magic) spell",
+      "uk": "чари",
+      "ru": "заклинание",
+      "pl": "zaklęcie"
+    },
+    {
+      "id": "magic-wand",
+      "cs": "kouzelná hůlka",
+      "en": "magic wand",
+      "uk": "чарівна паличка",
+      "ru": "волшебная палочка",
+      "pl": "różdżka"
+    },
+    {
+      "id": "enchanted",
+      "cs": "zakletý",
+      "en": "enchanted",
+      "uk": "зачарований",
+      "ru": "заколдованный",
+      "pl": "zaklęty"
+    },
+    {
+      "id": "once-upon-a-time",
+      "cs": "bylo nebylo",
+      "en": "once upon a time",
+      "uk": "жили-були",
+      "ru": "жили-были",
+      "pl": "dawno, dawno temu"
+    },
+    {
+      "id": "happily-ever-after",
+      "cs": "a žili šťastně až do smrti",
+      "en": "happily ever after",
+      "uk": "і жили вони довго і щасливо",
+      "ru": "и жили они долго и счастливо",
+      "pl": "i żyli długo i szczęśliwie"
+    },
+    {
+      "id": "the-golem",
+      "cs": "Golem",
+      "en": "the Golem",
+      "uk": "Голем",
+      "ru": "Голем",
+      "pl": "Golem"
+    },
+    {
+      "id": "the-little-mole",
+      "cs": "Krteček",
+      "en": "the Little Mole",
+      "uk": "Кротик",
+      "ru": "Кротик",
+      "pl": "Krecik"
+    },
+    {
+      "id": "czech-bedtime-cartoon",
+      "cs": "Večerníček",
+      "en": "Czech bedtime cartoon",
+      "uk": "вечірній мультфільм",
+      "ru": "вечерний мультфильм",
+      "pl": "dobranocka"
+    },
+    {
+      "id": "kasparek-puppet-jester",
+      "cs": "Kašpárek",
+      "en": "Kašpárek (puppet jester)",
+      "uk": "Кашпарек (ляльковий блазень)",
+      "ru": "Кашпарек (кукольный шут)",
+      "pl": "Kasperek"
+    },
+    {
+      "id": "the-good-soldier-svejk",
+      "cs": "Švejk",
+      "en": "the Good Soldier Švejk",
+      "uk": "бравий вояк Швейк",
+      "ru": "бравый солдат Швейк",
+      "pl": "dobry wojak Szwejk"
+    },
+    {
+      "id": "polka",
+      "cs": "polka",
+      "en": "polka",
+      "uk": "полька",
+      "ru": "полька",
+      "pl": "polka"
+    },
+    {
+      "id": "folk-costume",
+      "cs": "kroj",
+      "en": "folk costume",
+      "uk": "народний костюм",
+      "ru": "народный костюм",
+      "pl": "strój ludowy"
+    },
+    {
+      "id": "folk-song",
+      "cs": "lidová píseň",
+      "en": "folk song",
+      "uk": "народна пісня",
+      "ru": "народная песня",
+      "pl": "pieśń ludowa"
+    },
+    {
+      "id": "bagpipes",
+      "cs": "dudy",
+      "en": "bagpipes",
+      "uk": "волинка",
+      "ru": "волынка",
+      "pl": "dudy"
+    },
+    {
+      "id": "dulcimer",
+      "cs": "cimbál",
+      "en": "dulcimer",
+      "uk": "цимбали",
+      "ru": "цимбалы",
+      "pl": "cymbały"
+    },
+    {
+      "id": "fairy-tale-creature",
+      "cs": "pohádková bytost",
+      "en": "fairy-tale creature",
+      "uk": "казкова істота",
+      "ru": "сказочное существо",
+      "pl": "baśniowa istota"
+    }
+  ]
+}

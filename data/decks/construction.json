@@ -1,0 +1,333 @@
+{
+  "id": "construction",
+  "order": 224,
+  "level": "B1",
+  "icon": "building",
+  "title": {
+    "cs": "Stavba a stavebnictví",
+    "en": "Building & Construction",
+    "uk": "Будівництво",
+    "ru": "Строительство",
+    "pl": "Budownictwo"
+  },
+  "description": {
+    "en": "Building sites, machines and how houses are made.",
+    "uk": "Будмайданчики, техніка і як будують будинки.",
+    "ru": "Стройки, техника и как строят дома.",
+    "pl": "Place budowy, maszyny i jak powstają domy."
+  },
+  "words": [
+    {
+      "id": "construction",
+      "cs": "stavba",
+      "en": "construction",
+      "uk": "будівництво",
+      "ru": "строительство",
+      "pl": "budowa"
+    },
+    {
+      "id": "building-site",
+      "cs": "staveniště",
+      "en": "building site",
+      "uk": "будівельний майданчик",
+      "ru": "стройплощадка",
+      "pl": "plac budowy"
+    },
+    {
+      "id": "construction-company",
+      "cs": "stavební firma",
+      "en": "construction company",
+      "uk": "будівельна компанія",
+      "ru": "строительная компания",
+      "pl": "firma budowlana"
+    },
+    {
+      "id": "site-manager",
+      "cs": "stavbyvedoucí",
+      "en": "site manager",
+      "uk": "виконроб",
+      "ru": "прораб",
+      "pl": "kierownik budowy"
+    },
+    {
+      "id": "excavator",
+      "cs": "bagr",
+      "en": "excavator",
+      "uk": "екскаватор",
+      "ru": "экскаватор",
+      "pl": "koparka"
+    },
+    {
+      "id": "bulldozer",
+      "cs": "buldozer",
+      "en": "bulldozer",
+      "uk": "бульдозер",
+      "ru": "бульдозер",
+      "pl": "spychacz"
+    },
+    {
+      "id": "cement-mixer",
+      "cs": "míchačka",
+      "en": "cement mixer",
+      "uk": "бетономішалка",
+      "ru": "бетономешалка",
+      "pl": "betoniarka"
+    },
+    {
+      "id": "scaffolding",
+      "cs": "lešení",
+      "en": "scaffolding",
+      "uk": "риштування",
+      "ru": "строительные леса",
+      "pl": "rusztowanie"
+    },
+    {
+      "id": "foundations",
+      "cs": "základy",
+      "en": "foundations",
+      "uk": "фундамент",
+      "ru": "фундамент",
+      "pl": "fundamenty"
+    },
+    {
+      "id": "masonry",
+      "cs": "zdivo",
+      "en": "masonry",
+      "uk": "кладка",
+      "ru": "кладка",
+      "pl": "mur"
+    },
+    {
+      "id": "load-bearing-wall",
+      "cs": "nosná zeď",
+      "en": "load-bearing wall",
+      "uk": "несуча стіна",
+      "ru": "несущая стена",
+      "pl": "ściana nośna"
+    },
+    {
+      "id": "partition-wall",
+      "cs": "příčka",
+      "en": "partition wall",
+      "uk": "перегородка",
+      "ru": "перегородка",
+      "pl": "ścianka działowa"
+    },
+    {
+      "id": "beam",
+      "cs": "trám",
+      "en": "beam",
+      "uk": "балка",
+      "ru": "балка",
+      "pl": "belka"
+    },
+    {
+      "id": "pillar",
+      "cs": "sloup",
+      "en": "pillar",
+      "uk": "колона",
+      "ru": "колонна",
+      "pl": "słup"
+    },
+    {
+      "id": "roof-tile",
+      "cs": "střešní taška",
+      "en": "roof tile",
+      "uk": "черепиця",
+      "ru": "черепица",
+      "pl": "dachówka"
+    },
+    {
+      "id": "roof-truss",
+      "cs": "krov",
+      "en": "roof truss",
+      "uk": "кроквяна система",
+      "ru": "стропильная система",
+      "pl": "więźba dachowa"
+    },
+    {
+      "id": "mortar",
+      "cs": "malta",
+      "en": "mortar",
+      "uk": "будівельний розчин",
+      "ru": "строительный раствор",
+      "pl": "zaprawa"
+    },
+    {
+      "id": "cement",
+      "cs": "cement",
+      "en": "cement",
+      "uk": "цемент",
+      "ru": "цемент",
+      "pl": "cement"
+    },
+    {
+      "id": "gravel",
+      "cs": "štěrk",
+      "en": "gravel",
+      "uk": "щебінь",
+      "ru": "щебень",
+      "pl": "żwir"
+    },
+    {
+      "id": "plasterboard",
+      "cs": "sádrokarton",
+      "en": "plasterboard",
+      "uk": "гіпсокартон",
+      "ru": "гипсокартон",
+      "pl": "płyta gipsowo-kartonowa"
+    },
+    {
+      "id": "building-permit",
+      "cs": "stavební povolení",
+      "en": "building permit",
+      "uk": "дозвіл на будівництво",
+      "ru": "разрешение на строительство",
+      "pl": "pozwolenie na budowę"
+    },
+    {
+      "id": "structural-engineer",
+      "cs": "statik",
+      "en": "structural engineer",
+      "uk": "інженер-конструктор",
+      "ru": "инженер-конструктор",
+      "pl": "konstruktor"
+    },
+    {
+      "id": "final-building-approval",
+      "cs": "kolaudace",
+      "en": "final building approval",
+      "uk": "введення в експлуатацію",
+      "ru": "ввод в эксплуатацию",
+      "pl": "odbiór budynku"
+    },
+    {
+      "id": "demolition",
+      "cs": "demolice",
+      "en": "demolition",
+      "uk": "знесення",
+      "ru": "снос",
+      "pl": "rozbiórka"
+    },
+    {
+      "id": "demolish",
+      "cs": "zbourat",
+      "en": "to demolish",
+      "uk": "знести",
+      "ru": "снести",
+      "pl": "zburzyć"
+    },
+    {
+      "id": "pour-concrete",
+      "cs": "betonovat",
+      "en": "to pour concrete",
+      "uk": "бетонувати",
+      "ru": "бетонировать",
+      "pl": "betonować"
+    },
+    {
+      "id": "lay-bricks",
+      "cs": "zdít",
+      "en": "to lay bricks",
+      "uk": "класти цеглу",
+      "ru": "класть кирпич",
+      "pl": "murować"
+    },
+    {
+      "id": "plaster",
+      "cs": "omítat",
+      "en": "to plaster",
+      "uk": "штукатурити",
+      "ru": "штукатурить",
+      "pl": "tynkować"
+    },
+    {
+      "id": "tile",
+      "cs": "obkládat",
+      "en": "to tile",
+      "uk": "облицьовувати плиткою",
+      "ru": "облицовывать плиткой",
+      "pl": "kafelkować"
+    },
+    {
+      "id": "building-extension",
+      "cs": "přístavba",
+      "en": "(building) extension",
+      "uk": "прибудова",
+      "ru": "пристройка",
+      "pl": "dobudówka"
+    },
+    {
+      "id": "added-storey",
+      "cs": "nástavba",
+      "en": "added storey",
+      "uk": "надбудова",
+      "ru": "надстройка",
+      "pl": "nadbudowa"
+    },
+    {
+      "id": "shell-of-a-building",
+      "cs": "hrubá stavba",
+      "en": "shell (of a building)",
+      "uk": "коробка будинку",
+      "ru": "коробка здания",
+      "pl": "stan surowy"
+    },
+    {
+      "id": "facade",
+      "cs": "fasáda",
+      "en": "facade",
+      "uk": "фасад",
+      "ru": "фасад",
+      "pl": "fasada"
+    },
+    {
+      "id": "window-frame",
+      "cs": "okenní rám",
+      "en": "window frame",
+      "uk": "віконна рама",
+      "ru": "оконная рама",
+      "pl": "rama okienna"
+    },
+    {
+      "id": "pipes",
+      "cs": "potrubí",
+      "en": "pipes",
+      "uk": "трубопровід",
+      "ru": "трубопровод",
+      "pl": "rurociąg"
+    },
+    {
+      "id": "sewer-system",
+      "cs": "kanalizace",
+      "en": "sewer system",
+      "uk": "каналізація",
+      "ru": "канализация",
+      "pl": "kanalizacja"
+    },
+    {
+      "id": "water-supply",
+      "cs": "vodovod",
+      "en": "water supply",
+      "uk": "водопровід",
+      "ru": "водопровод",
+      "pl": "wodociąg"
+    },
+    {
+      "id": "electrical-wiring",
+      "cs": "elektroinstalace",
+      "en": "electrical wiring",
+      "uk": "електропроводка",
+      "ru": "электропроводка",
+      "pl": "instalacja elektryczna"
+    },
+    {
+      "id": "utility-connection",
+      "cs": "přípojka",
+      "en": "utility connection",
+      "uk": "підключення до мереж",
+      "ru": "подключение к сетям",
+      "pl": "przyłącze"
+    }
+  ]
+}

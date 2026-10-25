@@ -1,0 +1,341 @@
+{
+  "id": "illnesses",
+  "order": 218,
+  "level": "B1",
+  "icon": "plus",
+  "title": {
+    "cs": "Nemoci a příznaky",
+    "en": "Illnesses & Symptoms",
+    "uk": "Хвороби та симптоми",
+    "ru": "Болезни и симптомы",
+    "pl": "Choroby i objawy"
+  },
+  "description": {
+    "en": "Common illnesses and how they feel.",
+    "uk": "Поширені хвороби та їхні симптоми.",
+    "ru": "Распространённые болезни и их симптомы.",
+    "pl": "Częste choroby i ich objawy."
+  },
+  "words": [
+    {
+      "id": "asthma",
+      "cs": "astma",
+      "en": "asthma",
+      "uk": "астма",
+      "ru": "астма",
+      "pl": "astma"
+    },
+    {
+      "id": "diabetes",
+      "cs": "cukrovka",
+      "en": "diabetes",
+      "uk": "цукровий діабет",
+      "ru": "сахарный диабет",
+      "pl": "cukrzyca"
+    },
+    {
+      "id": "cancer",
+      "cs": "rakovina",
+      "en": "cancer",
+      "uk": "рак",
+      "ru": "рак",
+      "pl": "rak"
+    },
+    {
+      "id": "tumour",
+      "cs": "nádor",
+      "en": "tumour",
+      "uk": "пухлина",
+      "ru": "опухоль",
+      "pl": "nowotwór"
+    },
+    {
+      "id": "high-blood-pressure",
+      "cs": "vysoký tlak",
+      "en": "high blood pressure",
+      "uk": "високий тиск",
+      "ru": "высокое давление",
+      "pl": "nadciśnienie"
+    },
+    {
+      "id": "pneumonia",
+      "cs": "zápal plic",
+      "en": "pneumonia",
+      "uk": "запалення легенів",
+      "ru": "воспаление лёгких",
+      "pl": "zapalenie płuc"
+    },
+    {
+      "id": "bronchitis",
+      "cs": "bronchitida",
+      "en": "bronchitis",
+      "uk": "бронхіт",
+      "ru": "бронхит",
+      "pl": "zapalenie oskrzeli"
+    },
+    {
+      "id": "measles",
+      "cs": "spalničky",
+      "en": "measles",
+      "uk": "кір",
+      "ru": "корь",
+      "pl": "odra"
+    },
+    {
+      "id": "chickenpox",
+      "cs": "plané neštovice",
+      "en": "chickenpox",
+      "uk": "вітряна віспа",
+      "ru": "ветрянка",
+      "pl": "ospa wietrzna"
+    },
+    {
+      "id": "mumps",
+      "cs": "příušnice",
+      "en": "mumps",
+      "uk": "свинка",
+      "ru": "свинка",
+      "pl": "świnka"
+    },
+    {
+      "id": "hepatitis",
+      "cs": "žloutenka",
+      "en": "hepatitis",
+      "uk": "жовтяниця",
+      "ru": "желтуха",
+      "pl": "żółtaczka"
+    },
+    {
+      "id": "tuberculosis",
+      "cs": "tuberkulóza",
+      "en": "tuberculosis",
+      "uk": "туберкульоз",
+      "ru": "туберкулёз",
+      "pl": "gruźlica"
+    },
+    {
+      "id": "epilepsy",
+      "cs": "epilepsie",
+      "en": "epilepsy",
+      "uk": "епілепсія",
+      "ru": "эпилепсия",
+      "pl": "padaczka"
+    },
+    {
+      "id": "arthritis",
+      "cs": "artritida",
+      "en": "arthritis",
+      "uk": "артрит",
+      "ru": "артрит",
+      "pl": "zapalenie stawów"
+    },
+    {
+      "id": "alzheimer-s-disease",
+      "cs": "Alzheimerova choroba",
+      "en": "Alzheimer’s disease",
+      "uk": "хвороба Альцгеймера",
+      "ru": "болезнь Альцгеймера",
+      "pl": "choroba Alzheimera"
+    },
+    {
+      "id": "dementia",
+      "cs": "demence",
+      "en": "dementia",
+      "uk": "деменція",
+      "ru": "деменция",
+      "pl": "demencja"
+    },
+    {
+      "id": "obesity",
+      "cs": "obezita",
+      "en": "obesity",
+      "uk": "ожиріння",
+      "ru": "ожирение",
+      "pl": "otyłość"
+    },
+    {
+      "id": "anorexia",
+      "cs": "anorexie",
+      "en": "anorexia",
+      "uk": "анорексія",
+      "ru": "анорексия",
+      "pl": "anoreksja"
+    },
+    {
+      "id": "cramp",
+      "cs": "křeč",
+      "en": "cramp",
+      "uk": "судома",
+      "ru": "судорога",
+      "pl": "skurcz"
+    },
+    {
+      "id": "fainting-fit",
+      "cs": "mdloba",
+      "en": "fainting fit",
+      "uk": "непритомність",
+      "ru": "обморок",
+      "pl": "omdlenie"
+    },
+    {
+      "id": "faint",
+      "cs": "omdlít",
+      "en": "to faint",
+      "uk": "знепритомніти",
+      "ru": "упасть в обморок",
+      "pl": "zemdleć"
+    },
+    {
+      "id": "trembling",
+      "cs": "třes",
+      "en": "trembling",
+      "uk": "тремтіння",
+      "ru": "дрожь",
+      "pl": "drżenie"
+    },
+    {
+      "id": "chills",
+      "cs": "zimnice",
+      "en": "chills",
+      "uk": "озноб",
+      "ru": "озноб",
+      "pl": "dreszcze"
+    },
+    {
+      "id": "sweating",
+      "cs": "pocení",
+      "en": "sweating",
+      "uk": "пітливість",
+      "ru": "потливость",
+      "pl": "pocenie się"
+    },
+    {
+      "id": "back-pain",
+      "cs": "bolest zad",
+      "en": "back pain",
+      "uk": "біль у спині",
+      "ru": "боль в спине",
+      "pl": "ból pleców"
+    },
+    {
+      "id": "earache",
+      "cs": "bolest ucha",
+      "en": "earache",
+      "uk": "біль у вусі",
+      "ru": "боль в ухе",
+      "pl": "ból ucha"
+    },
+    {
+      "id": "conjunctivitis",
+      "cs": "zánět spojivek",
+      "en": "conjunctivitis",
+      "uk": "кон’юнктивіт",
+      "ru": "конъюнктивит",
+      "pl": "zapalenie spojówek"
+    },
+    {
+      "id": "cold-sore",
+      "cs": "opar",
+      "en": "cold sore",
+      "uk": "герпес на губі",
+      "ru": "герпес на губе",
+      "pl": "opryszczka"
+    },
+    {
+      "id": "acne",
+      "cs": "akné",
+      "en": "acne",
+      "uk": "акне",
+      "ru": "акне",
+      "pl": "trądzik"
+    },
+    {
+      "id": "wart",
+      "cs": "bradavice",
+      "en": "wart",
+      "uk": "бородавка",
+      "ru": "бородавка",
+      "pl": "brodawka"
+    },
+    {
+      "id": "eczema",
+      "cs": "ekzém",
+      "en": "eczema",
+      "uk": "екзема",
+      "ru": "экзема",
+      "pl": "egzema"
+    },
+    {
+      "id": "dandruff",
+      "cs": "lupy",
+      "en": "dandruff",
+      "uk": "лупа",
+      "ru": "перхоть",
+      "pl": "łupież"
+    },
+    {
+      "id": "food-poisoning",
+      "cs": "otrava jídlem",
+      "en": "food poisoning",
+      "uk": "харчове отруєння",
+      "ru": "пищевое отравление",
+      "pl": "zatrucie pokarmowe"
+    },
+    {
+      "id": "symptom",
+      "cs": "příznak",
+      "en": "symptom",
+      "uk": "симптом",
+      "ru": "симптом",
+      "pl": "objaw"
+    },
+    {
+      "id": "epidemic",
+      "cs": "epidemie",
+      "en": "epidemic",
+      "uk": "епідемія",
+      "ru": "эпидемия",
+      "pl": "epidemia"
+    },
+    {
+      "id": "pandemic",
+      "cs": "pandemie",
+      "en": "pandemic",
+      "uk": "пандемія",
+      "ru": "пандемия",
+      "pl": "pandemia"
+    },
+    {
+      "id": "quarantine",
+      "cs": "karanténa",
+      "en": "quarantine",
+      "uk": "карантин",
+      "ru": "карантин",
+      "pl": "kwarantanna"
+    },
+    {
+      "id": "catch-an-illness",
+      "cs": "nakazit se",
+      "en": "to catch (an illness)",
+      "uk": "заразитися",
+      "ru": "заразиться",
+      "pl": "zarazić się"
+    },
+    {
+      "id": "recovery",
+      "cs": "uzdravení",
+      "en": "recovery",
+      "uk": "одужання",
+      "ru": "выздоровление",
+      "pl": "wyzdrowienie"
+    },
+    {
+      "id": "disability",
+      "cs": "postižení",
+      "en": "disability",
+      "uk": "інвалідність",
+      "ru": "инвалидность",
+      "pl": "niepełnosprawność"
+    }
+  ]
+}

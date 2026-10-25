@@ -1,0 +1,325 @@
+{
+  "id": "money",
+  "order": 216,
+  "level": "B1",
+  "icon": "wallet",
+  "title": {
+    "cs": "Peníze a banka",
+    "en": "Money & Banking",
+    "uk": "Гроші та банк",
+    "ru": "Деньги и банк",
+    "pl": "Pieniądze i bank"
+  },
+  "description": {
+    "en": "Accounts, cards, loans and saving.",
+    "uk": "Рахунки, картки, кредити й заощадження.",
+    "ru": "Счета, карты, кредиты и сбережения.",
+    "pl": "Konta, karty, kredyty i oszczędzanie."
+  },
+  "words": [
+    {
+      "id": "bank-account",
+      "cs": "bankovní účet",
+      "en": "bank account",
+      "uk": "банківський рахунок",
+      "ru": "банковский счёт",
+      "pl": "konto bankowe"
+    },
+    {
+      "id": "current-account",
+      "cs": "běžný účet",
+      "en": "current account",
+      "uk": "поточний рахунок",
+      "ru": "текущий счёт",
+      "pl": "rachunek bieżący"
+    },
+    {
+      "id": "savings-account",
+      "cs": "spořicí účet",
+      "en": "savings account",
+      "uk": "ощадний рахунок",
+      "ru": "сберегательный счёт",
+      "pl": "konto oszczędnościowe"
+    },
+    {
+      "id": "account-number",
+      "cs": "číslo účtu",
+      "en": "account number",
+      "uk": "номер рахунку",
+      "ru": "номер счёта",
+      "pl": "numer konta"
+    },
+    {
+      "id": "balance",
+      "cs": "zůstatek",
+      "en": "balance",
+      "uk": "залишок",
+      "ru": "остаток",
+      "pl": "saldo"
+    },
+    {
+      "id": "bank-statement",
+      "cs": "výpis z účtu",
+      "en": "bank statement",
+      "uk": "виписка з рахунку",
+      "ru": "выписка со счёта",
+      "pl": "wyciąg z konta"
+    },
+    {
+      "id": "deposit",
+      "cs": "vklad",
+      "en": "deposit",
+      "uk": "депозит",
+      "ru": "вклад",
+      "pl": "wpłata"
+    },
+    {
+      "id": "withdrawal",
+      "cs": "výběr",
+      "en": "withdrawal",
+      "uk": "зняття коштів",
+      "ru": "снятие денег",
+      "pl": "wypłata"
+    },
+    {
+      "id": "withdraw-money",
+      "cs": "vybrat peníze",
+      "en": "to withdraw money",
+      "uk": "зняти гроші",
+      "ru": "снять деньги",
+      "pl": "wypłacić pieniądze"
+    },
+    {
+      "id": "deposit-money",
+      "cs": "vložit peníze",
+      "en": "to deposit money",
+      "uk": "покласти гроші",
+      "ru": "положить деньги",
+      "pl": "wpłacić pieniądze"
+    },
+    {
+      "id": "standing-order",
+      "cs": "trvalý příkaz",
+      "en": "standing order",
+      "uk": "постійне доручення",
+      "ru": "постоянное поручение",
+      "pl": "zlecenie stałe"
+    },
+    {
+      "id": "direct-debit",
+      "cs": "inkaso",
+      "en": "direct debit",
+      "uk": "автоматичне списання",
+      "ru": "автоматическое списание",
+      "pl": "polecenie zapłaty"
+    },
+    {
+      "id": "interest",
+      "cs": "úrok",
+      "en": "interest",
+      "uk": "відсоток",
+      "ru": "процент",
+      "pl": "odsetki"
+    },
+    {
+      "id": "interest-rate",
+      "cs": "úroková sazba",
+      "en": "interest rate",
+      "uk": "процентна ставка",
+      "ru": "процентная ставка",
+      "pl": "stopa procentowa"
+    },
+    {
+      "id": "loan-credit",
+      "cs": "úvěr",
+      "en": "loan (credit)",
+      "uk": "кредит",
+      "ru": "кредит",
+      "pl": "kredyt"
+    },
+    {
+      "id": "instalment",
+      "cs": "splátka",
+      "en": "instalment",
+      "uk": "внесок",
+      "ru": "взнос",
+      "pl": "rata"
+    },
+    {
+      "id": "pay-off",
+      "cs": "splatit",
+      "en": "to pay off",
+      "uk": "погасити",
+      "ru": "погасить",
+      "pl": "spłacić"
+    },
+    {
+      "id": "in-debt",
+      "cs": "zadlužený",
+      "en": "in debt",
+      "uk": "в боргах",
+      "ru": "в долгах",
+      "pl": "zadłużony"
+    },
+    {
+      "id": "debt-enforcement",
+      "cs": "exekuce",
+      "en": "debt enforcement",
+      "uk": "примусове стягнення",
+      "ru": "принудительное взыскание",
+      "pl": "egzekucja komornicza"
+    },
+    {
+      "id": "credit-card",
+      "cs": "kreditní karta",
+      "en": "credit card",
+      "uk": "кредитна картка",
+      "ru": "кредитная карта",
+      "pl": "karta kredytowa"
+    },
+    {
+      "id": "debit-card",
+      "cs": "debetní karta",
+      "en": "debit card",
+      "uk": "дебетова картка",
+      "ru": "дебетовая карта",
+      "pl": "karta debetowa"
+    },
+    {
+      "id": "contactless-payment",
+      "cs": "bezkontaktní platba",
+      "en": "contactless payment",
+      "uk": "безконтактна оплата",
+      "ru": "бесконтактная оплата",
+      "pl": "płatność zbliżeniowa"
+    },
+    {
+      "id": "online-banking",
+      "cs": "internetové bankovnictví",
+      "en": "online banking",
+      "uk": "інтернет-банкінг",
+      "ru": "интернет-банкинг",
+      "pl": "bankowość internetowa"
+    },
+    {
+      "id": "shares",
+      "cs": "akcie",
+      "en": "shares",
+      "uk": "акції",
+      "ru": "акции",
+      "pl": "akcje"
+    },
+    {
+      "id": "stock-exchange",
+      "cs": "burza",
+      "en": "stock exchange",
+      "uk": "біржа",
+      "ru": "биржа",
+      "pl": "giełda"
+    },
+    {
+      "id": "investment",
+      "cs": "investice",
+      "en": "investment",
+      "uk": "інвестиція",
+      "ru": "инвестиция",
+      "pl": "inwestycja"
+    },
+    {
+      "id": "expenses",
+      "cs": "výdaje",
+      "en": "expenses",
+      "uk": "витрати",
+      "ru": "расходы",
+      "pl": "wydatki"
+    },
+    {
+      "id": "income",
+      "cs": "příjem",
+      "en": "income",
+      "uk": "дохід",
+      "ru": "доход",
+      "pl": "dochód"
+    },
+    {
+      "id": "accounting",
+      "cs": "účetnictví",
+      "en": "accounting",
+      "uk": "бухгалтерія",
+      "ru": "бухгалтерия",
+      "pl": "księgowość"
+    },
+    {
+      "id": "currency",
+      "cs": "měna",
+      "en": "currency",
+      "uk": "валюта",
+      "ru": "валюта",
+      "pl": "waluta"
+    },
+    {
+      "id": "price-rise",
+      "cs": "zdražení",
+      "en": "price rise",
+      "uk": "подорожчання",
+      "ru": "подорожание",
+      "pl": "podwyżka cen"
+    },
+    {
+      "id": "economise",
+      "cs": "šetřit",
+      "en": "to economise",
+      "uk": "заощаджувати",
+      "ru": "экономить",
+      "pl": "oszczędzać"
+    },
+    {
+      "id": "save-money",
+      "cs": "spořit",
+      "en": "to save (money)",
+      "uk": "відкладати гроші",
+      "ru": "копить деньги",
+      "pl": "odkładać pieniądze"
+    },
+    {
+      "id": "creditor",
+      "cs": "věřitel",
+      "en": "creditor",
+      "uk": "кредитор",
+      "ru": "кредитор",
+      "pl": "wierzyciel"
+    },
+    {
+      "id": "debtor",
+      "cs": "dlužník",
+      "en": "debtor",
+      "uk": "боржник",
+      "ru": "должник",
+      "pl": "dłużnik"
+    },
+    {
+      "id": "collateral",
+      "cs": "zástava",
+      "en": "collateral",
+      "uk": "застава",
+      "ru": "залог",
+      "pl": "zastaw"
+    },
+    {
+      "id": "bankruptcy",
+      "cs": "bankrot",
+      "en": "bankruptcy",
+      "uk": "банкрутство",
+      "ru": "банкротство",
+      "pl": "bankructwo"
+    },
+    {
+      "id": "cryptocurrency",
+      "cs": "kryptoměna",
+      "en": "cryptocurrency",
+      "uk": "криптовалюта",
+      "ru": "криптовалюта",
+      "pl": "kryptowaluta"
+    }
+  ]
+}

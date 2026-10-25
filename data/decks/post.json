@@ -1,0 +1,365 @@
+{
+  "id": "post",
+  "order": 128,
+  "level": "A2",
+  "icon": "mail",
+  "title": {
+    "cs": "Pošta a telefon",
+    "en": "Post & Phone",
+    "uk": "Пошта і телефон",
+    "ru": "Почта и телефон",
+    "pl": "Poczta i telefon"
+  },
+  "description": {
+    "en": "Letters, parcels and phone calls.",
+    "uk": "Листи, посилки й телефонні дзвінки.",
+    "ru": "Письма, посылки и телефонные звонки.",
+    "pl": "Listy, paczki i rozmowy telefoniczne."
+  },
+  "words": [
+    {
+      "id": "letter",
+      "cs": "dopis",
+      "en": "letter",
+      "uk": "лист",
+      "ru": "письмо",
+      "pl": "list"
+    },
+    {
+      "id": "envelope",
+      "cs": "obálka",
+      "en": "envelope",
+      "uk": "конверт",
+      "ru": "конверт",
+      "pl": "koperta"
+    },
+    {
+      "id": "postbox",
+      "cs": "poštovní schránka",
+      "en": "postbox",
+      "uk": "поштова скринька",
+      "ru": "почтовый ящик",
+      "pl": "skrzynka pocztowa"
+    },
+    {
+      "id": "postcode",
+      "cs": "PSČ",
+      "en": "postcode",
+      "uk": "поштовий індекс",
+      "ru": "почтовый индекс",
+      "pl": "kod pocztowy"
+    },
+    {
+      "id": "sender",
+      "cs": "odesílatel",
+      "en": "sender",
+      "uk": "відправник",
+      "ru": "отправитель",
+      "pl": "nadawca"
+    },
+    {
+      "id": "addressee",
+      "cs": "adresát",
+      "en": "addressee",
+      "uk": "адресат",
+      "ru": "адресат",
+      "pl": "adresat"
+    },
+    {
+      "id": "return-address",
+      "cs": "zpáteční adresa",
+      "en": "return address",
+      "uk": "зворотна адреса",
+      "ru": "обратный адрес",
+      "pl": "adres zwrotny"
+    },
+    {
+      "id": "postage",
+      "cs": "poštovné",
+      "en": "postage",
+      "uk": "поштовий збір",
+      "ru": "почтовый сбор",
+      "pl": "opłata pocztowa"
+    },
+    {
+      "id": "cash-on-delivery",
+      "cs": "dobírka",
+      "en": "cash on delivery",
+      "uk": "накладений платіж",
+      "ru": "наложенный платёж",
+      "pl": "za pobraniem"
+    },
+    {
+      "id": "posting-receipt",
+      "cs": "podací lístek",
+      "en": "posting receipt",
+      "uk": "квитанція про відправлення",
+      "ru": "квитанция об отправке",
+      "pl": "potwierdzenie nadania"
+    },
+    {
+      "id": "pick-up-point",
+      "cs": "výdejní místo",
+      "en": "pick-up point",
+      "uk": "пункт видачі",
+      "ru": "пункт выдачи",
+      "pl": "punkt odbioru"
+    },
+    {
+      "id": "parcel-locker",
+      "cs": "box na zásilky",
+      "en": "parcel locker",
+      "uk": "поштомат",
+      "ru": "постамат",
+      "pl": "paczkomat"
+    },
+    {
+      "id": "shipment",
+      "cs": "zásilka",
+      "en": "shipment",
+      "uk": "відправлення",
+      "ru": "отправление",
+      "pl": "przesyłka"
+    },
+    {
+      "id": "parcel-tracking",
+      "cs": "sledování zásilky",
+      "en": "parcel tracking",
+      "uk": "відстеження посилки",
+      "ru": "отслеживание посылки",
+      "pl": "śledzenie przesyłki"
+    },
+    {
+      "id": "postal-order",
+      "cs": "poštovní poukázka",
+      "en": "postal order",
+      "uk": "поштовий переказ",
+      "ru": "почтовый перевод",
+      "pl": "przekaz pocztowy"
+    },
+    {
+      "id": "fragile",
+      "cs": "křehké",
+      "en": "fragile",
+      "uk": "крихке",
+      "ru": "хрупкое",
+      "pl": "kruche"
+    },
+    {
+      "id": "pick-up",
+      "cs": "vyzvednout",
+      "en": "to pick up",
+      "uk": "забрати",
+      "ru": "забрать",
+      "pl": "odebrać"
+    },
+    {
+      "id": "send-off",
+      "cs": "odeslat",
+      "en": "to send off",
+      "uk": "надіслати",
+      "ru": "отправить",
+      "pl": "wysłać"
+    },
+    {
+      "id": "receive",
+      "cs": "obdržet",
+      "en": "to receive",
+      "uk": "отримати",
+      "ru": "получить",
+      "pl": "otrzymać"
+    },
+    {
+      "id": "deliver",
+      "cs": "doručit",
+      "en": "to deliver",
+      "uk": "доставити",
+      "ru": "доставить",
+      "pl": "doręczyć"
+    },
+    {
+      "id": "return-to-sender",
+      "cs": "vrátit odesílateli",
+      "en": "return to sender",
+      "uk": "повернути відправнику",
+      "ru": "вернуть отправителю",
+      "pl": "zwrot do nadawcy"
+    },
+    {
+      "id": "correspondence",
+      "cs": "korespondence",
+      "en": "correspondence",
+      "uk": "листування",
+      "ru": "переписка",
+      "pl": "korespondencja"
+    },
+    {
+      "id": "phone-number",
+      "cs": "telefonní číslo",
+      "en": "phone number",
+      "uk": "номер телефону",
+      "ru": "номер телефона",
+      "pl": "numer telefonu"
+    },
+    {
+      "id": "dialling-code",
+      "cs": "předvolba",
+      "en": "dialling code",
+      "uk": "телефонний код",
+      "ru": "телефонный код",
+      "pl": "numer kierunkowy"
+    },
+    {
+      "id": "missed-call",
+      "cs": "zmeškaný hovor",
+      "en": "missed call",
+      "uk": "пропущений дзвінок",
+      "ru": "пропущенный звонок",
+      "pl": "nieodebrane połączenie"
+    },
+    {
+      "id": "voicemail",
+      "cs": "hlasová schránka",
+      "en": "voicemail",
+      "uk": "голосова пошта",
+      "ru": "голосовая почта",
+      "pl": "poczta głosowa"
+    },
+    {
+      "id": "hang-up-the-phone",
+      "cs": "zavěsit",
+      "en": "to hang up (the phone)",
+      "uk": "покласти слухавку",
+      "ru": "повесить трубку",
+      "pl": "rozłączyć się"
+    },
+    {
+      "id": "dial-a-number",
+      "cs": "vytočit číslo",
+      "en": "to dial a number",
+      "uk": "набрати номер",
+      "ru": "набрать номер",
+      "pl": "wybrać numer"
+    },
+    {
+      "id": "ring",
+      "cs": "zvonit",
+      "en": "to ring",
+      "uk": "дзвонити",
+      "ru": "звонить",
+      "pl": "dzwonić"
+    },
+    {
+      "id": "phone-signal",
+      "cs": "signál",
+      "en": "(phone) signal",
+      "uk": "сигнал",
+      "ru": "сигнал",
+      "pl": "zasięg"
+    },
+    {
+      "id": "text-message",
+      "cs": "SMS zpráva",
+      "en": "text message",
+      "uk": "SMS-повідомлення",
+      "ru": "SMS-сообщение",
+      "pl": "SMS"
+    },
+    {
+      "id": "mobile-operator",
+      "cs": "mobilní operátor",
+      "en": "mobile operator",
+      "uk": "мобільний оператор",
+      "ru": "мобильный оператор",
+      "pl": "operator komórkowy"
+    },
+    {
+      "id": "tariff",
+      "cs": "tarif",
+      "en": "tariff",
+      "uk": "тариф",
+      "ru": "тариф",
+      "pl": "taryfa"
+    },
+    {
+      "id": "prepaid-card",
+      "cs": "předplacená karta",
+      "en": "prepaid card",
+      "uk": "передплачена картка",
+      "ru": "предоплаченная карта",
+      "pl": "karta prepaid"
+    },
+    {
+      "id": "monthly-plan",
+      "cs": "paušál",
+      "en": "monthly plan",
+      "uk": "абонентська плата",
+      "ru": "абонентская плата",
+      "pl": "abonament"
+    },
+    {
+      "id": "free-minutes",
+      "cs": "volné minuty",
+      "en": "free minutes",
+      "uk": "безкоштовні хвилини",
+      "ru": "бесплатные минуты",
+      "pl": "darmowe minuty"
+    },
+    {
+      "id": "top-up-credit",
+      "cs": "dobít kredit",
+      "en": "to top up credit",
+      "uk": "поповнити рахунок",
+      "ru": "пополнить счёт",
+      "pl": "doładować konto"
+    },
+    {
+      "id": "voice-message",
+      "cs": "hlasová zpráva",
+      "en": "voice message",
+      "uk": "голосове повідомлення",
+      "ru": "голосовое сообщение",
+      "pl": "wiadomość głosowa"
+    },
+    {
+      "id": "delivered",
+      "cs": "doručeno",
+      "en": "delivered",
+      "uk": "доставлено",
+      "ru": "доставлено",
+      "pl": "dostarczono"
+    },
+    {
+      "id": "read-seen",
+      "cs": "přečteno",
+      "en": "read (seen)",
+      "uk": "прочитано",
+      "ru": "прочитано",
+      "pl": "przeczytano"
+    },
+    {
+      "id": "write-back",
+      "cs": "odepsat",
+      "en": "to write back",
+      "uk": "відписати",
+      "ru": "ответить письменно",
+      "pl": "odpisać"
+    },
+    {
+      "id": "forward",
+      "cs": "přeposlat",
+      "en": "to forward",
+      "uk": "переслати",
+      "ru": "переслать",
+      "pl": "przesłać dalej"
+    },
+    {
+      "id": "contact",
+      "cs": "kontakt",
+      "en": "contact",
+      "uk": "контакт",
+      "ru": "контакт",
+      "pl": "kontakt"
+    }
+  ]
+}

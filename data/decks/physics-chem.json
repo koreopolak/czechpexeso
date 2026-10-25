@@ -1,0 +1,341 @@
+{
+  "id": "physics-chem",
+  "order": 311,
+  "level": "B2",
+  "icon": "cube",
+  "title": {
+    "cs": "Fyzika a chemie",
+    "en": "Physics & Chemistry",
+    "uk": "Фізика та хімія",
+    "ru": "Физика и химия",
+    "pl": "Fizyka i chemia"
+  },
+  "description": {
+    "en": "Elements, forces, light and electricity.",
+    "uk": "Елементи, сили, світло й електрика.",
+    "ru": "Элементы, силы, свет и электричество.",
+    "pl": "Pierwiastki, siły, światło i elektryczność."
+  },
+  "words": [
+    {
+      "id": "chemical-element",
+      "cs": "prvek",
+      "en": "(chemical) element",
+      "uk": "хімічний елемент",
+      "ru": "химический элемент",
+      "pl": "pierwiastek"
+    },
+    {
+      "id": "compound",
+      "cs": "sloučenina",
+      "en": "compound",
+      "uk": "сполука",
+      "ru": "соединение",
+      "pl": "związek chemiczny"
+    },
+    {
+      "id": "mixture",
+      "cs": "směs",
+      "en": "mixture",
+      "uk": "суміш",
+      "ru": "смесь",
+      "pl": "mieszanina"
+    },
+    {
+      "id": "solution-liquid",
+      "cs": "roztok",
+      "en": "solution (liquid)",
+      "uk": "розчин",
+      "ru": "раствор",
+      "pl": "roztwór"
+    },
+    {
+      "id": "acid",
+      "cs": "kyselina",
+      "en": "acid",
+      "uk": "кислота",
+      "ru": "кислота",
+      "pl": "kwas"
+    },
+    {
+      "id": "base-alkali",
+      "cs": "zásada",
+      "en": "base (alkali)",
+      "uk": "луг",
+      "ru": "щёлочь",
+      "pl": "zasada"
+    },
+    {
+      "id": "oxygen",
+      "cs": "kyslík",
+      "en": "oxygen",
+      "uk": "кисень",
+      "ru": "кислород",
+      "pl": "tlen"
+    },
+    {
+      "id": "hydrogen",
+      "cs": "vodík",
+      "en": "hydrogen",
+      "uk": "водень",
+      "ru": "водород",
+      "pl": "wodór"
+    },
+    {
+      "id": "nitrogen",
+      "cs": "dusík",
+      "en": "nitrogen",
+      "uk": "азот",
+      "ru": "азот",
+      "pl": "azot"
+    },
+    {
+      "id": "periodic-table",
+      "cs": "periodická tabulka",
+      "en": "periodic table",
+      "uk": "періодична таблиця",
+      "ru": "периодическая таблица",
+      "pl": "układ okresowy"
+    },
+    {
+      "id": "chemical-reaction",
+      "cs": "chemická reakce",
+      "en": "chemical reaction",
+      "uk": "хімічна реакція",
+      "ru": "химическая реакция",
+      "pl": "reakcja chemiczna"
+    },
+    {
+      "id": "oxidation",
+      "cs": "oxidace",
+      "en": "oxidation",
+      "uk": "окиснення",
+      "ru": "окисление",
+      "pl": "utlenianie"
+    },
+    {
+      "id": "rust",
+      "cs": "rez",
+      "en": "rust",
+      "uk": "іржа",
+      "ru": "ржавчина",
+      "pl": "rdza"
+    },
+    {
+      "id": "combustion",
+      "cs": "hoření",
+      "en": "combustion",
+      "uk": "горіння",
+      "ru": "горение",
+      "pl": "spalanie"
+    },
+    {
+      "id": "catalyst",
+      "cs": "katalyzátor",
+      "en": "catalyst",
+      "uk": "каталізатор",
+      "ru": "катализатор",
+      "pl": "katalizator"
+    },
+    {
+      "id": "proton",
+      "cs": "proton",
+      "en": "proton",
+      "uk": "протон",
+      "ru": "протон",
+      "pl": "proton"
+    },
+    {
+      "id": "neutron",
+      "cs": "neutron",
+      "en": "neutron",
+      "uk": "нейтрон",
+      "ru": "нейтрон",
+      "pl": "neutron"
+    },
+    {
+      "id": "radiation",
+      "cs": "záření",
+      "en": "radiation",
+      "uk": "випромінювання",
+      "ru": "излучение",
+      "pl": "promieniowanie"
+    },
+    {
+      "id": "wavelength",
+      "cs": "vlnová délka",
+      "en": "wavelength",
+      "uk": "довжина хвилі",
+      "ru": "длина волны",
+      "pl": "długość fali"
+    },
+    {
+      "id": "frequency",
+      "cs": "frekvence",
+      "en": "frequency",
+      "uk": "частота",
+      "ru": "частота",
+      "pl": "częstotliwość"
+    },
+    {
+      "id": "electric-current",
+      "cs": "elektrický proud",
+      "en": "electric current",
+      "uk": "електричний струм",
+      "ru": "электрический ток",
+      "pl": "prąd elektryczny"
+    },
+    {
+      "id": "voltage",
+      "cs": "napětí",
+      "en": "voltage",
+      "uk": "напруга",
+      "ru": "напряжение",
+      "pl": "napięcie"
+    },
+    {
+      "id": "electrical-resistance",
+      "cs": "elektrický odpor",
+      "en": "electrical resistance",
+      "uk": "електричний опір",
+      "ru": "электрическое сопротивление",
+      "pl": "opór elektryczny"
+    },
+    {
+      "id": "magnet",
+      "cs": "magnet",
+      "en": "magnet",
+      "uk": "магніт",
+      "ru": "магнит",
+      "pl": "magnes"
+    },
+    {
+      "id": "magnetic-field",
+      "cs": "magnetické pole",
+      "en": "magnetic field",
+      "uk": "магнітне поле",
+      "ru": "магнитное поле",
+      "pl": "pole magnetyczne"
+    },
+    {
+      "id": "friction",
+      "cs": "tření",
+      "en": "friction",
+      "uk": "тертя",
+      "ru": "трение",
+      "pl": "tarcie"
+    },
+    {
+      "id": "melting-point",
+      "cs": "bod tání",
+      "en": "melting point",
+      "uk": "температура плавлення",
+      "ru": "температура плавления",
+      "pl": "temperatura topnienia"
+    },
+    {
+      "id": "boiling-point",
+      "cs": "bod varu",
+      "en": "boiling point",
+      "uk": "температура кипіння",
+      "ru": "температура кипения",
+      "pl": "temperatura wrzenia"
+    },
+    {
+      "id": "state-of-matter",
+      "cs": "skupenství",
+      "en": "state of matter",
+      "uk": "агрегатний стан",
+      "ru": "агрегатное состояние",
+      "pl": "stan skupienia"
+    },
+    {
+      "id": "solid",
+      "cs": "pevná látka",
+      "en": "solid",
+      "uk": "тверде тіло",
+      "ru": "твёрдое тело",
+      "pl": "ciało stałe"
+    },
+    {
+      "id": "liquid",
+      "cs": "kapalina",
+      "en": "liquid",
+      "uk": "рідина",
+      "ru": "жидкость",
+      "pl": "ciecz"
+    },
+    {
+      "id": "steam",
+      "cs": "pára",
+      "en": "steam",
+      "uk": "пара",
+      "ru": "пар",
+      "pl": "para"
+    },
+    {
+      "id": "speed-of-light",
+      "cs": "rychlost světla",
+      "en": "speed of light",
+      "uk": "швидкість світла",
+      "ru": "скорость света",
+      "pl": "prędkość światła"
+    },
+    {
+      "id": "acceleration",
+      "cs": "zrychlení",
+      "en": "acceleration",
+      "uk": "прискорення",
+      "ru": "ускорение",
+      "pl": "przyspieszenie"
+    },
+    {
+      "id": "inertia",
+      "cs": "setrvačnost",
+      "en": "inertia",
+      "uk": "інерція",
+      "ru": "инерция",
+      "pl": "bezwładność"
+    },
+    {
+      "id": "motion",
+      "cs": "pohyb",
+      "en": "motion",
+      "uk": "рух",
+      "ru": "движение",
+      "pl": "ruch"
+    },
+    {
+      "id": "laser",
+      "cs": "laser",
+      "en": "laser",
+      "uk": "лазер",
+      "ru": "лазер",
+      "pl": "laser"
+    },
+    {
+      "id": "prism",
+      "cs": "hranol",
+      "en": "prism",
+      "uk": "призма",
+      "ru": "призма",
+      "pl": "pryzmat"
+    },
+    {
+      "id": "reflection",
+      "cs": "odraz",
+      "en": "reflection",
+      "uk": "відбиття",
+      "ru": "отражение",
+      "pl": "odbicie"
+    },
+    {
+      "id": "refraction",
+      "cs": "lom světla",
+      "en": "refraction",
+      "uk": "заломлення світла",
+      "ru": "преломление света",
+      "pl": "załamanie światła"
+    }
+  ]
+}

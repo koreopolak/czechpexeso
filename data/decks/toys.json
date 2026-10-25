@@ -1,0 +1,325 @@
+{
+  "id": "toys",
+  "order": 127,
+  "level": "A2",
+  "icon": "baby",
+  "title": {
+    "cs": "Dětství a hračky",
+    "en": "Childhood & Toys",
+    "uk": "Дитинство та іграшки",
+    "ru": "Детство и игрушки",
+    "pl": "Dzieciństwo i zabawki"
+  },
+  "description": {
+    "en": "Babies, playgrounds, toys and growing up.",
+    "uk": "Немовлята, майданчики, іграшки й дорослішання.",
+    "ru": "Малыши, площадки, игрушки и взросление.",
+    "pl": "Niemowlęta, place zabaw, zabawki i dorastanie."
+  },
+  "words": [
+    {
+      "id": "pram",
+      "cs": "kočárek",
+      "en": "pram",
+      "uk": "дитячий візок",
+      "ru": "детская коляска",
+      "pl": "wózek dziecięcy"
+    },
+    {
+      "id": "dummy-pacifier",
+      "cs": "dudlík",
+      "en": "dummy (pacifier)",
+      "uk": "соска",
+      "ru": "соска-пустышка",
+      "pl": "smoczek"
+    },
+    {
+      "id": "baby-bottle",
+      "cs": "kojenecká láhev",
+      "en": "baby bottle",
+      "uk": "пляшечка для годування",
+      "ru": "детская бутылочка",
+      "pl": "butelka dla niemowląt"
+    },
+    {
+      "id": "rattle",
+      "cs": "chrastítko",
+      "en": "rattle",
+      "uk": "брязкальце",
+      "ru": "погремушка",
+      "pl": "grzechotka"
+    },
+    {
+      "id": "bib",
+      "cs": "bryndák",
+      "en": "bib",
+      "uk": "слинявчик",
+      "ru": "слюнявчик",
+      "pl": "śliniak"
+    },
+    {
+      "id": "potty",
+      "cs": "nočník",
+      "en": "potty",
+      "uk": "горщик",
+      "ru": "горшок",
+      "pl": "nocnik"
+    },
+    {
+      "id": "sandpit",
+      "cs": "pískoviště",
+      "en": "sandpit",
+      "uk": "пісочниця",
+      "ru": "песочница",
+      "pl": "piaskownica"
+    },
+    {
+      "id": "swing",
+      "cs": "houpačka",
+      "en": "swing",
+      "uk": "гойдалка",
+      "ru": "качели",
+      "pl": "huśtawka"
+    },
+    {
+      "id": "slide",
+      "cs": "skluzavka",
+      "en": "slide",
+      "uk": "гірка",
+      "ru": "горка",
+      "pl": "zjeżdżalnia"
+    },
+    {
+      "id": "merry-go-round",
+      "cs": "kolotoč",
+      "en": "merry-go-round",
+      "uk": "карусель",
+      "ru": "карусель",
+      "pl": "karuzela"
+    },
+    {
+      "id": "climbing-frame",
+      "cs": "prolézačka",
+      "en": "climbing frame",
+      "uk": "дитячий спортивний комплекс",
+      "ru": "детский игровой комплекс",
+      "pl": "drabinki"
+    },
+    {
+      "id": "toy-car",
+      "cs": "autíčko",
+      "en": "toy car",
+      "uk": "машинка",
+      "ru": "машинка",
+      "pl": "samochodzik"
+    },
+    {
+      "id": "toy-train",
+      "cs": "vláček",
+      "en": "toy train",
+      "uk": "паровозик",
+      "ru": "паровозик",
+      "pl": "pociąg zabawkowy"
+    },
+    {
+      "id": "building-set",
+      "cs": "stavebnice",
+      "en": "building set",
+      "uk": "конструктор",
+      "ru": "конструктор",
+      "pl": "klocki konstrukcyjne"
+    },
+    {
+      "id": "teddy-bear",
+      "cs": "medvídek",
+      "en": "teddy bear",
+      "uk": "ведмедик",
+      "ru": "мишка",
+      "pl": "miś"
+    },
+    {
+      "id": "puppet",
+      "cs": "loutka",
+      "en": "puppet",
+      "uk": "лялька-маріонетка",
+      "ru": "марионетка",
+      "pl": "marionetka"
+    },
+    {
+      "id": "skipping-rope",
+      "cs": "švihadlo",
+      "en": "skipping rope",
+      "uk": "скакалка",
+      "ru": "скакалка",
+      "pl": "skakanka"
+    },
+    {
+      "id": "tricycle",
+      "cs": "tříkolka",
+      "en": "tricycle",
+      "uk": "триколісний велосипед",
+      "ru": "трёхколёсный велосипед",
+      "pl": "rowerek trójkołowy"
+    },
+    {
+      "id": "balance-bike",
+      "cs": "odrážedlo",
+      "en": "balance bike",
+      "uk": "біговел",
+      "ru": "беговел",
+      "pl": "rowerek biegowy"
+    },
+    {
+      "id": "colouring-book",
+      "cs": "omalovánky",
+      "en": "colouring book",
+      "uk": "розмальовка",
+      "ru": "раскраска",
+      "pl": "kolorowanka"
+    },
+    {
+      "id": "plasticine",
+      "cs": "plastelína",
+      "en": "plasticine",
+      "uk": "пластилін",
+      "ru": "пластилин",
+      "pl": "plastelina"
+    },
+    {
+      "id": "bubble-wand",
+      "cs": "bublifuk",
+      "en": "bubble wand",
+      "uk": "мильні бульбашки",
+      "ru": "мыльные пузыри",
+      "pl": "bańki mydlane"
+    },
+    {
+      "id": "kite",
+      "cs": "papírový drak",
+      "en": "kite",
+      "uk": "повітряний змій",
+      "ru": "воздушный змей",
+      "pl": "latawiec"
+    },
+    {
+      "id": "lullaby",
+      "cs": "ukolébavka",
+      "en": "lullaby",
+      "uk": "колискова",
+      "ru": "колыбельная",
+      "pl": "kołysanka"
+    },
+    {
+      "id": "nursery-rhyme",
+      "cs": "říkanka",
+      "en": "nursery rhyme",
+      "uk": "лічилка",
+      "ru": "считалочка",
+      "pl": "wyliczanka"
+    },
+    {
+      "id": "riddle",
+      "cs": "hádanka",
+      "en": "riddle",
+      "uk": "загадка",
+      "ru": "загадка",
+      "pl": "zagadka"
+    },
+    {
+      "id": "childhood",
+      "cs": "dětství",
+      "en": "childhood",
+      "uk": "дитинство",
+      "ru": "детство",
+      "pl": "dzieciństwo"
+    },
+    {
+      "id": "adolescence",
+      "cs": "dospívání",
+      "en": "adolescence",
+      "uk": "дорослішання",
+      "ru": "взросление",
+      "pl": "dorastanie"
+    },
+    {
+      "id": "teenager",
+      "cs": "náctiletý",
+      "en": "teenager",
+      "uk": "підліток",
+      "ru": "подросток",
+      "pl": "nastolatek"
+    },
+    {
+      "id": "toddler",
+      "cs": "batole",
+      "en": "toddler",
+      "uk": "малюк",
+      "ru": "малыш",
+      "pl": "maluch"
+    },
+    {
+      "id": "infant",
+      "cs": "kojenec",
+      "en": "infant",
+      "uk": "немовля",
+      "ru": "младенец",
+      "pl": "niemowlę"
+    },
+    {
+      "id": "breastfeed",
+      "cs": "kojit",
+      "en": "to breastfeed",
+      "uk": "годувати грудьми",
+      "ru": "кормить грудью",
+      "pl": "karmić piersią"
+    },
+    {
+      "id": "change-a-nappy",
+      "cs": "přebalovat",
+      "en": "to change a nappy",
+      "uk": "перевдягати підгузок",
+      "ru": "менять подгузник",
+      "pl": "przewijać"
+    },
+    {
+      "id": "babysitting",
+      "cs": "hlídání dětí",
+      "en": "babysitting",
+      "uk": "догляд за дітьми",
+      "ru": "присмотр за детьми",
+      "pl": "opieka nad dziećmi"
+    },
+    {
+      "id": "maternity-hospital",
+      "cs": "porodnice",
+      "en": "maternity hospital",
+      "uk": "пологовий будинок",
+      "ru": "роддом",
+      "pl": "porodówka"
+    },
+    {
+      "id": "pregnancy",
+      "cs": "těhotenství",
+      "en": "pregnancy",
+      "uk": "вагітність",
+      "ru": "беременность",
+      "pl": "ciąża"
+    },
+    {
+      "id": "childbirth",
+      "cs": "porod",
+      "en": "childbirth",
+      "uk": "пологи",
+      "ru": "роды",
+      "pl": "poród"
+    },
+    {
+      "id": "bring-up",
+      "cs": "vychovávat",
+      "en": "to bring up",
+      "uk": "виховувати",
+      "ru": "воспитывать",
+      "pl": "wychowywać"
+    }
+  ]
+}

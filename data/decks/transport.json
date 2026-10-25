@@ -1,6 +1,6 @@
 {
   "id": "transport",
-  "order": 42,
+  "order": 114,
   "level": "A2",
   "icon": "bus",
   "title": {
@@ -360,6 +360,230 @@
       "uk": "літаком",
       "ru": "на самолёте",
       "pl": "samolotem"
+    },
+    {
+      "id": "e-bike",
+      "cs": "elektrokolo",
+      "en": "e-bike",
+      "uk": "електровелосипед",
+      "ru": "электровелосипед",
+      "pl": "rower elektryczny"
+    },
+    {
+      "id": "scooter",
+      "cs": "skútr",
+      "en": "scooter",
+      "uk": "скутер",
+      "ru": "скутер",
+      "pl": "skuter"
+    },
+    {
+      "id": "camper-van",
+      "cs": "obytný vůz",
+      "en": "camper van",
+      "uk": "будинок на колесах",
+      "ru": "дом на колёсах",
+      "pl": "kamper"
+    },
+    {
+      "id": "trailer",
+      "cs": "přívěs",
+      "en": "trailer",
+      "uk": "причіп",
+      "ru": "прицеп",
+      "pl": "przyczepa"
+    },
+    {
+      "id": "night-service",
+      "cs": "noční spoj",
+      "en": "night service",
+      "uk": "нічний рейс",
+      "ru": "ночной рейс",
+      "pl": "kurs nocny"
+    },
+    {
+      "id": "direct-connection",
+      "cs": "přímý spoj",
+      "en": "direct connection",
+      "uk": "прямий рейс",
+      "ru": "прямой рейс",
+      "pl": "połączenie bezpośrednie"
+    },
+    {
+      "id": "return-ticket",
+      "cs": "zpáteční jízdenka",
+      "en": "return ticket",
+      "uk": "квиток туди й назад",
+      "ru": "билет туда и обратно",
+      "pl": "bilet powrotny"
+    },
+    {
+      "id": "single-ticket",
+      "cs": "jednosměrná jízdenka",
+      "en": "single ticket",
+      "uk": "квиток в один бік",
+      "ru": "билет в одну сторону",
+      "pl": "bilet w jedną stronę"
+    },
+    {
+      "id": "first-class",
+      "cs": "první třída",
+      "en": "first class",
+      "uk": "перший клас",
+      "ru": "первый класс",
+      "pl": "pierwsza klasa"
+    },
+    {
+      "id": "second-class",
+      "cs": "druhá třída",
+      "en": "second class",
+      "uk": "другий клас",
+      "ru": "второй класс",
+      "pl": "druga klasa"
+    },
+    {
+      "id": "dining-car",
+      "cs": "jídelní vůz",
+      "en": "dining car",
+      "uk": "вагон-ресторан",
+      "ru": "вагон-ресторан",
+      "pl": "wagon restauracyjny"
+    },
+    {
+      "id": "sleeping-car",
+      "cs": "lůžkový vůz",
+      "en": "sleeping car",
+      "uk": "спальний вагон",
+      "ru": "спальный вагон",
+      "pl": "wagon sypialny"
+    },
+    {
+      "id": "railway",
+      "cs": "železnice",
+      "en": "railway",
+      "uk": "залізниця",
+      "ru": "железная дорога",
+      "pl": "kolej"
+    },
+    {
+      "id": "railway-line",
+      "cs": "trať",
+      "en": "railway line",
+      "uk": "колія",
+      "ru": "путь",
+      "pl": "tor"
+    },
+    {
+      "id": "track-closure",
+      "cs": "výluka",
+      "en": "track closure",
+      "uk": "перекриття колії",
+      "ru": "закрытие движения",
+      "pl": "zamknięcie toru"
+    },
+    {
+      "id": "replacement-bus-service",
+      "cs": "náhradní autobusová doprava",
+      "en": "replacement bus service",
+      "uk": "автобус замість потяга",
+      "ru": "замещающий автобус",
+      "pl": "komunikacja zastępcza"
+    },
+    {
+      "id": "anchor",
+      "cs": "kotva",
+      "en": "anchor",
+      "uk": "якір",
+      "ru": "якорь",
+      "pl": "kotwica"
+    },
+    {
+      "id": "cabin-on-a-ship",
+      "cs": "kajuta",
+      "en": "cabin (on a ship)",
+      "uk": "каюта",
+      "ru": "каюта",
+      "pl": "kajuta"
+    },
+    {
+      "id": "deck-of-a-ship",
+      "cs": "paluba",
+      "en": "deck (of a ship)",
+      "uk": "палуба",
+      "ru": "палуба",
+      "pl": "pokład"
+    },
+    {
+      "id": "voyage",
+      "cs": "plavba",
+      "en": "voyage",
+      "uk": "плавання",
+      "ru": "плавание",
+      "pl": "rejs"
+    },
+    {
+      "id": "yacht",
+      "cs": "jachta",
+      "en": "yacht",
+      "uk": "яхта",
+      "ru": "яхта",
+      "pl": "jacht"
+    },
+    {
+      "id": "submarine",
+      "cs": "ponorka",
+      "en": "submarine",
+      "uk": "підводний човен",
+      "ru": "подводная лодка",
+      "pl": "łódź podwodna"
+    },
+    {
+      "id": "canoe",
+      "cs": "kanoe",
+      "en": "canoe",
+      "uk": "каное",
+      "ru": "каноэ",
+      "pl": "kanadyjka"
+    },
+    {
+      "id": "oar",
+      "cs": "veslo",
+      "en": "oar",
+      "uk": "весло",
+      "ru": "весло",
+      "pl": "wiosło"
+    },
+    {
+      "id": "lane",
+      "cs": "jízdní pruh",
+      "en": "lane",
+      "uk": "смуга руху",
+      "ru": "полоса движения",
+      "pl": "pas ruchu"
+    },
+    {
+      "id": "rush-hour",
+      "cs": "dopravní špička",
+      "en": "rush hour",
+      "uk": "година пік",
+      "ru": "час пик",
+      "pl": "godziny szczytu"
+    },
+    {
+      "id": "hitchhiking",
+      "cs": "autostop",
+      "en": "hitchhiking",
+      "uk": "автостоп",
+      "ru": "автостоп",
+      "pl": "autostop"
+    },
+    {
+      "id": "carpooling",
+      "cs": "spolujízda",
+      "en": "carpooling",
+      "uk": "спільна поїздка",
+      "ru": "совместная поездка",
+      "pl": "wspólny przejazd"
     }
   ]
 }

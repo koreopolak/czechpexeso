@@ -1,6 +1,6 @@
 {
   "id": "hotel",
-  "order": 43,
+  "order": 115,
   "level": "A2",
   "icon": "bed",
   "title": {
@@ -336,6 +336,118 @@
       "uk": "сауна",
       "ru": "сауна",
       "pl": "sauna"
+    },
+    {
+      "id": "workers-hostel",
+      "cs": "ubytovna",
+      "en": "workers’ hostel",
+      "uk": "гуртожиток для робітників",
+      "ru": "общежитие для рабочих",
+      "pl": "hotel robotniczy"
+    },
+    {
+      "id": "extra-bed",
+      "cs": "přistýlka",
+      "en": "extra bed",
+      "uk": "додаткове ліжко",
+      "ru": "дополнительная кровать",
+      "pl": "dostawka"
+    },
+    {
+      "id": "non-smoking-room",
+      "cs": "pokoj pro nekuřáky",
+      "en": "non-smoking room",
+      "uk": "номер для некурців",
+      "ru": "номер для некурящих",
+      "pl": "pokój dla niepalących"
+    },
+    {
+      "id": "wheelchair-accessible",
+      "cs": "bezbariérový",
+      "en": "wheelchair-accessible",
+      "uk": "безбар’єрний",
+      "ru": "безбарьерный",
+      "pl": "bez barier"
+    },
+    {
+      "id": "late-check-out",
+      "cs": "pozdní odjezd",
+      "en": "late check-out",
+      "uk": "пізній виїзд",
+      "ru": "поздний выезд",
+      "pl": "późne wymeldowanie"
+    },
+    {
+      "id": "early-check-in",
+      "cs": "brzký příjezd",
+      "en": "early check-in",
+      "uk": "ранній заїзд",
+      "ru": "ранний заезд",
+      "pl": "wczesne zameldowanie"
+    },
+    {
+      "id": "left-luggage-office",
+      "cs": "úschovna zavazadel",
+      "en": "left-luggage office",
+      "uk": "камера схову",
+      "ru": "камера хранения",
+      "pl": "przechowalnia bagażu"
+    },
+    {
+      "id": "porter",
+      "cs": "nosič",
+      "en": "porter",
+      "uk": "носильник",
+      "ru": "носильщик",
+      "pl": "bagażowy"
+    },
+    {
+      "id": "complaint",
+      "cs": "stížnost",
+      "en": "complaint",
+      "uk": "скарга",
+      "ru": "жалоба",
+      "pl": "skarga"
+    },
+    {
+      "id": "fully-booked",
+      "cs": "plně obsazeno",
+      "en": "fully booked",
+      "uk": "усе зайнято",
+      "ru": "мест нет",
+      "pl": "brak wolnych miejsc"
+    },
+    {
+      "id": "package-holiday",
+      "cs": "zájezd",
+      "en": "package holiday",
+      "uk": "туристична поїздка",
+      "ru": "турпоездка",
+      "pl": "wycieczka zorganizowana"
+    },
+    {
+      "id": "hotel-guest",
+      "cs": "hotelový host",
+      "en": "hotel guest",
+      "uk": "гість готелю",
+      "ru": "гость отеля",
+      "pl": "gość hotelowy"
+    },
+    {
+      "id": "private-bathroom",
+      "cs": "vlastní koupelna",
+      "en": "private bathroom",
+      "uk": "власна ванна кімната",
+      "ru": "собственная ванная",
+      "pl": "własna łazienka"
+    },
+    {
+      "id": "shared-kitchenette",
+      "cs": "sdílená kuchyňka",
+      "en": "shared kitchenette",
+      "uk": "спільна кухня",
+      "ru": "общая кухня",
+      "pl": "wspólny aneks kuchenny"
     }
   ]
 }

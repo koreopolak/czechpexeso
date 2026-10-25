@@ -1,0 +1,221 @@
+{
+  "id": "appearance",
+  "order": 247,
+  "level": "B1",
+  "icon": "user",
+  "title": {
+    "cs": "Vzhled a postava",
+    "en": "Looks & Build",
+    "uk": "Зовнішність і статура",
+    "ru": "Внешность и телосложение",
+    "pl": "Wygląd i budowa ciała"
+  },
+  "description": {
+    "en": "Describe how people look.",
+    "uk": "Описуйте, як виглядають люди.",
+    "ru": "Описывайте, как выглядят люди.",
+    "pl": "Opisuj, jak ludzie wyglądają."
+  },
+  "words": [
+    {
+      "id": "sturdy",
+      "cs": "statný",
+      "en": "sturdy",
+      "uk": "кремезний",
+      "ru": "крепкий",
+      "pl": "krzepki"
+    },
+    {
+      "id": "stocky",
+      "cs": "podsaditý",
+      "en": "stocky",
+      "uk": "присадкуватий",
+      "ru": "приземистый",
+      "pl": "krępy"
+    },
+    {
+      "id": "lanky",
+      "cs": "vytáhlý",
+      "en": "lanky",
+      "uk": "довготелесий",
+      "ru": "долговязый",
+      "pl": "tyczkowaty"
+    },
+    {
+      "id": "chubby",
+      "cs": "obtloustlý",
+      "en": "chubby",
+      "uk": "пухкенький",
+      "ru": "полноватый",
+      "pl": "pulchny"
+    },
+    {
+      "id": "athletic",
+      "cs": "atletický",
+      "en": "athletic",
+      "uk": "атлетичний",
+      "ru": "атлетический",
+      "pl": "wysportowany"
+    },
+    {
+      "id": "hunched",
+      "cs": "shrbený",
+      "en": "hunched",
+      "uk": "згорблений",
+      "ru": "сгорбленный",
+      "pl": "zgarbiony"
+    },
+    {
+      "id": "upright",
+      "cs": "vzpřímený",
+      "en": "upright",
+      "uk": "випростаний",
+      "ru": "статный",
+      "pl": "wyprostowany"
+    },
+    {
+      "id": "good-looking",
+      "cs": "pohledný",
+      "en": "good-looking",
+      "uk": "привабливий",
+      "ru": "привлекательный",
+      "pl": "przystojny"
+    },
+    {
+      "id": "graceful",
+      "cs": "půvabný",
+      "en": "graceful",
+      "uk": "граціозний",
+      "ru": "грациозный",
+      "pl": "wdzięczny"
+    },
+    {
+      "id": "inconspicuous",
+      "cs": "nenápadný",
+      "en": "inconspicuous",
+      "uk": "непомітний",
+      "ru": "незаметный",
+      "pl": "niepozorny"
+    },
+    {
+      "id": "well-groomed",
+      "cs": "upravený",
+      "en": "well-groomed",
+      "uk": "доглянутий",
+      "ru": "ухоженный",
+      "pl": "zadbany"
+    },
+    {
+      "id": "unkempt",
+      "cs": "neupravený",
+      "en": "unkempt",
+      "uk": "недоглянутий",
+      "ru": "неухоженный",
+      "pl": "zaniedbany"
+    },
+    {
+      "id": "dishevelled",
+      "cs": "rozcuchaný",
+      "en": "dishevelled",
+      "uk": "скуйовджений",
+      "ru": "растрёпанный",
+      "pl": "rozczochrany"
+    },
+    {
+      "id": "clean-shaven",
+      "cs": "oholený",
+      "en": "clean-shaven",
+      "uk": "поголений",
+      "ru": "побритый",
+      "pl": "ogolony"
+    },
+    {
+      "id": "unshaven",
+      "cs": "neoholený",
+      "en": "unshaven",
+      "uk": "неголений",
+      "ru": "небритый",
+      "pl": "nieogolony"
+    },
+    {
+      "id": "made-up",
+      "cs": "nalíčený",
+      "en": "made up",
+      "uk": "нафарбований",
+      "ru": "накрашенный",
+      "pl": "umalowany"
+    },
+    {
+      "id": "freckled",
+      "cs": "pihovatý",
+      "en": "freckled",
+      "uk": "веснянкуватий",
+      "ru": "веснушчатый",
+      "pl": "piegowaty"
+    },
+    {
+      "id": "wrinkled",
+      "cs": "vrásčitý",
+      "en": "wrinkled",
+      "uk": "зморшкуватий",
+      "ru": "морщинистый",
+      "pl": "pomarszczony"
+    },
+    {
+      "id": "wavy",
+      "cs": "vlnitý",
+      "en": "wavy",
+      "uk": "хвилястий",
+      "ru": "волнистый",
+      "pl": "falowany"
+    },
+    {
+      "id": "long-haired",
+      "cs": "dlouhovlasý",
+      "en": "long-haired",
+      "uk": "довговолосий",
+      "ru": "длинноволосый",
+      "pl": "długowłosy"
+    },
+    {
+      "id": "short-haired",
+      "cs": "krátkovlasý",
+      "en": "short-haired",
+      "uk": "коротковолосий",
+      "ru": "коротковолосый",
+      "pl": "krótkowłosy"
+    },
+    {
+      "id": "blue-eyed",
+      "cs": "modrooký",
+      "en": "blue-eyed",
+      "uk": "блакитноокий",
+      "ru": "голубоглазый",
+      "pl": "niebieskooki"
+    },
+    {
+      "id": "brown-eyed",
+      "cs": "hnědooký",
+      "en": "brown-eyed",
+      "uk": "кароокий",
+      "ru": "кареглазый",
+      "pl": "piwnooki"
+    },
+    {
+      "id": "broad-shoulders",
+      "cs": "široká ramena",
+      "en": "broad shoulders",
+      "uk": "широкі плечі",
+      "ru": "широкие плечи",
+      "pl": "szerokie ramiona"
+    },
+    {
+      "id": "striking-features",
+      "cs": "výrazné rysy",
+      "en": "striking features",
+      "uk": "виразні риси",
+      "ru": "выразительные черты",
+      "pl": "wyraziste rysy"
+    }
+  ]
+}

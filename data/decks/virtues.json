@@ -1,0 +1,205 @@
+{
+  "id": "virtues",
+  "order": 248,
+  "level": "B1",
+  "icon": "star",
+  "title": {
+    "cs": "Ctnosti a neřesti",
+    "en": "Virtues & Vices",
+    "uk": "Чесноти та вади",
+    "ru": "Добродетели и пороки",
+    "pl": "Cnoty i wady"
+  },
+  "description": {
+    "en": "Patience, greed, kindness, revenge…",
+    "uk": "Терпіння, жадібність, доброта, помста…",
+    "ru": "Терпение, жадность, доброта, месть…",
+    "pl": "Cierpliwość, chciwość, życzliwość, zemsta…"
+  },
+  "words": [
+    {
+      "id": "feeling",
+      "cs": "cit",
+      "en": "feeling",
+      "uk": "почуття",
+      "ru": "чувство",
+      "pl": "uczucie"
+    },
+    {
+      "id": "reason-mind",
+      "cs": "rozum",
+      "en": "reason (mind)",
+      "uk": "здоровий глузд",
+      "ru": "рассудок",
+      "pl": "rozum"
+    },
+    {
+      "id": "conscience",
+      "cs": "svědomí",
+      "en": "conscience",
+      "uk": "совість",
+      "ru": "совесть",
+      "pl": "sumienie"
+    },
+    {
+      "id": "pride",
+      "cs": "hrdost",
+      "en": "pride",
+      "uk": "гордість",
+      "ru": "гордость",
+      "pl": "duma"
+    },
+    {
+      "id": "humility",
+      "cs": "pokora",
+      "en": "humility",
+      "uk": "смирення",
+      "ru": "смирение",
+      "pl": "pokora"
+    },
+    {
+      "id": "patience",
+      "cs": "trpělivost",
+      "en": "patience",
+      "uk": "терпіння",
+      "ru": "терпение",
+      "pl": "cierpliwość"
+    },
+    {
+      "id": "kindness",
+      "cs": "laskavost",
+      "en": "kindness",
+      "uk": "доброта",
+      "ru": "доброта",
+      "pl": "życzliwość"
+    },
+    {
+      "id": "sincerity",
+      "cs": "upřímnost",
+      "en": "sincerity",
+      "uk": "щирість",
+      "ru": "искренность",
+      "pl": "szczerość"
+    },
+    {
+      "id": "loyalty",
+      "cs": "věrnost",
+      "en": "loyalty",
+      "uk": "вірність",
+      "ru": "верность",
+      "pl": "wierność"
+    },
+    {
+      "id": "generosity",
+      "cs": "štědrost",
+      "en": "generosity",
+      "uk": "щедрість",
+      "ru": "щедрость",
+      "pl": "hojność"
+    },
+    {
+      "id": "greed",
+      "cs": "lakota",
+      "en": "greed",
+      "uk": "жадібність",
+      "ru": "жадность",
+      "pl": "chciwość"
+    },
+    {
+      "id": "selfishness",
+      "cs": "sobeckost",
+      "en": "selfishness",
+      "uk": "егоїзм",
+      "ru": "эгоизм",
+      "pl": "egoizm"
+    },
+    {
+      "id": "laziness",
+      "cs": "lenost",
+      "en": "laziness",
+      "uk": "лінь",
+      "ru": "лень",
+      "pl": "lenistwo"
+    },
+    {
+      "id": "diligence",
+      "cs": "pracovitost",
+      "en": "diligence",
+      "uk": "працьовитість",
+      "ru": "трудолюбие",
+      "pl": "pracowitość"
+    },
+    {
+      "id": "stupidity",
+      "cs": "hloupost",
+      "en": "stupidity",
+      "uk": "дурість",
+      "ru": "глупость",
+      "pl": "głupota"
+    },
+    {
+      "id": "naivety",
+      "cs": "naivita",
+      "en": "naivety",
+      "uk": "наївність",
+      "ru": "наивность",
+      "pl": "naiwność"
+    },
+    {
+      "id": "harmony",
+      "cs": "harmonie",
+      "en": "harmony",
+      "uk": "гармонія",
+      "ru": "гармония",
+      "pl": "harmonia"
+    },
+    {
+      "id": "chaos",
+      "cs": "chaos",
+      "en": "chaos",
+      "uk": "хаос",
+      "ru": "хаос",
+      "pl": "chaos"
+    },
+    {
+      "id": "injustice",
+      "cs": "křivda",
+      "en": "injustice",
+      "uk": "кривда",
+      "ru": "обида",
+      "pl": "krzywda"
+    },
+    {
+      "id": "revenge",
+      "cs": "pomsta",
+      "en": "revenge",
+      "uk": "помста",
+      "ru": "месть",
+      "pl": "zemsta"
+    },
+    {
+      "id": "forgiveness",
+      "cs": "odpuštění",
+      "en": "forgiveness",
+      "uk": "прощення",
+      "ru": "прощение",
+      "pl": "przebaczenie"
+    },
+    {
+      "id": "virtue",
+      "cs": "ctnost",
+      "en": "virtue",
+      "uk": "чеснота",
+      "ru": "добродетель",
+      "pl": "cnota"
+    },
+    {
+      "id": "vice",
+      "cs": "neřest",
+      "en": "vice",
+      "uk": "вада",
+      "ru": "порок",
+      "pl": "występek"
+    }
+  ]
+}

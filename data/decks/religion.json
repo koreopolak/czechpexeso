@@ -1,0 +1,349 @@
+{
+  "id": "religion",
+  "order": 310,
+  "level": "B2",
+  "icon": "star",
+  "title": {
+    "cs": "Víra a náboženství",
+    "en": "Religion & Beliefs",
+    "uk": "Віра та релігія",
+    "ru": "Вера и религия",
+    "pl": "Wiara i religia"
+  },
+  "description": {
+    "en": "World religions, places of worship and belief.",
+    "uk": "Світові релігії, храми й віра.",
+    "ru": "Мировые религии, храмы и вера.",
+    "pl": "Religie świata, świątynie i wiara."
+  },
+  "words": [
+    {
+      "id": "religion",
+      "cs": "náboženství",
+      "en": "religion",
+      "uk": "релігія",
+      "ru": "религия",
+      "pl": "religia"
+    },
+    {
+      "id": "christianity",
+      "cs": "křesťanství",
+      "en": "Christianity",
+      "uk": "християнство",
+      "ru": "христианство",
+      "pl": "chrześcijaństwo"
+    },
+    {
+      "id": "islam",
+      "cs": "islám",
+      "en": "Islam",
+      "uk": "іслам",
+      "ru": "ислам",
+      "pl": "islam"
+    },
+    {
+      "id": "judaism",
+      "cs": "judaismus",
+      "en": "Judaism",
+      "uk": "юдаїзм",
+      "ru": "иудаизм",
+      "pl": "judaizm"
+    },
+    {
+      "id": "buddhism",
+      "cs": "buddhismus",
+      "en": "Buddhism",
+      "uk": "буддизм",
+      "ru": "буддизм",
+      "pl": "buddyzm"
+    },
+    {
+      "id": "hinduism",
+      "cs": "hinduismus",
+      "en": "Hinduism",
+      "uk": "індуїзм",
+      "ru": "индуизм",
+      "pl": "hinduizm"
+    },
+    {
+      "id": "atheism",
+      "cs": "ateismus",
+      "en": "atheism",
+      "uk": "атеїзм",
+      "ru": "атеизм",
+      "pl": "ateizm"
+    },
+    {
+      "id": "atheist",
+      "cs": "ateista",
+      "en": "atheist",
+      "uk": "атеїст",
+      "ru": "атеист",
+      "pl": "ateista"
+    },
+    {
+      "id": "believer",
+      "cs": "věřící",
+      "en": "believer",
+      "uk": "віруючий",
+      "ru": "верующий",
+      "pl": "wierzący"
+    },
+    {
+      "id": "god",
+      "cs": "bůh",
+      "en": "god",
+      "uk": "бог",
+      "ru": "бог",
+      "pl": "bóg"
+    },
+    {
+      "id": "goddess",
+      "cs": "bohyně",
+      "en": "goddess",
+      "uk": "богиня",
+      "ru": "богиня",
+      "pl": "bogini"
+    },
+    {
+      "id": "paradise",
+      "cs": "ráj",
+      "en": "paradise",
+      "uk": "рай",
+      "ru": "рай",
+      "pl": "raj"
+    },
+    {
+      "id": "hell",
+      "cs": "peklo",
+      "en": "hell",
+      "uk": "пекло",
+      "ru": "ад",
+      "pl": "piekło"
+    },
+    {
+      "id": "sin",
+      "cs": "hřích",
+      "en": "sin",
+      "uk": "гріх",
+      "ru": "грех",
+      "pl": "grzech"
+    },
+    {
+      "id": "confession",
+      "cs": "zpověď",
+      "en": "confession",
+      "uk": "сповідь",
+      "ru": "исповедь",
+      "pl": "spowiedź"
+    },
+    {
+      "id": "prayer",
+      "cs": "modlitba",
+      "en": "prayer",
+      "uk": "молитва",
+      "ru": "молитва",
+      "pl": "modlitwa"
+    },
+    {
+      "id": "pray",
+      "cs": "modlit se",
+      "en": "to pray",
+      "uk": "молитися",
+      "ru": "молиться",
+      "pl": "modlić się"
+    },
+    {
+      "id": "church-service",
+      "cs": "bohoslužba",
+      "en": "church service",
+      "uk": "богослужіння",
+      "ru": "богослужение",
+      "pl": "nabożeństwo"
+    },
+    {
+      "id": "sermon",
+      "cs": "kázání",
+      "en": "sermon",
+      "uk": "проповідь",
+      "ru": "проповедь",
+      "pl": "kazanie"
+    },
+    {
+      "id": "parish-priest",
+      "cs": "farář",
+      "en": "parish priest",
+      "uk": "парафіяльний священник",
+      "ru": "приходской священник",
+      "pl": "proboszcz"
+    },
+    {
+      "id": "bishop",
+      "cs": "biskup",
+      "en": "bishop",
+      "uk": "єпископ",
+      "ru": "епископ",
+      "pl": "biskup"
+    },
+    {
+      "id": "pope",
+      "cs": "papež",
+      "en": "pope",
+      "uk": "папа римський",
+      "ru": "папа римский",
+      "pl": "papież"
+    },
+    {
+      "id": "nun",
+      "cs": "jeptiška",
+      "en": "nun",
+      "uk": "черниця",
+      "ru": "монахиня",
+      "pl": "zakonnica"
+    },
+    {
+      "id": "monk",
+      "cs": "mnich",
+      "en": "monk",
+      "uk": "чернець",
+      "ru": "монах",
+      "pl": "mnich"
+    },
+    {
+      "id": "rabbi",
+      "cs": "rabín",
+      "en": "rabbi",
+      "uk": "рабин",
+      "ru": "раввин",
+      "pl": "rabin"
+    },
+    {
+      "id": "imam",
+      "cs": "imám",
+      "en": "imam",
+      "uk": "імам",
+      "ru": "имам",
+      "pl": "imam"
+    },
+    {
+      "id": "bible",
+      "cs": "Bible",
+      "en": "Bible",
+      "uk": "Біблія",
+      "ru": "Библия",
+      "pl": "Biblia"
+    },
+    {
+      "id": "koran",
+      "cs": "Korán",
+      "en": "Koran",
+      "uk": "Коран",
+      "ru": "Коран",
+      "pl": "Koran"
+    },
+    {
+      "id": "gospel",
+      "cs": "evangelium",
+      "en": "gospel",
+      "uk": "євангеліє",
+      "ru": "евангелие",
+      "pl": "ewangelia"
+    },
+    {
+      "id": "saint",
+      "cs": "svatý",
+      "en": "saint",
+      "uk": "святий",
+      "ru": "святой",
+      "pl": "święty"
+    },
+    {
+      "id": "miracle",
+      "cs": "zázrak",
+      "en": "miracle",
+      "uk": "диво",
+      "ru": "чудо",
+      "pl": "cud"
+    },
+    {
+      "id": "pilgrim",
+      "cs": "poutník",
+      "en": "pilgrim",
+      "uk": "паломник",
+      "ru": "паломник",
+      "pl": "pielgrzym"
+    },
+    {
+      "id": "baptism",
+      "cs": "křest",
+      "en": "baptism",
+      "uk": "хрещення",
+      "ru": "крещение",
+      "pl": "chrzest"
+    },
+    {
+      "id": "altar",
+      "cs": "oltář",
+      "en": "altar",
+      "uk": "вівтар",
+      "ru": "алтарь",
+      "pl": "ołtarz"
+    },
+    {
+      "id": "cross",
+      "cs": "kříž",
+      "en": "cross",
+      "uk": "хрест",
+      "ru": "крест",
+      "pl": "krzyż"
+    },
+    {
+      "id": "bell",
+      "cs": "zvon",
+      "en": "bell",
+      "uk": "дзвін",
+      "ru": "колокол",
+      "pl": "dzwon"
+    },
+    {
+      "id": "chapel",
+      "cs": "kaple",
+      "en": "chapel",
+      "uk": "каплиця",
+      "ru": "часовня",
+      "pl": "kaplica"
+    },
+    {
+      "id": "sacred",
+      "cs": "posvátný",
+      "en": "sacred",
+      "uk": "священний",
+      "ru": "священный",
+      "pl": "uświęcony"
+    },
+    {
+      "id": "spiritual",
+      "cs": "duchovní",
+      "en": "spiritual",
+      "uk": "духовний",
+      "ru": "духовный",
+      "pl": "duchowy"
+    },
+    {
+      "id": "superstition",
+      "cs": "pověra",
+      "en": "superstition",
+      "uk": "забобон",
+      "ru": "суеверие",
+      "pl": "przesąd"
+    },
+    {
+      "id": "reincarnation",
+      "cs": "reinkarnace",
+      "en": "reincarnation",
+      "uk": "реінкарнація",
+      "ru": "реинкарнация",
+      "pl": "reinkarnacja"
+    }
+  ]
+}

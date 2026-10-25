@@ -1,0 +1,309 @@
+{
+  "id": "theatre-film",
+  "order": 226,
+  "level": "B1",
+  "icon": "film",
+  "title": {
+    "cs": "Divadlo a film",
+    "en": "Theatre & Film",
+    "uk": "Театр і кіно",
+    "ru": "Театр и кино",
+    "pl": "Teatr i film"
+  },
+  "description": {
+    "en": "On stage, on set and in the cinema.",
+    "uk": "На сцені, на знімальному майданчику й у кіно.",
+    "ru": "На сцене, на съёмочной площадке и в кино.",
+    "pl": "Na scenie, na planie i w kinie."
+  },
+  "words": [
+    {
+      "id": "auditorium",
+      "cs": "hlediště",
+      "en": "auditorium",
+      "uk": "глядацька зала",
+      "ru": "зрительный зал",
+      "pl": "widownia"
+    },
+    {
+      "id": "curtain-theatre",
+      "cs": "opona",
+      "en": "curtain (theatre)",
+      "uk": "завіса",
+      "ru": "занавес",
+      "pl": "kurtyna"
+    },
+    {
+      "id": "scenery-stage",
+      "cs": "kulisy",
+      "en": "scenery (stage)",
+      "uk": "декорації",
+      "ru": "декорации",
+      "pl": "dekoracje"
+    },
+    {
+      "id": "prop",
+      "cs": "rekvizita",
+      "en": "prop",
+      "uk": "реквізит",
+      "ru": "реквизит",
+      "pl": "rekwizyt"
+    },
+    {
+      "id": "backstage",
+      "cs": "zákulisí",
+      "en": "backstage",
+      "uk": "закулісся",
+      "ru": "закулисье",
+      "pl": "zaplecze sceny"
+    },
+    {
+      "id": "box-in-a-theatre",
+      "cs": "lóže",
+      "en": "box (in a theatre)",
+      "uk": "ложа",
+      "ru": "ложа",
+      "pl": "loża"
+    },
+    {
+      "id": "performance",
+      "cs": "představení",
+      "en": "performance",
+      "uk": "вистава",
+      "ru": "спектакль",
+      "pl": "przedstawienie"
+    },
+    {
+      "id": "dress-rehearsal",
+      "cs": "generálka",
+      "en": "dress rehearsal",
+      "uk": "генеральна репетиція",
+      "ru": "генеральная репетиция",
+      "pl": "próba generalna"
+    },
+    {
+      "id": "role",
+      "cs": "role",
+      "en": "role",
+      "uk": "роль",
+      "ru": "роль",
+      "pl": "rola"
+    },
+    {
+      "id": "leading-role",
+      "cs": "hlavní role",
+      "en": "leading role",
+      "uk": "головна роль",
+      "ru": "главная роль",
+      "pl": "główna rola"
+    },
+    {
+      "id": "supporting-role",
+      "cs": "vedlejší role",
+      "en": "supporting role",
+      "uk": "роль другого плану",
+      "ru": "роль второго плана",
+      "pl": "rola drugoplanowa"
+    },
+    {
+      "id": "dialogue",
+      "cs": "dialog",
+      "en": "dialogue",
+      "uk": "діалог",
+      "ru": "диалог",
+      "pl": "dialog"
+    },
+    {
+      "id": "monologue",
+      "cs": "monolog",
+      "en": "monologue",
+      "uk": "монолог",
+      "ru": "монолог",
+      "pl": "monolog"
+    },
+    {
+      "id": "scene",
+      "cs": "scéna",
+      "en": "scene",
+      "uk": "сцена",
+      "ru": "сцена",
+      "pl": "scena"
+    },
+    {
+      "id": "act-of-a-play",
+      "cs": "dějství",
+      "en": "act (of a play)",
+      "uk": "дія",
+      "ru": "действие",
+      "pl": "akt"
+    },
+    {
+      "id": "tragedy",
+      "cs": "tragédie",
+      "en": "tragedy",
+      "uk": "трагедія",
+      "ru": "трагедия",
+      "pl": "tragedia"
+    },
+    {
+      "id": "drama",
+      "cs": "drama",
+      "en": "drama",
+      "uk": "драма",
+      "ru": "драма",
+      "pl": "dramat"
+    },
+    {
+      "id": "drama-theatre",
+      "cs": "činohra",
+      "en": "drama theatre",
+      "uk": "драматичний театр",
+      "ru": "драматический театр",
+      "pl": "teatr dramatyczny"
+    },
+    {
+      "id": "puppet-theatre",
+      "cs": "loutkové divadlo",
+      "en": "puppet theatre",
+      "uk": "ляльковий театр",
+      "ru": "кукольный театр",
+      "pl": "teatr lalek"
+    },
+    {
+      "id": "prompter",
+      "cs": "nápověda",
+      "en": "prompter",
+      "uk": "суфлер",
+      "ru": "суфлёр",
+      "pl": "sufler"
+    },
+    {
+      "id": "front-row",
+      "cs": "první řada",
+      "en": "front row",
+      "uk": "перший ряд",
+      "ru": "первый ряд",
+      "pl": "pierwszy rząd"
+    },
+    {
+      "id": "sold-out",
+      "cs": "vyprodáno",
+      "en": "sold out",
+      "uk": "розпродано",
+      "ru": "распродано",
+      "pl": "wyprzedane"
+    },
+    {
+      "id": "blockbuster",
+      "cs": "trhák",
+      "en": "blockbuster",
+      "uk": "блокбастер",
+      "ru": "блокбастер",
+      "pl": "hit kinowy"
+    },
+    {
+      "id": "animated-film",
+      "cs": "animovaný film",
+      "en": "animated film",
+      "uk": "мультфільм",
+      "ru": "мультфильм",
+      "pl": "film animowany"
+    },
+    {
+      "id": "action-film",
+      "cs": "akční film",
+      "en": "action film",
+      "uk": "бойовик",
+      "ru": "боевик",
+      "pl": "film akcji"
+    },
+    {
+      "id": "thriller",
+      "cs": "thriller",
+      "en": "thriller",
+      "uk": "трилер",
+      "ru": "триллер",
+      "pl": "thriller"
+    },
+    {
+      "id": "science-fiction",
+      "cs": "sci-fi",
+      "en": "science fiction",
+      "uk": "наукова фантастика",
+      "ru": "научная фантастика",
+      "pl": "science fiction"
+    },
+    {
+      "id": "film-camera",
+      "cs": "kamera",
+      "en": "film camera",
+      "uk": "кінокамера",
+      "ru": "кинокамера",
+      "pl": "kamera"
+    },
+    {
+      "id": "film-editing",
+      "cs": "střih",
+      "en": "(film) editing",
+      "uk": "монтаж",
+      "ru": "монтаж",
+      "pl": "montaż"
+    },
+    {
+      "id": "filming",
+      "cs": "natáčení",
+      "en": "filming",
+      "uk": "зйомки",
+      "ru": "съёмки",
+      "pl": "zdjęcia do filmu"
+    },
+    {
+      "id": "film",
+      "cs": "natáčet",
+      "en": "to film",
+      "uk": "знімати",
+      "ru": "снимать",
+      "pl": "kręcić film"
+    },
+    {
+      "id": "cast",
+      "cs": "obsazení",
+      "en": "cast",
+      "uk": "акторський склад",
+      "ru": "актёрский состав",
+      "pl": "obsada"
+    },
+    {
+      "id": "stuntman",
+      "cs": "kaskadér",
+      "en": "stuntman",
+      "uk": "каскадер",
+      "ru": "каскадёр",
+      "pl": "kaskader"
+    },
+    {
+      "id": "extras",
+      "cs": "komparz",
+      "en": "extras",
+      "uk": "масовка",
+      "ru": "массовка",
+      "pl": "statyści"
+    },
+    {
+      "id": "film-festival",
+      "cs": "filmový festival",
+      "en": "film festival",
+      "uk": "кінофестиваль",
+      "ru": "кинофестиваль",
+      "pl": "festiwal filmowy"
+    },
+    {
+      "id": "critic",
+      "cs": "kritik",
+      "en": "critic",
+      "uk": "критик",
+      "ru": "критик",
+      "pl": "krytyk"
+    }
+  ]
+}

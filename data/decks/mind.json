@@ -1,0 +1,341 @@
+{
+  "id": "mind",
+  "order": 309,
+  "level": "B2",
+  "icon": "user",
+  "title": {
+    "cs": "Psychologie a mysl",
+    "en": "Psychology & Mind",
+    "uk": "Психологія та розум",
+    "ru": "Психология и разум",
+    "pl": "Psychologia i umysł"
+  },
+  "description": {
+    "en": "Personality, behaviour and mental health.",
+    "uk": "Особистість, поведінка й психічне здоров’я.",
+    "ru": "Личность, поведение и психическое здоровье.",
+    "pl": "Osobowość, zachowanie i zdrowie psychiczne."
+  },
+  "words": [
+    {
+      "id": "consciousness",
+      "cs": "vědomí",
+      "en": "consciousness",
+      "uk": "свідомість",
+      "ru": "сознание",
+      "pl": "świadomość"
+    },
+    {
+      "id": "subconscious",
+      "cs": "podvědomí",
+      "en": "subconscious",
+      "uk": "підсвідомість",
+      "ru": "подсознание",
+      "pl": "podświadomość"
+    },
+    {
+      "id": "instinct",
+      "cs": "instinkt",
+      "en": "instinct",
+      "uk": "інстинкт",
+      "ru": "инстинкт",
+      "pl": "instynkt"
+    },
+    {
+      "id": "intuition",
+      "cs": "intuice",
+      "en": "intuition",
+      "uk": "інтуїція",
+      "ru": "интуиция",
+      "pl": "intuicja"
+    },
+    {
+      "id": "intelligence",
+      "cs": "inteligence",
+      "en": "intelligence",
+      "uk": "інтелект",
+      "ru": "интеллект",
+      "pl": "inteligencja"
+    },
+    {
+      "id": "talent",
+      "cs": "nadání",
+      "en": "talent",
+      "uk": "обдарованість",
+      "ru": "одарённость",
+      "pl": "talent"
+    },
+    {
+      "id": "personality",
+      "cs": "osobnost",
+      "en": "personality",
+      "uk": "особистість",
+      "ru": "личность",
+      "pl": "osobowość"
+    },
+    {
+      "id": "self-confidence",
+      "cs": "sebevědomí",
+      "en": "self-confidence",
+      "uk": "впевненість у собі",
+      "ru": "уверенность в себе",
+      "pl": "pewność siebie"
+    },
+    {
+      "id": "self-esteem",
+      "cs": "sebeúcta",
+      "en": "self-esteem",
+      "uk": "самоповага",
+      "ru": "самоуважение",
+      "pl": "poczucie własnej wartości"
+    },
+    {
+      "id": "self-control",
+      "cs": "sebekontrola",
+      "en": "self-control",
+      "uk": "самоконтроль",
+      "ru": "самоконтроль",
+      "pl": "samokontrola"
+    },
+    {
+      "id": "ego",
+      "cs": "ego",
+      "en": "ego",
+      "uk": "его",
+      "ru": "эго",
+      "pl": "ego"
+    },
+    {
+      "id": "identity",
+      "cs": "identita",
+      "en": "identity",
+      "uk": "ідентичність",
+      "ru": "идентичность",
+      "pl": "tożsamość"
+    },
+    {
+      "id": "behaviour",
+      "cs": "chování",
+      "en": "behaviour",
+      "uk": "поведінка",
+      "ru": "поведение",
+      "pl": "zachowanie"
+    },
+    {
+      "id": "habit",
+      "cs": "návyk",
+      "en": "habit",
+      "uk": "звичка",
+      "ru": "привычка",
+      "pl": "nawyk"
+    },
+    {
+      "id": "addiction",
+      "cs": "závislost",
+      "en": "addiction",
+      "uk": "залежність",
+      "ru": "зависимость",
+      "pl": "uzależnienie"
+    },
+    {
+      "id": "trauma",
+      "cs": "trauma",
+      "en": "trauma",
+      "uk": "травма",
+      "ru": "травма",
+      "pl": "trauma"
+    },
+    {
+      "id": "phobia",
+      "cs": "fobie",
+      "en": "phobia",
+      "uk": "фобія",
+      "ru": "фобия",
+      "pl": "fobia"
+    },
+    {
+      "id": "fear-of-heights",
+      "cs": "strach z výšek",
+      "en": "fear of heights",
+      "uk": "страх висоти",
+      "ru": "боязнь высоты",
+      "pl": "lęk wysokości"
+    },
+    {
+      "id": "therapist",
+      "cs": "terapeut",
+      "en": "therapist",
+      "uk": "психотерапевт",
+      "ru": "психотерапевт",
+      "pl": "terapeuta"
+    },
+    {
+      "id": "psychiatrist",
+      "cs": "psychiatr",
+      "en": "psychiatrist",
+      "uk": "психіатр",
+      "ru": "психиатр",
+      "pl": "psychiatra"
+    },
+    {
+      "id": "psychotherapy",
+      "cs": "psychoterapie",
+      "en": "psychotherapy",
+      "uk": "психотерапія",
+      "ru": "психотерапия",
+      "pl": "psychoterapia"
+    },
+    {
+      "id": "therapy-session",
+      "cs": "sezení",
+      "en": "(therapy) session",
+      "uk": "сеанс",
+      "ru": "сеанс",
+      "pl": "sesja"
+    },
+    {
+      "id": "mental-health",
+      "cs": "duševní zdraví",
+      "en": "mental health",
+      "uk": "психічне здоров’я",
+      "ru": "психическое здоровье",
+      "pl": "zdrowie psychiczne"
+    },
+    {
+      "id": "burnout",
+      "cs": "vyhoření",
+      "en": "burnout",
+      "uk": "вигорання",
+      "ru": "выгорание",
+      "pl": "wypalenie zawodowe"
+    },
+    {
+      "id": "motivation",
+      "cs": "motivace",
+      "en": "motivation",
+      "uk": "мотивація",
+      "ru": "мотивация",
+      "pl": "motywacja"
+    },
+    {
+      "id": "empathy",
+      "cs": "empatie",
+      "en": "empathy",
+      "uk": "емпатія",
+      "ru": "эмпатия",
+      "pl": "empatia"
+    },
+    {
+      "id": "perception",
+      "cs": "vnímání",
+      "en": "perception",
+      "uk": "сприйняття",
+      "ru": "восприятие",
+      "pl": "percepcja"
+    },
+    {
+      "id": "creativity",
+      "cs": "kreativita",
+      "en": "creativity",
+      "uk": "креативність",
+      "ru": "креативность",
+      "pl": "kreatywność"
+    },
+    {
+      "id": "reasoning",
+      "cs": "uvažování",
+      "en": "reasoning",
+      "uk": "міркування",
+      "ru": "рассуждение",
+      "pl": "rozumowanie"
+    },
+    {
+      "id": "judgement",
+      "cs": "úsudek",
+      "en": "judgement",
+      "uk": "судження",
+      "ru": "суждение",
+      "pl": "osąd"
+    },
+    {
+      "id": "decision-making",
+      "cs": "rozhodování",
+      "en": "decision-making",
+      "uk": "прийняття рішень",
+      "ru": "принятие решений",
+      "pl": "podejmowanie decyzji"
+    },
+    {
+      "id": "dilemma",
+      "cs": "dilema",
+      "en": "dilemma",
+      "uk": "дилема",
+      "ru": "дилемма",
+      "pl": "dylemat"
+    },
+    {
+      "id": "doubt",
+      "cs": "pochybnost",
+      "en": "doubt",
+      "uk": "сумнів",
+      "ru": "сомнение",
+      "pl": "wątpliwość"
+    },
+    {
+      "id": "conviction-belief",
+      "cs": "přesvědčení",
+      "en": "conviction (belief)",
+      "uk": "переконання",
+      "ru": "убеждение",
+      "pl": "przekonanie"
+    },
+    {
+      "id": "attitude",
+      "cs": "postoj",
+      "en": "attitude",
+      "uk": "ставлення",
+      "ru": "отношение",
+      "pl": "postawa"
+    },
+    {
+      "id": "stereotype",
+      "cs": "stereotyp",
+      "en": "stereotype",
+      "uk": "стереотип",
+      "ru": "стереотип",
+      "pl": "stereotyp"
+    },
+    {
+      "id": "sleep",
+      "cs": "spánek",
+      "en": "sleep",
+      "uk": "сон",
+      "ru": "сон",
+      "pl": "sen"
+    },
+    {
+      "id": "nightmare",
+      "cs": "noční můra",
+      "en": "nightmare",
+      "uk": "кошмар",
+      "ru": "кошмар",
+      "pl": "koszmar"
+    },
+    {
+      "id": "hypnosis",
+      "cs": "hypnóza",
+      "en": "hypnosis",
+      "uk": "гіпноз",
+      "ru": "гипноз",
+      "pl": "hipnoza"
+    },
+    {
+      "id": "relaxation",
+      "cs": "relaxace",
+      "en": "relaxation",
+      "uk": "релаксація",
+      "ru": "релаксация",
+      "pl": "relaks"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": "household",
+  "order": 135,
+  "level": "A2",
+  "icon": "house",
+  "title": {
+    "cs": "Věci v domácnosti",
+    "en": "Household Items",
+    "uk": "Речі в домі",
+    "ru": "Вещи в доме",
+    "pl": "Przedmioty domowe"
+  },
+  "description": {
+    "en": "Small everyday things around the home.",
+    "uk": "Дрібні щоденні речі вдома.",
+    "ru": "Мелкие повседневные вещи дома.",
+    "pl": "Drobne codzienne rzeczy w domu."
+  },
+  "words": [
+    {
+      "id": "remote-control",
+      "cs": "dálkový ovladač",
+      "en": "remote control",
+      "uk": "пульт",
+      "ru": "пульт",
+      "pl": "pilot"
+    },
+    {
+      "id": "bunch-of-keys",
+      "cs": "svazek klíčů",
+      "en": "bunch of keys",
+      "uk": "зв’язка ключів",
+      "ru": "связка ключей",
+      "pl": "pęk kluczy"
+    },
+    {
+      "id": "string",
+      "cs": "provázek",
+      "en": "string",
+      "uk": "мотузка",
+      "ru": "бечёвка",
+      "pl": "sznurek"
+    },
+    {
+      "id": "rubber-band",
+      "cs": "gumička",
+      "en": "rubber band",
+      "uk": "гумка",
+      "ru": "резинка",
+      "pl": "gumka recepturka"
+    },
+    {
+      "id": "safety-pin",
+      "cs": "zavírací špendlík",
+      "en": "safety pin",
+      "uk": "англійська шпилька",
+      "ru": "английская булавка",
+      "pl": "agrafka"
+    },
+    {
+      "id": "pin",
+      "cs": "špendlík",
+      "en": "pin",
+      "uk": "шпилька",
+      "ru": "булавка",
+      "pl": "szpilka"
+    },
+    {
+      "id": "thimble",
+      "cs": "náprstek",
+      "en": "thimble",
+      "uk": "наперсток",
+      "ru": "напёрсток",
+      "pl": "naparstek"
+    },
+    {
+      "id": "small-box",
+      "cs": "krabička",
+      "en": "small box",
+      "uk": "коробочка",
+      "ru": "коробочка",
+      "pl": "pudełko"
+    },
+    {
+      "id": "packaging",
+      "cs": "obal",
+      "en": "packaging",
+      "uk": "упаковка",
+      "ru": "упаковка",
+      "pl": "opakowanie"
+    },
+    {
+      "id": "plastic-bag",
+      "cs": "igelitka",
+      "en": "plastic bag",
+      "uk": "поліетиленовий пакет",
+      "ru": "полиэтиленовый пакет",
+      "pl": "reklamówka"
+    },
+    {
+      "id": "paper-bag",
+      "cs": "papírový sáček",
+      "en": "paper bag",
+      "uk": "паперовий пакет",
+      "ru": "бумажный пакет",
+      "pl": "papierowa torebka"
+    },
+    {
+      "id": "bin-bag",
+      "cs": "pytel na odpadky",
+      "en": "bin bag",
+      "uk": "мішок для сміття",
+      "ru": "мешок для мусора",
+      "pl": "worek na śmieci"
+    },
+    {
+      "id": "ironing-board",
+      "cs": "žehlicí prkno",
+      "en": "ironing board",
+      "uk": "прасувальна дошка",
+      "ru": "гладильная доска",
+      "pl": "deska do prasowania"
+    },
+    {
+      "id": "lint-roller",
+      "cs": "lepicí váleček",
+      "en": "lint roller",
+      "uk": "ролик для одягу",
+      "ru": "ролик для одежды",
+      "pl": "wałek do ubrań"
+    },
+    {
+      "id": "shoe-brush",
+      "cs": "kartáč na boty",
+      "en": "shoe brush",
+      "uk": "щітка для взуття",
+      "ru": "щётка для обуви",
+      "pl": "szczotka do butów"
+    },
+    {
+      "id": "shoe-polish",
+      "cs": "krém na boty",
+      "en": "shoe polish",
+      "uk": "крем для взуття",
+      "ru": "крем для обуви",
+      "pl": "pasta do butów"
+    },
+    {
+      "id": "shoehorn",
+      "cs": "lžíce na boty",
+      "en": "shoehorn",
+      "uk": "ріжок для взуття",
+      "ru": "рожок для обуви",
+      "pl": "łyżka do butów"
+    },
+    {
+      "id": "tablecloth",
+      "cs": "ubrus",
+      "en": "tablecloth",
+      "uk": "скатертина",
+      "ru": "скатерть",
+      "pl": "obrus"
+    },
+    {
+      "id": "placemat",
+      "cs": "prostírání",
+      "en": "placemat",
+      "uk": "серветка під тарілку",
+      "ru": "салфетка под тарелку",
+      "pl": "podkładka na stół"
+    },
+    {
+      "id": "coaster",
+      "cs": "podtácek",
+      "en": "coaster",
+      "uk": "підставка під склянку",
+      "ru": "подставка под стакан",
+      "pl": "podkładka pod szklankę"
+    },
+    {
+      "id": "candlestick",
+      "cs": "svícen",
+      "en": "candlestick",
+      "uk": "свічник",
+      "ru": "подсвечник",
+      "pl": "świecznik"
+    },
+    {
+      "id": "photo-album",
+      "cs": "fotoalbum",
+      "en": "photo album",
+      "uk": "фотоальбом",
+      "ru": "фотоальбом",
+      "pl": "album na zdjęcia"
+    },
+    {
+      "id": "piggy-bank",
+      "cs": "pokladnička",
+      "en": "piggy bank",
+      "uk": "скарбничка",
+      "ru": "копилка",
+      "pl": "skarbonka"
+    },
+    {
+      "id": "key-ring",
+      "cs": "klíčenka",
+      "en": "key ring",
+      "uk": "брелок",
+      "ru": "брелок",
+      "pl": "brelok"
+    },
+    {
+      "id": "mousetrap",
+      "cs": "past na myši",
+      "en": "mousetrap",
+      "uk": "мишоловка",
+      "ru": "мышеловка",
+      "pl": "pułapka na myszy"
+    },
+    {
+      "id": "peephole",
+      "cs": "kukátko",
+      "en": "peephole",
+      "uk": "дверне вічко",
+      "ru": "дверной глазок",
+      "pl": "wizjer"
+    },
+    {
+      "id": "doorstop",
+      "cs": "zarážka dveří",
+      "en": "doorstop",
+      "uk": "обмежувач для дверей",
+      "ru": "дверной стопор",
+      "pl": "odbojnik do drzwi"
+    },
+    {
+      "id": "wastepaper-basket",
+      "cs": "koš na papír",
+      "en": "wastepaper basket",
+      "uk": "кошик для паперу",
+      "ru": "корзина для бумаг",
+      "pl": "kosz na papiery"
+    }
+  ]
+}

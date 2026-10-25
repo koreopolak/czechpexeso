@@ -536,6 +536,310 @@
       "uk": "спробувати",
       "ru": "попробовать",
       "pl": "spróbować"
+    },
+    {
+      "id": "live-be-alive",
+      "cs": "žít",
+      "en": "to live (be alive)",
+      "uk": "бути живим",
+      "ru": "быть живым",
+      "pl": "żyć"
+    },
+    {
+      "id": "taste-good",
+      "cs": "chutnat",
+      "en": "to taste good",
+      "uk": "смакувати",
+      "ru": "быть вкусным",
+      "pl": "smakować"
+    },
+    {
+      "id": "smell-nice",
+      "cs": "vonět",
+      "en": "to smell nice",
+      "uk": "пахнути",
+      "ru": "пахнуть",
+      "pl": "pachnieć"
+    },
+    {
+      "id": "shine",
+      "cs": "svítit",
+      "en": "to shine",
+      "uk": "світити",
+      "ru": "светить",
+      "pl": "świecić"
+    },
+    {
+      "id": "sound",
+      "cs": "znít",
+      "en": "to sound",
+      "uk": "звучати",
+      "ru": "звучать",
+      "pl": "brzmieć"
+    },
+    {
+      "id": "be-called",
+      "cs": "jmenovat se",
+      "en": "to be called",
+      "uk": "називатися",
+      "ru": "называться",
+      "pl": "nazywać się"
+    },
+    {
+      "id": "get-to-know",
+      "cs": "seznámit se",
+      "en": "to get to know",
+      "uk": "познайомитися",
+      "ru": "познакомиться",
+      "pl": "zapoznać się"
+    },
+    {
+      "id": "leave-something",
+      "cs": "nechat",
+      "en": "to leave (something)",
+      "uk": "залишити",
+      "ru": "оставить",
+      "pl": "zostawić"
+    },
+    {
+      "id": "wake-someone-up",
+      "cs": "vzbudit",
+      "en": "to wake (someone) up",
+      "uk": "розбудити",
+      "ru": "разбудить",
+      "pl": "obudzić"
+    },
+    {
+      "id": "take-a-nap",
+      "cs": "zdřímnout si",
+      "en": "to take a nap",
+      "uk": "подрімати",
+      "ru": "вздремнуть",
+      "pl": "zdrzemnąć się"
+    },
+    {
+      "id": "switch-on-the-light",
+      "cs": "rozsvítit",
+      "en": "to switch on the light",
+      "uk": "увімкнути світло",
+      "ru": "включить свет",
+      "pl": "zapalić światło"
+    },
+    {
+      "id": "switch-off-the-light",
+      "cs": "zhasnout",
+      "en": "to switch off the light",
+      "uk": "вимкнути світло",
+      "ru": "выключить свет",
+      "pl": "zgasić światło"
+    },
+    {
+      "id": "lock",
+      "cs": "zamknout",
+      "en": "to lock",
+      "uk": "замкнути",
+      "ru": "запереть",
+      "pl": "zamknąć na klucz"
+    },
+    {
+      "id": "unlock",
+      "cs": "odemknout",
+      "en": "to unlock",
+      "uk": "відімкнути",
+      "ru": "отпереть",
+      "pl": "otworzyć kluczem"
+    },
+    {
+      "id": "knock",
+      "cs": "zaklepat",
+      "en": "to knock",
+      "uk": "постукати",
+      "ru": "постучать",
+      "pl": "zapukać"
+    },
+    {
+      "id": "ring-the-doorbell",
+      "cs": "zazvonit",
+      "en": "to ring the doorbell",
+      "uk": "подзвонити у двері",
+      "ru": "позвонить в дверь",
+      "pl": "zadzwonić do drzwi"
+    },
+    {
+      "id": "play-as-children-do",
+      "cs": "hrát si",
+      "en": "to play (as children do)",
+      "uk": "гратися",
+      "ru": "играть (о детях)",
+      "pl": "bawić się"
+    },
+    {
+      "id": "have-fun",
+      "cs": "bavit se",
+      "en": "to have fun",
+      "uk": "розважатися",
+      "ru": "развлекаться",
+      "pl": "dobrze się bawić"
+    },
+    {
+      "id": "show",
+      "cs": "ukázat",
+      "en": "to show",
+      "uk": "показати",
+      "ru": "показать",
+      "pl": "pokazać"
+    },
+    {
+      "id": "borrow",
+      "cs": "půjčit si",
+      "en": "to borrow",
+      "uk": "позичити",
+      "ru": "одолжить",
+      "pl": "pożyczyć od kogoś"
+    },
+    {
+      "id": "wish",
+      "cs": "přát si",
+      "en": "to wish",
+      "uk": "бажати",
+      "ru": "желать",
+      "pl": "życzyć sobie"
+    },
+    {
+      "id": "wear",
+      "cs": "nosit",
+      "en": "to wear",
+      "uk": "носити",
+      "ru": "носить",
+      "pl": "nosić"
+    },
+    {
+      "id": "take-off",
+      "cs": "sundat",
+      "en": "to take off",
+      "uk": "зняти",
+      "ru": "снять",
+      "pl": "zdjąć"
+    },
+    {
+      "id": "have-food-or-drink",
+      "cs": "dát si",
+      "en": "to have (food or drink)",
+      "uk": "замовити собі",
+      "ru": "взять себе",
+      "pl": "wziąć sobie"
+    },
+    {
+      "id": "clean",
+      "cs": "čistit",
+      "en": "to clean",
+      "uk": "чистити",
+      "ru": "чистить",
+      "pl": "czyścić"
+    },
+    {
+      "id": "collect",
+      "cs": "sbírat",
+      "en": "to collect",
+      "uk": "збирати",
+      "ru": "собирать",
+      "pl": "zbierać"
+    },
+    {
+      "id": "take-away",
+      "cs": "odnést",
+      "en": "to take away",
+      "uk": "віднести",
+      "ru": "отнести",
+      "pl": "odnieść"
+    },
+    {
+      "id": "hand-pass",
+      "cs": "podat",
+      "en": "to hand (pass)",
+      "uk": "подати",
+      "ru": "подать",
+      "pl": "podać"
+    },
+    {
+      "id": "be-allowed-to",
+      "cs": "smět",
+      "en": "to be allowed to",
+      "uk": "мати дозвіл",
+      "ru": "иметь право",
+      "pl": "mieć pozwolenie"
+    },
+    {
+      "id": "recall",
+      "cs": "vzpomenout si",
+      "en": "to recall",
+      "uk": "згадати",
+      "ru": "вспомнить",
+      "pl": "przypomnieć sobie"
+    },
+    {
+      "id": "be-right",
+      "cs": "mít pravdu",
+      "en": "to be right",
+      "uk": "мати рацію",
+      "ru": "быть правым",
+      "pl": "mieć rację"
+    },
+    {
+      "id": "be-wrong",
+      "cs": "mýlit se",
+      "en": "to be wrong",
+      "uk": "помилятися",
+      "ru": "ошибаться",
+      "pl": "mylić się"
+    },
+    {
+      "id": "take-care-of",
+      "cs": "starat se",
+      "en": "to take care of",
+      "uk": "піклуватися",
+      "ru": "заботиться",
+      "pl": "opiekować się"
+    },
+    {
+      "id": "look-after",
+      "cs": "hlídat",
+      "en": "to look after",
+      "uk": "наглядати",
+      "ru": "присматривать",
+      "pl": "pilnować"
+    },
+    {
+      "id": "hate",
+      "cs": "nenávidět",
+      "en": "to hate",
+      "uk": "ненавидіти",
+      "ru": "ненавидеть",
+      "pl": "nienawidzić"
+    },
+    {
+      "id": "bite",
+      "cs": "kousnout",
+      "en": "to bite",
+      "uk": "вкусити",
+      "ru": "укусить",
+      "pl": "ugryźć"
+    },
+    {
+      "id": "be-handy-suit",
+      "cs": "hodit se",
+      "en": "to be handy (suit)",
+      "uk": "підходити",
+      "ru": "подходить",
+      "pl": "pasować"
+    },
+    {
+      "id": "be-naughty",
+      "cs": "zlobit",
+      "en": "to be naughty",
+      "uk": "бешкетувати",
+      "ru": "шалить",
+      "pl": "psocić"
     }
   ]
 }

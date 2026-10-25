@@ -1,0 +1,317 @@
+{
+  "id": "books",
+  "order": 227,
+  "level": "B1",
+  "icon": "feather",
+  "title": {
+    "cs": "Knihy a literatura",
+    "en": "Books & Literature",
+    "uk": "Книги та література",
+    "ru": "Книги и литература",
+    "pl": "Książki i literatura"
+  },
+  "description": {
+    "en": "Genres, stories and the parts of a book.",
+    "uk": "Жанри, історії та частини книги.",
+    "ru": "Жанры, истории и части книги.",
+    "pl": "Gatunki, historie i części książki."
+  },
+  "words": [
+    {
+      "id": "publishing-house",
+      "cs": "nakladatelství",
+      "en": "publishing house",
+      "uk": "видавництво",
+      "ru": "издательство",
+      "pl": "wydawnictwo"
+    },
+    {
+      "id": "chapter",
+      "cs": "kapitola",
+      "en": "chapter",
+      "uk": "розділ",
+      "ru": "глава",
+      "pl": "rozdział"
+    },
+    {
+      "id": "page",
+      "cs": "stránka",
+      "en": "page",
+      "uk": "сторінка",
+      "ru": "страница",
+      "pl": "strona"
+    },
+    {
+      "id": "index",
+      "cs": "rejstřík",
+      "en": "index",
+      "uk": "покажчик",
+      "ru": "указатель",
+      "pl": "indeks"
+    },
+    {
+      "id": "foreword",
+      "cs": "předmluva",
+      "en": "foreword",
+      "uk": "передмова",
+      "ru": "предисловие",
+      "pl": "przedmowa"
+    },
+    {
+      "id": "afterword",
+      "cs": "doslov",
+      "en": "afterword",
+      "uk": "післямова",
+      "ru": "послесловие",
+      "pl": "posłowie"
+    },
+    {
+      "id": "spine-of-a-book",
+      "cs": "hřbet",
+      "en": "spine (of a book)",
+      "uk": "корінець",
+      "ru": "корешок",
+      "pl": "grzbiet"
+    },
+    {
+      "id": "binding",
+      "cs": "vazba",
+      "en": "binding",
+      "uk": "палітурка",
+      "ru": "переплёт",
+      "pl": "oprawa"
+    },
+    {
+      "id": "paperback",
+      "cs": "brožura",
+      "en": "paperback",
+      "uk": "книжка в м’якій обкладинці",
+      "ru": "книга в мягкой обложке",
+      "pl": "książka w miękkiej oprawie"
+    },
+    {
+      "id": "hardback",
+      "cs": "pevná vazba",
+      "en": "hardback",
+      "uk": "тверда обкладинка",
+      "ru": "твёрдый переплёт",
+      "pl": "twarda oprawa"
+    },
+    {
+      "id": "e-book",
+      "cs": "e-kniha",
+      "en": "e-book",
+      "uk": "електронна книга",
+      "ru": "электронная книга",
+      "pl": "e-book"
+    },
+    {
+      "id": "audiobook",
+      "cs": "audiokniha",
+      "en": "audiobook",
+      "uk": "аудіокнига",
+      "ru": "аудиокнига",
+      "pl": "audiobook"
+    },
+    {
+      "id": "e-reader",
+      "cs": "čtečka",
+      "en": "e-reader",
+      "uk": "рідер",
+      "ru": "ридер",
+      "pl": "czytnik"
+    },
+    {
+      "id": "bookmark",
+      "cs": "záložka",
+      "en": "bookmark",
+      "uk": "закладка",
+      "ru": "закладка",
+      "pl": "zakładka"
+    },
+    {
+      "id": "bestseller",
+      "cs": "bestseller",
+      "en": "bestseller",
+      "uk": "бестселер",
+      "ru": "бестселлер",
+      "pl": "bestseller"
+    },
+    {
+      "id": "detective-story",
+      "cs": "detektivka",
+      "en": "detective story",
+      "uk": "детектив",
+      "ru": "детектив",
+      "pl": "kryminał"
+    },
+    {
+      "id": "fantasy",
+      "cs": "fantasy",
+      "en": "fantasy",
+      "uk": "фентезі",
+      "ru": "фэнтези",
+      "pl": "fantasy"
+    },
+    {
+      "id": "biography",
+      "cs": "biografie",
+      "en": "biography",
+      "uk": "біографія",
+      "ru": "биография",
+      "pl": "biografia"
+    },
+    {
+      "id": "memoir",
+      "cs": "paměti",
+      "en": "memoir",
+      "uk": "мемуари",
+      "ru": "мемуары",
+      "pl": "wspomnienia"
+    },
+    {
+      "id": "short-story",
+      "cs": "povídka",
+      "en": "short story",
+      "uk": "оповідання",
+      "ru": "рассказ",
+      "pl": "opowiadanie"
+    },
+    {
+      "id": "novella",
+      "cs": "novela",
+      "en": "novella",
+      "uk": "повість",
+      "ru": "повесть",
+      "pl": "nowela"
+    },
+    {
+      "id": "legend",
+      "cs": "pověst",
+      "en": "legend",
+      "uk": "легенда",
+      "ru": "легенда",
+      "pl": "legenda"
+    },
+    {
+      "id": "myth",
+      "cs": "mýtus",
+      "en": "myth",
+      "uk": "міф",
+      "ru": "миф",
+      "pl": "mit"
+    },
+    {
+      "id": "fable",
+      "cs": "bajka",
+      "en": "fable",
+      "uk": "байка",
+      "ru": "басня",
+      "pl": "bajka"
+    },
+    {
+      "id": "poetry-collection",
+      "cs": "sbírka básní",
+      "en": "poetry collection",
+      "uk": "збірка віршів",
+      "ru": "сборник стихов",
+      "pl": "tomik wierszy"
+    },
+    {
+      "id": "line-of-verse",
+      "cs": "verš",
+      "en": "line of verse",
+      "uk": "віршований рядок",
+      "ru": "стих",
+      "pl": "wers"
+    },
+    {
+      "id": "rhyme",
+      "cs": "rým",
+      "en": "rhyme",
+      "uk": "рима",
+      "ru": "рифма",
+      "pl": "rym"
+    },
+    {
+      "id": "metaphor",
+      "cs": "metafora",
+      "en": "metaphor",
+      "uk": "метафора",
+      "ru": "метафора",
+      "pl": "metafora"
+    },
+    {
+      "id": "hero",
+      "cs": "hrdina",
+      "en": "hero",
+      "uk": "герой",
+      "ru": "герой",
+      "pl": "bohater"
+    },
+    {
+      "id": "heroine",
+      "cs": "hrdinka",
+      "en": "heroine",
+      "uk": "героїня",
+      "ru": "героиня",
+      "pl": "bohaterka"
+    },
+    {
+      "id": "plot",
+      "cs": "zápletka",
+      "en": "plot",
+      "uk": "сюжет",
+      "ru": "сюжет",
+      "pl": "fabuła"
+    },
+    {
+      "id": "narrator",
+      "cs": "vypravěč",
+      "en": "narrator",
+      "uk": "оповідач",
+      "ru": "рассказчик",
+      "pl": "narrator"
+    },
+    {
+      "id": "ending",
+      "cs": "konec",
+      "en": "ending",
+      "uk": "кінцівка",
+      "ru": "концовка",
+      "pl": "zakończenie"
+    },
+    {
+      "id": "quotation",
+      "cs": "citát",
+      "en": "quotation",
+      "uk": "цитата",
+      "ru": "цитата",
+      "pl": "cytat"
+    },
+    {
+      "id": "bookworm",
+      "cs": "knihomol",
+      "en": "bookworm",
+      "uk": "книголюб",
+      "ru": "книжный червь",
+      "pl": "mól książkowy"
+    },
+    {
+      "id": "read-aloud",
+      "cs": "číst nahlas",
+      "en": "to read aloud",
+      "uk": "читати вголос",
+      "ru": "читать вслух",
+      "pl": "czytać na głos"
+    },
+    {
+      "id": "leaf-through",
+      "cs": "listovat",
+      "en": "to leaf through",
+      "uk": "гортати",
+      "ru": "листать",
+      "pl": "kartkować"
+    }
+  ]
+}

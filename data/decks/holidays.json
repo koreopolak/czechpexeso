@@ -1,6 +1,6 @@
 {
   "id": "holidays",
-  "order": 49,
+  "order": 121,
   "level": "A2",
   "icon": "gift",
   "title": {
@@ -352,6 +352,206 @@
       "uk": "державне свято",
       "ru": "государственный праздник",
       "pl": "święto państwowe"
+    },
+    {
+      "id": "good-friday",
+      "cs": "Velký pátek",
+      "en": "Good Friday",
+      "uk": "Страсна п’ятниця",
+      "ru": "Страстная пятница",
+      "pl": "Wielki Piątek"
+    },
+    {
+      "id": "easter-monday",
+      "cs": "Velikonoční pondělí",
+      "en": "Easter Monday",
+      "uk": "Великодній понеділок",
+      "ru": "Пасхальный понедельник",
+      "pl": "Poniedziałek Wielkanocny"
+    },
+    {
+      "id": "advent",
+      "cs": "advent",
+      "en": "Advent",
+      "uk": "адвент",
+      "ru": "адвент",
+      "pl": "adwent"
+    },
+    {
+      "id": "advent-wreath",
+      "cs": "adventní věnec",
+      "en": "Advent wreath",
+      "uk": "адвентовий вінок",
+      "ru": "рождественский венок",
+      "pl": "wieniec adwentowy"
+    },
+    {
+      "id": "nativity-scene",
+      "cs": "betlém",
+      "en": "nativity scene",
+      "uk": "вертеп",
+      "ru": "вертеп",
+      "pl": "szopka"
+    },
+    {
+      "id": "carol",
+      "cs": "koleda",
+      "en": "carol",
+      "uk": "колядка",
+      "ru": "колядка",
+      "pl": "kolęda"
+    },
+    {
+      "id": "mistletoe",
+      "cs": "jmelí",
+      "en": "mistletoe",
+      "uk": "омела",
+      "ru": "омела",
+      "pl": "jemioła"
+    },
+    {
+      "id": "epiphany",
+      "cs": "Tři králové",
+      "en": "Epiphany",
+      "uk": "Богоявлення",
+      "ru": "Богоявление",
+      "pl": "Trzech Króli"
+    },
+    {
+      "id": "midnight-mass",
+      "cs": "půlnoční mše",
+      "en": "midnight mass",
+      "uk": "опівнічна меса",
+      "ru": "полночная месса",
+      "pl": "pasterka"
+    },
+    {
+      "id": "christmas-market",
+      "cs": "vánoční trh",
+      "en": "Christmas market",
+      "uk": "різдвяний ярмарок",
+      "ru": "рождественская ярмарка",
+      "pl": "jarmark bożonarodzeniowy"
+    },
+    {
+      "id": "mulled-wine",
+      "cs": "svařák",
+      "en": "mulled wine",
+      "uk": "глінтвейн",
+      "ru": "глинтвейн",
+      "pl": "grzaniec"
+    },
+    {
+      "id": "funfair",
+      "cs": "pouť",
+      "en": "funfair",
+      "uk": "ярмарок",
+      "ru": "ярмарка",
+      "pl": "jarmark"
+    },
+    {
+      "id": "harvest-festival",
+      "cs": "dožínky",
+      "en": "harvest festival",
+      "uk": "обжинки",
+      "ru": "праздник урожая",
+      "pl": "dożynki"
+    },
+    {
+      "id": "village-feast",
+      "cs": "posvícení",
+      "en": "village feast",
+      "uk": "храмове свято",
+      "ru": "престольный праздник",
+      "pl": "odpust"
+    },
+    {
+      "id": "all-souls-day",
+      "cs": "Dušičky",
+      "en": "All Souls’ Day",
+      "uk": "День усіх померлих",
+      "ru": "День поминовения",
+      "pl": "Zaduszki"
+    },
+    {
+      "id": "international-women-s-day",
+      "cs": "Mezinárodní den žen",
+      "en": "International Women’s Day",
+      "uk": "Міжнародний жіночий день",
+      "ru": "Международный женский день",
+      "pl": "Dzień Kobiet"
+    },
+    {
+      "id": "children-s-day",
+      "cs": "Den dětí",
+      "en": "Children’s Day",
+      "uk": "День захисту дітей",
+      "ru": "День защиты детей",
+      "pl": "Dzień Dziecka"
+    },
+    {
+      "id": "stag-or-hen-party",
+      "cs": "rozlučka se svobodou",
+      "en": "stag or hen party",
+      "uk": "парубоцька або дівоча вечірка",
+      "ru": "мальчишник или девичник",
+      "pl": "wieczór kawalerski lub panieński"
+    },
+    {
+      "id": "wedding-cake",
+      "cs": "svatební dort",
+      "en": "wedding cake",
+      "uk": "весільний торт",
+      "ru": "свадебный торт",
+      "pl": "tort weselny"
+    },
+    {
+      "id": "bouquet",
+      "cs": "kytice",
+      "en": "bouquet",
+      "uk": "букет",
+      "ru": "букет",
+      "pl": "bukiet"
+    },
+    {
+      "id": "confetti",
+      "cs": "konfety",
+      "en": "confetti",
+      "uk": "конфеті",
+      "ru": "конфетти",
+      "pl": "konfetti"
+    },
+    {
+      "id": "mask",
+      "cs": "maska",
+      "en": "mask",
+      "uk": "маска",
+      "ru": "маска",
+      "pl": "maska"
+    },
+    {
+      "id": "costume",
+      "cs": "kostým",
+      "en": "costume",
+      "uk": "костюм",
+      "ru": "костюм",
+      "pl": "kostium"
+    },
+    {
+      "id": "lantern-parade",
+      "cs": "lampionový průvod",
+      "en": "lantern parade",
+      "uk": "хода з ліхтариками",
+      "ru": "шествие с фонариками",
+      "pl": "pochód z lampionami"
+    },
+    {
+      "id": "congratulate",
+      "cs": "blahopřát",
+      "en": "to congratulate",
+      "uk": "вітати",
+      "ru": "поздравлять",
+      "pl": "gratulować"
     }
   ]
 }

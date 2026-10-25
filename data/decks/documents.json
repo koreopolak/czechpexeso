@@ -1,6 +1,6 @@
 {
   "id": "documents",
-  "order": 62,
+  "order": 203,
   "level": "B1",
   "icon": "document",
   "title": {
@@ -416,6 +416,142 @@
       "uk": "електронна скринька",
       "ru": "электронный ящик",
       "pl": "skrzynka elektroniczna"
+    },
+    {
+      "id": "student-card",
+      "cs": "studentský průkaz",
+      "en": "student card",
+      "uk": "студентський квиток",
+      "ru": "студенческий билет",
+      "pl": "legitymacja studencka"
+    },
+    {
+      "id": "registry-office",
+      "cs": "matrika",
+      "en": "registry office",
+      "uk": "РАЦС",
+      "ru": "ЗАГС",
+      "pl": "urząd stanu cywilnego"
+    },
+    {
+      "id": "certificate-confirmation",
+      "cs": "potvrzení",
+      "en": "certificate (confirmation)",
+      "uk": "довідка",
+      "ru": "справка",
+      "pl": "zaświadczenie"
+    },
+    {
+      "id": "sworn-statement",
+      "cs": "čestné prohlášení",
+      "en": "sworn statement",
+      "uk": "заява під присягою",
+      "ru": "заявление под присягой",
+      "pl": "oświadczenie"
+    },
+    {
+      "id": "power-of-attorney",
+      "cs": "plná moc",
+      "en": "power of attorney",
+      "uk": "довіреність",
+      "ru": "доверенность",
+      "pl": "pełnomocnictwo"
+    },
+    {
+      "id": "criminal-record-extract",
+      "cs": "výpis z rejstříku trestů",
+      "en": "criminal record extract",
+      "uk": "довідка про несудимість",
+      "ru": "справка о несудимости",
+      "pl": "zaświadczenie o niekaralności"
+    },
+    {
+      "id": "registered-letter",
+      "cs": "doporučený dopis",
+      "en": "registered letter",
+      "uk": "рекомендований лист",
+      "ru": "заказное письмо",
+      "pl": "list polecony"
+    },
+    {
+      "id": "certified-translation",
+      "cs": "úřední překlad",
+      "en": "certified translation",
+      "uk": "офіційний переклад",
+      "ru": "заверенный перевод",
+      "pl": "tłumaczenie przysięgłe"
+    },
+    {
+      "id": "apostille",
+      "cs": "apostila",
+      "en": "apostille",
+      "uk": "апостиль",
+      "ru": "апостиль",
+      "pl": "apostille"
+    },
+    {
+      "id": "file-dossier",
+      "cs": "spis",
+      "en": "file (dossier)",
+      "uk": "справа",
+      "ru": "дело",
+      "pl": "akta"
+    },
+    {
+      "id": "decision",
+      "cs": "rozhodnutí",
+      "en": "decision",
+      "uk": "рішення",
+      "ru": "решение",
+      "pl": "decyzja"
+    },
+    {
+      "id": "appeal",
+      "cs": "odvolání",
+      "en": "appeal",
+      "uk": "оскарження",
+      "ru": "обжалование",
+      "pl": "odwołanie"
+    },
+    {
+      "id": "revenue-stamp",
+      "cs": "kolek",
+      "en": "revenue stamp",
+      "uk": "гербова марка",
+      "ru": "гербовая марка",
+      "pl": "znaczek skarbowy"
+    },
+    {
+      "id": "counter-window",
+      "cs": "přepážka",
+      "en": "counter (window)",
+      "uk": "віконце",
+      "ru": "окошко",
+      "pl": "okienko"
+    },
+    {
+      "id": "queue-number",
+      "cs": "pořadové číslo",
+      "en": "queue number",
+      "uk": "номерок у черзі",
+      "ru": "номерок в очереди",
+      "pl": "numerek"
+    },
+    {
+      "id": "citizenship",
+      "cs": "občanství",
+      "en": "citizenship",
+      "uk": "громадянство",
+      "ru": "гражданство",
+      "pl": "obywatelstwo"
+    },
+    {
+      "id": "visa-requirement",
+      "cs": "vízová povinnost",
+      "en": "visa requirement",
+      "uk": "візовий режим",
+      "ru": "визовый режим",
+      "pl": "obowiązek wizowy"
     }
   ]
 }

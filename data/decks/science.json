@@ -1,6 +1,6 @@
 {
   "id": "science",
-  "order": 68,
+  "order": 209,
   "level": "B1",
   "icon": "planet",
   "title": {
@@ -376,6 +376,254 @@
       "uk": "спостерігати",
       "ru": "наблюдать",
       "pl": "obserwować"
+    },
+    {
+      "id": "test-tube",
+      "cs": "zkumavka",
+      "en": "test tube",
+      "uk": "пробірка",
+      "ru": "пробирка",
+      "pl": "probówka"
+    },
+    {
+      "id": "flask",
+      "cs": "baňka",
+      "en": "flask",
+      "uk": "колба",
+      "ru": "колба",
+      "pl": "kolba"
+    },
+    {
+      "id": "sample",
+      "cs": "vzorek",
+      "en": "sample",
+      "uk": "зразок",
+      "ru": "образец",
+      "pl": "próbka"
+    },
+    {
+      "id": "measurement",
+      "cs": "měření",
+      "en": "measurement",
+      "uk": "вимірювання",
+      "ru": "измерение",
+      "pl": "pomiar"
+    },
+    {
+      "id": "analysis",
+      "cs": "analýza",
+      "en": "analysis",
+      "uk": "аналіз",
+      "ru": "анализ",
+      "pl": "analiza"
+    },
+    {
+      "id": "conclusion",
+      "cs": "závěr",
+      "en": "conclusion",
+      "uk": "висновок",
+      "ru": "вывод",
+      "pl": "wniosek"
+    },
+    {
+      "id": "method",
+      "cs": "metoda",
+      "en": "method",
+      "uk": "метод",
+      "ru": "метод",
+      "pl": "metoda"
+    },
+    {
+      "id": "variable",
+      "cs": "proměnná",
+      "en": "variable",
+      "uk": "змінна",
+      "ru": "переменная",
+      "pl": "zmienna"
+    },
+    {
+      "id": "statistics",
+      "cs": "statistika",
+      "en": "statistics",
+      "uk": "статистика",
+      "ru": "статистика",
+      "pl": "statystyka"
+    },
+    {
+      "id": "graph",
+      "cs": "graf",
+      "en": "graph",
+      "uk": "графік",
+      "ru": "график",
+      "pl": "wykres"
+    },
+    {
+      "id": "table-chart",
+      "cs": "tabulka",
+      "en": "table (chart)",
+      "uk": "таблиця",
+      "ru": "таблица",
+      "pl": "tabela"
+    },
+    {
+      "id": "biology",
+      "cs": "biologie",
+      "en": "biology",
+      "uk": "біологія",
+      "ru": "биология",
+      "pl": "biologia"
+    },
+    {
+      "id": "botany",
+      "cs": "botanika",
+      "en": "botany",
+      "uk": "ботаніка",
+      "ru": "ботаника",
+      "pl": "botanika"
+    },
+    {
+      "id": "astronomy",
+      "cs": "astronomie",
+      "en": "astronomy",
+      "uk": "астрономія",
+      "ru": "астрономия",
+      "pl": "astronomia"
+    },
+    {
+      "id": "geology",
+      "cs": "geologie",
+      "en": "geology",
+      "uk": "геологія",
+      "ru": "геология",
+      "pl": "geologia"
+    },
+    {
+      "id": "medicine-science",
+      "cs": "medicína",
+      "en": "medicine (science)",
+      "uk": "медицина",
+      "ru": "медицина",
+      "pl": "medycyna"
+    },
+    {
+      "id": "psychology",
+      "cs": "psychologie",
+      "en": "psychology",
+      "uk": "психологія",
+      "ru": "психология",
+      "pl": "psychologia"
+    },
+    {
+      "id": "sociology",
+      "cs": "sociologie",
+      "en": "sociology",
+      "uk": "соціологія",
+      "ru": "социология",
+      "pl": "socjologia"
+    },
+    {
+      "id": "philosophy",
+      "cs": "filozofie",
+      "en": "philosophy",
+      "uk": "філософія",
+      "ru": "философия",
+      "pl": "filozofia"
+    },
+    {
+      "id": "economics",
+      "cs": "ekonomie",
+      "en": "economics",
+      "uk": "економічна наука",
+      "ru": "экономическая наука",
+      "pl": "ekonomia"
+    },
+    {
+      "id": "linguistics",
+      "cs": "lingvistika",
+      "en": "linguistics",
+      "uk": "лінгвістика",
+      "ru": "лингвистика",
+      "pl": "lingwistyka"
+    },
+    {
+      "id": "archaeology",
+      "cs": "archeologie",
+      "en": "archaeology",
+      "uk": "археологія",
+      "ru": "археология",
+      "pl": "archeologia"
+    },
+    {
+      "id": "researcher",
+      "cs": "výzkumník",
+      "en": "researcher",
+      "uk": "дослідник",
+      "ru": "исследователь",
+      "pl": "badacz"
+    },
+    {
+      "id": "lab-technician",
+      "cs": "laborant",
+      "en": "lab technician",
+      "uk": "лаборант",
+      "ru": "лаборант",
+      "pl": "laborant"
+    },
+    {
+      "id": "vaccine",
+      "cs": "vakcína",
+      "en": "vaccine",
+      "uk": "вакцина",
+      "ru": "вакцина",
+      "pl": "szczepionka"
+    },
+    {
+      "id": "immunity",
+      "cs": "imunita",
+      "en": "immunity",
+      "uk": "імунітет",
+      "ru": "иммунитет",
+      "pl": "odporność"
+    },
+    {
+      "id": "electron",
+      "cs": "elektron",
+      "en": "electron",
+      "uk": "електрон",
+      "ru": "электрон",
+      "pl": "elektron"
+    },
+    {
+      "id": "nucleus",
+      "cs": "jádro",
+      "en": "nucleus",
+      "uk": "ядро",
+      "ru": "ядро",
+      "pl": "jądro"
+    },
+    {
+      "id": "radioactivity",
+      "cs": "radioaktivita",
+      "en": "radioactivity",
+      "uk": "радіоактивність",
+      "ru": "радиоактивность",
+      "pl": "promieniotwórczość"
+    },
+    {
+      "id": "inventor",
+      "cs": "vynálezce",
+      "en": "inventor",
+      "uk": "винахідник",
+      "ru": "изобретатель",
+      "pl": "wynalazca"
+    },
+    {
+      "id": "patent",
+      "cs": "patent",
+      "en": "patent",
+      "uk": "патент",
+      "ru": "патент",
+      "pl": "patent"
     }
   ]
 }

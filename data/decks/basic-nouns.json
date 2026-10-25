@@ -1,0 +1,221 @@
+{
+  "id": "basic-nouns",
+  "order": 22,
+  "level": "A1",
+  "icon": "cube",
+  "title": {
+    "cs": "Užitečná podstatná jména",
+    "en": "Useful Nouns",
+    "uk": "Корисні іменники",
+    "ru": "Полезные существительные",
+    "pl": "Przydatne rzeczowniki"
+  },
+  "description": {
+    "en": "Everyday nouns you need all the time.",
+    "uk": "Щоденні іменники, які потрібні завжди.",
+    "ru": "Повседневные существительные на каждый день.",
+    "pl": "Codzienne rzeczowniki potrzebne na co dzień."
+  },
+  "words": [
+    {
+      "id": "thing",
+      "cs": "věc",
+      "en": "thing",
+      "uk": "річ",
+      "ru": "вещь",
+      "pl": "rzecz"
+    },
+    {
+      "id": "object",
+      "cs": "předmět",
+      "en": "object",
+      "uk": "предмет",
+      "ru": "предмет",
+      "pl": "przedmiot"
+    },
+    {
+      "id": "beginning",
+      "cs": "začátek",
+      "en": "beginning",
+      "uk": "початок",
+      "ru": "начало",
+      "pl": "początek"
+    },
+    {
+      "id": "help",
+      "cs": "pomoc",
+      "en": "help",
+      "uk": "допомога",
+      "ru": "помощь",
+      "pl": "pomoc"
+    },
+    {
+      "id": "plan",
+      "cs": "plán",
+      "en": "plan",
+      "uk": "план",
+      "ru": "план",
+      "pl": "plan"
+    },
+    {
+      "id": "visit",
+      "cs": "návštěva",
+      "en": "visit",
+      "uk": "візит",
+      "ru": "визит",
+      "pl": "wizyta"
+    },
+    {
+      "id": "encounter",
+      "cs": "setkání",
+      "en": "encounter",
+      "uk": "зустріч",
+      "ru": "встреча",
+      "pl": "spotkanie"
+    },
+    {
+      "id": "order-sequence",
+      "cs": "pořadí",
+      "en": "order (sequence)",
+      "uk": "порядок",
+      "ru": "порядок",
+      "pl": "kolejność"
+    },
+    {
+      "id": "list",
+      "cs": "seznam",
+      "en": "list",
+      "uk": "список",
+      "ru": "список",
+      "pl": "lista"
+    },
+    {
+      "id": "message-note",
+      "cs": "vzkaz",
+      "en": "message (note)",
+      "uk": "записка",
+      "ru": "записка",
+      "pl": "wiadomość"
+    },
+    {
+      "id": "treasure",
+      "cs": "poklad",
+      "en": "treasure",
+      "uk": "скарб",
+      "ru": "сокровище",
+      "pl": "skarb"
+    },
+    {
+      "id": "experience-event",
+      "cs": "zážitek",
+      "en": "experience (event)",
+      "uk": "враження",
+      "ru": "впечатление",
+      "pl": "przeżycie"
+    },
+    {
+      "id": "adventure",
+      "cs": "dobrodružství",
+      "en": "adventure",
+      "uk": "пригода",
+      "ru": "приключение",
+      "pl": "przygoda"
+    },
+    {
+      "id": "return",
+      "cs": "návrat",
+      "en": "return",
+      "uk": "повернення",
+      "ru": "возвращение",
+      "pl": "powrót"
+    },
+    {
+      "id": "arrival",
+      "cs": "příchod",
+      "en": "arrival",
+      "uk": "прихід",
+      "ru": "приход",
+      "pl": "przyjście"
+    },
+    {
+      "id": "departure",
+      "cs": "odchod",
+      "en": "departure",
+      "uk": "відхід",
+      "ru": "уход",
+      "pl": "odejście"
+    },
+    {
+      "id": "inscription",
+      "cs": "nápis",
+      "en": "inscription",
+      "uk": "напис",
+      "ru": "надпись",
+      "pl": "napis"
+    },
+    {
+      "id": "signboard",
+      "cs": "cedule",
+      "en": "signboard",
+      "uk": "табличка",
+      "ru": "табличка",
+      "pl": "tabliczka"
+    },
+    {
+      "id": "small-picture",
+      "cs": "obrázek",
+      "en": "small picture",
+      "uk": "малюнок",
+      "ru": "картинка",
+      "pl": "obrazek"
+    },
+    {
+      "id": "air",
+      "cs": "vzduch",
+      "en": "air",
+      "uk": "повітря",
+      "ru": "воздух",
+      "pl": "powietrze"
+    },
+    {
+      "id": "mud",
+      "cs": "bláto",
+      "en": "mud",
+      "uk": "бруд",
+      "ru": "грязь",
+      "pl": "błoto"
+    },
+    {
+      "id": "hole",
+      "cs": "díra",
+      "en": "hole",
+      "uk": "діра",
+      "ru": "дыра",
+      "pl": "dziura"
+    },
+    {
+      "id": "crack-gap",
+      "cs": "škvíra",
+      "en": "crack (gap)",
+      "uk": "щілина",
+      "ru": "щель",
+      "pl": "szpara"
+    },
+    {
+      "id": "edge",
+      "cs": "hrana",
+      "en": "edge",
+      "uk": "край",
+      "ru": "край",
+      "pl": "krawędź"
+    },
+    {
+      "id": "tip-point",
+      "cs": "špička",
+      "en": "tip (point)",
+      "uk": "кінчик",
+      "ru": "кончик",
+      "pl": "czubek"
+    }
+  ]
+}

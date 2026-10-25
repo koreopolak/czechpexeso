@@ -1,0 +1,221 @@
+{
+  "id": "verbs-movement",
+  "order": 242,
+  "level": "B1",
+  "icon": "arrows",
+  "title": {
+    "cs": "Slovesa pohybu II",
+    "en": "More Movement Verbs",
+    "uk": "Ще дієслова руху",
+    "ru": "Ещё глаголы движения",
+    "pl": "Więcej czasowników ruchu"
+  },
+  "description": {
+    "en": "Wandering, sliding, diving, circling and catching up.",
+    "uk": "Блукати, ковзати, пірнати, кружляти й наздоганяти.",
+    "ru": "Бродить, скользить, нырять, кружить и догонять.",
+    "pl": "Włóczyć się, ślizgać, nurkować, krążyć i doganiać."
+  },
+  "words": [
+    {
+      "id": "wander",
+      "cs": "toulat se",
+      "en": "to wander",
+      "uk": "блукати",
+      "ru": "бродить",
+      "pl": "włóczyć się"
+    },
+    {
+      "id": "dawdle",
+      "cs": "loudat se",
+      "en": "to dawdle",
+      "uk": "плентатися",
+      "ru": "плестись",
+      "pl": "wlec się"
+    },
+    {
+      "id": "dash",
+      "cs": "pádit",
+      "en": "to dash",
+      "uk": "мчати",
+      "ru": "мчаться",
+      "pl": "pędzić"
+    },
+    {
+      "id": "stagger",
+      "cs": "vrávorat",
+      "en": "to stagger",
+      "uk": "хитатися",
+      "ru": "шататься",
+      "pl": "zataczać się"
+    },
+    {
+      "id": "climb-up",
+      "cs": "šplhat",
+      "en": "to climb (up)",
+      "uk": "дертися",
+      "ru": "карабкаться",
+      "pl": "wspinać się"
+    },
+    {
+      "id": "glide",
+      "cs": "plachtit",
+      "en": "to glide",
+      "uk": "ширяти",
+      "ru": "парить",
+      "pl": "szybować"
+    },
+    {
+      "id": "slide",
+      "cs": "klouzat",
+      "en": "to slide",
+      "uk": "ковзати",
+      "ru": "скользить",
+      "pl": "ślizgać się"
+    },
+    {
+      "id": "roll-something",
+      "cs": "kutálet",
+      "en": "to roll (something)",
+      "uk": "котити",
+      "ru": "катить",
+      "pl": "toczyć"
+    },
+    {
+      "id": "swing",
+      "cs": "houpat se",
+      "en": "to swing",
+      "uk": "гойдатися",
+      "ru": "качаться",
+      "pl": "huśtać się"
+    },
+    {
+      "id": "spin",
+      "cs": "točit se",
+      "en": "to spin",
+      "uk": "крутитися",
+      "ru": "крутиться",
+      "pl": "kręcić się"
+    },
+    {
+      "id": "circle",
+      "cs": "kroužit",
+      "en": "to circle",
+      "uk": "кружляти",
+      "ru": "кружить",
+      "pl": "krążyć"
+    },
+    {
+      "id": "hover",
+      "cs": "vznášet se",
+      "en": "to hover",
+      "uk": "ширяти в повітрі",
+      "ru": "парить в воздухе",
+      "pl": "unosić się"
+    },
+    {
+      "id": "dive",
+      "cs": "potápět se",
+      "en": "to dive",
+      "uk": "пірнати",
+      "ru": "нырять",
+      "pl": "nurkować"
+    },
+    {
+      "id": "surface",
+      "cs": "vynořit se",
+      "en": "to surface",
+      "uk": "виринути",
+      "ru": "вынырнуть",
+      "pl": "wynurzyć się"
+    },
+    {
+      "id": "rise",
+      "cs": "stoupat",
+      "en": "to rise",
+      "uk": "підніматися",
+      "ru": "подниматься",
+      "pl": "wznosić się"
+    },
+    {
+      "id": "sink-go-down",
+      "cs": "klesat",
+      "en": "to sink (go down)",
+      "uk": "опускатися",
+      "ru": "опускаться",
+      "pl": "opadać"
+    },
+    {
+      "id": "approach",
+      "cs": "přiblížit se",
+      "en": "to approach",
+      "uk": "наблизитися",
+      "ru": "приблизиться",
+      "pl": "zbliżyć się"
+    },
+    {
+      "id": "move-away",
+      "cs": "vzdálit se",
+      "en": "to move away",
+      "uk": "віддалитися",
+      "ru": "отдалиться",
+      "pl": "oddalić się"
+    },
+    {
+      "id": "get-ahead-of",
+      "cs": "předběhnout",
+      "en": "to get ahead of",
+      "uk": "обігнати",
+      "ru": "обогнать",
+      "pl": "wyprzedzić"
+    },
+    {
+      "id": "catch-up",
+      "cs": "dohnat",
+      "en": "to catch up",
+      "uk": "наздогнати",
+      "ru": "догнать",
+      "pl": "dogonić"
+    },
+    {
+      "id": "lag-behind",
+      "cs": "zaostávat",
+      "en": "to lag behind",
+      "uk": "відставати",
+      "ru": "отставать",
+      "pl": "zostawać w tyle"
+    },
+    {
+      "id": "dodge",
+      "cs": "uhnout",
+      "en": "to dodge",
+      "uk": "ухилитися",
+      "ru": "увернуться",
+      "pl": "zrobić unik"
+    },
+    {
+      "id": "collide",
+      "cs": "srazit se",
+      "en": "to collide",
+      "uk": "зіткнутися",
+      "ru": "столкнуться",
+      "pl": "zderzyć się"
+    },
+    {
+      "id": "wade",
+      "cs": "brodit se",
+      "en": "to wade",
+      "uk": "брести вбрід",
+      "ru": "брести вброд",
+      "pl": "brodzić"
+    },
+    {
+      "id": "paddle",
+      "cs": "pádlovat",
+      "en": "to paddle",
+      "uk": "гребти веслом",
+      "ru": "грести веслом",
+      "pl": "wiosłować"
+    }
+  ]
+}

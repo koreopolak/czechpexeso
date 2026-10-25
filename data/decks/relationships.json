@@ -1,0 +1,333 @@
+{
+  "id": "relationships",
+  "order": 219,
+  "level": "B1",
+  "icon": "heart",
+  "title": {
+    "cs": "Vztahy a láska",
+    "en": "Relationships & Love",
+    "uk": "Стосунки та кохання",
+    "ru": "Отношения и любовь",
+    "pl": "Związki i miłość"
+  },
+  "description": {
+    "en": "Dating, weddings, friendship and quarrels.",
+    "uk": "Побачення, весілля, дружба і сварки.",
+    "ru": "Свидания, свадьбы, дружба и ссоры.",
+    "pl": "Randki, śluby, przyjaźń i kłótnie."
+  },
+  "words": [
+    {
+      "id": "date-romantic",
+      "cs": "rande",
+      "en": "date (romantic)",
+      "uk": "побачення",
+      "ru": "свидание",
+      "pl": "randka"
+    },
+    {
+      "id": "date-someone",
+      "cs": "randit",
+      "en": "to date (someone)",
+      "uk": "зустрічатися",
+      "ru": "встречаться",
+      "pl": "umawiać się"
+    },
+    {
+      "id": "fall-in-love",
+      "cs": "zamilovat se",
+      "en": "to fall in love",
+      "uk": "закохатися",
+      "ru": "влюбиться",
+      "pl": "zakochać się"
+    },
+    {
+      "id": "go-out-together",
+      "cs": "chodit spolu",
+      "en": "to go out together",
+      "uk": "бути парою",
+      "ru": "гулять вместе",
+      "pl": "chodzić ze sobą"
+    },
+    {
+      "id": "break-up",
+      "cs": "rozejít se",
+      "en": "to break up",
+      "uk": "розійтися",
+      "ru": "расстаться",
+      "pl": "rozstać się"
+    },
+    {
+      "id": "break-up-2",
+      "cs": "rozchod",
+      "en": "break-up",
+      "uk": "розрив",
+      "ru": "разрыв",
+      "pl": "rozstanie"
+    },
+    {
+      "id": "make-up",
+      "cs": "usmířit se",
+      "en": "to make up",
+      "uk": "помиритися",
+      "ru": "помириться",
+      "pl": "pogodzić się"
+    },
+    {
+      "id": "quarrel",
+      "cs": "hádka",
+      "en": "quarrel",
+      "uk": "сварка",
+      "ru": "ссора",
+      "pl": "kłótnia"
+    },
+    {
+      "id": "infidelity",
+      "cs": "nevěra",
+      "en": "infidelity",
+      "uk": "зрада",
+      "ru": "измена",
+      "pl": "zdrada"
+    },
+    {
+      "id": "cheat-on",
+      "cs": "podvádět",
+      "en": "to cheat on",
+      "uk": "зраджувати",
+      "ru": "изменять",
+      "pl": "zdradzać"
+    },
+    {
+      "id": "first-impression",
+      "cs": "první dojem",
+      "en": "first impression",
+      "uk": "перше враження",
+      "ru": "первое впечатление",
+      "pl": "pierwsze wrażenie"
+    },
+    {
+      "id": "love-at-first-sight",
+      "cs": "láska na první pohled",
+      "en": "love at first sight",
+      "uk": "кохання з першого погляду",
+      "ru": "любовь с первого взгляда",
+      "pl": "miłość od pierwszego wejrzenia"
+    },
+    {
+      "id": "flirt",
+      "cs": "flirtovat",
+      "en": "to flirt",
+      "uk": "фліртувати",
+      "ru": "флиртовать",
+      "pl": "flirtować"
+    },
+    {
+      "id": "kiss",
+      "cs": "polibek",
+      "en": "kiss",
+      "uk": "поцілунок",
+      "ru": "поцелуй",
+      "pl": "pocałunek"
+    },
+    {
+      "id": "hug",
+      "cs": "objetí",
+      "en": "hug",
+      "uk": "обійми",
+      "ru": "объятие",
+      "pl": "uścisk"
+    },
+    {
+      "id": "long-distance-relationship",
+      "cs": "vztah na dálku",
+      "en": "long-distance relationship",
+      "uk": "стосунки на відстані",
+      "ru": "отношения на расстоянии",
+      "pl": "związek na odległość"
+    },
+    {
+      "id": "partner",
+      "cs": "partner",
+      "en": "partner",
+      "uk": "партнер",
+      "ru": "партнёр",
+      "pl": "partner"
+    },
+    {
+      "id": "marriage",
+      "cs": "manželství",
+      "en": "marriage",
+      "uk": "шлюб",
+      "ru": "брак",
+      "pl": "małżeństwo"
+    },
+    {
+      "id": "engagement",
+      "cs": "zasnoubení",
+      "en": "engagement",
+      "uk": "заручини",
+      "ru": "помолвка",
+      "pl": "zaręczyny"
+    },
+    {
+      "id": "engagement-ring",
+      "cs": "zásnubní prsten",
+      "en": "engagement ring",
+      "uk": "каблучка для заручин",
+      "ru": "помолвочное кольцо",
+      "pl": "pierścionek zaręczynowy"
+    },
+    {
+      "id": "propose",
+      "cs": "požádat o ruku",
+      "en": "to propose",
+      "uk": "освідчитися",
+      "ru": "сделать предложение",
+      "pl": "oświadczyć się"
+    },
+    {
+      "id": "honeymoon",
+      "cs": "líbánky",
+      "en": "honeymoon",
+      "uk": "медовий місяць",
+      "ru": "медовый месяц",
+      "pl": "miesiąc miodowy"
+    },
+    {
+      "id": "best-man",
+      "cs": "svědek na svatbě",
+      "en": "best man",
+      "uk": "свідок на весіллі",
+      "ru": "свидетель на свадьбе",
+      "pl": "świadek na ślubie"
+    },
+    {
+      "id": "bridesmaid",
+      "cs": "družička",
+      "en": "bridesmaid",
+      "uk": "дружка",
+      "ru": "подружка невесты",
+      "pl": "druhna"
+    },
+    {
+      "id": "bride",
+      "cs": "nevěsta",
+      "en": "bride",
+      "uk": "наречена",
+      "ru": "невеста",
+      "pl": "panna młoda"
+    },
+    {
+      "id": "groom",
+      "cs": "ženich",
+      "en": "groom",
+      "uk": "наречений",
+      "ru": "жених",
+      "pl": "pan młody"
+    },
+    {
+      "id": "wedding-dress",
+      "cs": "svatební šaty",
+      "en": "wedding dress",
+      "uk": "весільна сукня",
+      "ru": "свадебное платье",
+      "pl": "suknia ślubna"
+    },
+    {
+      "id": "ceremony",
+      "cs": "obřad",
+      "en": "ceremony",
+      "uk": "церемонія",
+      "ru": "церемония",
+      "pl": "ceremonia"
+    },
+    {
+      "id": "civil-partnership",
+      "cs": "registrované partnerství",
+      "en": "civil partnership",
+      "uk": "зареєстроване партнерство",
+      "ru": "гражданское партнёрство",
+      "pl": "związek partnerski"
+    },
+    {
+      "id": "living-together",
+      "cs": "soužití",
+      "en": "living together",
+      "uk": "спільне життя",
+      "ru": "совместная жизнь",
+      "pl": "wspólne życie"
+    },
+    {
+      "id": "respect",
+      "cs": "respekt",
+      "en": "respect",
+      "uk": "повага",
+      "ru": "уважение",
+      "pl": "szacunek"
+    },
+    {
+      "id": "compromise",
+      "cs": "kompromis",
+      "en": "compromise",
+      "uk": "компроміс",
+      "ru": "компромисс",
+      "pl": "kompromis"
+    },
+    {
+      "id": "understanding",
+      "cs": "porozumění",
+      "en": "understanding",
+      "uk": "порозуміння",
+      "ru": "взаимопонимание",
+      "pl": "zrozumienie"
+    },
+    {
+      "id": "support",
+      "cs": "podpora",
+      "en": "support",
+      "uk": "підтримка",
+      "ru": "поддержка",
+      "pl": "wsparcie"
+    },
+    {
+      "id": "friendship",
+      "cs": "přátelství",
+      "en": "friendship",
+      "uk": "дружба",
+      "ru": "дружба",
+      "pl": "przyjaźń"
+    },
+    {
+      "id": "best-friend",
+      "cs": "nejlepší přítel",
+      "en": "best friend",
+      "uk": "найкращий друг",
+      "ru": "лучший друг",
+      "pl": "najlepszy przyjaciel"
+    },
+    {
+      "id": "enemy",
+      "cs": "nepřítel",
+      "en": "enemy",
+      "uk": "ворог",
+      "ru": "враг",
+      "pl": "wróg"
+    },
+    {
+      "id": "rival",
+      "cs": "soupeř",
+      "en": "rival",
+      "uk": "суперник",
+      "ru": "соперник",
+      "pl": "rywal"
+    },
+    {
+      "id": "solitude",
+      "cs": "samota",
+      "en": "solitude",
+      "uk": "самотність",
+      "ru": "одиночество",
+      "pl": "samotność"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "czech-food",
+  "order": 235,
+  "level": "B1",
+  "icon": "fork",
+  "title": {
+    "cs": "Česká kuchyně",
+    "en": "Czech Cuisine",
+    "uk": "Чеська кухня",
+    "ru": "Чешская кухня",
+    "pl": "Kuchnia czeska"
+  },
+  "description": {
+    "en": "Classic Czech dishes, cheeses and pastries.",
+    "uk": "Класичні чеські страви, сири й випічка.",
+    "ru": "Классические чешские блюда, сыры и выпечка.",
+    "pl": "Klasyczne czeskie dania, sery i wypieki."
+  },
+  "words": [
+    {
+      "id": "czech-camembert",
+      "cs": "hermelín",
+      "en": "Czech camembert",
+      "uk": "гермелін",
+      "ru": "гермелин",
+      "pl": "hermelin"
+    },
+    {
+      "id": "blue-cheese",
+      "cs": "niva",
+      "en": "blue cheese",
+      "uk": "сир з пліснявою",
+      "ru": "сыр с плесенью",
+      "pl": "ser pleśniowy"
+    },
+    {
+      "id": "olomouc-cheese",
+      "cs": "olomoucké tvarůžky",
+      "en": "Olomouc cheese",
+      "uk": "оломоуцький сир",
+      "ru": "оломоуцкий сыр",
+      "pl": "ser ołomuniecki"
+    },
+    {
+      "id": "white-pudding",
+      "cs": "jitrnice",
+      "en": "white pudding",
+      "uk": "ліверна ковбаса",
+      "ru": "ливерная колбаса",
+      "pl": "biała kaszanka"
+    },
+    {
+      "id": "black-pudding",
+      "cs": "jelito",
+      "en": "black pudding",
+      "uk": "кров’янка",
+      "ru": "кровяная колбаса",
+      "pl": "kaszanka"
+    },
+    {
+      "id": "brawn",
+      "cs": "tlačenka",
+      "en": "brawn",
+      "uk": "зельц",
+      "ru": "зельц",
+      "pl": "salceson"
+    },
+    {
+      "id": "pate",
+      "cs": "paštika",
+      "en": "pâté",
+      "uk": "паштет",
+      "ru": "паштет",
+      "pl": "pasztet"
+    },
+    {
+      "id": "spread",
+      "cs": "pomazánka",
+      "en": "spread",
+      "uk": "намазка",
+      "ru": "намазка",
+      "pl": "pasta do chleba"
+    },
+    {
+      "id": "cracklings",
+      "cs": "škvarky",
+      "en": "cracklings",
+      "uk": "шкварки",
+      "ru": "шкварки",
+      "pl": "skwarki"
+    },
+    {
+      "id": "lard",
+      "cs": "sádlo",
+      "en": "lard",
+      "uk": "смалець",
+      "ru": "смалец",
+      "pl": "smalec"
+    },
+    {
+      "id": "potato-dumplings-with-cheese",
+      "cs": "halušky",
+      "en": "potato dumplings with cheese",
+      "uk": "галушки з бринзою",
+      "ru": "галушки с брынзой",
+      "pl": "haluszki"
+    },
+    {
+      "id": "lecso-pepper-stew",
+      "cs": "lečo",
+      "en": "lecsó (pepper stew)",
+      "uk": "лечо",
+      "ru": "лечо",
+      "pl": "leczo"
+    },
+    {
+      "id": "szeged-goulash",
+      "cs": "segedínský guláš",
+      "en": "Szeged goulash",
+      "uk": "сегедський гуляш",
+      "ru": "сегединский гуляш",
+      "pl": "gulasz szegedyński"
+    },
+    {
+      "id": "beef-roulade",
+      "cs": "španělský ptáček",
+      "en": "beef roulade",
+      "uk": "яловичий рулет",
+      "ru": "говяжий рулет",
+      "pl": "zraz wołowy"
+    },
+    {
+      "id": "meatloaf",
+      "cs": "sekaná",
+      "en": "meatloaf",
+      "uk": "м’ясний рулет",
+      "ru": "мясной рулет",
+      "pl": "pieczeń rzymska"
+    },
+    {
+      "id": "burger-patty",
+      "cs": "karbanátek",
+      "en": "burger patty",
+      "uk": "котлета",
+      "ru": "котлета",
+      "pl": "kotlet mielony"
+    },
+    {
+      "id": "chicken-leg",
+      "cs": "kuřecí stehno",
+      "en": "chicken leg",
+      "uk": "куряча ніжка",
+      "ru": "куриная ножка",
+      "pl": "udko kurczaka"
+    },
+    {
+      "id": "plum-jam",
+      "cs": "povidla",
+      "en": "plum jam",
+      "uk": "сливовий джем",
+      "ru": "сливовое повидло",
+      "pl": "powidła"
+    },
+    {
+      "id": "christmas-plait-bread",
+      "cs": "vánočka",
+      "en": "Christmas plait bread",
+      "uk": "різдвяна хала",
+      "ru": "рождественская хала",
+      "pl": "chałka świąteczna"
+    },
+    {
+      "id": "easter-bread",
+      "cs": "mazanec",
+      "en": "Easter bread",
+      "uk": "великодній кекс",
+      "ru": "пасхальный кулич",
+      "pl": "babka wielkanocna"
+    },
+    {
+      "id": "bundt-cake",
+      "cs": "bábovka",
+      "en": "bundt cake",
+      "uk": "бабка (кекс)",
+      "ru": "кекс",
+      "pl": "babka"
+    },
+    {
+      "id": "cream-roll",
+      "cs": "kremrole",
+      "en": "cream roll",
+      "uk": "трубочка з кремом",
+      "ru": "трубочка с кремом",
+      "pl": "rurka z kremem"
+    },
+    {
+      "id": "kofola-czech-cola",
+      "cs": "kofola",
+      "en": "Kofola (Czech cola)",
+      "uk": "кофола",
+      "ru": "кофола",
+      "pl": "kofola"
+    },
+    {
+      "id": "spa-wafers",
+      "cs": "lázeňské oplatky",
+      "en": "spa wafers",
+      "uk": "курортні вафлі",
+      "ru": "курортные вафли",
+      "pl": "wafle uzdrowiskowe"
+    },
+    {
+      "id": "potato-dumplings",
+      "cs": "chlupaté knedlíky",
+      "en": "potato dumplings",
+      "uk": "картопляні кнедлики",
+      "ru": "картофельные кнедлики",
+      "pl": "kluski ziemniaczane"
+    },
+    {
+      "id": "tomato-sauce-dish",
+      "cs": "rajská omáčka",
+      "en": "tomato sauce (dish)",
+      "uk": "томатний соус",
+      "ru": "томатный соус",
+      "pl": "sos pomidorowy"
+    },
+    {
+      "id": "dill-sauce",
+      "cs": "koprovka",
+      "en": "dill sauce",
+      "uk": "кроповий соус",
+      "ru": "укропный соус",
+      "pl": "sos koperkowy"
+    },
+    {
+      "id": "smoked-meat",
+      "cs": "uzené maso",
+      "en": "smoked meat",
+      "uk": "копчене м’ясо",
+      "ru": "копчёное мясо",
+      "pl": "wędzone mięso"
+    },
+    {
+      "id": "potato-soup",
+      "cs": "bramborová polévka",
+      "en": "potato soup",
+      "uk": "картопляний суп",
+      "ru": "картофельный суп",
+      "pl": "zupa ziemniaczana"
+    },
+    {
+      "id": "kuba-barley-and-mushrooms",
+      "cs": "kuba",
+      "en": "Kuba (barley and mushrooms)",
+      "uk": "куба (ячмінь з грибами)",
+      "ru": "куба (перловка с грибами)",
+      "pl": "kuba (kasza z grzybami)"
+    }
+  ]
+}

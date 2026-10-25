@@ -1,0 +1,165 @@
+{
+  "id": "society-b2",
+  "order": 319,
+  "level": "B2",
+  "icon": "people",
+  "title": {
+    "cs": "Společnost a demografie",
+    "en": "Society & Demographics",
+    "uk": "Суспільство та демографія",
+    "ru": "Общество и демография",
+    "pl": "Społeczeństwo i demografia"
+  },
+  "description": {
+    "en": "Population, migration and social issues.",
+    "uk": "Населення, міграція й соціальні проблеми.",
+    "ru": "Население, миграция и социальные проблемы.",
+    "pl": "Ludność, migracja i problemy społeczne."
+  },
+  "words": [
+    {
+      "id": "civil-society",
+      "cs": "občanská společnost",
+      "en": "civil society",
+      "uk": "громадянське суспільство",
+      "ru": "гражданское общество",
+      "pl": "społeczeństwo obywatelskie"
+    },
+    {
+      "id": "welfare-state",
+      "cs": "sociální stát",
+      "en": "welfare state",
+      "uk": "соціальна держава",
+      "ru": "социальное государство",
+      "pl": "państwo opiekuńcze"
+    },
+    {
+      "id": "socially-excluded-area",
+      "cs": "vyloučená lokalita",
+      "en": "socially excluded area",
+      "uk": "соціально виключена місцевість",
+      "ru": "неблагополучный район",
+      "pl": "obszar wykluczenia społecznego"
+    },
+    {
+      "id": "urbanisation",
+      "cs": "urbanizace",
+      "en": "urbanisation",
+      "uk": "урбанізація",
+      "ru": "урбанизация",
+      "pl": "urbanizacja"
+    },
+    {
+      "id": "ageing-population",
+      "cs": "stárnutí populace",
+      "en": "ageing population",
+      "uk": "старіння населення",
+      "ru": "старение населения",
+      "pl": "starzenie się społeczeństwa"
+    },
+    {
+      "id": "birth-rate",
+      "cs": "porodnost",
+      "en": "birth rate",
+      "uk": "народжуваність",
+      "ru": "рождаемость",
+      "pl": "wskaźnik urodzeń"
+    },
+    {
+      "id": "mortality-rate",
+      "cs": "úmrtnost",
+      "en": "mortality rate",
+      "uk": "смертність",
+      "ru": "смертность",
+      "pl": "śmiertelność"
+    },
+    {
+      "id": "demography",
+      "cs": "demografie",
+      "en": "demography",
+      "uk": "демографія",
+      "ru": "демография",
+      "pl": "demografia"
+    },
+    {
+      "id": "census",
+      "cs": "sčítání lidu",
+      "en": "census",
+      "uk": "перепис населення",
+      "ru": "перепись населения",
+      "pl": "spis powszechny"
+    },
+    {
+      "id": "immigrant",
+      "cs": "přistěhovalec",
+      "en": "immigrant",
+      "uk": "іммігрант",
+      "ru": "иммигрант",
+      "pl": "imigrant"
+    },
+    {
+      "id": "asylum-seeker",
+      "cs": "žadatel o azyl",
+      "en": "asylum seeker",
+      "uk": "шукач притулку",
+      "ru": "соискатель убежища",
+      "pl": "osoba ubiegająca się o azyl"
+    },
+    {
+      "id": "refugee-camp",
+      "cs": "uprchlický tábor",
+      "en": "refugee camp",
+      "uk": "табір біженців",
+      "ru": "лагерь беженцев",
+      "pl": "obóz dla uchodźców"
+    },
+    {
+      "id": "humanitarian-aid",
+      "cs": "humanitární pomoc",
+      "en": "humanitarian aid",
+      "uk": "гуманітарна допомога",
+      "ru": "гуманитарная помощь",
+      "pl": "pomoc humanitarna"
+    },
+    {
+      "id": "developing-country",
+      "cs": "rozvojová země",
+      "en": "developing country",
+      "uk": "країна, що розвивається",
+      "ru": "развивающаяся страна",
+      "pl": "kraj rozwijający się"
+    },
+    {
+      "id": "famine",
+      "cs": "hladomor",
+      "en": "famine",
+      "uk": "голод",
+      "ru": "голод",
+      "pl": "głód"
+    },
+    {
+      "id": "slum",
+      "cs": "chudinská čtvrť",
+      "en": "slum",
+      "uk": "нетрі",
+      "ru": "трущобы",
+      "pl": "slumsy"
+    },
+    {
+      "id": "equal-opportunities",
+      "cs": "rovné příležitosti",
+      "en": "equal opportunities",
+      "uk": "рівні можливості",
+      "ru": "равные возможности",
+      "pl": "równe szanse"
+    },
+    {
+      "id": "national-minority",
+      "cs": "národnostní menšina",
+      "en": "national minority",
+      "uk": "національна меншина",
+      "ru": "национальное меньшинство",
+      "pl": "mniejszość narodowa"
+    }
+  ]
+}

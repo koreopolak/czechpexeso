@@ -416,6 +416,134 @@
       "uk": "пара",
       "ru": "пара",
       "pl": "para"
+    },
+    {
+      "id": "brother-in-law",
+      "cs": "švagr",
+      "en": "brother-in-law",
+      "uk": "шурин",
+      "ru": "шурин",
+      "pl": "szwagier"
+    },
+    {
+      "id": "sister-in-law",
+      "cs": "švagrová",
+      "en": "sister-in-law",
+      "uk": "зовиця",
+      "ru": "золовка",
+      "pl": "szwagierka"
+    },
+    {
+      "id": "great-grandfather",
+      "cs": "praděda",
+      "en": "great-grandfather",
+      "uk": "прадід",
+      "ru": "прадед",
+      "pl": "pradziadek"
+    },
+    {
+      "id": "great-granddaughter",
+      "cs": "pravnučka",
+      "en": "great-granddaughter",
+      "uk": "правнучка",
+      "ru": "правнучка",
+      "pl": "prawnuczka"
+    },
+    {
+      "id": "grandchildren",
+      "cs": "vnoučata",
+      "en": "grandchildren",
+      "uk": "онуки",
+      "ru": "внуки",
+      "pl": "wnuki"
+    },
+    {
+      "id": "orphan",
+      "cs": "sirotek",
+      "en": "orphan",
+      "uk": "сирота",
+      "ru": "сирота",
+      "pl": "sierota"
+    },
+    {
+      "id": "widower",
+      "cs": "vdovec",
+      "en": "widower",
+      "uk": "вдівець",
+      "ru": "вдовец",
+      "pl": "wdowiec"
+    },
+    {
+      "id": "stepbrother",
+      "cs": "nevlastní bratr",
+      "en": "stepbrother",
+      "uk": "зведений брат",
+      "ru": "сводный брат",
+      "pl": "przyrodni brat"
+    },
+    {
+      "id": "stepsister",
+      "cs": "nevlastní sestra",
+      "en": "stepsister",
+      "uk": "зведена сестра",
+      "ru": "сводная сестра",
+      "pl": "przyrodnia siostra"
+    },
+    {
+      "id": "ancestor",
+      "cs": "předek",
+      "en": "ancestor",
+      "uk": "предок",
+      "ru": "предок",
+      "pl": "przodek"
+    },
+    {
+      "id": "descendant",
+      "cs": "potomek",
+      "en": "descendant",
+      "uk": "нащадок",
+      "ru": "потомок",
+      "pl": "potomek"
+    },
+    {
+      "id": "household",
+      "cs": "domácnost",
+      "en": "household",
+      "uk": "домогосподарство",
+      "ru": "домохозяйство",
+      "pl": "gospodarstwo domowe"
+    },
+    {
+      "id": "family-tree",
+      "cs": "rodokmen",
+      "en": "family tree",
+      "uk": "родовід",
+      "ru": "родословное древо",
+      "pl": "drzewo genealogiczne"
+    },
+    {
+      "id": "mummy",
+      "cs": "maminka",
+      "en": "mummy",
+      "uk": "матуся",
+      "ru": "мамочка",
+      "pl": "mamusia"
+    },
+    {
+      "id": "daddy",
+      "cs": "tatínek",
+      "en": "daddy",
+      "uk": "татусь",
+      "ru": "папочка",
+      "pl": "tatuś"
+    },
+    {
+      "id": "adopt",
+      "cs": "adoptovat",
+      "en": "to adopt",
+      "uk": "усиновити",
+      "ru": "усыновить",
+      "pl": "adoptować"
     }
   ]
 }

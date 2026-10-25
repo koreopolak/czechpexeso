@@ -1,0 +1,341 @@
+{
+  "id": "senses",
+  "order": 234,
+  "level": "B1",
+  "icon": "speaker",
+  "title": {
+    "cs": "Smysly a vnímání",
+    "en": "Senses & Perception",
+    "uk": "Чуття та сприйняття",
+    "ru": "Чувства и восприятие",
+    "pl": "Zmysły i postrzeganie"
+  },
+  "description": {
+    "en": "Seeing, hearing, smelling, tasting and touching.",
+    "uk": "Бачити, чути, нюхати, смакувати й торкатися.",
+    "ru": "Видеть, слышать, нюхать, пробовать и касаться.",
+    "pl": "Widzieć, słyszeć, wąchać, smakować i dotykać."
+  },
+  "words": [
+    {
+      "id": "sight",
+      "cs": "zrak",
+      "en": "sight",
+      "uk": "зір",
+      "ru": "зрение",
+      "pl": "wzrok"
+    },
+    {
+      "id": "hearing",
+      "cs": "sluch",
+      "en": "hearing",
+      "uk": "слух",
+      "ru": "слух",
+      "pl": "słuch"
+    },
+    {
+      "id": "sense-of-smell",
+      "cs": "čich",
+      "en": "sense of smell",
+      "uk": "нюх",
+      "ru": "обоняние",
+      "pl": "węch"
+    },
+    {
+      "id": "sense-of-taste",
+      "cs": "chuť",
+      "en": "(sense of) taste",
+      "uk": "смак",
+      "ru": "вкус",
+      "pl": "smak"
+    },
+    {
+      "id": "sense-of-touch",
+      "cs": "hmat",
+      "en": "(sense of) touch",
+      "uk": "дотик",
+      "ru": "осязание",
+      "pl": "dotyk"
+    },
+    {
+      "id": "perceive",
+      "cs": "vnímat",
+      "en": "to perceive",
+      "uk": "сприймати",
+      "ru": "воспринимать",
+      "pl": "postrzegać"
+    },
+    {
+      "id": "stare",
+      "cs": "zírat",
+      "en": "to stare",
+      "uk": "витріщатися",
+      "ru": "пялиться",
+      "pl": "gapić się"
+    },
+    {
+      "id": "blink",
+      "cs": "mrknout",
+      "en": "to blink",
+      "uk": "моргнути",
+      "ru": "моргнуть",
+      "pl": "mrugnąć"
+    },
+    {
+      "id": "squint",
+      "cs": "mžourat",
+      "en": "to squint",
+      "uk": "мружитися",
+      "ru": "щуриться",
+      "pl": "mrużyć oczy"
+    },
+    {
+      "id": "glance",
+      "cs": "pohled",
+      "en": "glance",
+      "uk": "погляд",
+      "ru": "взгляд",
+      "pl": "spojrzenie"
+    },
+    {
+      "id": "catch-sight-of",
+      "cs": "zahlédnout",
+      "en": "to catch sight of",
+      "uk": "помітити",
+      "ru": "заметить мельком",
+      "pl": "dostrzec"
+    },
+    {
+      "id": "listen-closely",
+      "cs": "naslouchat",
+      "en": "to listen closely",
+      "uk": "прислухатися",
+      "ru": "прислушиваться",
+      "pl": "wsłuchiwać się"
+    },
+    {
+      "id": "overhear",
+      "cs": "zaslechnout",
+      "en": "to overhear",
+      "uk": "почути випадково",
+      "ru": "услышать случайно",
+      "pl": "podsłuchać"
+    },
+    {
+      "id": "rustle",
+      "cs": "šustit",
+      "en": "to rustle",
+      "uk": "шелестіти",
+      "ru": "шуршать",
+      "pl": "szeleścić"
+    },
+    {
+      "id": "clink",
+      "cs": "cinkat",
+      "en": "to clink",
+      "uk": "дзенькати",
+      "ru": "звенеть",
+      "pl": "pobrzękiwać"
+    },
+    {
+      "id": "buzz",
+      "cs": "bzučet",
+      "en": "to buzz",
+      "uk": "дзижчати",
+      "ru": "жужжать",
+      "pl": "bzyczeć"
+    },
+    {
+      "id": "roar-rumble",
+      "cs": "hučet",
+      "en": "to roar (rumble)",
+      "uk": "гудіти",
+      "ru": "гудеть",
+      "pl": "huczeć"
+    },
+    {
+      "id": "crackle",
+      "cs": "praskat",
+      "en": "to crackle",
+      "uk": "тріщати",
+      "ru": "трещать",
+      "pl": "trzeszczeć"
+    },
+    {
+      "id": "creak",
+      "cs": "vrzat",
+      "en": "to creak",
+      "uk": "рипіти",
+      "ru": "скрипеть",
+      "pl": "skrzypieć"
+    },
+    {
+      "id": "bang",
+      "cs": "bouchnout",
+      "en": "to bang",
+      "uk": "грюкнути",
+      "ru": "хлопнуть",
+      "pl": "trzasnąć"
+    },
+    {
+      "id": "echo",
+      "cs": "ozvěna",
+      "en": "echo",
+      "uk": "луна",
+      "ru": "эхо",
+      "pl": "echo"
+    },
+    {
+      "id": "silence",
+      "cs": "ticho",
+      "en": "silence",
+      "uk": "тиша",
+      "ru": "тишина",
+      "pl": "cisza"
+    },
+    {
+      "id": "racket-din",
+      "cs": "rámus",
+      "en": "racket (din)",
+      "uk": "гамір",
+      "ru": "грохот",
+      "pl": "rumor"
+    },
+    {
+      "id": "voice",
+      "cs": "hlas",
+      "en": "voice",
+      "uk": "голос",
+      "ru": "голос",
+      "pl": "głos"
+    },
+    {
+      "id": "scent",
+      "cs": "vůně",
+      "en": "scent",
+      "uk": "аромат",
+      "ru": "аромат",
+      "pl": "zapach"
+    },
+    {
+      "id": "stench",
+      "cs": "zápach",
+      "en": "stench",
+      "uk": "сморід",
+      "ru": "вонь",
+      "pl": "smród"
+    },
+    {
+      "id": "stink",
+      "cs": "smrdět",
+      "en": "to stink",
+      "uk": "смердіти",
+      "ru": "вонять",
+      "pl": "śmierdzieć"
+    },
+    {
+      "id": "sniff",
+      "cs": "čichat",
+      "en": "to sniff",
+      "uk": "нюхати",
+      "ru": "нюхать",
+      "pl": "wąchać"
+    },
+    {
+      "id": "touch",
+      "cs": "dotknout se",
+      "en": "to touch",
+      "uk": "доторкнутися",
+      "ru": "дотронуться",
+      "pl": "dotknąć"
+    },
+    {
+      "id": "tickle",
+      "cs": "šimrat",
+      "en": "to tickle",
+      "uk": "лоскотати",
+      "ru": "щекотать",
+      "pl": "łaskotać"
+    },
+    {
+      "id": "sting-burn",
+      "cs": "pálit",
+      "en": "to sting (burn)",
+      "uk": "пекти",
+      "ru": "жечь",
+      "pl": "piec"
+    },
+    {
+      "id": "pinch",
+      "cs": "štípat",
+      "en": "to pinch",
+      "uk": "щипати",
+      "ru": "щипать",
+      "pl": "szczypać"
+    },
+    {
+      "id": "coarse",
+      "cs": "drsný",
+      "en": "coarse",
+      "uk": "шорсткий",
+      "ru": "шершавый",
+      "pl": "szorstki"
+    },
+    {
+      "id": "silky-soft",
+      "cs": "hebký",
+      "en": "silky (soft)",
+      "uk": "ніжний на дотик",
+      "ru": "мягкий на ощупь",
+      "pl": "jedwabisty"
+    },
+    {
+      "id": "delicate",
+      "cs": "jemný",
+      "en": "delicate",
+      "uk": "делікатний",
+      "ru": "деликатный",
+      "pl": "delikatny"
+    },
+    {
+      "id": "dazzling",
+      "cs": "oslnivý",
+      "en": "dazzling",
+      "uk": "сліпучий",
+      "ru": "ослепительный",
+      "pl": "olśniewający"
+    },
+    {
+      "id": "half-light",
+      "cs": "šero",
+      "en": "half-light",
+      "uk": "напівтемрява",
+      "ru": "полумрак",
+      "pl": "półmrok"
+    },
+    {
+      "id": "darkness",
+      "cs": "tma",
+      "en": "darkness",
+      "uk": "темрява",
+      "ru": "темнота",
+      "pl": "ciemność"
+    },
+    {
+      "id": "shadow",
+      "cs": "stín",
+      "en": "shadow",
+      "uk": "тінь",
+      "ru": "тень",
+      "pl": "cień"
+    },
+    {
+      "id": "shine",
+      "cs": "lesk",
+      "en": "shine",
+      "uk": "блиск",
+      "ru": "блеск",
+      "pl": "połysk"
+    }
+  ]
+}

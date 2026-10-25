@@ -1,6 +1,6 @@
 {
   "id": "environment",
-  "order": 67,
+  "order": 208,
   "level": "B1",
   "icon": "tree",
   "title": {
@@ -344,6 +344,206 @@
       "uk": "кислотний дощ",
       "ru": "кислотный дождь",
       "pl": "kwaśny deszcz"
+    },
+    {
+      "id": "carbon-footprint",
+      "cs": "uhlíková stopa",
+      "en": "carbon footprint",
+      "uk": "вуглецевий слід",
+      "ru": "углеродный след",
+      "pl": "ślad węglowy"
+    },
+    {
+      "id": "emissions",
+      "cs": "emise",
+      "en": "emissions",
+      "uk": "викиди",
+      "ru": "выбросы",
+      "pl": "emisje"
+    },
+    {
+      "id": "fossil-fuels",
+      "cs": "fosilní paliva",
+      "en": "fossil fuels",
+      "uk": "викопне паливо",
+      "ru": "ископаемое топливо",
+      "pl": "paliwa kopalne"
+    },
+    {
+      "id": "hydroelectric-power-station",
+      "cs": "vodní elektrárna",
+      "en": "hydroelectric power station",
+      "uk": "гідроелектростанція",
+      "ru": "гидроэлектростанция",
+      "pl": "elektrownia wodna"
+    },
+    {
+      "id": "heat-pump",
+      "cs": "tepelné čerpadlo",
+      "en": "heat pump",
+      "uk": "тепловий насос",
+      "ru": "тепловой насос",
+      "pl": "pompa ciepła"
+    },
+    {
+      "id": "thermal-insulation",
+      "cs": "zateplení",
+      "en": "thermal insulation",
+      "uk": "утеплення",
+      "ru": "утепление",
+      "pl": "ocieplenie budynku"
+    },
+    {
+      "id": "biodiversity",
+      "cs": "biodiverzita",
+      "en": "biodiversity",
+      "uk": "біорізноманіття",
+      "ru": "биоразнообразие",
+      "pl": "bioróżnorodność"
+    },
+    {
+      "id": "ecosystem",
+      "cs": "ekosystém",
+      "en": "ecosystem",
+      "uk": "екосистема",
+      "ru": "экосистема",
+      "pl": "ekosystem"
+    },
+    {
+      "id": "rainforest",
+      "cs": "deštný prales",
+      "en": "rainforest",
+      "uk": "тропічний ліс",
+      "ru": "тропический лес",
+      "pl": "las deszczowy"
+    },
+    {
+      "id": "extinction",
+      "cs": "vymírání",
+      "en": "extinction",
+      "uk": "вимирання",
+      "ru": "вымирание",
+      "pl": "wymieranie"
+    },
+    {
+      "id": "poaching",
+      "cs": "pytláctví",
+      "en": "poaching",
+      "uk": "браконьєрство",
+      "ru": "браконьерство",
+      "pl": "kłusownictwo"
+    },
+    {
+      "id": "pesticides",
+      "cs": "pesticidy",
+      "en": "pesticides",
+      "uk": "пестициди",
+      "ru": "пестициды",
+      "pl": "pestycydy"
+    },
+    {
+      "id": "microplastics",
+      "cs": "mikroplasty",
+      "en": "microplastics",
+      "uk": "мікропластик",
+      "ru": "микропластик",
+      "pl": "mikroplastik"
+    },
+    {
+      "id": "oil-spill",
+      "cs": "ropná skvrna",
+      "en": "oil spill",
+      "uk": "нафтова пляма",
+      "ru": "нефтяное пятно",
+      "pl": "wyciek ropy"
+    },
+    {
+      "id": "hazardous-waste",
+      "cs": "nebezpečný odpad",
+      "en": "hazardous waste",
+      "uk": "небезпечні відходи",
+      "ru": "опасные отходы",
+      "pl": "odpady niebezpieczne"
+    },
+    {
+      "id": "incinerator",
+      "cs": "spalovna",
+      "en": "incinerator",
+      "uk": "сміттєспалювальний завод",
+      "ru": "мусоросжигательный завод",
+      "pl": "spalarnia"
+    },
+    {
+      "id": "sewage-treatment-plant",
+      "cs": "čistička odpadních vod",
+      "en": "sewage treatment plant",
+      "uk": "очисні споруди",
+      "ru": "очистные сооружения",
+      "pl": "oczyszczalnia ścieków"
+    },
+    {
+      "id": "drinking-water",
+      "cs": "pitná voda",
+      "en": "drinking water",
+      "uk": "питна вода",
+      "ru": "питьевая вода",
+      "pl": "woda pitna"
+    },
+    {
+      "id": "reforestation",
+      "cs": "zalesňování",
+      "en": "reforestation",
+      "uk": "лісовідновлення",
+      "ru": "лесовосстановление",
+      "pl": "zalesianie"
+    },
+    {
+      "id": "heat-wave",
+      "cs": "vlna veder",
+      "en": "heat wave",
+      "uk": "хвиля спеки",
+      "ru": "волна жары",
+      "pl": "fala upałów"
+    },
+    {
+      "id": "melting-glaciers",
+      "cs": "tání ledovců",
+      "en": "melting glaciers",
+      "uk": "танення льодовиків",
+      "ru": "таяние ледников",
+      "pl": "topnienie lodowców"
+    },
+    {
+      "id": "sea-level",
+      "cs": "hladina moře",
+      "en": "sea level",
+      "uk": "рівень моря",
+      "ru": "уровень моря",
+      "pl": "poziom morza"
+    },
+    {
+      "id": "carbon",
+      "cs": "uhlík",
+      "en": "carbon",
+      "uk": "вуглець",
+      "ru": "углерод",
+      "pl": "węgiel"
+    },
+    {
+      "id": "methane",
+      "cs": "metan",
+      "en": "methane",
+      "uk": "метан",
+      "ru": "метан",
+      "pl": "metan"
+    },
+    {
+      "id": "carbon-dioxide",
+      "cs": "oxid uhličitý",
+      "en": "carbon dioxide",
+      "uk": "вуглекислий газ",
+      "ru": "углекислый газ",
+      "pl": "dwutlenek węgla"
     }
   ]
 }

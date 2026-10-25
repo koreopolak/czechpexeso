@@ -1,6 +1,6 @@
 {
   "id": "music-art",
-  "order": 64,
+  "order": 205,
   "level": "B1",
   "icon": "music",
   "title": {
@@ -432,6 +432,294 @@
       "uk": "плескати в долоні",
       "ru": "хлопать",
       "pl": "klaskać"
+    },
+    {
+      "id": "saxophone",
+      "cs": "saxofon",
+      "en": "saxophone",
+      "uk": "саксофон",
+      "ru": "саксофон",
+      "pl": "saksofon"
+    },
+    {
+      "id": "clarinet",
+      "cs": "klarinet",
+      "en": "clarinet",
+      "uk": "кларнет",
+      "ru": "кларнет",
+      "pl": "klarnet"
+    },
+    {
+      "id": "trombone",
+      "cs": "pozoun",
+      "en": "trombone",
+      "uk": "тромбон",
+      "ru": "тромбон",
+      "pl": "puzon"
+    },
+    {
+      "id": "double-bass",
+      "cs": "kontrabas",
+      "en": "double bass",
+      "uk": "контрабас",
+      "ru": "контрабас",
+      "pl": "kontrabas"
+    },
+    {
+      "id": "harp",
+      "cs": "harfa",
+      "en": "harp",
+      "uk": "арфа",
+      "ru": "арфа",
+      "pl": "harfa"
+    },
+    {
+      "id": "organ-instrument",
+      "cs": "varhany",
+      "en": "organ (instrument)",
+      "uk": "орган",
+      "ru": "орган",
+      "pl": "organy"
+    },
+    {
+      "id": "drum-kit",
+      "cs": "bicí",
+      "en": "drum kit",
+      "uk": "ударні",
+      "ru": "ударные",
+      "pl": "perkusja"
+    },
+    {
+      "id": "cymbals",
+      "cs": "činely",
+      "en": "cymbals",
+      "uk": "тарілки",
+      "ru": "тарелки",
+      "pl": "talerze"
+    },
+    {
+      "id": "synthesizer",
+      "cs": "syntezátor",
+      "en": "synthesizer",
+      "uk": "синтезатор",
+      "ru": "синтезатор",
+      "pl": "syntezator"
+    },
+    {
+      "id": "string",
+      "cs": "struna",
+      "en": "string",
+      "uk": "струна",
+      "ru": "струна",
+      "pl": "struna"
+    },
+    {
+      "id": "bow-for-strings",
+      "cs": "smyčec",
+      "en": "bow (for strings)",
+      "uk": "смичок",
+      "ru": "смычок",
+      "pl": "smyczek"
+    },
+    {
+      "id": "tune",
+      "cs": "ladit",
+      "en": "to tune",
+      "uk": "налаштовувати",
+      "ru": "настраивать",
+      "pl": "stroić"
+    },
+    {
+      "id": "chord",
+      "cs": "akord",
+      "en": "chord",
+      "uk": "акорд",
+      "ru": "аккорд",
+      "pl": "akord"
+    },
+    {
+      "id": "musical-scale",
+      "cs": "stupnice",
+      "en": "(musical) scale",
+      "uk": "гама",
+      "ru": "гамма",
+      "pl": "gama"
+    },
+    {
+      "id": "chorus-of-a-song",
+      "cs": "refrén",
+      "en": "chorus (of a song)",
+      "uk": "приспів",
+      "ru": "припев",
+      "pl": "refren"
+    },
+    {
+      "id": "verse",
+      "cs": "sloka",
+      "en": "verse",
+      "uk": "куплет",
+      "ru": "куплет",
+      "pl": "zwrotka"
+    },
+    {
+      "id": "soloist",
+      "cs": "sólista",
+      "en": "soloist",
+      "uk": "соліст",
+      "ru": "солист",
+      "pl": "solista"
+    },
+    {
+      "id": "tour",
+      "cs": "turné",
+      "en": "tour",
+      "uk": "гастролі",
+      "ru": "гастроли",
+      "pl": "trasa koncertowa"
+    },
+    {
+      "id": "festival",
+      "cs": "festival",
+      "en": "festival",
+      "uk": "фестиваль",
+      "ru": "фестиваль",
+      "pl": "festiwal"
+    },
+    {
+      "id": "recording",
+      "cs": "nahrávka",
+      "en": "recording",
+      "uk": "запис",
+      "ru": "запись",
+      "pl": "nagranie"
+    },
+    {
+      "id": "recording-studio",
+      "cs": "nahrávací studio",
+      "en": "recording studio",
+      "uk": "студія звукозапису",
+      "ru": "студия звукозаписи",
+      "pl": "studio nagraniowe"
+    },
+    {
+      "id": "genre",
+      "cs": "žánr",
+      "en": "genre",
+      "uk": "жанр",
+      "ru": "жанр",
+      "pl": "gatunek"
+    },
+    {
+      "id": "classical-music",
+      "cs": "vážná hudba",
+      "en": "classical music",
+      "uk": "класична музика",
+      "ru": "классическая музыка",
+      "pl": "muzyka poważna"
+    },
+    {
+      "id": "folk-music",
+      "cs": "lidová hudba",
+      "en": "folk music",
+      "uk": "народна музика",
+      "ru": "народная музыка",
+      "pl": "muzyka ludowa"
+    },
+    {
+      "id": "brass-band-music",
+      "cs": "dechovka",
+      "en": "brass band music",
+      "uk": "духова музика",
+      "ru": "духовая музыка",
+      "pl": "orkiestra dęta"
+    },
+    {
+      "id": "watercolour",
+      "cs": "akvarel",
+      "en": "watercolour",
+      "uk": "акварель",
+      "ru": "акварель",
+      "pl": "akwarela"
+    },
+    {
+      "id": "oil-painting",
+      "cs": "olejomalba",
+      "en": "oil painting",
+      "uk": "олійний живопис",
+      "ru": "масляная живопись",
+      "pl": "obraz olejny"
+    },
+    {
+      "id": "fresco",
+      "cs": "freska",
+      "en": "fresco",
+      "uk": "фреска",
+      "ru": "фреска",
+      "pl": "fresk"
+    },
+    {
+      "id": "mosaic",
+      "cs": "mozaika",
+      "en": "mosaic",
+      "uk": "мозаїка",
+      "ru": "мозаика",
+      "pl": "mozaika"
+    },
+    {
+      "id": "sketch",
+      "cs": "skica",
+      "en": "sketch",
+      "uk": "ескіз",
+      "ru": "эскиз",
+      "pl": "szkic"
+    },
+    {
+      "id": "still-life",
+      "cs": "zátiší",
+      "en": "still life",
+      "uk": "натюрморт",
+      "ru": "натюрморт",
+      "pl": "martwa natura"
+    },
+    {
+      "id": "exhibition-opening",
+      "cs": "vernisáž",
+      "en": "exhibition opening",
+      "uk": "вернісаж",
+      "ru": "вернисаж",
+      "pl": "wernisaż"
+    },
+    {
+      "id": "curator",
+      "cs": "kurátor",
+      "en": "curator",
+      "uk": "куратор",
+      "ru": "куратор",
+      "pl": "kurator"
+    },
+    {
+      "id": "masterpiece",
+      "cs": "mistrovské dílo",
+      "en": "masterpiece",
+      "uk": "шедевр",
+      "ru": "шедевр",
+      "pl": "arcydzieło"
+    },
+    {
+      "id": "palette",
+      "cs": "paleta",
+      "en": "palette",
+      "uk": "палітра",
+      "ru": "палитра",
+      "pl": "paleta"
+    },
+    {
+      "id": "easel",
+      "cs": "stojan",
+      "en": "easel",
+      "uk": "мольберт",
+      "ru": "мольберт",
+      "pl": "sztaluga"
     }
   ]
 }

@@ -1,0 +1,261 @@
+{
+  "id": "body-language",
+  "order": 139,
+  "level": "A2",
+  "icon": "hand",
+  "title": {
+    "cs": "Gesta a pohyby těla",
+    "en": "Gestures & Body Language",
+    "uk": "Жести та рухи тіла",
+    "ru": "Жесты и движения тела",
+    "pl": "Gesty i mowa ciała"
+  },
+  "description": {
+    "en": "Nodding, waving, blushing and stumbling.",
+    "uk": "Кивати, махати, червоніти й спотикатися.",
+    "ru": "Кивать, махать, краснеть и спотыкаться.",
+    "pl": "Kiwać, machać, rumienić się i potykać."
+  },
+  "words": [
+    {
+      "id": "nod",
+      "cs": "kývnout",
+      "en": "to nod",
+      "uk": "кивнути",
+      "ru": "кивнуть",
+      "pl": "skinąć głową"
+    },
+    {
+      "id": "shake-your-head",
+      "cs": "zavrtět hlavou",
+      "en": "to shake your head",
+      "uk": "похитати головою",
+      "ru": "покачать головой",
+      "pl": "pokręcić głową"
+    },
+    {
+      "id": "shrug",
+      "cs": "pokrčit rameny",
+      "en": "to shrug",
+      "uk": "знизати плечима",
+      "ru": "пожать плечами",
+      "pl": "wzruszyć ramionami"
+    },
+    {
+      "id": "wave",
+      "cs": "mávat",
+      "en": "to wave",
+      "uk": "махати",
+      "ru": "махать",
+      "pl": "machać"
+    },
+    {
+      "id": "point",
+      "cs": "ukazovat prstem",
+      "en": "to point",
+      "uk": "показувати пальцем",
+      "ru": "показывать пальцем",
+      "pl": "wskazywać palcem"
+    },
+    {
+      "id": "stamp-your-feet",
+      "cs": "dupat",
+      "en": "to stamp (your feet)",
+      "uk": "тупотіти",
+      "ru": "топать",
+      "pl": "tupać"
+    },
+    {
+      "id": "slap",
+      "cs": "plácnout",
+      "en": "to slap",
+      "uk": "ляснути",
+      "ru": "шлёпнуть",
+      "pl": "klepnąć"
+    },
+    {
+      "id": "scratch-yourself",
+      "cs": "škrábat se",
+      "en": "to scratch yourself",
+      "uk": "чухатися",
+      "ru": "чесаться",
+      "pl": "drapać się"
+    },
+    {
+      "id": "chew",
+      "cs": "žvýkat",
+      "en": "to chew",
+      "uk": "жувати",
+      "ru": "жевать",
+      "pl": "żuć"
+    },
+    {
+      "id": "lick",
+      "cs": "olizovat",
+      "en": "to lick",
+      "uk": "облизувати",
+      "ru": "облизывать",
+      "pl": "lizać"
+    },
+    {
+      "id": "blow",
+      "cs": "foukat",
+      "en": "to blow",
+      "uk": "дути",
+      "ru": "дуть",
+      "pl": "dmuchać"
+    },
+    {
+      "id": "whistle",
+      "cs": "pískat",
+      "en": "to whistle",
+      "uk": "свистіти",
+      "ru": "свистеть",
+      "pl": "gwizdać"
+    },
+    {
+      "id": "frown",
+      "cs": "mračit se",
+      "en": "to frown",
+      "uk": "хмуритися",
+      "ru": "хмуриться",
+      "pl": "marszczyć brwi"
+    },
+    {
+      "id": "grin",
+      "cs": "šklebit se",
+      "en": "to grin",
+      "uk": "шкіритися",
+      "ru": "ухмыляться",
+      "pl": "szczerzyć się"
+    },
+    {
+      "id": "blush",
+      "cs": "červenat se",
+      "en": "to blush",
+      "uk": "червоніти",
+      "ru": "краснеть",
+      "pl": "rumienić się"
+    },
+    {
+      "id": "shiver",
+      "cs": "třást se",
+      "en": "to shiver",
+      "uk": "тремтіти",
+      "ru": "дрожать",
+      "pl": "trząść się"
+    },
+    {
+      "id": "stumble",
+      "cs": "klopýtnout",
+      "en": "to stumble",
+      "uk": "спіткнутися",
+      "ru": "споткнуться",
+      "pl": "potknąć się"
+    },
+    {
+      "id": "slip",
+      "cs": "uklouznout",
+      "en": "to slip",
+      "uk": "послизнутися",
+      "ru": "поскользнуться",
+      "pl": "poślizgnąć się"
+    },
+    {
+      "id": "fall-over",
+      "cs": "upadnout",
+      "en": "to fall over",
+      "uk": "впасти",
+      "ru": "упасть",
+      "pl": "przewrócić się"
+    },
+    {
+      "id": "limp",
+      "cs": "kulhat",
+      "en": "to limp",
+      "uk": "кульгати",
+      "ru": "хромать",
+      "pl": "kuleć"
+    },
+    {
+      "id": "crawl",
+      "cs": "plazit se",
+      "en": "to crawl",
+      "uk": "повзати",
+      "ru": "ползать",
+      "pl": "czołgać się"
+    },
+    {
+      "id": "squat-down",
+      "cs": "dřepnout si",
+      "en": "to squat down",
+      "uk": "присісти",
+      "ru": "присесть",
+      "pl": "przykucnąć"
+    },
+    {
+      "id": "kneel",
+      "cs": "kleknout si",
+      "en": "to kneel",
+      "uk": "стати на коліна",
+      "ru": "встать на колени",
+      "pl": "uklęknąć"
+    },
+    {
+      "id": "lean",
+      "cs": "opřít se",
+      "en": "to lean",
+      "uk": "обпертися",
+      "ru": "опереться",
+      "pl": "oprzeć się"
+    },
+    {
+      "id": "reach-out",
+      "cs": "natáhnout se",
+      "en": "to reach out",
+      "uk": "потягнутися рукою",
+      "ru": "протянуть руку",
+      "pl": "sięgnąć"
+    },
+    {
+      "id": "shake-hands",
+      "cs": "podat ruku",
+      "en": "to shake hands",
+      "uk": "потиснути руку",
+      "ru": "пожать руку",
+      "pl": "podać rękę"
+    },
+    {
+      "id": "pat",
+      "cs": "poplácat",
+      "en": "to pat",
+      "uk": "поплескати",
+      "ru": "похлопать",
+      "pl": "poklepać"
+    },
+    {
+      "id": "gesture",
+      "cs": "gesto",
+      "en": "gesture",
+      "uk": "жест",
+      "ru": "жест",
+      "pl": "gest"
+    },
+    {
+      "id": "facial-expression",
+      "cs": "mimika",
+      "en": "facial expression",
+      "uk": "міміка",
+      "ru": "мимика",
+      "pl": "mimika"
+    },
+    {
+      "id": "body-language",
+      "cs": "řeč těla",
+      "en": "body language",
+      "uk": "мова тіла",
+      "ru": "язык тела",
+      "pl": "mowa ciała"
+    }
+  ]
+}

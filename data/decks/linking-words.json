@@ -1,0 +1,413 @@
+{
+  "id": "linking-words",
+  "order": 302,
+  "level": "B2",
+  "icon": "link",
+  "title": {
+    "cs": "Spojovací výrazy",
+    "en": "Linking Words",
+    "uk": "Сполучні слова",
+    "ru": "Связующие слова",
+    "pl": "Wyrażenia łączące"
+  },
+  "description": {
+    "en": "Connect your ideas: however, moreover, unless…",
+    "uk": "Поєднуйте думки: однак, більше того, хіба що…",
+    "ru": "Связывайте мысли: однако, более того, разве что…",
+    "pl": "Łącz myśli: jednak, co więcej, chyba że…"
+  },
+  "words": [
+    {
+      "id": "however",
+      "cs": "avšak",
+      "en": "however",
+      "uk": "однак",
+      "ru": "однако",
+      "pl": "jednak"
+    },
+    {
+      "id": "nevertheless",
+      "cs": "nicméně",
+      "en": "nevertheless",
+      "uk": "проте",
+      "ru": "тем не менее",
+      "pl": "niemniej jednak"
+    },
+    {
+      "id": "despite-that",
+      "cs": "přesto",
+      "en": "despite that",
+      "uk": "попри це",
+      "ru": "несмотря на это",
+      "pl": "pomimo tego"
+    },
+    {
+      "id": "even-though",
+      "cs": "přestože",
+      "en": "even though",
+      "uk": "хоча",
+      "ru": "хотя",
+      "pl": "chociaż"
+    },
+    {
+      "id": "even-if",
+      "cs": "i když",
+      "en": "even if",
+      "uk": "навіть якщо",
+      "ru": "даже если",
+      "pl": "nawet jeśli"
+    },
+    {
+      "id": "since-because",
+      "cs": "jelikož",
+      "en": "since (because)",
+      "uk": "оскільки",
+      "ru": "поскольку",
+      "pl": "ponieważ"
+    },
+    {
+      "id": "for-because",
+      "cs": "neboť",
+      "en": "for (because)",
+      "uk": "бо",
+      "ru": "ибо",
+      "pl": "albowiem"
+    },
+    {
+      "id": "therefore",
+      "cs": "tudíž",
+      "en": "therefore",
+      "uk": "отже",
+      "ru": "следовательно",
+      "pl": "zatem"
+    },
+    {
+      "id": "consequently",
+      "cs": "tím pádem",
+      "en": "consequently",
+      "uk": "відтак",
+      "ru": "соответственно",
+      "pl": "w rezultacie"
+    },
+    {
+      "id": "as-a-result-of",
+      "cs": "v důsledku",
+      "en": "as a result of",
+      "uk": "унаслідок",
+      "ru": "вследствие",
+      "pl": "w wyniku"
+    },
+    {
+      "id": "whereas",
+      "cs": "kdežto",
+      "en": "whereas",
+      "uk": "тоді як",
+      "ru": "тогда как",
+      "pl": "podczas gdy"
+    },
+    {
+      "id": "on-the-contrary",
+      "cs": "naopak",
+      "en": "on the contrary",
+      "uk": "навпаки",
+      "ru": "наоборот",
+      "pl": "przeciwnie"
+    },
+    {
+      "id": "otherwise",
+      "cs": "jinak",
+      "en": "otherwise",
+      "uk": "інакше",
+      "ru": "иначе",
+      "pl": "inaczej"
+    },
+    {
+      "id": "besides",
+      "cs": "mimo to",
+      "en": "besides",
+      "uk": "окрім цього",
+      "ru": "помимо этого",
+      "pl": "poza tym"
+    },
+    {
+      "id": "in-addition",
+      "cs": "kromě toho",
+      "en": "in addition",
+      "uk": "до того ж",
+      "ru": "к тому же",
+      "pl": "ponadto"
+    },
+    {
+      "id": "moreover",
+      "cs": "navíc",
+      "en": "moreover",
+      "uk": "більше того",
+      "ru": "более того",
+      "pl": "co więcej"
+    },
+    {
+      "id": "furthermore",
+      "cs": "dále",
+      "en": "furthermore",
+      "uk": "далі",
+      "ru": "далее",
+      "pl": "dalej"
+    },
+    {
+      "id": "at-the-same-time",
+      "cs": "zároveň",
+      "en": "at the same time",
+      "uk": "водночас",
+      "ru": "в то же время",
+      "pl": "zarazem"
+    },
+    {
+      "id": "simultaneously",
+      "cs": "současně",
+      "en": "simultaneously",
+      "uk": "одночасно",
+      "ru": "одновременно",
+      "pl": "jednocześnie"
+    },
+    {
+      "id": "first-of-all",
+      "cs": "nejprve",
+      "en": "first of all",
+      "uk": "спочатку",
+      "ru": "сначала",
+      "pl": "najpierw"
+    },
+    {
+      "id": "afterwards",
+      "cs": "poté",
+      "en": "afterwards",
+      "uk": "після того",
+      "ru": "после этого",
+      "pl": "potem"
+    },
+    {
+      "id": "subsequently",
+      "cs": "následně",
+      "en": "subsequently",
+      "uk": "згодом",
+      "ru": "впоследствии",
+      "pl": "następnie"
+    },
+    {
+      "id": "finally",
+      "cs": "konečně",
+      "en": "finally",
+      "uk": "нарешті",
+      "ru": "наконец",
+      "pl": "wreszcie"
+    },
+    {
+      "id": "in-short",
+      "cs": "zkrátka",
+      "en": "in short",
+      "uk": "коротше кажучи",
+      "ru": "короче говоря",
+      "pl": "krótko mówiąc"
+    },
+    {
+      "id": "in-other-words",
+      "cs": "jinými slovy",
+      "en": "in other words",
+      "uk": "іншими словами",
+      "ru": "другими словами",
+      "pl": "innymi słowy"
+    },
+    {
+      "id": "that-is-to-say",
+      "cs": "to znamená",
+      "en": "that is (to say)",
+      "uk": "тобто",
+      "ru": "то есть",
+      "pl": "to znaczy"
+    },
+    {
+      "id": "especially",
+      "cs": "zejména",
+      "en": "especially",
+      "uk": "особливо",
+      "ru": "особенно",
+      "pl": "zwłaszcza"
+    },
+    {
+      "id": "mainly",
+      "cs": "hlavně",
+      "en": "mainly",
+      "uk": "головним чином",
+      "ru": "главным образом",
+      "pl": "głównie"
+    },
+    {
+      "id": "above-all",
+      "cs": "především",
+      "en": "above all",
+      "uk": "насамперед",
+      "ru": "прежде всего",
+      "pl": "przede wszystkim"
+    },
+    {
+      "id": "solely",
+      "cs": "pouze",
+      "en": "solely",
+      "uk": "лише",
+      "ru": "лишь",
+      "pl": "wyłącznie"
+    },
+    {
+      "id": "even",
+      "cs": "dokonce",
+      "en": "even",
+      "uk": "навіть",
+      "ru": "даже",
+      "pl": "nawet"
+    },
+    {
+      "id": "after-all",
+      "cs": "ostatně",
+      "en": "after all",
+      "uk": "зрештою",
+      "ru": "впрочем",
+      "pl": "zresztą"
+    },
+    {
+      "id": "actually",
+      "cs": "vlastně",
+      "en": "actually",
+      "uk": "власне",
+      "ru": "собственно",
+      "pl": "właściwie"
+    },
+    {
+      "id": "you-see-namely",
+      "cs": "totiž",
+      "en": "you see (namely)",
+      "uk": "адже",
+      "ru": "дело в том, что",
+      "pl": "mianowicie"
+    },
+    {
+      "id": "admittedly-but",
+      "cs": "sice..., ale",
+      "en": "admittedly..., but",
+      "uk": "щоправда..., але",
+      "ru": "хотя и..., но",
+      "pl": "wprawdzie..., ale"
+    },
+    {
+      "id": "either-or",
+      "cs": "buď..., nebo",
+      "en": "either... or",
+      "uk": "або..., або",
+      "ru": "либо..., либо",
+      "pl": "albo..., albo"
+    },
+    {
+      "id": "neither-nor",
+      "cs": "ani..., ani",
+      "en": "neither... nor",
+      "uk": "ні..., ні",
+      "ru": "ни..., ни",
+      "pl": "ani..., ani"
+    },
+    {
+      "id": "both-and",
+      "cs": "jak..., tak",
+      "en": "both... and",
+      "uk": "як..., так і",
+      "ru": "как..., так и",
+      "pl": "zarówno..., jak i"
+    },
+    {
+      "id": "not-only-but-also",
+      "cs": "nejen..., ale i",
+      "en": "not only... but also",
+      "uk": "не тільки..., а й",
+      "ru": "не только..., но и",
+      "pl": "nie tylko..., ale też"
+    },
+    {
+      "id": "as-regards",
+      "cs": "pokud jde o",
+      "en": "as regards",
+      "uk": "що стосується",
+      "ru": "что касается",
+      "pl": "jeśli chodzi o"
+    },
+    {
+      "id": "in-view-of",
+      "cs": "vzhledem k",
+      "en": "in view of",
+      "uk": "з огляду на",
+      "ru": "ввиду",
+      "pl": "ze względu na"
+    },
+    {
+      "id": "unlike",
+      "cs": "na rozdíl od",
+      "en": "unlike",
+      "uk": "на відміну від",
+      "ru": "в отличие от",
+      "pl": "w przeciwieństwie do"
+    },
+    {
+      "id": "just-like",
+      "cs": "stejně jako",
+      "en": "just like",
+      "uk": "так само як",
+      "ru": "так же как",
+      "pl": "tak samo jak"
+    },
+    {
+      "id": "similarly",
+      "cs": "podobně",
+      "en": "similarly",
+      "uk": "подібно",
+      "ru": "подобно",
+      "pl": "podobnie"
+    },
+    {
+      "id": "unless",
+      "cs": "ledaže",
+      "en": "unless",
+      "uk": "хіба що",
+      "ru": "разве что",
+      "pl": "chyba że"
+    },
+    {
+      "id": "as-soon-as",
+      "cs": "jakmile",
+      "en": "as soon as",
+      "uk": "щойно",
+      "ru": "как только",
+      "pl": "jak tylko"
+    },
+    {
+      "id": "as-long-as",
+      "cs": "dokud",
+      "en": "as long as",
+      "uk": "поки",
+      "ru": "пока",
+      "pl": "dopóki"
+    },
+    {
+      "id": "only-not-until",
+      "cs": "teprve",
+      "en": "only (not until)",
+      "uk": "лише тоді",
+      "ru": "только тогда",
+      "pl": "dopiero"
+    },
+    {
+      "id": "without-doing",
+      "cs": "aniž",
+      "en": "without (doing)",
+      "uk": "не (роблячи)",
+      "ru": "не (делая)",
+      "pl": "nie (robiąc)"
+    }
+  ]
+}

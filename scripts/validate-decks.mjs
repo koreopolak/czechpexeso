@@ -13,7 +13,7 @@
  *    (two identical-looking cards that don't match would confuse players)
  *  - each deck has enough words for the largest grid (18 pairs)
  *  - the same word (same Czech + same English) is not in two decks
- *  - level is A1, A2 or B1 (the deck screen groups decks by level)
+ *  - level is A1, A2, B1 or B2 (the deck screen groups decks by level)
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -34,7 +34,7 @@ const ids = new Set();
 const orders = new Set();
 /** "czech|english" → deck id, to catch the same word in two decks. */
 const everywhere = new Map();
-const LEVELS = ["A1", "A2", "B1"];
+const LEVELS = ["A1", "A2", "B1", "B2"];
 let totalWords = 0;
 
 for (const file of files) {

@@ -1,0 +1,509 @@
+{
+  "id": "verbs-b2",
+  "order": 313,
+  "level": "B2",
+  "icon": "spark",
+  "title": {
+    "cs": "Pokročilá slovesa",
+    "en": "Advanced Verbs",
+    "uk": "Складніші дієслова",
+    "ru": "Сложные глаголы",
+    "pl": "Zaawansowane czasowniki"
+  },
+  "description": {
+    "en": "Verbs for work, analysis and formal Czech.",
+    "uk": "Дієслова для роботи, аналізу й офіційної мови.",
+    "ru": "Глаголы для работы, анализа и официальной речи.",
+    "pl": "Czasowniki do pracy, analizy i języka formalnego."
+  },
+  "words": [
+    {
+      "id": "carry-out",
+      "cs": "uskutečnit",
+      "en": "to carry out",
+      "uk": "здійснити",
+      "ru": "осуществить",
+      "pl": "zrealizować"
+    },
+    {
+      "id": "implement",
+      "cs": "realizovat",
+      "en": "to implement",
+      "uk": "реалізувати",
+      "ru": "реализовать",
+      "pl": "realizować"
+    },
+    {
+      "id": "ensure",
+      "cs": "zajistit",
+      "en": "to ensure",
+      "uk": "забезпечити",
+      "ru": "обеспечить",
+      "pl": "zapewnić"
+    },
+    {
+      "id": "secure",
+      "cs": "zabezpečit",
+      "en": "to secure",
+      "uk": "убезпечити",
+      "ru": "обезопасить",
+      "pl": "zabezpieczyć"
+    },
+    {
+      "id": "facilitate",
+      "cs": "usnadnit",
+      "en": "to facilitate",
+      "uk": "полегшити",
+      "ru": "облегчить",
+      "pl": "ułatwić"
+    },
+    {
+      "id": "hinder",
+      "cs": "znesnadnit",
+      "en": "to hinder",
+      "uk": "ускладнити",
+      "ru": "затруднить",
+      "pl": "utrudnić"
+    },
+    {
+      "id": "enable",
+      "cs": "umožnit",
+      "en": "to enable",
+      "uk": "уможливити",
+      "ru": "дать возможность",
+      "pl": "umożliwić"
+    },
+    {
+      "id": "make-impossible",
+      "cs": "znemožnit",
+      "en": "to make impossible",
+      "uk": "унеможливити",
+      "ru": "сделать невозможным",
+      "pl": "uniemożliwić"
+    },
+    {
+      "id": "strengthen",
+      "cs": "posílit",
+      "en": "to strengthen",
+      "uk": "посилити",
+      "ru": "усилить",
+      "pl": "wzmocnić"
+    },
+    {
+      "id": "weaken",
+      "cs": "oslabit",
+      "en": "to weaken",
+      "uk": "послабити",
+      "ru": "ослабить",
+      "pl": "osłabić"
+    },
+    {
+      "id": "deepen",
+      "cs": "prohloubit",
+      "en": "to deepen",
+      "uk": "поглибити",
+      "ru": "углубить",
+      "pl": "pogłębić"
+    },
+    {
+      "id": "expand",
+      "cs": "rozšířit",
+      "en": "to expand",
+      "uk": "розширити",
+      "ru": "расширить",
+      "pl": "rozszerzyć"
+    },
+    {
+      "id": "narrow",
+      "cs": "zúžit",
+      "en": "to narrow",
+      "uk": "звузити",
+      "ru": "сузить",
+      "pl": "zawęzić"
+    },
+    {
+      "id": "limit",
+      "cs": "omezit",
+      "en": "to limit",
+      "uk": "обмежити",
+      "ru": "ограничить",
+      "pl": "ograniczyć"
+    },
+    {
+      "id": "regulate",
+      "cs": "regulovat",
+      "en": "to regulate",
+      "uk": "регулювати",
+      "ru": "регулировать",
+      "pl": "regulować"
+    },
+    {
+      "id": "adjust",
+      "cs": "upravit",
+      "en": "to adjust",
+      "uk": "відкоригувати",
+      "ru": "скорректировать",
+      "pl": "skorygować"
+    },
+    {
+      "id": "unify",
+      "cs": "sjednotit",
+      "en": "to unify",
+      "uk": "об’єднати",
+      "ru": "объединить",
+      "pl": "zjednoczyć"
+    },
+    {
+      "id": "separate",
+      "cs": "oddělit",
+      "en": "to separate",
+      "uk": "відокремити",
+      "ru": "отделить",
+      "pl": "oddzielić"
+    },
+    {
+      "id": "replace",
+      "cs": "nahradit",
+      "en": "to replace",
+      "uk": "замінити",
+      "ru": "заменить",
+      "pl": "zastąpić"
+    },
+    {
+      "id": "supplement",
+      "cs": "doplnit",
+      "en": "to supplement",
+      "uk": "доповнити",
+      "ru": "дополнить",
+      "pl": "uzupełnić"
+    },
+    {
+      "id": "exclude",
+      "cs": "vyloučit",
+      "en": "to exclude",
+      "uk": "виключити",
+      "ru": "исключить",
+      "pl": "wykluczyć"
+    },
+    {
+      "id": "incorporate",
+      "cs": "začlenit",
+      "en": "to incorporate",
+      "uk": "включити до складу",
+      "ru": "включить в состав",
+      "pl": "włączyć"
+    },
+    {
+      "id": "take-over",
+      "cs": "převzít",
+      "en": "to take over",
+      "uk": "перейняти",
+      "ru": "перенять",
+      "pl": "przejąć"
+    },
+    {
+      "id": "entrust",
+      "cs": "svěřit",
+      "en": "to entrust",
+      "uk": "довірити",
+      "ru": "доверить",
+      "pl": "powierzyć"
+    },
+    {
+      "id": "assign-a-task",
+      "cs": "pověřit",
+      "en": "to assign (a task)",
+      "uk": "доручити",
+      "ru": "поручить",
+      "pl": "zlecić"
+    },
+    {
+      "id": "delegate",
+      "cs": "delegovat",
+      "en": "to delegate",
+      "uk": "делегувати",
+      "ru": "делегировать",
+      "pl": "delegować"
+    },
+    {
+      "id": "coordinate",
+      "cs": "koordinovat",
+      "en": "to coordinate",
+      "uk": "координувати",
+      "ru": "координировать",
+      "pl": "koordynować"
+    },
+    {
+      "id": "administer",
+      "cs": "spravovat",
+      "en": "to administer",
+      "uk": "управляти",
+      "ru": "управлять",
+      "pl": "zarządzać"
+    },
+    {
+      "id": "supervise",
+      "cs": "dohlížet",
+      "en": "to supervise",
+      "uk": "наглядати за",
+      "ru": "надзирать",
+      "pl": "nadzorować"
+    },
+    {
+      "id": "examine",
+      "cs": "zkoumat",
+      "en": "to examine",
+      "uk": "досліджувати",
+      "ru": "исследовать",
+      "pl": "badać"
+    },
+    {
+      "id": "explore",
+      "cs": "prozkoumat",
+      "en": "to explore",
+      "uk": "обстежити",
+      "ru": "обследовать",
+      "pl": "zbadać"
+    },
+    {
+      "id": "discover",
+      "cs": "objevit",
+      "en": "to discover",
+      "uk": "відкрити",
+      "ru": "открыть",
+      "pl": "odkryć"
+    },
+    {
+      "id": "uncover",
+      "cs": "odhalit",
+      "en": "to uncover",
+      "uk": "викрити",
+      "ru": "разоблачить",
+      "pl": "ujawnić"
+    },
+    {
+      "id": "prove",
+      "cs": "prokázat",
+      "en": "to prove",
+      "uk": "довести",
+      "ru": "доказать",
+      "pl": "wykazać"
+    },
+    {
+      "id": "investigate",
+      "cs": "vyšetřovat",
+      "en": "to investigate",
+      "uk": "розслідувати",
+      "ru": "расследовать",
+      "pl": "prowadzić śledztwo"
+    },
+    {
+      "id": "record",
+      "cs": "zaznamenat",
+      "en": "to record",
+      "uk": "зафіксувати",
+      "ru": "зафиксировать",
+      "pl": "odnotować"
+    },
+    {
+      "id": "make-public",
+      "cs": "zveřejnit",
+      "en": "to make public",
+      "uk": "оприлюднити",
+      "ru": "обнародовать",
+      "pl": "upublicznić"
+    },
+    {
+      "id": "spread",
+      "cs": "šířit",
+      "en": "to spread",
+      "uk": "поширювати",
+      "ru": "распространять",
+      "pl": "rozpowszechniać"
+    },
+    {
+      "id": "promote",
+      "cs": "propagovat",
+      "en": "to promote",
+      "uk": "просувати",
+      "ru": "продвигать",
+      "pl": "promować"
+    },
+    {
+      "id": "push-through",
+      "cs": "prosadit",
+      "en": "to push through",
+      "uk": "домогтися ухвалення",
+      "ru": "добиться принятия",
+      "pl": "przeforsować"
+    },
+    {
+      "id": "negotiate",
+      "cs": "vyjednat",
+      "en": "to negotiate",
+      "uk": "домовитися про умови",
+      "ru": "согласовать условия",
+      "pl": "wynegocjować"
+    },
+    {
+      "id": "compensate",
+      "cs": "kompenzovat",
+      "en": "to compensate",
+      "uk": "компенсувати",
+      "ru": "компенсировать",
+      "pl": "rekompensować"
+    },
+    {
+      "id": "even-out",
+      "cs": "vyrovnat",
+      "en": "to even out",
+      "uk": "вирівняти",
+      "ru": "выровнять",
+      "pl": "wyrównać"
+    },
+    {
+      "id": "outweigh",
+      "cs": "převážit",
+      "en": "to outweigh",
+      "uk": "переважити",
+      "ru": "перевесить",
+      "pl": "przeważyć"
+    },
+    {
+      "id": "contribute",
+      "cs": "přispět",
+      "en": "to contribute",
+      "uk": "зробити внесок",
+      "ru": "внести вклад",
+      "pl": "przyczynić się"
+    },
+    {
+      "id": "result-in",
+      "cs": "vyústit",
+      "en": "to result in",
+      "uk": "вилитися в",
+      "ru": "вылиться в",
+      "pl": "zaowocować"
+    },
+    {
+      "id": "threaten",
+      "cs": "hrozit",
+      "en": "to threaten",
+      "uk": "загрожувати",
+      "ru": "угрожать",
+      "pl": "grozić"
+    },
+    {
+      "id": "endanger",
+      "cs": "ohrozit",
+      "en": "to endanger",
+      "uk": "поставити під загрозу",
+      "ru": "поставить под угрозу",
+      "pl": "zagrozić"
+    },
+    {
+      "id": "misuse",
+      "cs": "zneužít",
+      "en": "to misuse",
+      "uk": "зловживати",
+      "ru": "злоупотребить",
+      "pl": "nadużyć"
+    },
+    {
+      "id": "neglect",
+      "cs": "zanedbat",
+      "en": "to neglect",
+      "uk": "занедбати",
+      "ru": "запустить",
+      "pl": "zaniedbać"
+    },
+    {
+      "id": "overestimate",
+      "cs": "přecenit",
+      "en": "to overestimate",
+      "uk": "переоцінити",
+      "ru": "переоценить",
+      "pl": "przecenić"
+    },
+    {
+      "id": "underestimate",
+      "cs": "podcenit",
+      "en": "to underestimate",
+      "uk": "недооцінити",
+      "ru": "недооценить",
+      "pl": "nie docenić"
+    },
+    {
+      "id": "perfect",
+      "cs": "zdokonalit",
+      "en": "to perfect",
+      "uk": "вдосконалити",
+      "ru": "усовершенствовать",
+      "pl": "udoskonalić"
+    },
+    {
+      "id": "streamline",
+      "cs": "zefektivnit",
+      "en": "to streamline",
+      "uk": "підвищити ефективність",
+      "ru": "повысить эффективность",
+      "pl": "usprawnić"
+    },
+    {
+      "id": "modernise",
+      "cs": "modernizovat",
+      "en": "to modernise",
+      "uk": "модернізувати",
+      "ru": "модернизировать",
+      "pl": "modernizować"
+    },
+    {
+      "id": "put-to-use",
+      "cs": "uplatnit",
+      "en": "to put to use",
+      "uk": "застосувати",
+      "ru": "применить",
+      "pl": "zastosować"
+    },
+    {
+      "id": "make-use-of",
+      "cs": "využít",
+      "en": "to make use of",
+      "uk": "використати",
+      "ru": "использовать",
+      "pl": "wykorzystać"
+    },
+    {
+      "id": "consume",
+      "cs": "spotřebovat",
+      "en": "to consume",
+      "uk": "спожити",
+      "ru": "потребить",
+      "pl": "zużyć"
+    },
+    {
+      "id": "exhaust",
+      "cs": "vyčerpat",
+      "en": "to exhaust",
+      "uk": "вичерпати",
+      "ru": "исчерпать",
+      "pl": "wyczerpać"
+    },
+    {
+      "id": "procure",
+      "cs": "obstarat",
+      "en": "to procure",
+      "uk": "роздобути",
+      "ru": "раздобыть",
+      "pl": "załatwić"
+    },
+    {
+      "id": "have-at-your-disposal",
+      "cs": "disponovat",
+      "en": "to have at your disposal",
+      "uk": "мати в розпорядженні",
+      "ru": "располагать",
+      "pl": "dysponować"
+    }
+  ]
+}

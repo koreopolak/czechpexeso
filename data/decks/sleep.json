@@ -1,0 +1,197 @@
+{
+  "id": "sleep",
+  "order": 138,
+  "level": "A2",
+  "icon": "bed",
+  "title": {
+    "cs": "Spánek a odpočinek",
+    "en": "Sleep & Rest",
+    "uk": "Сон і відпочинок",
+    "ru": "Сон и отдых",
+    "pl": "Sen i odpoczynek"
+  },
+  "description": {
+    "en": "Bedtime, dreams and lazy mornings.",
+    "uk": "Час спати, сни й ліниві ранки.",
+    "ru": "Время сна, сны и ленивые утра.",
+    "pl": "Pora snu, sny i leniwe poranki."
+  },
+  "words": [
+    {
+      "id": "snore",
+      "cs": "chrápat",
+      "en": "to snore",
+      "uk": "хропіти",
+      "ru": "храпеть",
+      "pl": "chrapać"
+    },
+    {
+      "id": "yawn",
+      "cs": "zívat",
+      "en": "to yawn",
+      "uk": "позіхати",
+      "ru": "зевать",
+      "pl": "ziewać"
+    },
+    {
+      "id": "stretch-after-sleep",
+      "cs": "protáhnout se",
+      "en": "to stretch (after sleep)",
+      "uk": "потягнутися",
+      "ru": "потянуться",
+      "pl": "przeciągnąć się"
+    },
+    {
+      "id": "sleepiness",
+      "cs": "ospalost",
+      "en": "sleepiness",
+      "uk": "сонливість",
+      "ru": "сонливость",
+      "pl": "senność"
+    },
+    {
+      "id": "rest",
+      "cs": "odpočinek",
+      "en": "rest",
+      "uk": "відпочинок",
+      "ru": "отдых",
+      "pl": "odpoczynek"
+    },
+    {
+      "id": "laze-about",
+      "cs": "lenošit",
+      "en": "to laze about",
+      "uk": "лінуватися",
+      "ru": "бездельничать",
+      "pl": "leniuchować"
+    },
+    {
+      "id": "lounge-around",
+      "cs": "povalovat se",
+      "en": "to lounge around",
+      "uk": "валятися",
+      "ru": "валяться",
+      "pl": "wylegiwać się"
+    },
+    {
+      "id": "catch-up-on-sleep",
+      "cs": "dospat",
+      "en": "to catch up on sleep",
+      "uk": "відіспатися",
+      "ru": "отоспаться",
+      "pl": "odespać"
+    },
+    {
+      "id": "stay-up-late",
+      "cs": "ponocovat",
+      "en": "to stay up late",
+      "uk": "засиджуватися допізна",
+      "ru": "засиживаться допоздна",
+      "pl": "siedzieć do późna"
+    },
+    {
+      "id": "early-bird",
+      "cs": "ranní ptáče",
+      "en": "early bird",
+      "uk": "ранній птах",
+      "ru": "жаворонок",
+      "pl": "ranny ptaszek"
+    },
+    {
+      "id": "night-owl",
+      "cs": "noční sova",
+      "en": "night owl",
+      "uk": "сова",
+      "ru": "сова",
+      "pl": "nocny marek"
+    },
+    {
+      "id": "sleepwalking",
+      "cs": "náměsíčnost",
+      "en": "sleepwalking",
+      "uk": "лунатизм",
+      "ru": "лунатизм",
+      "pl": "lunatyzm"
+    },
+    {
+      "id": "talk-in-your-sleep",
+      "cs": "mluvit ze spaní",
+      "en": "to talk in your sleep",
+      "uk": "говорити уві сні",
+      "ru": "разговаривать во сне",
+      "pl": "mówić przez sen"
+    },
+    {
+      "id": "light-sleep",
+      "cs": "lehký spánek",
+      "en": "light sleep",
+      "uk": "чуткий сон",
+      "ru": "чуткий сон",
+      "pl": "płytki sen"
+    },
+    {
+      "id": "sleep-soundly",
+      "cs": "tvrdě spát",
+      "en": "to sleep soundly",
+      "uk": "міцно спати",
+      "ru": "крепко спать",
+      "pl": "spać jak zabity"
+    },
+    {
+      "id": "earplugs",
+      "cs": "špunty do uší",
+      "en": "earplugs",
+      "uk": "беруші",
+      "ru": "беруши",
+      "pl": "zatyczki do uszu"
+    },
+    {
+      "id": "sweet-dreams",
+      "cs": "sladké sny",
+      "en": "sweet dreams",
+      "uk": "солодких снів",
+      "ru": "сладких снов",
+      "pl": "słodkich snów"
+    },
+    {
+      "id": "getting-up",
+      "cs": "vstávání",
+      "en": "getting up",
+      "uk": "підйом",
+      "ru": "подъём",
+      "pl": "wstawanie"
+    },
+    {
+      "id": "morning-routine",
+      "cs": "ranní rutina",
+      "en": "morning routine",
+      "uk": "ранкова рутина",
+      "ru": "утренняя рутина",
+      "pl": "poranna rutyna"
+    },
+    {
+      "id": "bedtime",
+      "cs": "večerka",
+      "en": "bedtime",
+      "uk": "час відбою",
+      "ru": "отбой",
+      "pl": "pora spania"
+    },
+    {
+      "id": "bedtime-story",
+      "cs": "pohádka na dobrou noc",
+      "en": "bedtime story",
+      "uk": "казка на ніч",
+      "ru": "сказка на ночь",
+      "pl": "bajka na dobranoc"
+    },
+    {
+      "id": "nap",
+      "cs": "zdřímnutí",
+      "en": "nap",
+      "uk": "короткий сон",
+      "ru": "дремота",
+      "pl": "drzemka"
+    }
+  ]
+}

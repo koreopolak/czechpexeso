@@ -600,6 +600,302 @@
       "uk": "інший",
       "ru": "другой",
       "pl": "inny"
+    },
+    {
+      "id": "blind",
+      "cs": "slepý",
+      "en": "blind",
+      "uk": "сліпий",
+      "ru": "слепой",
+      "pl": "ślepy"
+    },
+    {
+      "id": "deaf",
+      "cs": "hluchý",
+      "en": "deaf",
+      "uk": "глухий",
+      "ru": "глухой",
+      "pl": "głuchy"
+    },
+    {
+      "id": "mute",
+      "cs": "němý",
+      "en": "mute",
+      "uk": "німий",
+      "ru": "немой",
+      "pl": "niemy"
+    },
+    {
+      "id": "naked",
+      "cs": "nahý",
+      "en": "naked",
+      "uk": "голий",
+      "ru": "голый",
+      "pl": "nagi"
+    },
+    {
+      "id": "barefoot",
+      "cs": "bosý",
+      "en": "barefoot",
+      "uk": "босий",
+      "ru": "босой",
+      "pl": "bosy"
+    },
+    {
+      "id": "late",
+      "cs": "pozdní",
+      "en": "late",
+      "uk": "пізній",
+      "ru": "поздний",
+      "pl": "późny"
+    },
+    {
+      "id": "early",
+      "cs": "brzký",
+      "en": "early",
+      "uk": "ранній",
+      "ru": "ранний",
+      "pl": "wczesny"
+    },
+    {
+      "id": "today-s",
+      "cs": "dnešní",
+      "en": "today’s",
+      "uk": "сьогоднішній",
+      "ru": "сегодняшний",
+      "pl": "dzisiejszy"
+    },
+    {
+      "id": "yesterday-s",
+      "cs": "včerejší",
+      "en": "yesterday’s",
+      "uk": "вчорашній",
+      "ru": "вчерашний",
+      "pl": "wczorajszy"
+    },
+    {
+      "id": "tomorrow-s",
+      "cs": "zítřejší",
+      "en": "tomorrow’s",
+      "uk": "завтрашній",
+      "ru": "завтрашний",
+      "pl": "jutrzejszy"
+    },
+    {
+      "id": "summer-adj",
+      "cs": "letní",
+      "en": "summer (adj.)",
+      "uk": "літній",
+      "ru": "летний",
+      "pl": "letni"
+    },
+    {
+      "id": "winter-adj",
+      "cs": "zimní",
+      "en": "winter (adj.)",
+      "uk": "зимовий",
+      "ru": "зимний",
+      "pl": "zimowy"
+    },
+    {
+      "id": "spring-adj",
+      "cs": "jarní",
+      "en": "spring (adj.)",
+      "uk": "весняний",
+      "ru": "весенний",
+      "pl": "wiosenny"
+    },
+    {
+      "id": "autumn-adj",
+      "cs": "podzimní",
+      "en": "autumn (adj.)",
+      "uk": "осінній",
+      "ru": "осенний",
+      "pl": "jesienny"
+    },
+    {
+      "id": "morning-adj",
+      "cs": "ranní",
+      "en": "morning (adj.)",
+      "uk": "ранковий",
+      "ru": "утренний",
+      "pl": "poranny"
+    },
+    {
+      "id": "evening-adj",
+      "cs": "večerní",
+      "en": "evening (adj.)",
+      "uk": "вечірній",
+      "ru": "вечерний",
+      "pl": "wieczorny"
+    },
+    {
+      "id": "night-adj",
+      "cs": "noční",
+      "en": "night (adj.)",
+      "uk": "нічний",
+      "ru": "ночной",
+      "pl": "nocny"
+    },
+    {
+      "id": "ready",
+      "cs": "hotový",
+      "en": "ready",
+      "uk": "готовий",
+      "ru": "готовый",
+      "pl": "gotowy"
+    },
+    {
+      "id": "prepared",
+      "cs": "připravený",
+      "en": "prepared",
+      "uk": "підготовлений",
+      "ru": "подготовленный",
+      "pl": "przygotowany"
+    },
+    {
+      "id": "busy",
+      "cs": "zaneprázdněný",
+      "en": "busy",
+      "uk": "зайнятий",
+      "ru": "занятой",
+      "pl": "zajęty"
+    },
+    {
+      "id": "unhappy",
+      "cs": "nešťastný",
+      "en": "unhappy",
+      "uk": "нещасний",
+      "ru": "несчастный",
+      "pl": "nieszczęśliwy"
+    },
+    {
+      "id": "next",
+      "cs": "další",
+      "en": "next",
+      "uk": "наступний",
+      "ru": "следующий",
+      "pl": "następny"
+    },
+    {
+      "id": "only-single",
+      "cs": "jediný",
+      "en": "only (single)",
+      "uk": "єдиний",
+      "ru": "единственный",
+      "pl": "jedyny"
+    },
+    {
+      "id": "damp",
+      "cs": "vlhký",
+      "en": "damp",
+      "uk": "вологий",
+      "ru": "влажный",
+      "pl": "wilgotny"
+    },
+    {
+      "id": "burnt",
+      "cs": "spálený",
+      "en": "burnt",
+      "uk": "спалений",
+      "ru": "сгоревший",
+      "pl": "spalony"
+    },
+    {
+      "id": "faithful",
+      "cs": "věrný",
+      "en": "faithful",
+      "uk": "вірний",
+      "ru": "верный",
+      "pl": "wierny"
+    },
+    {
+      "id": "decent",
+      "cs": "slušný",
+      "en": "decent",
+      "uk": "порядний",
+      "ru": "порядочный",
+      "pl": "przyzwoity"
+    },
+    {
+      "id": "complete",
+      "cs": "úplný",
+      "en": "complete",
+      "uk": "цілковитий",
+      "ru": "совершенный",
+      "pl": "kompletny"
+    },
+    {
+      "id": "certain",
+      "cs": "jistý",
+      "en": "certain",
+      "uk": "певний",
+      "ru": "уверенный",
+      "pl": "pewny"
+    },
+    {
+      "id": "skilful",
+      "cs": "šikovný",
+      "en": "skilful",
+      "uk": "вправний",
+      "ru": "ловкий",
+      "pl": "zręczny"
+    },
+    {
+      "id": "clumsy",
+      "cs": "nešikovný",
+      "en": "clumsy",
+      "uk": "незграбний",
+      "ru": "неуклюжий",
+      "pl": "niezdarny"
+    },
+    {
+      "id": "tiny",
+      "cs": "malinký",
+      "en": "tiny",
+      "uk": "крихітний",
+      "ru": "крошечный",
+      "pl": "malutki"
+    },
+    {
+      "id": "giant",
+      "cs": "obří",
+      "en": "giant",
+      "uk": "велетенський",
+      "ru": "гигантский",
+      "pl": "olbrzymi"
+    },
+    {
+      "id": "medium",
+      "cs": "střední",
+      "en": "medium",
+      "uk": "середній",
+      "ru": "средний",
+      "pl": "średni"
+    },
+    {
+      "id": "children-s",
+      "cs": "dětský",
+      "en": "children’s",
+      "uk": "дитячий",
+      "ru": "детский",
+      "pl": "dziecięcy"
+    },
+    {
+      "id": "male",
+      "cs": "mužský",
+      "en": "male",
+      "uk": "чоловічий",
+      "ru": "мужской",
+      "pl": "męski"
+    },
+    {
+      "id": "female",
+      "cs": "ženský",
+      "en": "female",
+      "uk": "жіночий",
+      "ru": "женский",
+      "pl": "żeński"
     }
   ]
 }

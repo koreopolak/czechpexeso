@@ -1,0 +1,341 @@
+{
+  "id": "politics",
+  "order": 305,
+  "level": "B2",
+  "icon": "bank",
+  "title": {
+    "cs": "Politika a volby",
+    "en": "Politics & Elections",
+    "uk": "Політика та вибори",
+    "ru": "Политика и выборы",
+    "pl": "Polityka i wybory"
+  },
+  "description": {
+    "en": "Elections, parties and how countries are run.",
+    "uk": "Вибори, партії та управління державою.",
+    "ru": "Выборы, партии и управление государством.",
+    "pl": "Wybory, partie i rządzenie państwem."
+  },
+  "words": [
+    {
+      "id": "voter",
+      "cs": "volič",
+      "en": "voter",
+      "uk": "виборець",
+      "ru": "избиратель",
+      "pl": "wyborca"
+    },
+    {
+      "id": "ballot-paper",
+      "cs": "hlasovací lístek",
+      "en": "ballot paper",
+      "uk": "виборчий бюлетень",
+      "ru": "избирательный бюллетень",
+      "pl": "karta do głosowania"
+    },
+    {
+      "id": "ballot-box",
+      "cs": "volební urna",
+      "en": "ballot box",
+      "uk": "виборча скринька",
+      "ru": "избирательная урна",
+      "pl": "urna wyborcza"
+    },
+    {
+      "id": "election-campaign",
+      "cs": "volební kampaň",
+      "en": "election campaign",
+      "uk": "виборча кампанія",
+      "ru": "избирательная кампания",
+      "pl": "kampania wyborcza"
+    },
+    {
+      "id": "manifesto",
+      "cs": "volební program",
+      "en": "manifesto",
+      "uk": "виборча програма",
+      "ru": "предвыборная программа",
+      "pl": "program wyborczy"
+    },
+    {
+      "id": "turnout",
+      "cs": "volební účast",
+      "en": "turnout",
+      "uk": "явка виборців",
+      "ru": "явка избирателей",
+      "pl": "frekwencja"
+    },
+    {
+      "id": "victory",
+      "cs": "vítězství",
+      "en": "victory",
+      "uk": "перемога",
+      "ru": "победа",
+      "pl": "zwycięstwo"
+    },
+    {
+      "id": "defeat",
+      "cs": "porážka",
+      "en": "defeat",
+      "uk": "поразка",
+      "ru": "поражение",
+      "pl": "porażka"
+    },
+    {
+      "id": "coalition",
+      "cs": "koalice",
+      "en": "coalition",
+      "uk": "коаліція",
+      "ru": "коалиция",
+      "pl": "koalicja"
+    },
+    {
+      "id": "the-left-politics",
+      "cs": "levice",
+      "en": "the left (politics)",
+      "uk": "ліві",
+      "ru": "левые",
+      "pl": "lewica"
+    },
+    {
+      "id": "the-right-politics",
+      "cs": "pravice",
+      "en": "the right (politics)",
+      "uk": "праві",
+      "ru": "правые",
+      "pl": "prawica"
+    },
+    {
+      "id": "liberal",
+      "cs": "liberální",
+      "en": "liberal",
+      "uk": "ліберальний",
+      "ru": "либеральный",
+      "pl": "liberalny"
+    },
+    {
+      "id": "conservative",
+      "cs": "konzervativní",
+      "en": "conservative",
+      "uk": "консервативний",
+      "ru": "консервативный",
+      "pl": "konserwatywny"
+    },
+    {
+      "id": "radical",
+      "cs": "radikální",
+      "en": "radical",
+      "uk": "радикальний",
+      "ru": "радикальный",
+      "pl": "radykalny"
+    },
+    {
+      "id": "populism",
+      "cs": "populismus",
+      "en": "populism",
+      "uk": "популізм",
+      "ru": "популизм",
+      "pl": "populizm"
+    },
+    {
+      "id": "extremism",
+      "cs": "extremismus",
+      "en": "extremism",
+      "uk": "екстремізм",
+      "ru": "экстремизм",
+      "pl": "ekstremizm"
+    },
+    {
+      "id": "dictatorship",
+      "cs": "diktatura",
+      "en": "dictatorship",
+      "uk": "диктатура",
+      "ru": "диктатура",
+      "pl": "dyktatura"
+    },
+    {
+      "id": "monarchy",
+      "cs": "monarchie",
+      "en": "monarchy",
+      "uk": "монархія",
+      "ru": "монархия",
+      "pl": "monarchia"
+    },
+    {
+      "id": "republic",
+      "cs": "republika",
+      "en": "republic",
+      "uk": "республіка",
+      "ru": "республика",
+      "pl": "republika"
+    },
+    {
+      "id": "sovereignty",
+      "cs": "suverenita",
+      "en": "sovereignty",
+      "uk": "суверенітет",
+      "ru": "суверенитет",
+      "pl": "suwerenność"
+    },
+    {
+      "id": "foreign-policy",
+      "cs": "zahraniční politika",
+      "en": "foreign policy",
+      "uk": "зовнішня політика",
+      "ru": "внешняя политика",
+      "pl": "polityka zagraniczna"
+    },
+    {
+      "id": "sanctions",
+      "cs": "sankce",
+      "en": "sanctions",
+      "uk": "санкції",
+      "ru": "санкции",
+      "pl": "sankcje"
+    },
+    {
+      "id": "summit",
+      "cs": "summit",
+      "en": "summit",
+      "uk": "саміт",
+      "ru": "саммит",
+      "pl": "szczyt"
+    },
+    {
+      "id": "agreement",
+      "cs": "dohoda",
+      "en": "agreement",
+      "uk": "угода",
+      "ru": "соглашение",
+      "pl": "porozumienie"
+    },
+    {
+      "id": "legislator",
+      "cs": "zákonodárce",
+      "en": "legislator",
+      "uk": "законодавець",
+      "ru": "законодатель",
+      "pl": "ustawodawca"
+    },
+    {
+      "id": "bill-draft-law",
+      "cs": "návrh zákona",
+      "en": "bill (draft law)",
+      "uk": "законопроєкт",
+      "ru": "законопроект",
+      "pl": "projekt ustawy"
+    },
+    {
+      "id": "pass-a-law",
+      "cs": "schválit",
+      "en": "to pass (a law)",
+      "uk": "ухвалити",
+      "ru": "одобрить",
+      "pl": "uchwalić"
+    },
+    {
+      "id": "reject",
+      "cs": "zamítnout",
+      "en": "to reject",
+      "uk": "відхилити",
+      "ru": "отклонить",
+      "pl": "odrzucić"
+    },
+    {
+      "id": "veto",
+      "cs": "veto",
+      "en": "veto",
+      "uk": "вето",
+      "ru": "вето",
+      "pl": "weto"
+    },
+    {
+      "id": "resign",
+      "cs": "odstoupit",
+      "en": "to resign",
+      "uk": "піти у відставку",
+      "ru": "уйти в отставку",
+      "pl": "ustąpić"
+    },
+    {
+      "id": "resignation",
+      "cs": "rezignace",
+      "en": "resignation",
+      "uk": "відставка",
+      "ru": "отставка",
+      "pl": "rezygnacja"
+    },
+    {
+      "id": "appoint",
+      "cs": "jmenovat",
+      "en": "to appoint",
+      "uk": "призначити",
+      "ru": "назначить",
+      "pl": "mianować"
+    },
+    {
+      "id": "term-of-office",
+      "cs": "funkční období",
+      "en": "term of office",
+      "uk": "термін повноважень",
+      "ru": "срок полномочий",
+      "pl": "kadencja"
+    },
+    {
+      "id": "mandate",
+      "cs": "mandát",
+      "en": "mandate",
+      "uk": "мандат",
+      "ru": "мандат",
+      "pl": "mandat"
+    },
+    {
+      "id": "ministry",
+      "cs": "ministerstvo",
+      "en": "ministry",
+      "uk": "міністерство",
+      "ru": "министерство",
+      "pl": "ministerstwo"
+    },
+    {
+      "id": "regional-governor",
+      "cs": "hejtman",
+      "en": "regional governor",
+      "uk": "голова області",
+      "ru": "губернатор области",
+      "pl": "marszałek województwa"
+    },
+    {
+      "id": "council",
+      "cs": "zastupitelstvo",
+      "en": "council",
+      "uk": "рада депутатів",
+      "ru": "совет депутатов",
+      "pl": "rada"
+    },
+    {
+      "id": "bureaucracy",
+      "cs": "byrokracie",
+      "en": "bureaucracy",
+      "uk": "бюрократія",
+      "ru": "бюрократия",
+      "pl": "biurokracja"
+    },
+    {
+      "id": "public-administration",
+      "cs": "veřejná správa",
+      "en": "public administration",
+      "uk": "державне управління",
+      "ru": "государственное управление",
+      "pl": "administracja publiczna"
+    },
+    {
+      "id": "lobbying",
+      "cs": "lobbing",
+      "en": "lobbying",
+      "uk": "лобіювання",
+      "ru": "лоббирование",
+      "pl": "lobbing"
+    }
+  ]
+}
